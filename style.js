@@ -270,7 +270,6 @@ function copyText(id) {
   const el = document.getElementById(id);
   el.select();
   document.execCommand('copy');
-  alert('已复制到剪贴板');
 }
 
 async function pasteText(id) {

@@ -109,7 +109,7 @@ mcpLetter=x
 vc=abcdefghijklmnopqrstuvwxyz
 
 [仓颉五代]
-name=仓颉五代(输出汉字)
+name=仓颉五代(汉字编码)
 file=cangjie5.txt
 f=code_left_char_right
 d= 
@@ -123,7 +123,7 @@ keyMap=a=日,b=月,c=金,d=木,e=水,f=火,g=土,h=竹,i=戈,j=十,k=大,l=中,m
 vc=abcdefghijklmnopqrstuvwxyz
 
 [仓颉三代]
-name=仓颉三代(输出汉字)
+name=仓颉三代(汉字编码)
 file=cangjie3.txt
 f=char_left_code_right
 d= 
@@ -137,7 +137,7 @@ keyMap=a=日,b=月,c=金,d=木,e=水,f=火,g=土,h=竹,i=戈,j=十,k=大,l=中,m
 vc=abcdefghijklmnopqrstuvwxyz
 
 [仓颉六代]
-name=仓颉六代(输出汉字)
+name=仓颉六代(汉字编码)
 file=cangjie6.txt
 f=char_left_code_right
 d= 

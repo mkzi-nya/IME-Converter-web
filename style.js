@@ -297,7 +297,7 @@ function convertCharsToCodes() {
     return;
   }
   
-  // 对于单个非空白汉字，显示所有候选编码（带序号）
+  // 如果输入为单个非空白汉字，则显示所有候选编码（带序号）
   if (text.length === 1 && !/\s/.test(text)) {
     const codes = charMap.get(text);
     if (!codes) {
@@ -305,7 +305,7 @@ function convertCharsToCodes() {
     } else {
       let multiCodes = codes.map((code, index) =>
         `${index+1}:${applyKeyConversion(code, p)}`
-      ).join(" ");//多个编码间隔
+      ).join(" "); // 多个编码间以空格分隔
       inputCodesEl.value = multiCodes;
     }
     return;
@@ -448,13 +448,49 @@ function convertCodesToChars() {
     inputCharsEl.value = '';
     return;
   }
-  // 先用配置中设定的分隔符将内容分割（分隔符仅用于分割，不输出）
+  // 如果输入的编码只有一个（无空白），显示所有候选字
+  let trimmed = rawCodes.trim();
+  if (trimmed && !/\s/.test(trimmed)) {
+    // 检查是否带候选数字（例如 "su2"）
+    let candidateMatch = trimmed.match(/^(.*?)([0-9]|_)$/);
+    if (candidateMatch) {
+      let baseCode = candidateMatch[1];
+      let candidateIndicator = candidateMatch[2];
+      let candidateIndex = candidateIndicator === '_' ? 10 : parseInt(candidateIndicator, 10);
+      if (codeCandidatesMap.has(baseCode)) {
+        let candidates = codeCandidatesMap.get(baseCode);
+        if (candidateIndex > 0 && candidateIndex <= candidates.length) {
+          inputCharsEl.value = candidates[candidateIndex - 1];
+        } else {
+          let candidateStr = candidates.map((ch, idx) =>
+            `${idx+1}.${ch}`
+          ).join(" ; ");
+          inputCharsEl.value = candidateStr;
+        }
+        return;
+      }
+    }
+    // 如果没有候选数字，则显示所有候选
+    if (codeCandidatesMap.has(trimmed)) {
+      let candidates = codeCandidatesMap.get(trimmed);
+      if (candidates.length === 1) {
+        inputCharsEl.value = candidates[0];
+      } else {
+        let candidateStr = candidates.map((ch, idx) =>
+          `${idx+1}:${ch}`
+        ).join(" ");
+        inputCharsEl.value = candidateStr;
+      }
+      return;
+    }
+  }
+  // 否则，对输入的编码文本按配置的分隔符拆分，分段分别解码，分隔符本身不输出
   const separator = p.od || ' ';
   let segments = rawCodes.split(separator);
   let outputStr = "";
-  // 对每个段：如果启用键映射，则先将段内所有字符转换为对应字母（利用 reverseKeyMapObj）
   segments.forEach(seg => {
     let segStr = "";
+    // 如果启用键映射，则将段内所有字符转换为原始字母（利用 reverseKeyMapObj）
     for (let ch of seg) {
       segStr += (kce ? (reverseKeyMapObj[ch] || ch) : ch);
     }
@@ -502,7 +538,7 @@ function decodeSegment(segment) {
             return result + decodeSegment(remainder.substring(1));
           }
         }
-        // 若候选数字不匹配，则将该数字作为普通字符输出
+        // 如果候选数字不匹配，则将该数字作为普通字符输出
         result = codeMap.get(prefix) + digitChar + decodeSegment(remainder.substring(1));
         return result;
       } else {
@@ -511,6 +547,6 @@ function decodeSegment(segment) {
       }
     }
   }
-  // 没有任何前缀匹配，则输出首字符并递归处理余下部分
+  // 若无任何前缀匹配，则返回首字符，并递归处理剩余部分
   return segment[0] + decodeSegment(segment.substring(1));
 }

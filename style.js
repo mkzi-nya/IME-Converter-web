@@ -70,9 +70,9 @@ function initEventHandlers() {
 // 读取并解析 schema.txt
 //////////////////////////////////////////
 async function loadSchemaConfigs() {
-  const response = await fetch('/dict/schema.txt');
+  const response = await fetch('./dict/schema.txt');
   if (!response.ok) {
-    throw new Error('无法读取 /dict/schema.txt');
+    throw new Error('无法读取 ./dict/schema.txt');
   }
   const text = await response.text();
   parseSchemaText(text);
@@ -176,9 +176,9 @@ async function setCurrentSchema(schema) {
     parseKeyMap(schema.properties.keyMap);
   }
   try {
-    const response = await fetch(`/dict/${file}`);
+    const response = await fetch(`./dict/${file}`);
     if (!response.ok) {
-      throw new Error(`无法读取 /dict/${file}`);
+      throw new Error(`无法读取 ./dict/${file}`);
     }
     const text = await response.text();
     parseCodeTable(text);

@@ -69,8 +69,8 @@ mcp=1
 vc=abcdefghijklmnopqrstuvwxyz
 dsc=false
 
-[五笔画]
-name=五笔画
+[五筆畫]
+name=五筆畫
 file=stroke.txt
 f=char_left_code_right
 d=\t

@@ -457,7 +457,7 @@ function convertCodesToChars() {
         } else {
           let candidateStr = candidates.map((ch, idx) =>
             `${idx+1}:${ch}`
-          ).join(" ; ");
+          ).join(" ");
           inputCharsEl.value = candidateStr;
         }
         return;
@@ -470,7 +470,7 @@ function convertCodesToChars() {
       } else {
         let candidateStr = candidates.map((ch, idx) =>
           `${idx+1}:${ch}`
-        ).join(" ; ");
+        ).join(" ");
         inputCharsEl.value = candidateStr;
       }
       return;

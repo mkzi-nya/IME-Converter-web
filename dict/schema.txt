@@ -20,7 +20,7 @@
 #   mcpLetter : 当 mcp=2 时，用于计数的字母，默认值为 x。
 #   pp        : 是否启用词语解析（true/false），启用后尽量匹配码表中存在的最大词。
 #   vc        : 合法编码字符集合（字符串）。如果设置了 keyMap 且 kce=true，则只允许 keyMap 中的字母作为编码。
-#
+#   dsc   :是否通过数字选择候选词，默认开启，关闭直接选择首选
 # 另外：
 #   当转换过程中找不到对应编码，则直接输出原输入内容；
 #   输入文本中的空白（空格、换行）原样输出；
@@ -41,22 +41,8 @@ kce=false
 dr=prefer_first
 ml=4
 mcp=1
-phrase=true
 pp=true
 vc=abcdefghijklmnopqrstuvwxyz;
-
-[仓颉五代]
-name=仓颉五代
-file=cangjie5.txt
-f=code_left_char_right
-d= 
-od= 
-kce=false
-dr=prefer_first
-ml=5
-mcp=2
-mcpLetter=x
-vc=abcdefghijklmnopqrstuvwxyz
 
 [虎码]
 name=虎码
@@ -80,6 +66,46 @@ kce=false
 dr=prefer_first
 ml=
 mcp=1
+vc=abcdefghijklmnopqrstuvwxyz
+dsc=false
+
+[五笔画]
+name=五笔画
+file=stroke.txt
+f=char_left_code_right
+d=\t
+od= 
+kce=false
+dr=prefer_first
+ml=
+mcp=1
+pp=true
+vc=hspnz;
+
+[拼音]
+name=拼音
+file=pinyin.txt
+f=char_left_code_right
+d=\t
+od= 
+kce=false
+dr=prefer_first
+ml=
+mcp=1
+pp=true
+vc=abcdefghijklmnopqrstuvwxyz;
+
+[仓颉五代]
+name=仓颉五代
+file=cangjie5.txt
+f=code_left_char_right
+d= 
+od= 
+kce=false
+dr=prefer_first
+ml=5
+mcp=2
+mcpLetter=x
 vc=abcdefghijklmnopqrstuvwxyz
 
 [仓颉三代]

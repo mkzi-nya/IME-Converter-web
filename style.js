@@ -95,6 +95,7 @@ function parseSchemaText(schemaText) {
     mcp=2
     mcpLetter=x
     pp=false
+    dsc=true
 
     [仓颉(字母映射)]
     name=仓颉(字母映射)
@@ -108,6 +109,7 @@ function parseSchemaText(schemaText) {
     mcp=2
     mcpLetter=x
     pp=false
+    dsc=true
     keyMap=a=日,b=月,c=金,d=木,e=水,f=火,g=土,h=竹,i=戈,j=十,k=大,l=中,m=一,n=弓,o=人,p=心,q=手,r=口,s=尸,t=廿,u=山,v=女,w=田,x=難,y=卜,z=片
   */
   schemaConfigs = [];
@@ -204,7 +206,7 @@ function parseKeyMap(keyMapStr) {
 }
 
 //////////////////////////////////////////
-// 解析码表文件
+// 解析码表文件（只取每行第一个分隔符左右两边的内容）
 //////////////////////////////////////////
 function parseCodeTable(text) {
   const p = currentSchema.properties;
@@ -214,39 +216,38 @@ function parseCodeTable(text) {
   if (delimiter === '\\t') {
     delimiter = '\t';
   }
-  // 清空候选映射
   codeCandidatesMap = new Map();
   const lines = text.split(/\r?\n/);
   lines.forEach((rawLine, idx) => {
     const line = rawLine.trim();
     if (!line) return;
-    const parts = line.split(delimiter);
-    if (parts.length < 2) {
+    let dIndex = line.indexOf(delimiter);
+    if (dIndex === -1) {
       throw new Error(`码表文件第 ${idx + 1} 行格式错误：${rawLine}`);
     }
+    let field1 = line.substring(0, dIndex).trim();
+    let field2 = line.substring(dIndex + delimiter.length).trim();
+    field2 = field2.split(delimiter)[0].trim();
     let codePart, charPart;
     if (format === 'code_left_char_right') {
-      codePart = parts[0];
-      charPart = parts[1];
+      codePart = field1;
+      charPart = field2;
     } else if (format === 'char_left_code_right') {
-      charPart = parts[0];
-      codePart = parts[1];
+      charPart = field1;
+      codePart = field2;
     } else {
       throw new Error(`不支持的 f: ${format}`);
     }
-    // 建立编码→汉字映射（用于解码），根据 dr 策略处理重复
     if (!codeMap.has(codePart)) {
       codeMap.set(codePart, charPart);
     } else if (dr === 'prefer_last') {
       codeMap.set(codePart, charPart);
     }
-    // 建立汉字→编码映射，保存所有候选
     if (charMap.has(charPart)) {
       charMap.get(charPart).push(codePart);
     } else {
       charMap.set(charPart, [codePart]);
     }
-    // 建立反向映射：code → 数组[汉字]
     if (codeCandidatesMap.has(codePart)) {
       codeCandidatesMap.get(codePart).push(charPart);
     } else {
@@ -305,7 +306,7 @@ function convertCharsToCodes() {
     } else {
       let multiCodes = codes.map((code, index) =>
         `${index+1}:${applyKeyConversion(code, p)}`
-      ).join(" "); // 多个编码间以空格分隔
+      ).join(" ");
       inputCodesEl.value = multiCodes;
     }
     return;
@@ -336,7 +337,7 @@ function convertCharsToCodes() {
           if (candidateIndex < 1) candidateIndex = 1;
           let codeOut = applyKeyConversion(selectedCode, p);
           if (candidateIndex > 1) {
-            codeOut += (candidateIndex <= 9 ? candidateIndex : "_");
+            codeOut += (candidateIndex <= 9 ? candidateIndex : "");
           }
           outputStr += codeOut;
           let needDelimiter = true;
@@ -359,7 +360,7 @@ function convertCharsToCodes() {
             if (candidateIndex < 1) candidateIndex = 1;
             let codeOut = applyKeyConversion(selectedCode, p);
             if (candidateIndex > 1) {
-              codeOut += (candidateIndex <= 9 ? candidateIndex : "_");
+              codeOut += (candidateIndex <= 9 ? candidateIndex : "");
             }
             outputStr += codeOut;
             let needDelimiter = true;
@@ -390,7 +391,7 @@ function convertCharsToCodes() {
           if (candidateIndex < 1) candidateIndex = 1;
           let codeOut = applyKeyConversion(selectedCode, p);
           if (candidateIndex > 1) {
-            codeOut += (candidateIndex <= 9 ? candidateIndex : "_");
+            codeOut += (candidateIndex <= 9 ? candidateIndex : "");
           }
           outputStr += codeOut;
           let needDelimiter = true;
@@ -407,17 +408,8 @@ function convertCharsToCodes() {
 }
 
 function selectCandidate(codes, p) {
-  let mcp = p.mcp || '1';
-  if (mcp === '1') {
-    return codes[0];
-  } else if (mcp === '2') {
-    let mcpLetter = p.mcpLetter || 'x';
-    return codes.reduce((prev, curr) =>
-      countChar(curr, mcpLetter) > countChar(prev, mcpLetter) ? curr : prev
-    );
-  } else {
-    return codes[0];
-  }
+  // 当候选数不超过9时，直接返回候选列表中第一个出现的编码（即词库中第一次出现的记录）
+  return codes[0];
 }
 
 function applyKeyConversion(code, p) {
@@ -448,29 +440,29 @@ function convertCodesToChars() {
     inputCharsEl.value = '';
     return;
   }
-  // 如果输入的编码只有一个（无空白），显示所有候选字
+  // 如果输入的编码只有一个（无空白），则显示所有候选汉字
   let trimmed = rawCodes.trim();
   if (trimmed && !/\s/.test(trimmed)) {
-    // 检查是否带候选数字（例如 "su2"）
-    let candidateMatch = trimmed.match(/^(.*?)([0-9]|_)$/);
+    let candidateMatch = trimmed.match(/^(.*?)([0-9])$/);
     if (candidateMatch) {
       let baseCode = candidateMatch[1];
-      let candidateIndicator = candidateMatch[2];
-      let candidateIndex = candidateIndicator === '_' ? 10 : parseInt(candidateIndicator, 10);
+      let candidateIndex = parseInt(candidateMatch[2], 10);
+      if (p.dsc !== undefined && p.dsc.toLowerCase() === "false") {
+        // 当 dsc 为 false时，也保留用户输入的候选数字
+      }
       if (codeCandidatesMap.has(baseCode)) {
         let candidates = codeCandidatesMap.get(baseCode);
-        if (candidateIndex > 0 && candidateIndex <= candidates.length) {
+        if (candidateIndex >= 1 && candidateIndex <= candidates.length) {
           inputCharsEl.value = candidates[candidateIndex - 1];
         } else {
           let candidateStr = candidates.map((ch, idx) =>
-            `${idx+1}.${ch}`
+            `${idx+1}:${ch}`
           ).join(" ; ");
           inputCharsEl.value = candidateStr;
         }
         return;
       }
     }
-    // 如果没有候选数字，则显示所有候选
     if (codeCandidatesMap.has(trimmed)) {
       let candidates = codeCandidatesMap.get(trimmed);
       if (candidates.length === 1) {
@@ -478,19 +470,18 @@ function convertCodesToChars() {
       } else {
         let candidateStr = candidates.map((ch, idx) =>
           `${idx+1}:${ch}`
-        ).join(" ");
+        ).join(" ; ");
         inputCharsEl.value = candidateStr;
       }
       return;
     }
   }
-  // 否则，对输入的编码文本按配置的分隔符拆分，分段分别解码，分隔符本身不输出
+  // 否则，将编码内容按配置分隔符拆分（分隔符仅用于分割，不输出），对每段分别解码
   const separator = p.od || ' ';
   let segments = rawCodes.split(separator);
   let outputStr = "";
   segments.forEach(seg => {
     let segStr = "";
-    // 如果启用键映射，则将段内所有字符转换为原始字母（利用 reverseKeyMapObj）
     for (let ch of seg) {
       segStr += (kce ? (reverseKeyMapObj[ch] || ch) : ch);
     }
@@ -505,11 +496,11 @@ function convertCodesToChars() {
  * 1. 如果 segment 为空，则返回 ""。
  * 2. 设定尝试匹配的最大长度为：若配置了 ml，则为 Math.min(segment.length, ml)；否则为 segment.length。
  * 3. 从最大长度开始递减，取前缀 prefix。如果 prefix 存在于 codeMap 中，则：
- *      a. 检查 prefix 后面是否有至少一个字符，并且首字符为数字或下划线（候选指示符）。
- *         如果有，则将该数字解释为候选选择键（下划线代表 10），
- *         并在 codeCandidatesMap[prefix] 中取对应候选汉字；然后跳过这个候选指示符继续递归处理余下部分。
+ *      a. 检查 prefix 后面是否有至少一个字符，并且首字符为数字（候选指示符）。
+ *         如果有，则解析该数字作为候选选择键（仅当候选数字在2～9之间且候选数不超过9时有效，否则默认 candidateIndex = 1）。
+ *         然后从 codeCandidatesMap[prefix] 中取对应候选汉字，并跳过该数字继续递归处理余下部分。
  *      b. 如果没有候选指示符，则返回 codeMap(prefix) 加上对余下部分递归解码的结果。
- * 4. 如果从最大长度到 1 均没有匹配到，则直接返回 segment[0] 并递归处理剩余部分。
+ * 4. 如果从最大长度到 1 均没有匹配到，则返回 segment[0] 并递归处理剩余部分。
  * 5. 保证递归后至少输出一个编码对应的字符。
  */
 function decodeSegment(segment) {
@@ -520,33 +511,28 @@ function decodeSegment(segment) {
     let ml = parseInt(p.ml, 10);
     if (ml < maxLen) maxLen = ml;
   }
-  // 尝试从 maxLen 到 1 逐步匹配
   for (let i = maxLen; i >= 1; i--) {
     let prefix = segment.substring(0, i);
     if (codeMap.has(prefix)) {
       let result = "";
       let remainder = segment.substring(i);
-      // 检查 remainder 的首字符是否为候选数字或下划线
-      if (remainder.length > 0 && /^[0-9_]/.test(remainder[0])) {
+      if (remainder.length > 0 && /^[0-9]/.test(remainder[0])) {
         let digitChar = remainder[0];
-        let candidateIndex = (digitChar === '_' ? 10 : parseInt(digitChar, 10));
-        if (codeCandidatesMap.has(prefix)) {
-          let candidates = codeCandidatesMap.get(prefix);
-          if (candidateIndex >= 1 && candidateIndex <= candidates.length) {
-            result = candidates[candidateIndex - 1];
-            // 递归处理余下部分，跳过候选指示符
-            return result + decodeSegment(remainder.substring(1));
-          }
+        let candidateIndex = parseInt(digitChar, 10);
+        let candidates = codeCandidatesMap.get(prefix);
+        if (!candidates || candidateIndex < 2 || candidateIndex > 9 || candidates.length > 9) {
+          candidateIndex = 1;
         }
-        // 如果候选数字不匹配，则将该数字作为普通字符输出
-        result = codeMap.get(prefix) + digitChar + decodeSegment(remainder.substring(1));
-        return result;
+        if (candidates && candidateIndex >= 1 && candidateIndex <= candidates.length) {
+          result = candidates[candidateIndex - 1];
+        } else {
+          result = codeMap.get(prefix);
+        }
+        return result + decodeSegment(remainder.substring(1));
       } else {
-        result = codeMap.get(prefix) + decodeSegment(remainder);
-        return result;
+        return codeMap.get(prefix) + decodeSegment(remainder);
       }
     }
   }
-  // 若无任何前缀匹配，则返回首字符，并递归处理剩余部分
   return segment[0] + decodeSegment(segment.substring(1));
 }

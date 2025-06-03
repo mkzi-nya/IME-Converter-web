@@ -9571,9 +9571,9 @@ AA制	aavi
 贯	grwo
 固	guw
 鼓	gug
-贡	gsm
+贡	gsmo
 骨	gub
-归	gvi
+归	gvl
 岗	ghu
 挂	gx
 攻	gsmk
@@ -9747,7 +9747,6 @@ AA制	aavi
 诂	gui
 桧	gvdi
 藁	gct
-珙	gsm
 鳏	grn
 盥	grh
 皈	gvh
@@ -16914,7 +16913,7 @@ IP地址	ipdv
 界	jpw
 集	jio
 军	jyb
-件	jmo
+件	jm
 居	jusr
 局	jus
 级	jiv
@@ -17246,7 +17245,6 @@ IP地址	ipdv
 觐	jbtu
 啾	jqr
 踽	jurb
-腱	jmb
 畿	jivw
 婕	jpvo
 琚	jum
@@ -35722,9 +35720,9 @@ IP地址	ipdv
 投资银行	tzyh
 是	u
 时	uia
-十	uij
 室	uijg
 事	ui
+十	ui
 上	uh
 市	uiy
 生	ug
@@ -38870,7 +38868,6 @@ IP地址	ipdv
 骓	vvng
 繇	vzbf
 棹	vcd
-鸷	viqm
 碡	vzm
 砟	vam
 谵	vji
@@ -39950,6 +39947,7 @@ IP地址	ipdv
 知情	viqk
 咫尺千里	viql
 之前	viqm
+鸷	viqm
 只求	viqq
 职权	viqr
 支取	viqu
@@ -41178,7 +41176,6 @@ IP地址	ipdv
 为	ww
 未	wwj
 外	wd
-玩	wjm
 万	wjm
 务	wuh
 文	wfy
@@ -41238,7 +41235,7 @@ IP地址	ipdv
 晤	wua
 碗	wjm
 娃	wav
-顽	wjm
+顽	wjmo
 韦	wwqs
 悟	wup
 沃	woe
@@ -43060,7 +43057,7 @@ IP地址	ipdv
 淆	xneb
 茜	xitw
 腥	xkbm
-酰	xmmu
+酰	xmm
 婿	xuv
 蝎	xpl
 玺	xini
@@ -43311,7 +43308,6 @@ IP地址	ipdv
 行	xkhn
 新	xbyl
 学	xtfd
-现	xmmu
 下	xxmy
 小	xnnc
 向	xlhr
@@ -53472,7 +53468,7 @@ GDP	gdp
 臭	iz
 见	j
 极	ji
-贱	jm
+贱	jmb
 佳	jx
 块	k
 抠	kz
@@ -53501,7 +53497,6 @@ GDP	gdp
 通	ts
 退	tv
 时	u
-室	ui
 省	ug
 守	uz
 之	v

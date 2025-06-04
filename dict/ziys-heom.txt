@@ -2346,7 +2346,6 @@ AA制	aavi
 不逊	buxy
 博士学位	buxw
 不雅	buya
-不说也罢	buyb
 不要	buyc
 不是一个	buyg
 不应	buyk
@@ -13972,6 +13971,7 @@ IP地址	ipdv
 敬意	jkyi
 经验	jkyj
 经营	jkyk
+精英	jkyk
 金科玉律	jkyl
 警员	jkyr
 鲸鱼	jkyu
@@ -14196,7 +14196,7 @@ IP地址	ipdv
 践踏	jmta
 简体	jmti
 健谈	jmtj
-坚挺	jmtk
+监听	jmtk
 剪贴	jmtp
 减退	jmtv
 减少	jmuc
@@ -14295,6 +14295,7 @@ IP地址	ipdv
 教皇	jnhl
 交货	jnho
 交换	jnhr
+叫唤	jnhr
 交互	jnhu
 教会	jnhv
 焦黑	jnhw
@@ -14937,6 +14938,7 @@ IP地址	ipdv
 举办	jubj
 举兵	jubk
 巨变	jubm
+见势不妙	jubm
 局部	jubu
 具备	jubw
 兼收并蓄	jubx
@@ -27662,6 +27664,7 @@ IP地址	ipdv
 生还	ughr
 省会	ughv
 升华	ughx
+生化	ughx
 生蚝	ughc
 睡个好觉	ughj
 山高皇帝远	ughy
@@ -29848,6 +29851,7 @@ IP地址	ipdv
 蒸发	vgfa
 正反	vgfj
 政府	vgfu
+征服	vgfu
 整个	vgge
 征稿	vggc
 整改	vggd
@@ -36031,7 +36035,6 @@ IP地址	ipdv
 阎罗	yjlo
 腰肌劳损	yjls
 沿路	yjlu
-以假乱真	yjlv
 眼泪	yjlw
 言论	yjly
 一家老小	yjlx
@@ -37020,7 +37023,6 @@ IP地址	ipdv
 淤泥	yuni
 遇难	yunj
 欲念	yunm
-饮食男女	yunn
 余孽	yunp
 愚弄	yuns
 玉女	yunv
@@ -37101,6 +37103,7 @@ IP地址	ipdv
 以身殉职	yuxv
 余下	yuxx
 语音	yuyb
+摇身一变	yuyb
 疑神疑鬼	yuyg
 予以	yuyi
 语言	yuyj
@@ -37592,7 +37595,6 @@ IP地址	ipdv
 油价	yzjx
 游客	yzke
 有空	yzks
-油库	yzku
 有愧	yzkv
 有劳	yzlc
 由来	yzld
@@ -39163,12 +39165,12 @@ IP地址	ipdv
 办	bj
 并	bk
 比	bi
-步	buy
+弊	bif
+步	bu
 把	ba
 标	bnd
 被	bw
 别	bp
-变	bmy
 百	bdm
 逼	biyw
 必	bip
@@ -39178,6 +39180,7 @@ IP地址	ipdv
 便	bmo
 版	bjl
 边	bm
+变	bm
 病	bkk
 白	bd
 巴	baa
@@ -39189,7 +39192,6 @@ IP地址	ipdv
 兵	bko
 补	bul
 帮	bh
-币	bih
 笔	bih
 博	boj
 般	bjh
@@ -39257,7 +39259,6 @@ IP地址	ipdv
 彼	bih
 罢	baw
 碧	bim
-剥	bcn
 剥	bon
 渤	boes
 饼	bkn
@@ -39267,6 +39268,7 @@ IP地址	ipdv
 鼻	bihl
 鼻	biht
 鲍	bcn
+剥	bcn
 鞭	bmt
 棒	bhd
 臂	bisb
@@ -39276,8 +39278,8 @@ IP地址	ipdv
 秉	bkh
 卜	boy
 卜	buy
-甭	bgm
 泵	bgm
+甭	bgm
 贬	bmb
 彪	bny
 膀	bhb
@@ -39437,10 +39439,10 @@ IP地址	ipdv
 濞	biel
 濞	biet
 镔	bbo
-逋	buy
 捌	baqn
 秕	bih
-愎	bip
+秕	bihp
+愎	bipe
 畚	bfi
 妣	bivp
 飑	bnhu
@@ -39478,7 +39480,6 @@ IP地址	ipdv
 踣	borr
 镚	bgo
 祊	bgi
-祊	bgm
 鲌	bon
 朳	badc
 犇	bfh
@@ -39652,7 +39653,6 @@ IP地址	ipdv
 瘭	bnkf
 镚	bgob
 祊	bgis
-祊	bgms
 妭	bave
 妭	bavk
 胈	babe
@@ -39710,7 +39710,6 @@ IP地址	ipdv
 芭蕾舞	blw
 伯利兹	blz
 不明白	bmb
-并没有	bmy
 白内障	bnv
 不排除	bpi
 不怕死	bps
@@ -40030,6 +40029,7 @@ IP地址	ipdv
 对	dv
 多	do
 定	dk
+顶	dk
 动	ds
 等	dg
 得	de
@@ -40091,7 +40091,6 @@ IP地址	ipdv
 掉	dnq
 胆	djb
 灯	dgf
-顶	dkm
 旦	djam
 弹	djn
 洞	dse
@@ -40289,7 +40288,6 @@ IP地址	ipdv
 痘	dzk
 砘	dymu
 钿	dmo
-碇	dkm
 嗲	dxr
 胴	dsb
 磴	dgm
@@ -40554,6 +40552,7 @@ IP地址	ipdv
 痘	dzkt
 钿	dmow
 碇	dkmo
+顶	dkmo
 嗲	dxrn
 胴	dsbr
 磴	dgmt
@@ -40765,7 +40764,7 @@ IP地址	ipdv
 分	ff
 放	fh
 复	fuoe
-府	fui
+福	fui
 费	fw
 服	fub
 风	fg
@@ -40783,7 +40782,6 @@ IP地址	ipdv
 飞	fwn
 非	fwl
 福	fui
-福	fum
 夫	fuq
 犯	fjk
 疯	fgk
@@ -40899,7 +40897,7 @@ IP地址	ipdv
 畈	fjw
 绂	fuve
 绯	fwv
-讣	fui
+讣	fuiy
 呋	furo
 罘	fuwf
 匐	fupw
@@ -41158,7 +41156,7 @@ IP地址	ipdv
 宫	gsjr
 谷	guc
 概	gdd
-稿	gch
+稿	gchb
 沟	gze
 惯	grp
 桂	gvd
@@ -41254,10 +41252,10 @@ IP地址	ipdv
 犷	glk
 亘	gfm
 乖	gkh
-皋	gch
+睾	gch
 铬	geo
 锢	guor
-矸	gjmj
+矸	gjm
 钴	guo
 埂	ggg
 诡	gvi
@@ -41296,7 +41294,6 @@ IP地址	ipdv
 轱	gukr
 罡	ghwm
 佝	gzo
-睾	gch
 媾	gzv
 擀	gjq
 酐	gjmj
@@ -41326,7 +41323,7 @@ IP地址	ipdv
 虢	gob
 咣	glr
 晷	gva
-篙	gch
+篙	gchb
 肱	gsb
 泔	gjem
 硌	gem
@@ -41339,7 +41336,6 @@ IP地址	ipdv
 掼	grqo
 岣	gzu
 菰	guto
-罟	guw
 埚	gog
 坩	gjgm
 盖	get
@@ -41448,7 +41444,6 @@ IP地址	ipdv
 革	getj
 广	glyh
 共	gstc
-干	gjmj
 更	ggmk
 果	gowd
 给	gwv
@@ -41537,6 +41532,7 @@ IP地址	ipdv
 亘	gfmm
 乖	gkhp
 皋	gchj
+睾	gchj
 埂	gggk
 羹	ggtk
 哽	ggrk
@@ -41556,7 +41552,6 @@ IP地址	ipdv
 杲	gcad
 苷	gjtm
 佝	gzor
-睾	gchj
 媾	gzvb
 擀	gjqj
 艮	gfav
@@ -42777,6 +42772,7 @@ IP地址	ipdv
 极	jide
 贱	jmbj
 经	jk
+竟	jk
 佳	jxog
 家	jxj
 进	jb
@@ -42817,6 +42813,8 @@ IP地址	ipdv
 己	jis
 仅	jboe
 境	jkg
+节	jp
+芥	jpt
 节	jpt
 较	jnk
 纪	jivu
@@ -42870,11 +42868,11 @@ IP地址	ipdv
 兼	jmh
 兼	jmt
 鉴	jmlc
-竟	jky
 禁	jbd
 键	jmo
 疾	jikk
 叫	jn
+皎	jn
 架	jxk
 锦	jbo
 杰	jpd
@@ -43093,6 +43091,7 @@ IP地址	ipdv
 烬	jbf
 阱	jkn
 旌	jkym
+迳	jkym
 莒	jutr
 粳	jkfk
 矍	jtb
@@ -43104,7 +43103,7 @@ IP地址	ipdv
 诘	jiir
 楫	jidj
 赳	jqg
-谏	jmi
+谏	jmif
 荠	jitl
 痉	jkk
 橘	jud
@@ -43132,8 +43131,6 @@ IP地址	ipdv
 钜	juos
 厩	jqm
 趄	jug
-且	jub
-孑	jpn
 峤	jnu
 睑	jmbm
 麂	jiin
@@ -43157,7 +43154,6 @@ IP地址	ipdv
 唧	jir
 桀	jpn
 毽	jmhq
-迳	jky
 屐	jise
 讦	jpij
 婧	jkv
@@ -43193,7 +43189,7 @@ IP地址	ipdv
 湫	jnef
 榉	judq
 郏	jxkl
-鞯	jmt
+鞯	jmtk
 徼	jnhk
 孓	jtn
 葭	jxte
@@ -43484,7 +43480,6 @@ IP地址	ipdv
 坰	jsgr
 䌹	jsvr
 晙	jyae
-且	jubm
 经	jkvm
 解决	jj
 结果	jg
@@ -43918,10 +43913,12 @@ IP地址	ipdv
 立	liyt
 来	ld
 理	limg
+厘	limg
 力	lik
 利	lih
 量	lla
 里	li
+力	li
 两	ll
 路	lu
 领	lkoo
@@ -43963,10 +43960,9 @@ IP地址	ipdv
 陆	lqn
 陆	lunu
 楼	lz
-疗	lnk
+疗	ln
 录	lun
 练	lmv
-励	lims
 缕	lvv
 轮	lyk
 乱	lr
@@ -43977,9 +43973,7 @@ IP地址	ipdv
 冷	lg
 雷	lwm
 礼	lii
-礼	lim
 虑	lvy
-丽	lim
 露	lum
 露	lzm
 鲁	lun
@@ -44057,7 +44051,6 @@ IP地址	ipdv
 落	lat
 喇	lar
 禄	lui
-禄	lum
 涝	lce
 逻	loy
 辣	lay
@@ -44079,7 +44072,7 @@ IP地址	ipdv
 庐	luis
 隶	lile
 仑	lyop
-栗	lim
+栗	limd
 磊	lwm
 纶	lyv
 碌	lum
@@ -44160,7 +44153,7 @@ IP地址	ipdv
 剌	lad
 佬	lco
 晾	llaf
-砺	lims
+雳	lims
 馏	lqnw
 搂	lzq
 澧	liet
@@ -44182,12 +44175,11 @@ IP地址	ipdv
 骡	lon
 窿	lsj
 虏	luys
-璐	lum
 婪	ljdv
 崂	lcu
 翎	lkom
 篓	lzh
-砾	lim
+砾	limd
 吝	lbyr
 阑	ljlf
 粼	lbf
@@ -44209,7 +44201,7 @@ IP地址	ipdv
 濂	lmec
 痢	lik
 喽	lzr
-雳	lim
+励	lim
 咙	lsr
 漉	luep
 挛	lryq
@@ -44237,7 +44229,7 @@ IP地址	ipdv
 鎏	lqec
 镣	lno
 瘘	lzk
-郦	lim
+郦	liml
 踉	llr
 躏	lbr
 戮	lusi
@@ -44415,6 +44407,8 @@ IP地址	ipdv
 塱	lhig
 㮾	lhid
 峛	liu
+丽	limb
+璃	limb
 醨	limb
 㰀	lide
 襕	ljlw
@@ -44558,7 +44552,6 @@ IP地址	ipdv
 腊	laba
 啦	lart
 禄	luie
-禄	lume
 涝	lces
 逻	loyn
 辣	layl
@@ -44628,7 +44621,7 @@ IP地址	ipdv
 遛	lqyw
 靓	llqu
 喽	lzrv
-雳	lims
+砺	lims
 咙	lsrp
 籁	ldho
 嶙	lbuq
@@ -46122,7 +46115,7 @@ IP地址	ipdv
 青	qkq
 群	qy
 清	qke
-千	qmh
+千	qm
 钱	qmo
 切	qpp
 请	qk
@@ -46213,7 +46206,7 @@ IP地址	ipdv
 琦	qimr
 栖	qidw
 瞧	qnb
-仇	qqo
+仇	qqon
 氢	qko
 琪	qimc
 泣	qiet
@@ -46237,8 +46230,7 @@ IP地址	ipdv
 绮	qiv
 砌	qim
 娶	qusv
-祺	qiic
-祺	qimc
+麒	qiic
 蹊	qir
 寝	qbj
 凄	qiiv
@@ -46266,7 +46258,6 @@ IP地址	ipdv
 脐	qib
 撬	qnq
 怯	qpp
-麒	qii
 圻	qigl
 岖	quuk
 诠	qrig
@@ -46318,7 +46309,6 @@ IP地址	ipdv
 妾	qpy
 蛐	qulw
 鳅	qqn
-讫	qii
 橇	qnd
 嗪	qbrd
 虬	qqlu
@@ -46347,7 +46337,6 @@ IP地址	ipdv
 颧	qrt
 郄	qpkl
 阕	qtlk
-犍	qmh
 溱	qbed
 荨	qmti
 芩	qbtn
@@ -46401,6 +46390,7 @@ IP地址	ipdv
 鞒	qntl
 黥	qkw
 俅	qqoe
+𨱇	qqo
 璩	qum
 悛	qrp
 辁	qrkg
@@ -46460,7 +46450,6 @@ IP地址	ipdv
 癿	qphu
 鞧	qqt
 萩	qqt
-𨱇	qqo
 訄	qqkr
 鹙	qqhm
 璆	qqmh
@@ -46569,7 +46558,7 @@ IP地址	ipdv
 脐	qibl
 撬	qnqu
 怯	qppi
-麒	qiic
+祺	qiic
 呛	qlru
 覃	qbmj
 阙	qtlo
@@ -46958,7 +46947,7 @@ IP地址	ipdv
 泗	siec
 隋	svnb
 邃	svyo
-酥	sum
+酥	su
 嵩	ssu
 夙	suh
 伺	sior
@@ -47774,6 +47763,7 @@ IP地址	ipdv
 室	uijg
 事	ui
 十	ui
+失	uih
 上	uh
 市	uiy
 生	ug
@@ -47808,7 +47798,6 @@ IP地址	ipdv
 神	ufml
 率	ukyj
 识	uiic
-师	uii
 师	uil
 售	uzo
 史	uilk
@@ -47826,7 +47815,7 @@ IP地址	ipdv
 伸	ufo
 审	ufj
 属	uus
-升	ugh
+剩	ugh
 树	uud
 沙	uae
 胜	ugb
@@ -47854,7 +47843,7 @@ IP地址	ipdv
 沈	ufe
 殊	uumd
 乘	ughp
-厦	uam
+厦	ua
 蔬	uutu
 蔬	uutv
 饰	uinb
@@ -47870,7 +47859,7 @@ IP地址	ipdv
 圣	uge
 刷	uxs
 驶	uin
-剩	ugh
+升	ugh
 氏	uihp
 舒	uuo
 衰	uky
@@ -47878,11 +47867,10 @@ IP地址	ipdv
 睡	uvb
 硕	uom
 逝	uiyl
-牲	ugh
+牲	ughm
 慎	ufp
 疏	uunu
 疏	uunv
-衫	ujl
 湿	uie
 擅	ujq
 稍	uch
@@ -47963,14 +47951,13 @@ IP地址	ipdv
 孰	uuyi
 孰	uuyk
 捎	ucq
-莘	uft
 噬	uiro
 勺	ucp
 嗜	uir
 赡	ujb
 梢	ucd
 拴	ur
-笙	ugh
+笙	ughm
 栅	ujdm
 澍	uue
 沭	uued
@@ -48052,7 +48039,6 @@ IP地址	ipdv
 豕	uimo
 鲥	uini
 剡	ujfn
-蟮	ujl
 椹	ufd
 棽	ufdn
 杓	ucdi
@@ -48134,7 +48120,6 @@ IP地址	ipdv
 视	uiiu
 首	uztu
 身	ufhh
-师	uiib
 师	uilb
 售	uzor
 示	uimf
@@ -48294,7 +48279,7 @@ IP地址	ipdv
 这	v
 之	viio
 中	vs
-战	vjyi
+战	vjy
 展	vjs
 主	vu
 制	vih
@@ -48334,8 +48319,10 @@ IP地址	ipdv
 整	vgd
 知	vio
 真	vf
+震	vf
 直	vijm
 直	vijv
+站	vj
 占	vj
 抓	vx
 住	vuo
@@ -48383,7 +48370,6 @@ IP地址	ipdv
 涨	vhe
 浙	vee
 掌	vhf
-震	vfm
 壮	vll
 忠	vsl
 珍	vfm
@@ -48469,7 +48455,6 @@ IP地址	ipdv
 煮	vuj
 睁	vgb
 臻	vfm
-颤	vjy
 贞	vfy
 铮	vgo
 漳	vhej
@@ -48526,7 +48511,6 @@ IP地址	ipdv
 毡	vjhr
 茁	vot
 栈	vjdj
-甄	vfm
 栅	vadm
 芷	vitm
 锥	vvo
@@ -48582,7 +48566,7 @@ IP地址	ipdv
 啄	vor
 蛰	veqi
 奘	vlv
-砧	vfm
+砧	vfmr
 蟑	vhl
 诛	vuid
 陟	vinh
@@ -48629,7 +48613,6 @@ IP地址	ipdv
 胝	vibi
 颛	vru
 栀	vidu
-斫	vom
 著	vota
 吒	varp
 旃	vjym
@@ -48685,7 +48668,6 @@ IP地址	ipdv
 疰	vukg
 浞	voeo
 禚	voi
-禚	vom
 拃	vaqs
 啫	ver
 汋	voei
@@ -48979,7 +48961,8 @@ IP地址	ipdv
 委	wwh
 物	wuh
 无	wu
-五	wum
+五	wu
+武	wum
 完	wj
 王	wh
 忘	whyp
@@ -48988,7 +48971,6 @@ IP地址	ipdv
 往	whh
 维	wwv
 稳	wfh
-武	wumm
 卫	wws
 卫	wwsm
 围	wwws
@@ -49205,7 +49187,6 @@ IP地址	ipdv
 万	wjms
 务	wuhs
 无	wumu
-五	wumm
 王	whm
 闻	wflj
 往	whhg
@@ -49325,7 +49306,9 @@ IP地址	ipdv
 向	xlh
 些	xp
 系	xi
+西	xi
 西	xim
+惜	xip
 项	xlm
 先	xm
 相	xld
@@ -49486,7 +49469,6 @@ IP地址	ipdv
 歇	xpa
 鑫	xbcc
 锈	xqo
-弦	xmn
 芯	xbt
 媳	xiv
 熏	xyh
@@ -49578,7 +49560,6 @@ IP地址	ipdv
 猩	xkk
 省	xkf
 薰	xyt
-瑕	xxm
 飨	xlv
 岫	xqu
 暄	xram
@@ -49643,7 +49624,7 @@ IP地址	ipdv
 勰	xpkp
 檄	xidk
 芎	xst
-硖	xxm
+硖	xxmt
 罅	xxo
 叚	xxr
 泫	xrei
@@ -49830,7 +49811,6 @@ IP地址	ipdv
 鲜	xmnq
 细	xivw
 血	xpht
-夏	xxme
 析	xidl
 休	xqod
 寻	xysi
@@ -50019,14 +49999,13 @@ IP地址	ipdv
 意	yiyp
 营	yktr
 议	yii
-义	yiik
+矣	yiik
 因	yb
 院	yrn
 原	yrm
-严	yjm
 研	yjm
+厌	yjm
 运	yyy
-育	yuyb
 益	yic
 益	yit
 样	yh
@@ -50057,6 +50036,7 @@ IP地址	ipdv
 药	yct
 余	yuo
 阳	yhn
+鱼	yun
 预	yun
 域	yug
 演	yje
@@ -50085,7 +50065,6 @@ IP地址	ipdv
 夜	yey
 叶	yer
 邮	yzll
-鱼	yun
 延	yjn
 雨	yumb
 雨	yumy
@@ -50099,11 +50078,12 @@ IP地址	ipdv
 硬	ykm
 勇	ysn
 遗	yiy
+裔	yiy
 疑	yipo
 邀	ycy
 援	yrq
 盐	yjg
-雅	yam
+雅	ya
 羊	yhtq
 盈	ykn
 渔	yuem
@@ -50112,17 +50092,18 @@ IP地址	ipdv
 忧	yzp
 圆	yrwo
 液	yee
-毅	yiy
+毅	yiye
 谊	yiim
 允	yyi
 赢	yky
 幼	yzvs
 炎	yjff
-亦	yiy
+亦	yi
 愈	yuop
 娱	yuv
 燕	yjt
 摇	ycq
+欲	yu
 欲	yuco
 吁	yurd
 阴	ybn
@@ -50177,7 +50158,6 @@ IP地址	ipdv
 蛇	yilp
 溢	yie
 殷	ybhe
-殷	yjh
 椅	yid
 彦	yjyh
 轧	yaku
@@ -50199,7 +50179,7 @@ IP地址	ipdv
 瑶	ycm
 咬	ycr
 雁	yjmg
-秧	yhh
+秧	yhhk
 渊	yrel
 禹	yuh
 俞	yuon
@@ -50242,9 +50222,9 @@ IP地址	ipdv
 冤	yrb
 寅	ybjc
 咏	ysr
-虞	yuy
+育	yuy
+虞	yuyk
 屿	yuu
-裔	yiyr
 峪	yuur
 晕	yya
 肴	yckb
@@ -50255,13 +50235,12 @@ IP地址	ipdv
 粥	yunn
 鸦	yamm
 瑛	ykmk
-驭	yun
 茵	ybtk
 砚	yjmu
 熠	yifa
 瑜	yumn
 瑜	yumv
-矣	yiik
+义	yiik
 媛	yrv
 雍	ysy
 烨	yef
@@ -50299,7 +50278,6 @@ IP地址	ipdv
 侥	yco
 吆	ycri
 蜒	yjlm
-蜒	yjlv
 镛	yso
 铀	yzo
 鱿	yzn
@@ -50338,7 +50316,7 @@ IP地址	ipdv
 煜	yuft
 鸯	yhlm
 偃	yjov
-徉	yhh
+徉	yhhq
 闫	yjlm
 晔	yeaj
 昱	yua
@@ -50421,7 +50399,6 @@ IP地址	ipdv
 胤	yblu
 蝣	yzl
 瑗	yrm
-琊	yam
 嘤	ykrv
 疣	yzk
 炀	yhfh
@@ -50481,14 +50458,13 @@ IP地址	ipdv
 嵛	yuuv
 鞅	yht
 狺	ybk
-夤	ybn
+夤	ybnc
 瘿	ykkv
 饔	ysyv
 雩	yums
 鹆	yucm
 橼	yrd
 菀	yutu
-鼹	yjh
 繇	ycbf
 繇	yzbf
 苡	yito
@@ -50529,7 +50505,6 @@ IP地址	ipdv
 哕	ytri
 说	yti
 岈	yauh
-砑	yam
 珧	ycmo
 撄	ykq
 舁	yuht
@@ -50573,13 +50548,13 @@ IP地址	ipdv
 约	ycv
 馌	yent
 旸	yha
-飏	yhh
+飏	yhhh
 玚	yhm
 咉	yhr
 垟	yhgq
 羕	yhte
 浥	yieu
-祎	yii
+义	yii
 乂	yikk
 螠	yilt
 杙	yidp
@@ -50680,7 +50655,6 @@ IP地址	ipdv
 邀	ycyk
 盐	yjgt
 雅	yamg
-牙	yamh
 忧	yzpu
 液	yeek
 娱	yuvk
@@ -50758,6 +50732,7 @@ IP地址	ipdv
 桠	yadc
 琊	yaml
 疣	yzku
+尢	yzku
 靥	yemw
 呦	yzrs
 痈	yskq
@@ -51438,7 +51413,6 @@ IP地址	ipdv
 翛	xnom
 䗛	xqlb
 柙	xxdl
-䲟	ybn
 䲟	ybnl
 𬘡	ybvk
 滧	ycek
@@ -51479,8 +51453,6 @@ GDP	gdp
 何时	heu
 宏碁	hsq
 华为	hxw
-精英	jky
-检察	jmi
 捷径	jpj
 喟叹	kvt
 哪边	nab
@@ -51639,9 +51611,7 @@ GDP	gdp
 浆糊	jlh
 奖金	jlj
 剑鞘	jmq
-监听	jmt
 浇灌	jng
-叫唤	jnh
 接口	jpk
 解围	jpw
 纠葛	jqg
@@ -51760,7 +51730,6 @@ GDP	gdp
 身姿	ufz
 剩菜	ugc
 升幅	ugf
-生化	ugh
 生姜	ugj
 生理	ugl
 声明	ugm
@@ -51845,6 +51814,7 @@ GDP	gdp
 钥匙	ycu
 阉割	yjg
 严厉	yjl
+蜒	yjl
 远离	yrl
 拥护	ysh
 油锅	yzg
@@ -51915,6 +51885,7 @@ GDP	gdp
 事半功倍	ubg
 邀功请赏	ygq
 饥渴	jike
+即可	jike
 指导	vidc
 以下	yixx
 一致	yivi
@@ -51970,10 +51941,11 @@ GDP	gdp
 箪	djh
 膻	djb
 汾	ffe
-钒	fjo
+繁	fjo
+钒	fjoi
 梵	fjd
 矾	fjm
-敷	fui
+敷	fuik
 蜉	ful
 脯	fub
 凫	fup
@@ -52007,9 +51979,8 @@ GDP	gdp
 蓟	jit
 奇	jik
 觊	jiu
-嵇	jih
-骥	jin
-系	jih
+骥	jinc
+系	jihf
 继	jiv
 戟	jij
 笈	jih
@@ -52019,10 +51990,11 @@ GDP	gdp
 靖	jky
 腈	jkb
 憬	jkp
-煎	jmt
+煎	jmtf
 溅	jme
 监	jml
 槛	jmd
+皎	jnh
 敫	jnh
 僭	jmo
 戬	jmm
@@ -52039,12 +52011,10 @@ GDP	gdp
 贶	klb
 吏	lij
 荔	lit
-厘	lim
-鹂	lim
+鹂	limm
 骊	lin
 俚	lio
 蠡	liv
-璃	lim
 泠	lke
 囹	lkw
 羚	lkt
@@ -52126,18 +52096,18 @@ GDP	gdp
 漪	yie
 燚	yif
 贻	yib
-翊	yiy
+翊	yiym
 伊	yio
 彝	yiv
-奕	yiy
+奕	yiyk
 怡	yip
 淹	yje
-衍	yjh
+衍	yjhn
 铅	yjo
 檐	yjd
-鄢	yjm
+鄢	yjml
 琰	yjm
-酽	yjm
+酽	yjmh
 莹	ykt
 膺	yki
 鹦	ykb
@@ -52149,13 +52119,12 @@ GDP	gdp
 泳	ysee
 萸	yut
 浴	yue
-鬻	yun
+鬻	yunb
 圄	yuw
 觎	yuo
-鹬	yun
-谀	yui
+鹬	yunm
+谀	yuio
 纭	yyv
-尢	yzk
 蚰	yzl
 渍	zie
 蕃	fjtw
@@ -52188,7 +52157,7 @@ GDP	gdp
 翌	yist
 焱	yjff
 阉	yjlu
-彧	yui
+彧	yuim
 淤	yuey
 咨	ziir
 咨	zimr
@@ -52225,7 +52194,6 @@ GDP	gdp
 绝对	jd
 尽管	jg
 渐渐	jj
-即可	jk
 举例	jl
 极其	jq
 假如	jr
@@ -52239,7 +52207,6 @@ GDP	gdp
 面前	mq
 每天	mt
 情况	qk
-前面	qm
 恰恰	qq
 歧视	qu
 确认	qr
@@ -52262,10 +52229,8 @@ GDP	gdp
 食物	uw
 这次	vc
 直到	vd
-征服	vf
 只会	vh
 支持	vi
-整句	vj
 追求	vq
 只是	vu
 真正	vv
@@ -52300,7 +52265,6 @@ GDP	gdp
 不客气	bkq
 闭门羹	bmg
 保密性	bmx
-不满意	bmy
 不舒服	buf
 大多数	ddu
 打火机	dhj
@@ -52839,7 +52803,6 @@ GDP	gdp
 迥然不同	jrbt
 尽人皆知	jrjv
 尽人事听天命	jrum
-见势不妙	jubm
 井水不犯河水	jubu
 精神抖擞	juds
 旧事重提	juit
@@ -53538,6 +53501,7 @@ GDP	gdp
 眼镜	yjjk
 义结金兰	yjjl
 严苛	yjke
+以假乱真	yjlv
 冤家路窄	yjlv
 俨然	yjrj
 延伸	yjuf
@@ -53601,7 +53565,6 @@ GDP	gdp
 云山雾罩	yuwv
 衣食无忧	yuwy
 以身相许	yuxx
-摇身一变	yuyb
 寓意	yuyi
 预言	yuyj
 有生以来	yuyl
@@ -53765,26 +53728,8 @@ GDP	gdp
 揍	zz
 坐	zo
 辨	bmyj
-单元	dye
-回忆	hyx
 智	vioa
 计	jiij
-简洁	jjd
-精力	jlv
-基于	jya
-截至	jva
-距离	jlw
-记忆	jyx
-梳理	ulw
-事实	uub
-哲理	vlw
-置顶	vdd
-指示	vue
-指挥	vhf
-想想	xxm
-音形	yxk
-觉得	jdi
-刻意	kys
 啱	anrr
 喎	worr
 閪	hdaw
@@ -67008,6 +66953,7 @@ https://flypy.cc/#/gn	orm
 姞	jivr
 姫	jivl
 峜	jium
+嵇	jihu
 嵆	jihu
 嶯	jiuj
 嶯	jiui
@@ -73002,7 +72948,6 @@ https://flypy.cc/#/gn	orm
 硵	lumk
 磠	lumi
 祿	luie
-祿	lume
 穋	luhh
 簏	luhp
 簬	luhr
@@ -87601,6 +87546,7 @@ https://flypy.cc/#/gn	orm
 豔	yjut
 贋	yjmc
 贗	yjmc
+鼹	yjhv
 躽	yjhv
 軅	yjhg
 遃	yjyh
@@ -168717,6 +168663,7 @@ https://flypy.cc/#/gn	orm
 鸷	qkpy
 𪉑	qkpy
 奉	qkq
+奉	qkqq
 挚	qkq
 摮	qkq
 𫯠	qkq
@@ -203514,7 +203461,7 @@ https://flypy.cc/#/gn	orm
 𮞟	ytym
 𨙊	ytyo
 𮄳	ytyo
-站	ytyr
+站	yty
 䇏	ytyr
 𥫉	ytyr
 𥪜	ytyr

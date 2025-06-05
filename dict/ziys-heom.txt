@@ -30940,7 +30940,6 @@ IP地址	ipdv
 助攻	vugs
 竹棍	vugy
 猪狗	vugz
-珠海	vuhd
 祝贺	vuhe
 逐行	vuhh
 指手画脚	vuhj
@@ -48377,7 +48376,6 @@ IP地址	ipdv
 择	vdqq
 驻	vung
 朱	vuhd
-朱	vuh
 赵	vcg
 钟	vso
 庄	vli

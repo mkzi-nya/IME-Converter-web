@@ -35105,6 +35105,7 @@ IP地址	ipdv
 阴雨	ybyu
 言不由衷	ybyv
 愿不愿意	ybyy
+音游	ybyz
 引诱	ybyz
 也不应该	ybyg
 银子	ybzi
@@ -66978,6 +66979,7 @@ https://flypy.cc/#/gn	orm
 嶯	jiuj
 嶯	jiui
 幾	jivi
+幾	jivk
 庴	jiia
 廭	jiic
 彐	jinm
@@ -94004,7 +94006,6 @@ https://flypy.cc/#/gn	orm
 𬬽	zoos
 𮉣	zovs
 ﻿噢噢	oo
-音游	ybyz
 准度	vydu
 🤔	oisk
 😨	oikj

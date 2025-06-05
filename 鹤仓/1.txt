@@ -17168,7 +17168,6 @@ IP地址	ipdv
 理应	liyk
 梨园	liyr
 利用	liys
-立约	liyt
 利于	liyu
 理由	liyz
 乱成一锅粥	liyv
@@ -23196,7 +23195,6 @@ IP地址	ipdv
 驱赶	qugj
 亲生骨肉	qugr
 全神贯注	qugv
-囚首垢面	qugm
 七十古稀	qugx
 区号	quhc
 气势恢宏	quhh
@@ -35107,6 +35105,7 @@ IP地址	ipdv
 阴雨	ybyu
 言不由衷	ybyv
 愿不愿意	ybyy
+音游	ybyz
 引诱	ybyz
 也不应该	ybyg
 银子	ybzi
@@ -39183,6 +39182,7 @@ IP地址	ipdv
 变	bm
 病	bkk
 白	bd
+拜	bd
 巴	baa
 巴	baau
 半	bjf
@@ -39743,6 +39743,7 @@ IP地址	ipdv
 此	ciy
 从	cs
 次	ci
+此	ci
 村	cy
 参	cj
 猜	cdk
@@ -39759,6 +39760,7 @@ IP地址	ipdv
 测	ce
 草	cc
 藏	ch
+仓	ch
 彩	cdbh
 残	cjm
 裁	cdj
@@ -40299,7 +40301,6 @@ IP地址	ipdv
 骶	dibm
 骶	dibi
 柁	dodp
-玳	ddm
 啖	djr
 蔸	dzt
 菪	dhtr
@@ -40379,7 +40380,6 @@ IP地址	ipdv
 鱽	dcn
 轪	ddkk
 垈	ddog
-叇	ddm
 嘚	der
 扽	dfq
 璒	dgm
@@ -40636,21 +40636,16 @@ IP地址	ipdv
 第三遍	dsb
 第三方	dsf
 第三者	dsv
-跌停板	dtb
 到头来	dtl
 大手笔	dub
 多少次	duc
 多少人	dur
 大众化	dvh
-大中型	dvx
 掉下去	dxq
 大洋洲	dyv
 等一下	dyx
 得益于	dyy
 大杂烩	dzh
-丁字裤	dzk
-肚子里	dzl
-打字员	dzy
 二	e
 嗯	enr
 而	er
@@ -41096,6 +41091,7 @@ IP地址	ipdv
 高	gc
 关	gr
 过	go
+果	go
 钙	gdos
 改	gds
 各	ge
@@ -41649,6 +41645,7 @@ IP地址	ipdv
 行	hh
 合	heo
 后	hz
+厚	hz
 好	hc
 海	hde
 还	hd
@@ -41658,6 +41655,7 @@ IP地址	ipdv
 很	hf
 划	hxi
 或	ho
+火	ho
 回	hvw
 环	hrm
 话	hx
@@ -41668,6 +41666,7 @@ IP地址	ipdv
 河	hee
 花	hxt
 何	he
+合	he
 货	hoo
 获	hot
 黄	hl
@@ -41689,6 +41688,7 @@ IP地址	ipdv
 宏	hsj
 孩	hdn
 候	hzo
+侯	hzo
 洪	hse
 乎	huh
 呼	hur
@@ -42243,6 +42243,7 @@ IP地址	ipdv
 产	ij
 成	ig
 长	ih
+常	ih
 唱	ihr
 场	ihg
 重	ish
@@ -42253,6 +42254,7 @@ IP地址	ipdv
 持	iiq
 城	igg
 处	iu
+尝	ihf
 常	ihf
 创	ilo
 查	iad
@@ -42264,7 +42266,7 @@ IP地址	ipdv
 称	igh
 超	ic
 春	iyq
-除	iun
+除	iu
 充	isy
 陈	if
 察	iaj
@@ -42806,6 +42808,7 @@ IP地址	ipdv
 近	jby
 几	ji
 接	jp
+劫	jpg
 究	jqj
 精	jkf
 具	jub
@@ -42973,6 +42976,7 @@ IP地址	ipdv
 炬	juf
 肌	jib
 稽	jih
+积	jih
 忌	jis
 桔	jpdr
 驹	junr
@@ -43073,7 +43077,7 @@ IP地址	ipdv
 沮	jue
 车	juk
 伽	jxor
-嫉	jiv
+嫉	jivk
 芥	jptl
 笺	jmhj
 岌	jiue
@@ -43533,6 +43537,7 @@ IP地址	ipdv
 快	kk
 况	kl
 款	krg
+刻	ke
 克	ke
 客	kej
 考	kcj
@@ -43574,6 +43579,7 @@ IP地址	ipdv
 哭	kur
 渴	kee
 哭	ku
+酷	ku
 喀	karr
 壳	keg
 烤	kcf
@@ -43919,7 +43925,7 @@ IP地址	ipdv
 利	lih
 量	lla
 里	li
-力	li
+理	li
 两	ll
 路	lu
 领	lkoo
@@ -43939,13 +43945,14 @@ IP地址	ipdv
 律	lvh
 历	lim
 类	lw
+累	lw
 连	lm
 落	lo
 乐	le
-刘	lq
+六	lq
 旅	lvy
 例	lio
-六	lqy
+刘	lqy
 粮	llf
 良	lliv
 令	lko
@@ -43955,6 +43962,7 @@ IP地址	ipdv
 兰	ljt
 留	lqh
 临	lbl
+略	lt
 略	ltw
 烈	lpmf
 另	lk
@@ -44068,6 +44076,7 @@ IP地址	ipdv
 麟	lbi
 芦	lut
 谅	lli
+良	lli
 菱	lkt
 锣	loo
 庐	luis
@@ -44827,6 +44836,7 @@ IP地址	ipdv
 孟	mgnt
 鸣	mkr
 秒	mn
+喵	mn
 抹	moq
 漠	moe
 姆	muv
@@ -45292,6 +45302,7 @@ IP地址	ipdv
 哪	nwr
 牛	nq
 你	ni
+泥	ni
 诺	noi
 您	nb
 纽	nqv
@@ -46104,6 +46115,7 @@ IP地址	ipdv
 区	qu
 前	qm
 其	qi
+奇	qik
 起	qig
 强	ql
 情	qkp
@@ -46150,6 +46162,7 @@ IP地址	ipdv
 泉	qrh
 穷	qs
 趣	qug
+趋	qug
 侨	qnol
 迁	qmy
 秦	qbq
@@ -46663,6 +46676,7 @@ IP地址	ipdv
 润	rye
 肉	rz
 若	ro
+弱	ro
 仁	rfom
 软	rr
 弱	ron
@@ -47801,6 +47815,7 @@ IP地址	ipdv
 识	uiic
 师	uil
 售	uzo
+史	uil
 史	uilk
 示	uim
 石	uimr
@@ -47910,6 +47925,7 @@ IP地址	ipdv
 单	ujc
 霜	ulm
 拾	uiq
+势	uiq
 尸	uis
 甩	ukb
 筛	udh
@@ -48311,7 +48327,6 @@ IP地址	ipdv
 争	vgn
 烝	vgn
 镇	vfo
-值	vio
 装	vl
 众	vso
 州	vzh
@@ -48956,11 +48971,11 @@ IP地址	ipdv
 未	wwj
 外	wd
 万	wjm
-务	wuh
+物	wuh
 文	wfy
 问	wf
 委	wwh
-物	wuh
+务	wuh
 无	wu
 五	wu
 武	wum
@@ -48982,6 +48997,7 @@ IP地址	ipdv
 温	wfe
 违	wwy
 吴	wur
+呜	wur
 舞	wuo
 威	wwi
 玮	wwm
@@ -48990,6 +49006,7 @@ IP地址	ipdv
 伍	wuo
 危	wwn
 味	wwr
+唯	wwr
 微	wwh
 污	wue
 我	wo
@@ -49318,6 +49335,7 @@ IP地址	ipdv
 形	xkm
 效	xny
 想	xl
+相	xl
 销	xno
 乡	xlv
 协	xpj
@@ -49370,6 +49388,7 @@ IP地址	ipdv
 寻	xys
 晓	xna
 笑	xn
+效	xn
 雪	xtm
 戏	xie
 享	xly
@@ -49404,6 +49423,7 @@ IP地址	ipdv
 闲	xml
 惜	xipa
 肖	xnf
+削	xnf
 稀	xih
 巡	xyyv
 袭	xii
@@ -50100,6 +50120,7 @@ IP地址	ipdv
 幼	yzvs
 炎	yjff
 亦	yi
+宜	yij
 愈	yuop
 娱	yuv
 燕	yjt
@@ -50842,6 +50863,7 @@ IP地址	ipdv
 责	zeq
 则	ze
 再	zd
+载	zd
 族	zuy
 足	zur
 字	zi
@@ -50861,7 +50883,7 @@ IP地址	ipdv
 赞	zjh
 租	zuh
 宗	zsj
-载	zdj
+哉	zdj
 扎	zaq
 尊	zyc
 尊	zyt
@@ -51987,7 +52009,7 @@ GDP	gdp
 笈	jih
 玑	jim
 计	jii
-荆	jkt
+荆	jktn
 靖	jky
 腈	jkb
 憬	jkp
@@ -52107,13 +52129,13 @@ GDP	gdp
 铅	yjo
 檐	yjd
 鄢	yjml
-琰	yjm
+琰	yjmfunknown
 酽	yjmh
 莹	ykt
 膺	yki
 鹦	ykb
 楹	ykd
-嬴	yky
+嬴	ykyv
 沅	yre
 鸳	yrn
 涌	yse
@@ -52257,7 +52279,6 @@ GDP	gdp
 座位	zw
 总共	zg
 最终	zv
-北戴河	bdh
 帮倒忙	bdm
 百分之	bfv
 白胡椒	bhj

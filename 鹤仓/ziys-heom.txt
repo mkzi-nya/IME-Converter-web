@@ -4806,6 +4806,7 @@ AA制	aavi
 癫狂	dmkl
 垫款	dmkr
 典礼	dmli
+电力	dmli
 电缆	dmlj
 电量	dmll
 电疗	dmln
@@ -22746,7 +22747,6 @@ IP地址	ipdv
 迁移	qmyi
 前沿	qmyj
 倩影	qmyk
-千元	qmyr
 潜泳	qmys
 签约	qmyt
 潜在	qmzd
@@ -33646,6 +33646,7 @@ IP地址	ipdv
 嫌弃	xmqi
 闲情	xmqk
 先前	xmqm
+先遣	xmqm
 线圈	xmqr
 先去	xmqu
 闲人	xmrf
@@ -36259,7 +36260,7 @@ IP地址	ipdv
 营业	ykye
 营养	ykyh
 应验	ykyj
-一口一口	ykyk
+萤萤	ykyk
 影院	ykyr
 英语	ykyu
 营运	ykyy
@@ -37515,6 +37516,7 @@ IP地址	ipdv
 隐隐作痛	yyzt
 有言在先	yyzx
 运走	yyzz
+柚子	yzzi
 友爱	yzai
 幽暗	yzan
 邮包	yzbc
@@ -42816,9 +42818,9 @@ IP地址	ipdv
 己	jis
 仅	jboe
 境	jkg
-节	jp
-芥	jpt
+解	jp
 节	jpt
+芥	jpt
 较	jnk
 纪	jivu
 坚	jml
@@ -45420,7 +45422,6 @@ IP地址	ipdv
 赧	njge
 睨	nibu
 柰	ndd
-衲	nal
 南	naj
 腩	njb
 蝻	njl
@@ -46154,7 +46155,7 @@ IP地址	ipdv
 抢	qlq
 渠	que
 潜	qmea
-旗	qiy
+弃	qiy
 倾	qko
 侵	qbo
 乔	qnh
@@ -48991,17 +48992,16 @@ IP地址	ipdv
 网	whb
 晚	wja
 湾	wje
-午	wuoj
 温	wfe
 违	wwy
 吴	wur
 呜	wur
+午	wuo
 舞	wuo
 威	wwi
 玮	wwm
 威	wwiv
 伟	wwo
-伍	wuo
 危	wwn
 味	wwr
 唯	wwr
@@ -49090,7 +49090,6 @@ IP地址	ipdv
 诿	wwiv
 蜿	wjl
 惋	wjp
-钨	wuo
 斡	woj
 邬	wupl
 烷	wjf
@@ -49248,6 +49247,7 @@ IP地址	ipdv
 毋	wuwh
 哇	warg
 蜿	wjlu
+伍	wuom
 钨	wuom
 斡	wojj
 烷	wjfu
@@ -50006,6 +50006,7 @@ IP地址	ipdv
 以	yi
 用	ys
 于	yum
+约	yt
 月	yt
 元	yr
 也	ye
@@ -50093,6 +50094,7 @@ IP地址	ipdv
 跃	ytr
 仪	yiok
 尤	yziu
+柚子厨	yziu
 宜	yijm
 硬	ykm
 勇	ysn
@@ -53709,7 +53711,7 @@ GDP	gdp
 浓	ns
 屁	p
 期	q
-弃	qi
+起	qi
 入	r
 惹	re
 忍	rf

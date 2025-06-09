@@ -6473,6 +6473,7 @@ AA制	aavi
 奉承	fgig
 风传	fgir
 风吹	fgiv
+凤雏	fgiu
 飞鸽传书	fgiu
 封禁	fgjb
 风景	fgjk
@@ -15002,6 +15003,7 @@ IP地址	ipdv
 巨款	jukr
 巨浪	julh
 距离	juli
+举例	juli
 剧烈	julp
 拘留	julq
 巨龙	juls
@@ -17109,7 +17111,6 @@ IP地址	ipdv
 理疗	liln
 历练	lilm
 利落	lilo
-里弄	lils
 利率	lilv
 理论	lily
 立马	lima
@@ -17193,7 +17194,6 @@ IP地址	ipdv
 滥发	ljfa
 棱角分明	ljfm
 廉洁奉公	ljfg
-龙驹凤雏	ljfi
 老骥伏枥	ljfl
 良家妇女	ljfn
 栏杆	ljgj
@@ -22367,6 +22367,7 @@ IP地址	ipdv
 迄今为止	qjwv
 取决于	qjyu
 千金一诺	qjyn
+群聊	qyln
 企业文化	qywh
 千言万语	qywy
 轻举妄动	qjwd
@@ -40765,6 +40766,7 @@ IP地址	ipdv
 费	fw
 服	fub
 风	fg
+凤	fgh
 副	fu
 反	fj
 负	fun
@@ -42299,6 +42301,7 @@ IP地址	ipdv
 畜	iuy
 呈	igr
 触	iun
+雏	iun
 楚	iud
 撤	ieq
 窗	il
@@ -43747,7 +43750,7 @@ IP地址	ipdv
 洭	kleg
 𫛭	klkm
 硿	ksm
-矻	kum
+酷	kum
 圐	kuws
 戣	kvni
 煃	kvf
@@ -43792,7 +43795,7 @@ IP地址	ipdv
 坑	kgg
 狂	klkg
 哭	kurk
-酷	kum
+矻	kum
 壳	kegn
 烤	kcfs
 坎	kjgo
@@ -43967,6 +43970,8 @@ IP地址	ipdv
 略	ltw
 烈	lpmf
 另	lk
+灵	lks
+聆	lks
 陆	lqn
 陆	lunu
 楼	lz
@@ -47995,6 +48000,7 @@ IP地址	ipdv
 屎	uisd
 麝	uei
 呻	ufrl
+世	uip
 恃	uip
 鳝	ujn
 塾	uuyg
@@ -48336,7 +48342,7 @@ IP地址	ipdv
 知	vio
 真	vf
 震	vf
-直	vijm
+直	vij
 直	vijv
 站	vj
 占	vj
@@ -49038,7 +49044,6 @@ IP地址	ipdv
 吾	wumr
 鋈	wuec
 挽	wjq
-纹	wfv
 雾	wums
 弯	wjyn
 胃	www
@@ -49327,6 +49332,7 @@ IP地址	ipdv
 惜	xip
 项	xlm
 先	xm
+现	xm
 相	xld
 信	xbo
 县	xmb
@@ -52217,7 +52223,7 @@ GDP	gdp
 绝对	jd
 尽管	jg
 渐渐	jj
-举例	jl
+酱	jl
 极其	jq
 假如	jr
 即使	ju
@@ -52266,7 +52272,6 @@ GDP	gdp
 未知	wv
 微信	wx
 修改	xg
-下面	xm
 小时	xu
 修正	xv
 学习	xx
@@ -53332,6 +53337,7 @@ GDP	gdp
 无利不起早	wlbz
 无利可图	wlkt
 歪理邪说	wlxu
+卧龙凤雏	wlfi
 为数不多	wubd
 无商不奸	wubj
 误导	wudc
@@ -53697,6 +53703,8 @@ GDP	gdp
 臭	iz
 见	j
 极	ji
+鸡	jie
+济	jie
 贱	jmb
 佳	jx
 块	k
@@ -93875,12 +93883,19 @@ https://flypy.cc/#/gn	orm
 𫗢	zons
 𬬽	zoos
 𮉣	zovs
-﻿噢噢	oo
+﻿git add . && git commit -m "meow" && git push origin main	push
+git pull origin main	pull
+查分器	ifqi
+http://mhtlim.top/	ifqi
+https://mkzi-nya.github.io/milthm-calculator-web/	ifqi
+http://mhtlim.top/usage/usage.html	uomk
+milthm	milt
+github	gith
+deepseek	deep
+ちゃん	jl
+噢噢	oo
 准度	vydu
-🤔	oisk
-😨	oikj
 日々早八，日々早八，烦たま死，この天天让我早八の世界早晚爆破する，この日々の早八の生活いつまで是个头，早八我されにま，早く西内，早八不西内私就要天に昇る了	zcba
-冒个泡泡	mgpp
 皆さん、おはようございます。朝の太陽が優しく輝き、新しい一日が始まりました。眠い目を擦りながら起きる朝は、少しだけつらいかもしれませんが、今日も一日充実して過ごせるように、心を引き締めて、微笑みを浮かべていきましょう。昨日の疲れは置き去りにして、新たな希望と活力でこの日を迎えましょう。お互いに励まし合い、素敵な一日を共に創りましょう。	ohyo
 あ	a
 い	i
@@ -204592,7 +204607,6 @@ https://flypy.cc/#/gn	orm
 ℉	yyyc
 °	yyyc
 …	yyyc
-。	yyyc
 ÷	yyyd
 ±	yyyd
 ≦	yyyd

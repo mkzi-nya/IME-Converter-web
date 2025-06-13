@@ -4685,6 +4685,7 @@ AA制	aavi
 大开杀戒	dkuj
 盯上	dkuh
 定时	dkui
+定数	dkuu
 待客之道	dkvd
 盯着	dkve
 顶针	dkvf
@@ -7194,6 +7195,7 @@ AA制	aavi
 扶正	fuvg
 付账	fuvh
 复制	fuvi
+赋值	fuvi
 服装	fuvl
 附着	fuvo
 浮肿	fuvs
@@ -31256,6 +31258,7 @@ IP地址	ipdv
 准点	vydm
 中原地区	vydq
 中央电视台	vydt
+准度	vydu
 这样的话	vydh
 周瑜打黄盖	vydg
 扎伊尔	vyer
@@ -40051,6 +40054,7 @@ IP地址	ipdv
 村	cydi
 的	d
 打	daq
+搭	daq
 大	da
 地	di
 到	dc
@@ -42907,6 +42911,7 @@ IP地址	ipdv
 皎	jn
 架	jxk
 锦	jbo
+仅	jbo
 杰	jpd
 聚	jus
 迹	jiy
@@ -45703,6 +45708,7 @@ IP地址	ipdv
 偶像	ox
 欧阳	oy
 呕吐	ot
+噢噢	oo
 平	p
 怕	pa
 跑	pc
@@ -48344,6 +48350,7 @@ IP地址	ipdv
 专	vrq
 职	vis
 只	vi
+知	vi
 志	vigp
 至	vim
 指	viq
@@ -48363,7 +48370,7 @@ IP地址	ipdv
 州	vzi
 州	vzm
 整	vgd
-知	vio
+值	vio
 真	vf
 震	vf
 直	vij
@@ -51977,7 +51984,7 @@ GDP	gdp
 矾	fjm
 敷	fuik
 蜉	ful
-脯	fub
+脯	fubb
 凫	fup
 俯	fuo
 弗	ful
@@ -52259,7 +52266,6 @@ GDP	gdp
 这次	vc
 直到	vd
 只会	vh
-支持	vi
 追求	vq
 只是	vu
 真正	vv
@@ -93883,8 +93889,10 @@ https://flypy.cc/#/gn	orm
 𫗢	zons
 𬬽	zoos
 𮉣	zovs
-﻿git add . && git commit -m "meow" && git push origin main	push
+﻿查分器	ifqi
+git add . && git commit -m "meow" && git push origin main	push
 git pull origin main	pull
+git fetch origin && git reset --hard origin/main && git clean -fd	pull
 查分器	ifqi
 http://mhtlim.top/	ifqi
 https://mkzi-nya.github.io/milthm-calculator-web/	ifqi
@@ -93893,8 +93901,6 @@ milthm	milt
 github	gith
 deepseek	deep
 ちゃん	jl
-噢噢	oo
-准度	vydu
 日々早八，日々早八，烦たま死，この天天让我早八の世界早晚爆破する，この日々の早八の生活いつまで是个头，早八我されにま，早く西内，早八不西内私就要天に昇る了	zcba
 皆さん、おはようございます。朝の太陽が優しく輝き、新しい一日が始まりました。眠い目を擦りながら起きる朝は、少しだけつらいかもしれませんが、今日も一日充実して過ごせるように、心を引き締めて、微笑みを浮かべていきましょう。昨日の疲れは置き去りにして、新たな希望と活力でこの日を迎えましょう。お互いに励まし合い、素敵な一日を共に創りましょう。	ohyo
 あ	a

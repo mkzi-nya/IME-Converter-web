@@ -12146,6 +12146,7 @@ AA制	aavi
 畅通	ihts
 成何体统	ihtt
 长途	ihtu
+长条	ihtn
 长沙	ihua
 常设	ihue
 厂商	ihuh
@@ -38948,6 +38949,7 @@ IP地址	ipdv
 走路	zzlu
 走漏	zzlz
 奏明	zzmk
+奏鸣曲	zmq
 曾祖母	zzmu
 罪责难逃	zznt
 自作孽不可活	zznh
@@ -43980,6 +43982,7 @@ IP地址	ipdv
 类	lw
 累	lw
 连	lm
+练	lm
 落	lo
 乐	le
 六	lq
@@ -44242,7 +44245,6 @@ IP地址	ipdv
 箩	loh
 遛	lqy
 銮	lryc
-靓	llq
 濂	lmec
 痢	lik
 喽	lzr
@@ -47541,7 +47543,6 @@ IP地址	ipdv
 鿎	tamk
 磹	tjmj
 璮	tjm
-峂	tsu
 㛚	tsv
 魋	tvh
 阘	talm
@@ -47853,6 +47854,7 @@ IP地址	ipdv
 史	uil
 史	uilk
 示	uim
+石	uim
 石	uimr
 食	uiov
 始	uiv
@@ -47863,7 +47865,7 @@ IP地址	ipdv
 声	ugg
 适	uiy
 试	uiim
-伸	ufo
+什	ufo
 审	ufj
 属	uus
 剩	ugh
@@ -49356,6 +49358,7 @@ IP地址	ipdv
 下	xx
 心	xbp
 向	xlh
+箱	xlh
 些	xp
 系	xi
 西	xi
@@ -49389,7 +49392,8 @@ IP地址	ipdv
 校	xnd
 须	xuh
 响	xlr
-香	xlh
+箱	xlr
+香	xlhu
 宣	xrj
 显	xma
 修	xq
@@ -49429,7 +49433,6 @@ IP地址	ipdv
 享	xly
 峡	xxu
 刑	xkmn
-箱	xlhu
 厦	xxme
 询	xyia
 洗	xie
@@ -50049,7 +50052,6 @@ IP地址	ipdv
 元	yr
 也	ye
 与	yu
-园	yrwu
 员	yrr
 已	yis
 应	yk
@@ -50103,6 +50105,7 @@ IP地址	ipdv
 印	ybh
 予	yunn
 云	yy
+运	yy
 遇	yuy
 愿	yrmp
 音	yby
@@ -50440,7 +50443,7 @@ IP地址	ipdv
 蚓	ybl
 鸢	yri
 郓	yybl
-镒	yio
+镒	yiot
 茔	yktg
 仡	yion
 氤	ybok
@@ -50515,7 +50518,6 @@ IP地址	ipdv
 洇	ybek
 嵛	yuun
 嵛	yuuv
-鞅	yht
 狺	ybk
 夤	ybnc
 瘿	ykkv
@@ -50935,6 +50937,7 @@ IP地址	ipdv
 奏	zzqk
 邹	zzn
 揍	zzq
+奏	zzq
 滋	ziei
 栽	zdjd
 踪	zsr
@@ -52086,11 +52089,10 @@ GDP	gdp
 椭	tod
 桐	tsd
 厍	uem
-什	ufo
+伸	ufo
 裳	uhf
 湜	uie
-舐	uih
-舐	uim
+舐	uihv
 虱	uin
 潸	uje
 倏	uuo
@@ -53713,6 +53715,7 @@ GDP	gdp
 济	jie
 贱	jmb
 佳	jx
+甲	jxw
 块	k
 抠	kz
 立	l
@@ -93894,6 +93897,8 @@ git add . && git commit -m "meow" && git push origin main	push
 git pull origin main	pull
 git fetch origin && git reset --hard origin/main && git clean -fd	pull
 查分器	ifqi
+Ciallo～(∠・ω< )⌒☆	cial
+哔叻卟叻哔叻卟叻der~	brbr
 http://mhtlim.top/	ifqi
 https://mkzi-nya.github.io/milthm-calculator-web/	ifqi
 http://mhtlim.top/usage/usage.html	uomk
@@ -206165,5 +206170,3 @@ deepseek	deep
 ㄤ	ang
 ㄥ	eng
 ㄦ	er
-Ciallo～(∠・ω< )⌒☆	cial
-哔叻卟叻哔叻卟叻der~	brbr

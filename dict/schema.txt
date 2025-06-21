@@ -30,6 +30,18 @@
 #
 # 示例配置如下：
 
+[自用-鹤仓]
+name=自用-鹤仓
+file=heom.txt
+f=char_left_code_right
+d=\t
+od= 
+kce=false
+dr=prefer_first
+ml=4
+mcp=1
+pp=true
+vc=abcdefghijklmnopqrstuvwxyz;
 
 [小鹤音形]
 name=小鹤音形
@@ -190,7 +202,7 @@ pp=true
 vc=abcdefghijklmnopqrstuvwxyz;
 
 [自用-鹤仓形]
-name=自用-鹤仓形
+name=自用-鹤仓
 file=ziys-heom.txt
 f=char_left_code_right
 d=\t
@@ -202,28 +214,3 @@ mcp=1
 pp=true
 vc=abcdefghijklmnopqrstuvwxyz;
 
-[小鹤音形]
-name=鹤单
-file=flypy1.txt
-f=char_left_code_right
-d= 
-od= 
-kce=false
-dr=prefer_first
-ml=4
-mcp=1
-pp=true
-vc=abcdefghijklmnopqrstuvwxyz;
-
-[自用-鹤仓形]
-name=鹤仓单
-file=hc1.txt
-f=char_left_code_right
-d=\t
-od= 
-kce=false
-dr=prefer_first
-ml=4
-mcp=1
-pp=true
-vc=abcdefghijklmnopqrstuvwxyz;

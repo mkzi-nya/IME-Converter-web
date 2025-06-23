@@ -12798,7 +12798,8 @@ IP地址	ipdv
 除掉	iudn
 出动	iuds
 初二	iuer
-出发	iufa
+出发	iuf
+触发	iufa
 处分	iuff
 厨房	iufh
 触犯	iufj
@@ -17587,6 +17588,7 @@ IP地址	ipdv
 练出	lmiu
 连襟	lmjb
 联机	lmji
+连击	lmji
 练剑	lmjm
 连接	lmjp
 龙马精神	lmju
@@ -39023,7 +39025,8 @@ IP地址	ipdv
 指导	vidc
 以下	yixx
 一致	yivi
-知识	viui
+知识	viu
+指示	viui
 二十	erui
 称为	igww
 消失	xnui

@@ -30,8 +30,8 @@
 #
 # 示例配置如下：
 
-[自用-鹤仓]
-name=自用-鹤仓
+[鹤仓]
+name=鹤仓
 file=heom.txt
 f=char_left_code_right
 d=\t

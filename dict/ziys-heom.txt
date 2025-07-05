@@ -73,6 +73,7 @@ _	;b
 内侧	nwce
 歪斜	wdxp
 活生生	huug
+心惊胆颤	xjdi
 此起彼落	cqbl
 又惊又喜	yjyx
 不急不缓	bjbh
@@ -6236,7 +6237,6 @@ AA制	aavi
 发黑	fahw
 发话	fahx
 发昏	fahy
-发出	faiu
 法场	faih
 发颤	faij
 发春	faiy
@@ -82004,7 +82004,6 @@ $	ofhb
 𥥿	ufjf
 𠃫	ufjs
 覾	ufju
-審	ufj
 審	ufjw
 昚	ufka
 㚞	ufkd

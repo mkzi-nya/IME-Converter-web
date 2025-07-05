@@ -47190,7 +47190,7 @@ IP地址	ipdv
 怨	yrn
 耶	yes
 仰	yho
-翼	yis
+翼	yisc
 窑	ycj
 姻	ybv
 郁	yuk

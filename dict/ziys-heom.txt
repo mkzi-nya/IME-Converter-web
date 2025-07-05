@@ -74,7 +74,9 @@ _	;b
 歪斜	wdxp
 全力	qrli
 术法	uufa
+烟雾	yjw
 活生生	huug
+无以言表	wyyb
 心惊胆颤	xjdi
 此起彼落	cqbl
 又惊又喜	yjyx
@@ -51392,6 +51394,7 @@ $	ofhb
 一丝	ys
 保命	bcmk
 影影绰绰	yyii
+蒸汽	vgqi
 覺	jth
 錒	aacr
 𨉚	aahu

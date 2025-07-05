@@ -12920,7 +12920,6 @@ IP地址	ipdv
 出牌	iupd
 触碰	iupg
 触屏	iupk
-出去	iuqu
 出勤	iuqb
 初期	iuqi
 出钱	iuqm
@@ -51418,6 +51417,7 @@ $	ofhb
 神庙	ufmn
 疾呼	jihu
 惊觉	jkjt
+雷击	lwji
 覺	jth
 錒	aacr
 𨉚	aahu

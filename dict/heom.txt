@@ -40367,7 +40367,7 @@ IP地址	ipdv
 否	fz
 妇	fuv
 奋	ffk
-幅	ful
+幅	fulw
 饭	fjn
 付	fuo
 罚	faw

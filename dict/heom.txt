@@ -47793,7 +47793,7 @@ IP地址	ipdv
 孜	zin
 佐	zoom
 噪	zcr
-灶	zcf
+灶	zcfg
 淄	ziew
 砸	zam
 赃	zhb
@@ -51401,6 +51401,11 @@ $	ofhb
 观星台	gxt
 寒意	hjyi
 统治	tsvi
+侍从	uics
+鲛人	jnrf
+格子	gezi
+算筹	sriz
+天狼星	tlx
 覺	jth
 錒	aacr
 𨉚	aahu

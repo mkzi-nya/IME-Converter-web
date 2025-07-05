@@ -25,6 +25,7 @@
 _	;b
 「	;n
 」	;m
+牆	qlv	
 积雪	jixt
 尸体	uit
 湛蓝	vjl
@@ -70,6 +71,7 @@ _	;b
 大概	dagd
 冻住	dsvu
 内侧	nwce
+歪斜	wdxp
 活生生	huug
 此起彼落	cqbl
 又惊又喜	yjyx
@@ -39555,7 +39557,7 @@ IP地址	ipdv
 欂	bodi
 不	bum
 本	bfd
-别	bpr
+別	bpr
 币	bihb
 逋	buyb
 必须	bx
@@ -41395,6 +41397,7 @@ IP地址	ipdv
 好无聊	hwl
 核武器	hwq
 红外线	hwx
+畫	hxl
 候选栏	hxl
 换一个	hyg
 好意思	hys
@@ -42560,7 +42563,7 @@ IP地址	ipdv
 裉	kfl
 诳	kli
 髁	kebd
-剀	kdun
+剀	kdu
 诓	klig
 箜	ksh
 蒉	kvto
@@ -43668,6 +43671,7 @@ IP地址	ipdv
 倪	nio
 怒	nu
 恼	ncp
+妳	niv
 妮	niv
 奴	nuv
 挠	ncq
@@ -44427,7 +44431,7 @@ IP地址	ipdv
 衾	qbov
 鲭	qkn
 亲	qky
-嫱	qlv
+嫱	qlvw
 筇	qsh
 犰	qqkn
 佥	qmom
@@ -47121,6 +47125,7 @@ IP地址	ipdv
 勇	ysn
 遗	yiyo
 裔	yiy
+逸	yiy
 邀	ycy
 援	yrq
 盐	yjg
@@ -47221,9 +47226,8 @@ IP地址	ipdv
 雁	yjmg
 秧	yhhk
 渊	yrel
-禹	yuh
+禹	yuhi
 俞	yuon
-逸	yiyi
 逸	yiyu
 崖	yau
 苑	yrt
@@ -48615,7 +48619,7 @@ GDP	gdp
 梵	fjd
 矾	fjm
 敷	fuik
-蜉	ful
+蜉	fuld
 脯	fubb
 凫	fup
 俯	fuo
@@ -51363,6 +51367,7 @@ $	ofhb
 显示	x
 有时	y
 自动	z
+複	ful
 为什么	wsm
 无差别	wibp
 干什么	gsme
@@ -55704,6 +55709,7 @@ $	ofhb
 婝	dmvo
 𪑩	dmwc
 㸃	dmwf
+點	dmw
 點	dmwr
 齻	dmyc
 𱌺	dmyc
@@ -57077,6 +57083,7 @@ $	ofhb
 䣹	fami
 琺	fami
 𤣹	famk
+發	fan
 發	fane
 発	fanp
 𤇰	faof
@@ -57758,10 +57765,10 @@ $	ofhb
 頫	fulc
 䫍	fulc
 蝜	fulc
-複	fule
 帗	fule
 袚	fule
 𧕡	fule
+複	fule
 蚹	fuli
 袝	fuli
 𢂆	fuli
@@ -59774,6 +59781,7 @@ $	ofhb
 𱍅	gzni
 𡗁	gznk
 𡖑	gznm
+夠	gzn
 夠	gznr
 𬲯	gznr
 傋	gzob
@@ -61216,8 +61224,9 @@ $	ofhb
 𦁷	hsvi
 𫟄	hsvi
 𰬋	hsvi
-紅	hsvm
 妅	hsvm
+紅	hsv
+紅	hsvm
 𱖀	hswa
 𡇳	hswl
 𩐠	hsyc
@@ -66531,6 +66540,7 @@ $	ofhb
 潏	jteb
 泬	jtec
 𪁠	jtef
+決	jte
 決	jtek
 㵐	jteo
 灍	jteo
@@ -74011,6 +74021,7 @@ $	ofhb
 𦂍	novr
 㛂	novu
 𣃽	noyn
+諾	noy
 諾	noyr
 逽	noyr
 闑	npad
@@ -76517,8 +76528,8 @@ $	ofhb
 𨄚	qlvo
 牄	qlvr
 㛨	qlvu
-牆	qlvw
 嬙	qlvw
+牆	qlvw
 謒	qlyr
 𪙎	qlyr
 𧇞	qlyu
@@ -76538,6 +76549,7 @@ $	ofhb
 鶼	qmcf
 𨰂	qmcf
 𪈇	qmcf
+錢	qmc
 錢	qmci
 鈆	qmci
 𢧥	qmci
@@ -81989,6 +82001,7 @@ $	ofhb
 𥥿	ufjf
 𠃫	ufjs
 覾	ufju
+審	ufj
 審	ufjw
 昚	ufka
 㚞	ufkd
@@ -85069,11 +85082,13 @@ $	ofhb
 𡭇	vrjb
 鷒	vrjf
 𦄯	vrjf
+轉	vrj
+專	vrj
+専	vrji
+転	vrji
+叀	vrji
 轉	vrji
 專	vrji
-専	vrji
-叀	vrji
-転	vrji
 鄟	vrjl
 剸	vrjn
 甎	vrjn
@@ -89919,6 +89934,7 @@ $	ofhb
 逡	xyye
 遜	xyyf
 訙	xyyi
+訊	xyy
 訊	xyyj
 訊	xyyk
 䛜	xyyk
@@ -93094,10 +93110,11 @@ $	ofhb
 𨗝	yuhb
 𩘻	yuhb
 𬲆	yuhb
-與	yuhc
-鴥	yuhc
+與	yuh
 穥	yuhc
+鴥	yuhc
 籅	yuhc
+與	yuhc
 籲	yuhc
 軉	yuhc
 輿	yuhc

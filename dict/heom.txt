@@ -75,6 +75,7 @@ _	;b
 全力	qrli
 术法	uufa
 烟雾	yjw
+鲛人	jnrf
 活生生	huug
 无以言表	wyyb
 心惊胆颤	xjdi
@@ -51402,7 +51403,6 @@ $	ofhb
 寒意	hjyi
 统治	tsvi
 侍从	uics
-鲛人	jnrf
 格子	gezi
 算筹	sriz
 天狼星	tlx

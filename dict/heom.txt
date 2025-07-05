@@ -46792,7 +46792,7 @@ IP地址	ipdv
 缬	xpvo
 馐	xqn
 歆	xbyo
-邂	xpy
+邂	xpyq
 黠	xxw
 跹	xmr
 见	xmb
@@ -46968,7 +46968,7 @@ IP地址	ipdv
 弦	xmni
 霄	xnmb
 瑕	xxme
-𬹼	xpy
+𬹼	xpyl
 现在	xz
 需要	xy
 希望	xw
@@ -88872,6 +88872,7 @@ $	ofhb
 𢿡	xpye
 𰕐	xpye
 𧭠	xpyf
+謝	xpy
 謝	xpyi
 㱔	xpyi
 𧓂	xpyi

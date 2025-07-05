@@ -66,12 +66,18 @@ _	;b
 合起	heqi
 那很	nahf
 溢出	yiiu
+黯淡	andj
+大概	dagd
+冻住	dsvu
+内侧	nwce
 活生生	huug
+此起彼落	cqbl
 又惊又喜	yjyx
 不急不缓	bjbh
 收发自如	ufzr
 空空荡荡	kkdd
 惊疑不定	jybd
+救人一命胜造七级浮屠	jrym
 依	yiov
 翅	iij
 阿爸	aaba
@@ -33584,6 +33590,7 @@ IP地址	ipdv
 相撞	xlvl
 相中	xlvs
 相助	xlvu
+響	xlva
 心理障碍	xlva
 心理准备	xlvb
 向外	xlwd
@@ -37167,7 +37174,6 @@ IP地址	ipdv
 预约	yuyt
 一生一世	yuyu
 有始有终	yuyv
-亦师亦友	yuyy
 影视作品	yuzp
 一失足成千古恨	yuzh
 玉簪	yuzj
@@ -39808,7 +39814,8 @@ IP地址	ipdv
 打	daq
 搭	daq
 大	da
-地	di
+第	di
+滴	di
 到	dc
 对	dv
 多	do
@@ -39819,7 +39826,6 @@ IP地址	ipdv
 得	de
 得	dw
 电	dml
-第	dih
 代	dd
 当	dh
 度	dui
@@ -40080,7 +40086,7 @@ IP地址	ipdv
 骶	dibm
 骶	dibi
 柁	dodp
-啖	djr
+啖	djrf
 蔸	dzt
 菪	dhtr
 嶝	dgu
@@ -40343,7 +40349,6 @@ IP地址	ipdv
 负	fun
 富	fuj
 份	ffo
-房	fhh
 房	fhi
 房	fhm
 防	fhn
@@ -40455,6 +40460,8 @@ IP地址	ipdv
 吩	ffr
 茯	futk
 彷	fhh
+舫	fhh
+房	fhh
 忿	ffc
 吠	fwrk
 宓	fujh
@@ -43133,7 +43140,7 @@ IP地址	ipdv
 塱	lhig
 㮾	lhid
 峛	liu
-丽	limb
+丽	lim
 璃	limb
 醨	limb
 㰀	lide
@@ -43195,7 +43202,6 @@ IP地址	ipdv
 龙	lsi
 乱	lrh
 礼	limu
-丽	limb
 陵	lkne
 璐	lumr
 靓	llqu
@@ -47038,6 +47044,7 @@ IP地址	ipdv
 因	yb
 院	yrn
 原	yrm
+願	yrm
 研	yjm
 厌	yjm
 运	yyy
@@ -47426,7 +47433,7 @@ IP地址	ipdv
 桠	yad
 胤	yblu
 蝣	yzl
-瑗	yrm
+瑗	yrme
 嘤	ykrv
 疣	yzk
 炀	yhfh
@@ -47835,7 +47842,6 @@ IP地址	ipdv
 訾	ziyr
 滓	ziej
 糌	zjf
-锱	zio
 枞	zsdo
 瓒	zjm
 樽	zyd
@@ -47916,6 +47922,7 @@ IP地址	ipdv
 早	zca
 怎	zfo
 仔	zio
+锱	zio
 在线	zx
 自己	zj
 作品	zp
@@ -50233,6 +50240,7 @@ GDP	gdp
 阴盛阳衰	yuyu
 有说有笑	yuyx
 莺声燕语	yuyy
+亦师亦友	yuyy
 怨声载道	yuzd
 咬舌自尽	yuzj
 言之有理	yvyl
@@ -51332,7 +51340,7 @@ $	ofhb
 安装	a
 比较	b
 词库	c
-大概	d
+地	d
 嗯嗯	e
 复杂	f
 关系	g
@@ -51372,7 +51380,10 @@ $	ofhb
 硬生生	yuug
 折线	vexm
 遇事不决	yubj
-多喝热水	dhru覺	jth
+多喝热水	dhru
+一丝	ys
+保命	bcmk
+覺	jth
 錒	aacr
 𨉚	aahu
 𨉚	aahv
@@ -54083,6 +54094,7 @@ $	ofhb
 𥠩	cjhp
 𦪜	cjhp
 𠫭	cjif
+參	cji
 參	cjih
 𬤄	cjih
 䗝	cjii
@@ -55461,8 +55473,9 @@ $	ofhb
 擔	djqr
 𧭃	djqr
 抌	djqu
-單	djrj
+單	djr
 嘾	djrj
+單	djrj
 噉	djrk
 鄲	djrl
 唌	djrm
@@ -56135,6 +56148,7 @@ $	ofhb
 剬	drun
 媏	drvb
 緞	drve
+斷	drv
 斷	drvl
 㫁	drvl
 昸	dsam
@@ -56972,6 +56986,7 @@ $	ofhb
 衈	erhj
 𪕔	erhj
 𤽓	erhm
+兒	erh
 兒	erhu
 𪕨	erhu
 貳	eric
@@ -61031,6 +61046,7 @@ $	ofhb
 㪱	hryk
 𨕹	hrym
 𠟼	hryn
+還	hry
 還	hryv
 晎	hsac
 閧	hsac
@@ -64892,9 +64908,10 @@ $	ofhb
 継	jivd
 𦁳	jivd
 級	jive
-幾	jivi
+幾	jiv
 繼	jivi
 㡭	jivi
+幾	jivi
 緝	jivj
 幾	jivk
 姫	jivl
@@ -67323,6 +67340,7 @@ $	ofhb
 開	kdaj
 𨴆	kdan
 閡	kdao
+開	kda
 開	kdat
 暟	kdat
 闓	kdat
@@ -68798,6 +68816,7 @@ $	ofhb
 艻	lets
 𱛔	leui
 屴	leus
+樂	lev
 樂	levd
 𩐾	leye
 韷	leyu
@@ -69136,7 +69155,7 @@ $	ofhb
 𤗫	lilb
 蟍	lild
 𧑇	lild
-裡	lilg
+裡	lil
 䙰	lilg
 𧋎	lilg
 𧕮	lilg
@@ -69876,7 +69895,7 @@ $	ofhb
 䀶	llbv
 鍄	llcf
 𣓈	lldb
-樑	lldd
+樑	lld
 鿄	lled
 涼	llef
 鿌	llef
@@ -74305,9 +74324,10 @@ $	ofhb
 䲎	nwnk
 鯘	nwnv
 鮾	nwnv
-內	nwob
+內	nwo
 㐻	nwob
 氝	nwob
+內	nwob
 𠑛	nwok
 餧	nwov
 餒	nwov
@@ -79470,6 +79490,7 @@ $	ofhb
 𨣢	svmo
 㻪	svms
 㻽	svms
+隨	svn
 隨	svnb
 𬳅	svnb
 鐆	svnc
@@ -79914,6 +79935,7 @@ $	ofhb
 縚	tcvx
 𬘺	tcvx
 詜	tcye
+討	tcy
 討	tcyi
 䚯	tcyn
 䛌	tcyu
@@ -80538,6 +80560,7 @@ $	ofhb
 𦌪	tjwf
 黮	tjwv
 䜖	tjyc
+談	tjy
 談	tjyf
 𪉧	tjyf
 𧫿	tjyi
@@ -87845,7 +87868,6 @@ $	ofhb
 㟄	xluq
 𡹷	xluq
 㟟	xluu
-響	xlva
 蚃	xlvi
 蠁	xlvi
 鄉	xlvl
@@ -94118,6 +94140,7 @@ $	ofhb
 賊	zebj
 贼	zebk
 賊	zebk
+則	zeb
 則	zebn
 𠟻	zebn
 䯔	zebp

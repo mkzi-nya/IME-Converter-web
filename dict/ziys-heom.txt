@@ -69972,6 +69972,7 @@ $	ofhb
 䁠	lmbc
 膁	lmbc
 𫎨	lmbm
+臉	lmb
 臉	lmbo
 𧸘	lmbo
 瞵	lmbq
@@ -75855,6 +75856,7 @@ $	ofhb
 誛	qbye
 𩐙	qbyl
 𪙟	qbym
+親	qby
 親	qbyu
 暣	qiad
 㬤	qiaf

@@ -72,6 +72,7 @@ _	;b
 冻住	dsvu
 内侧	nwce
 歪斜	wdxp
+全力	qrli
 活生生	huug
 心惊胆颤	xjdi
 此起彼落	cqbl
@@ -80,7 +81,6 @@ _	;b
 收发自如	ufzr
 空空荡荡	kkdd
 惊疑不定	jybd
-影影绰绰	yyii
 救人一命，胜造七级浮屠	jrym
 救人一命胜造七级浮屠	jrym
 依	yiov
@@ -51390,6 +51390,7 @@ $	ofhb
 多喝热水	dhru
 一丝	ys
 保命	bcmk
+影影绰绰	yyii
 覺	jth
 錒	aacr
 𨉚	aahu

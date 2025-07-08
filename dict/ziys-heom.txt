@@ -72060,6 +72060,7 @@ $	ofhb
 嚒	meri
 暪	mfab
 𨴺	mfai
+門	mfa
 門	mfan
 閅	mfan
 悶	mfap
@@ -93984,6 +93985,7 @@ $	ofhb
 𤱎	yzws
 𡈵	yzwv
 迶	yzyb
+遊	yzy
 遊	yzyd
 斿	yzyd
 䢊	yzyd
@@ -95129,6 +95131,9 @@ $	ofhb
 𠀳	yixx
 ー	org
 莪	ccwo
+¿	fwh
+cd /storage/emulated/0/.ck/heom/code/ && git pull origin main	ggxb
+sh /storage/emulated/0/.ck/heom/code/11.sh	tijn
 巭孬嫑夯昆勥茓	gfbh
 查分器	ifqi
 git add . && git commit -m "meow" && git push origin main	push

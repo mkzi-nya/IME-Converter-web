@@ -72060,6 +72060,7 @@ $	ofhb
 嚒	meri
 暪	mfab
 𨴺	mfai
+門	mfa
 門	mfan
 閅	mfan
 悶	mfap
@@ -93984,6 +93985,7 @@ $	ofhb
 𤱎	yzws
 𡈵	yzwv
 迶	yzyb
+遊	yzy
 遊	yzyd
 斿	yzyd
 䢊	yzyd

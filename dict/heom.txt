@@ -38,6 +38,7 @@ _	;b
 通灵	tslk
 食物	uiwu
 事物	uiwu
+盲盒	mhhe
 大地	dadi
 顶上	dkuh
 惨白	cjbd

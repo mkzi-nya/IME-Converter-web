@@ -43643,7 +43643,6 @@ IP地址	ipdv
 呢	nirp
 哪	nwr
 牛	nq
-你	ni
 泥	ni
 诺	noi
 您	nb

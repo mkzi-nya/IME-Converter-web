@@ -24096,8 +24096,6 @@ IP地址	ipdv
 人头马	rtma
 如图所示	rtsu
 热腾腾	rttg
-人头税	rtuv
-如不	rubu
 乳白	rubd
 人善被人欺	rubq
 入室操戈	rucg
@@ -44606,7 +44604,7 @@ IP地址	ipdv
 燃	rjf
 扰	rcq
 绒	rsv
-乳	rubu
+乳	rub
 锐	rvo
 壤	rhg
 柔	rzn

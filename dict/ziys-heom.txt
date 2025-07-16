@@ -42013,7 +42013,7 @@ IP地址	ipdv
 拣	jmqc
 拣	jmqd
 搅	jnq
-鞠	jut
+鞠	jutd
 姬	jivl
 龟	jyn
 绞	jnvk
@@ -42094,7 +42094,6 @@ IP地址	ipdv
 阱	jkn
 旌	jkym
 迳	jkym
-莒	jutr
 粳	jkfk
 矍	jtb
 靓	jkqu
@@ -44404,6 +44403,7 @@ IP地址	ipdv
 戕	qlvi
 扦	qmq
 苣	qut
+莒	jut
 颀	qih
 亓	qiml
 碛	qimo

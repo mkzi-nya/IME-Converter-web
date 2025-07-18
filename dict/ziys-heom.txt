@@ -74,6 +74,7 @@ _	;b
 歪斜	wdxp
 全力	qrli
 术法	uufa
+入坑	rukg
 烟雾	yjw
 鲛人	jnrf
 活生生	huug
@@ -32752,7 +32753,6 @@ IP地址	ipdv
 稳坐钓鱼台	wzdt
 外祖父	wzfu
 妄自菲薄	wzfb
-王子犯法与庶民同罪	wzfz
 望子成龙	wzil
 五脏俱全	wzjq
 无则加勉	wzjm
@@ -45526,7 +45526,8 @@ IP地址	ipdv
 狩	uzk
 涮	ure
 赎	uub
-庶	uui
+庶	uuif
+术	uui
 煽	ujfm
 赦	ueg
 赊	ueb
@@ -95138,6 +95139,8 @@ msbt.seku.su	jmwv
 cd /storage/emulated/0/.ck/heom/code/ && git pull origin main	ggxb
 sh /storage/emulated/0/.ck/heom/code/11.sh	tijn
 巭孬嫑夯昆勥茓	gfbh
+术力口	ulkz
+ボカロ	ulkz
 查分器	ifqi
 git add . && git commit -m "meow" && git push origin main	push
 git pull origin main	pull

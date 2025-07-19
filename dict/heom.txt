@@ -42805,7 +42805,7 @@ IP地址	ipdv
 垒	lwi
 梨	lihd
 陋	lzn
-螺	lol
+螺	lolf
 麟	lbi
 芦	lut
 谅	lli

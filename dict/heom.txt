@@ -86,6 +86,7 @@ _	;b
 收发自如	ufzr
 空空荡荡	kkdd
 惊疑不定	jybd
+哇哇大叫	wwdj
 救人一命，胜造七级浮屠	jrym
 救人一命胜造七级浮屠	jrym
 依	yiov
@@ -46687,7 +46688,7 @@ IP地址	ipdv
 恤	xup
 犀	xisq
 浚	xyee
-屑	xpsb
+屑	xps
 墟	xug
 嚣	xnrr
 栩	xud
@@ -51426,8 +51427,10 @@ $	ofhb
 复读	fudu
 好耶	hcye
 氪金	kejb
+世间	uijm
 惊惧交加	jjjj
 这是什么	vusm
+今夕	jbxi
 覺	jth
 錒	aacr
 𨉚	aahu

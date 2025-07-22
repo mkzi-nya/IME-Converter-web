@@ -1827,6 +1827,7 @@ AA制	aavi
 败军	bdjy
 掰开	bdkd
 百科	bdke
+兡	bdke
 遍地开花	bdkh
 猈	bdkj
 不大可能	bdkn
@@ -7129,6 +7130,7 @@ Ciallo～(∠・ω< )⌒☆	cial
 𥎢	crnf
 𥎤	crnf
 𨼉	crnn
+𥎣	crnv
 汆	cro
 镩	cro
 𮸏	croe
@@ -13860,6 +13862,7 @@ deepseek	deep
 獖	ffkc
 分开	ffkd
 分科	ffke
+兝	ffke
 粪坑	ffkg
 𬏷	ffko
 𮝷	ffko
@@ -24360,6 +24363,7 @@ github	gith
 殨	hvmc
 靧	hvmc
 𩔁	hvmc
+灰	hvmf
 䃣	hvmf
 𪈑	hvmf
 䝅	hvmg
@@ -36615,6 +36619,7 @@ msbt.seku.su	jmwv
 𨌳	kgjb
 䡩	kgjc
 𨋔	kgji
+兛	kgjj
 𨌶	kgju
 𥥳	kgjy
 奟	kgkb
@@ -37979,6 +37984,7 @@ msbt.seku.su	jmwv
 勘误表	kwbn
 可望而不可即	kwej
 矿务局	kwju
+瓩	kwmj
 科威特	kwte
 可谓是	kwui
 矿物质	kwvi
@@ -39826,6 +39832,7 @@ msbt.seku.su	jmwv
 轹	likd
 𤠫	likd
 立刻	like
+兣	like
 㻎	likg
 㾖	likg
 𤼚	liki
@@ -39992,6 +39999,7 @@ msbt.seku.su	jmwv
 雴	limt
 𥁟	limt
 礼	limu
+礼	limu
 䚕	limu
 𧢝	limu
 𰴗	limu
@@ -44714,6 +44722,7 @@ msbt.seku.su	jmwv
 軞	mcju
 猫	mck
 冇	mckb
+兞	mcke
 茅坑	mckg
 毛孔	mcks
 毛裤	mcku
@@ -48407,8 +48416,10 @@ milthm	milt
 能工巧匠	ngqj
 那个人	ngr
 能人	ngrf
+㕶	ngrm
 𠹌	ngrp
 𨃳	ngrp
+𠮾	ngru
 年过三十	ngsu
 薴	ngtn
 哪管他人瓦上霜	ngtu
@@ -49240,6 +49251,7 @@ milthm	milt
 𫽲	nnqv
 鸟人	nnrf
 泥牛入海	nnrh
+㕶	nnrm
 尿	nns
 𩭑	nnsc
 㞙	nnse
@@ -55822,6 +55834,7 @@ git add . && git commit -m "meow" && git push origin main	push
 𰺉	qmkb
 椠	qmkd
 千克	qmke
+兛	qmke
 𤠿	qmkg
 牵	qmkq
 欠款	qmkr
@@ -56077,6 +56090,7 @@ git add . && git commit -m "meow" && git push origin main	push
 前缀	qmvv
 黔	qmw
 千瓦	qmwa
+瓩	qmwa
 前往	qmwh
 千万	qmwj
 亲密无间	qmwj
@@ -68395,6 +68409,7 @@ sh /storage/emulated/0/.ck/heom/code/11.sh	tijn
 𠡥	uikc
 𤜣	uikd
 时刻	uike
+兙	uike
 石块	uikk
 㹬	uikk
 㹷	uikk
@@ -73164,6 +73179,7 @@ http://mhtlim.top/usage/usage.html	uomk
 之门	vimf
 示	vimf
 鵄	vimf
+𦥏	vimg
 厔	vimg
 祬	vimg
 臸	vimg
@@ -94470,6 +94486,7 @@ http://mhtlim.top/usage/usage.html	uomk
 𣪁	zrmc
 䂎	zrnc
 𥎝	zrno
+𥎣	zrnv
 钻	zro
 饡	zroc
 𬮃	zrof

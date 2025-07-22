@@ -12742,8 +12742,8 @@ deepseek	deep
 斗嘴	dzzv
 刀子嘴豆腐心	dzzx
 二	e
+而	e
 嗯	e
-嗯嗯	e
 え	e
 エ	e
 ㄜ	e
@@ -13207,7 +13207,8 @@ deepseek	deep
 恶评	ep
 耳旁风	epfg
 而且	eq
-而	er
+尔	er
+儿	er
 ㄦ	er
 二八	erba
 臑	erbb

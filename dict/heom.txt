@@ -40261,7 +40261,8 @@ IP地址	ipdv
 大杂烩	dzh
 二	e
 嗯	enr
-而	er
+尔	er
+儿	er
 尔	ern
 额	ee
 儿	erl
@@ -50334,6 +50335,7 @@ GDP	gdp
 达	da
 道	dc
 逗	dz
+而	e
 嗯	e
 非	f
 份	ff
@@ -51353,7 +51355,6 @@ $	ofhb
 比较	b
 词库	c
 地	d
-嗯嗯	e
 复杂	fuza
 复	f
 关系	g

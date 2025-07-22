@@ -42701,6 +42701,7 @@ IP地址	ipdv
 略	ltw
 烈	lpmf
 另	lk
+领	lk
 灵	lks
 聆	lks
 陆	lqn
@@ -95145,3 +95146,10 @@ $	ofhb
 謅	zzyu
 齺	zzyu
 𨑿	zzyu
+兛	qmke
+兙	uike
+兡	bdke
+兞	mcke
+兝	ffke
+兣	like
+瓩	qmwa

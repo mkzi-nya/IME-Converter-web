@@ -1458,7 +1458,6 @@ AA制	aavi
 般配	bjpw
 保健品	bjpb
 搬迁	bjqm
-并驾齐驱	bjqq
 版权	bjqr
 不计其数	bjqu
 不计前嫌	bjqx
@@ -11979,7 +11978,6 @@ AA制	aavi
 晨跑	ifpc
 陈皮	ifpi
 乘风破浪	ifpl
-长风破浪会有时	ifpu
 吃饭去了	ifql
 衬裙	ifqy
 臣妾	ifqp
@@ -36690,6 +36688,7 @@ IP地址	ipdv
 远谋	yrmz
 有容乃大	yrnd
 元年	yrnm
+鸳	yrnm
 冤孽	yrnp
 怨怒	yrnu
 院内	yrnw
@@ -40010,7 +40009,7 @@ IP地址	ipdv
 舵	doh
 殆	ddm
 嘀	dir
-驮	don
+驮	donk
 垛	dog
 黛	ddof
 沌	dye
@@ -40281,10 +40280,10 @@ IP地址	ipdv
 迩	ery
 娥	eev
 鳄	een
-饵	ern
+饵	ernj
 哦	eeri
 洱	erej
-蛾	eeli
+蛾	eel
 噩	eemr
 愕	eep
 讹	eeip
@@ -40302,7 +40301,7 @@ IP地址	ipdv
 锇	eeoi
 颚	eero
 呃	eer
-阏	eel
+阏	eely
 屙	eesr
 苊	eetu
 轭	eeku
@@ -40445,7 +40444,7 @@ IP地址	ipdv
 讽	fgi
 俘	fuod
 咐	furi
-腑	fubi
+腑	fub
 烽	fgf
 孵	fuh
 藩	fjtw
@@ -40685,10 +40684,10 @@ IP地址	ipdv
 雇	gui
 雇	gum
 圭	gvg
-夹	gak
+夹	gakt
 葛	get
 赣	gjy
-轧	gak
+轧	gaku
 刮	gxh
 龚	gsi
 冈	ghb
@@ -41094,7 +41093,7 @@ IP地址	ipdv
 恨	hfp
 凰	hlh
 悔	hvp
-郝	hcg
+郝	hcgl
 痕	hfk
 吓	hery
 徊	hkh
@@ -41164,7 +41163,7 @@ IP地址	ipdv
 骇	hdn
 珩	hgmn
 鹄	huh
-壕	hcgo
+壕	hcg
 荤	hyt
 蕙	hvtp
 琥	humn
@@ -41213,7 +41212,7 @@ IP地址	ipdv
 齁	hzh
 洹	hrem
 浣	hreu
-豢	hrf
+豢	hrfo
 桧	hvd
 貉	hcb
 貉	heb
@@ -41463,6 +41462,7 @@ IP地址	ipdv
 呈	igr
 触	iun
 雏	iun
+雏	iung
 楚	iud
 撤	ieq
 窗	il
@@ -41531,7 +41531,7 @@ IP地址	ipdv
 矗	iujv
 娼	ihv
 辍	iok
-忱	ifpu
+忱	ifp
 茬	iatg
 揣	ikq
 唇	iym
@@ -41555,6 +41555,7 @@ IP地址	ipdv
 椿	iyd
 锄	iuo
 褚	iula
+岔	iac
 岔	iacu
 澈	iee
 郴	ifd
@@ -42660,7 +42661,6 @@ IP地址	ipdv
 力	lik
 利	lih
 量	lla
-里	li
 理	li
 两	ll
 路	lu
@@ -42678,7 +42678,7 @@ IP地址	ipdv
 啦	la
 拉	laq
 律	lvh
-历	lim
+历	li
 类	lw
 累	lw
 连	lm
@@ -42818,7 +42818,6 @@ IP地址	ipdv
 庐	luis
 隶	lile
 仑	lyop
-栗	limd
 磊	lwm
 纶	lyv
 碌	lum
@@ -42887,7 +42886,7 @@ IP地址	ipdv
 琉	lqmv
 苓	lkti
 苓	lktl
-卤	luyk
+卤	luy
 斓	ljy
 摞	loq
 珑	lsmp
@@ -42974,7 +42973,6 @@ IP地址	ipdv
 郦	liml
 踉	llr
 躏	lbr
-戮	lusi
 褴	ljl
 阆	lhlv
 鲢	lmn
@@ -43118,6 +43116,7 @@ IP地址	ipdv
 髎	lnbh
 啰	lorn
 箓	luh
+戮	lus
 勠	lus
 舲	lkhi
 舲	lkhl
@@ -43147,6 +43146,7 @@ IP地址	ipdv
 㮾	lhid
 峛	liu
 丽	lim
+栗	lim
 璃	limb
 醨	limb
 㰀	lide
@@ -44634,7 +44634,7 @@ IP地址	ipdv
 嚷	rhr
 睿	rvy
 偌	roo
-褥	ruli
+褥	rul
 芮	rvtb
 茸	rstj
 揉	rzq
@@ -45531,7 +45531,7 @@ IP地址	ipdv
 赎	uub
 庶	uuif
 术	uui
-煽	ujfm
+煽	ujf
 赦	ueg
 赊	ueb
 姗	ujv
@@ -46215,7 +46215,6 @@ IP地址	ipdv
 睁只眼闭只眼	vvy
 债务人	vwr
 真心话	vxh
-中心区	vxq
 这些人	vxr
 这下子	vxz
 这一回	vyh
@@ -46503,7 +46502,6 @@ IP地址	ipdv
 些	xp
 系	xi
 西	xi
-西	xim
 惜	xip
 项	xlm
 先	xm
@@ -46665,6 +46663,7 @@ IP地址	ipdv
 歇	xpa
 鑫	xbcc
 锈	xqo
+锈	xqos
 芯	xbt
 媳	xiv
 熏	xyh
@@ -46726,6 +46725,7 @@ IP地址	ipdv
 筱	xnhk
 炫	xrf
 靴	xtt
+靴	xttp
 削	xtf
 戌	xui
 鲟	xyn
@@ -47203,7 +47203,7 @@ IP地址	ipdv
 幽	yzu
 寓	yujb
 悦	ytp
-孕	yyn
+孕	yynd
 婴	ykb
 蛇	yilp
 溢	yie
@@ -47240,6 +47240,7 @@ IP地址	ipdv
 蔚	yuti
 芽	yat
 荫	ybt
+榆	yud
 榆	yudn
 曰	yta
 愚	yuwp
@@ -47269,6 +47270,7 @@ IP地址	ipdv
 冤	yrb
 寅	ybjc
 咏	ysr
+咏	ysro
 育	yuy
 虞	yuyk
 屿	yuu
@@ -47644,7 +47646,7 @@ IP地址	ipdv
 缊	yyvt
 妘	yyvi
 祐	yzi
-祐	yzm
+祐	yzmr
 槱	yzdf
 耰	yzqe
 𬮱	yblg
@@ -48386,7 +48388,7 @@ GDP	gdp
 全套	qrt
 取笑	qux
 忍了	rfl
-任职	rfv
+任职	rfvi
 韧性	rfx
 若是	rou
 乳汁	ruv
@@ -48697,7 +48699,7 @@ GDP	gdp
 泠	lke
 囹	lkw
 羚	lkt
-粱	lle
+粱	lled
 骝	lqn
 蝥	mcn
 麋	mii
@@ -50336,7 +50338,7 @@ GDP	gdp
 非	f
 份	ff
 疯	fg
-复	fu
+服	fu
 管	g
 搞	gc
 钙	gd
@@ -51352,13 +51354,15 @@ $	ofhb
 词库	c
 地	d
 嗯嗯	e
-复杂	f
+复杂	fuza
+复	f
 关系	g
 忽略	h
 重新	i
 键盘	j
 可以	k
-理解	l
+里	l
+理解	lijp
 目录	m
 内容	n
 哦哦	o
@@ -51395,6 +51399,7 @@ $	ofhb
 一丝	ys
 保命	bcmk
 影影绰绰	yyii
+并驾齐驱	bjqq
 蒸汽	vgqi
 交织	jnvi
 幻境	hrjk
@@ -51434,6 +51439,7 @@ $	ofhb
 这是什么	vusm
 今夕	jbxi
 盗号	dchc
+中心区	vxq
 㕶	ngrm
 㕶	nnrm
 礼	limu
@@ -93904,8 +93910,9 @@ $	ofhb
 䖻	yzlv
 蝤	yzlw
 酭	yzmb
-憂	yzme
+憂	yzm
 𥜚	yzme
+憂	yzme
 𣁨	yzmk
 鄾	yzml
 𠨦	yzml

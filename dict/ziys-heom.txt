@@ -3219,8 +3219,8 @@ AA制	aavi
 扮	bjqh
 搬迁	bjqm
 㚘	bjqo
-并驾齐驱	bjqq
 拌	bjqq
+并驾齐驱	bjqq
 版权	bjqr
 不计其数	bjqu
 不计前嫌	bjqx
@@ -10918,7 +10918,6 @@ deepseek	deep
 𩃒	domm
 夺目	domu
 堕	don
-驮	don
 隋	donb
 䲊	donb
 陏	donb
@@ -10928,6 +10927,7 @@ deepseek	deep
 墮	dong
 夛	doni
 多难	donj
+驮	donk
 多年	donm
 陊	donn
 刴	donn
@@ -12886,10 +12886,9 @@ deepseek	deep
 𤹺	eekt
 轭	eeku
 妿	eekv
-阏	eel
+蛾	eel
 饿了	eele
 𮤸	eelf
-蛾	eeli
 𧔼	eeli
 𧚄	eeli
 𢃲	eelj
@@ -12901,6 +12900,7 @@ deepseek	deep
 𧊜	eelu
 𧌄	eelu
 𧌄	eelv
+阏	eely
 恶	eem
 厄	eem
 鹅毛	eemc
@@ -13306,12 +13306,12 @@ deepseek	deep
 𣩚	ermr
 耳目	ermu
 尔	ern
-饵	ern
 隭	ernb
 𩱓	ernb
 二奶	ernd
 而能	erng
 𡦕	erni
+饵	ernj
 𱅋	ernj
 鲕	ernl
 陑	ernl
@@ -13451,7 +13451,7 @@ deepseek	deep
 恶作剧	ezju
 发	f
 非	f
-复杂	f
+复	f
 ㄈ	f
 法	fa
 閥	faai
@@ -15116,7 +15116,7 @@ deepseek	deep
 风调雨顺	ftyu
 繁体字	ftzi
 副	fu
-复	fu
+服	fu
 ふ	fu
 フ	fu
 暊	fuac
@@ -15128,6 +15128,7 @@ deepseek	deep
 𣆵	fuax
 服	fub
 赋	fub
+腑	fub
 脯	fubb
 𩓖	fubc
 腐败	fubd
@@ -15138,7 +15139,6 @@ deepseek	deep
 䳕	fubf
 𢒒	fubh
 伏笔	fubi
-腑	fubi
 赙	fubi
 胕	fubi
 賻	fubi
@@ -15816,6 +15816,7 @@ deepseek	deep
 浮云	fuyy
 訃	fuyy
 富有	fuyz
+复杂	fuza
 浮躁	fuzc
 负载	fuzd
 负责	fuze
@@ -16292,12 +16293,12 @@ deepseek	deep
 魀	gahl
 公安局	gaju
 軋	gaju
-夹	gak
-轧	gak
 尬	gak
 旮	gaka
 𡯽	gakr
+夹	gakt
 𡯰	gakt
+轧	gaku
 旮旯	gala
 咖喱	gali
 伽马	gama
@@ -20484,12 +20485,12 @@ github	gith
 豪放	hcfh
 好烦	hcfj
 耗费	hcfw
-郝	hcg
+壕	hcg
 好高	hcgc
 好感	hcgj
 好乖	hcgk
+郝	hcgl
 好过	hcgo
-壕	hcgo
 好官	hcgr
 𠢕	hcgs
 㘪	hcgu
@@ -22982,11 +22983,11 @@ github	gith
 澴	hrev
 㶎	hrev
 焕	hrf
-豢	hrf
 焕发	hrfa
 煥	hrfk
 𥏇	hrfk
 𥹚	hrfm
+豢	hrfo
 换肤	hrfu
 糫	hrfv
 换个	hrge
@@ -25464,6 +25465,7 @@ github	gith
 茶杯	iabw
 𦝥	iabx
 𧶵	iabx
+岔	iac
 銟	iacb
 插槽	iacc
 鑔	iacf
@@ -26336,12 +26338,11 @@ github	gith
 儭	ifou
 𬬵	ifou
 𰾘	ifov
+忱	ifp
 晨跑	ifpc
 陈皮	ifpi
 乘风破浪	ifpl
 㥲	ifpp
-长风破浪会有时	ifpu
-忱	ifpu
 愖	ifpv
 抻	ifq
 吃饭去	ifq
@@ -28812,6 +28813,7 @@ php -S 127.0.0.1:8000	iphp
 出纳	iuna
 初生牛犊	iund
 𩿿	iunf
+雏	iung
 初生牛犊不怕虎	iunh
 觸	iuni
 处男	iunj
@@ -38356,7 +38358,7 @@ msbt.seku.su	jmwv
 口子	kzzi
 了	l
 立	l
-理解	l
+里	l
 ㄌ	l
 啦	la
 旯	laan
@@ -39515,8 +39517,8 @@ msbt.seku.su	jmwv
 落花有意	lhyy
 浪子	lhzi
 拉祜族	lhzu
-里	li
 理	li
+历	li
 㬏	liab
 曞	liab
 𰖩	liab
@@ -39813,6 +39815,7 @@ msbt.seku.su	jmwv
 立交	lijn
 𪌱	lijn
 斄	lijo
+理解	lijp
 𢟤	lijp
 犛	lijq
 㹈	lijq
@@ -39885,9 +39888,9 @@ msbt.seku.su	jmwv
 利率	lilv
 理论	lily
 蚸	lily
-历	lim
 励	lim
 丽	lim
+栗	lim
 立马	lima
 暦	lima
 曆	lima
@@ -39905,7 +39908,6 @@ msbt.seku.su	jmwv
 礼貌	limc
 𤳓	limc
 𨬑	limc
-栗	limd
 砾	limd
 礫	limd
 䃯	limd
@@ -41022,7 +41024,7 @@ msbt.seku.su	jmwv
 亮度	lldu
 两对	lldv
 梁	lle
-粱	lle
+粱	lled
 鿄	lled
 涼	llef
 鿌	llef
@@ -43282,13 +43284,13 @@ msbt.seku.su	jmwv
 𨇖	lurt
 录入	luru
 料事如神	luru
+戮	lus
 勠	lus
 䎑	luse
 䎼	luse
 騄	luse
 𩣱	lusg
 鹭鸶	lusi
-戮	lusi
 剹	lusn
 騼	lusp
 𦗓	lusp
@@ -43374,6 +43376,7 @@ msbt.seku.su	jmwv
 陆续	luxu
 老少咸宜	luxy
 卢	luy
+卤	luy
 录音	luyb
 六	luyc
 顱	luyc
@@ -43392,7 +43395,6 @@ msbt.seku.su	jmwv
 鹵	luyi
 𧫓	luyi
 露营	luyk
-卤	luyk
 鸬	luym
 𤮧	luyn
 颅	luyo
@@ -185010,7 +185012,6 @@ python	pyth
 忍受	rfuz
 纫	rfv
 妊	rfv
-任职	rfv
 人渣	rfva
 忍着	rfve
 认真	rfvf
@@ -185023,6 +185024,7 @@ python	pyth
 认账	rfvh
 紉	rfvh
 认知	rfvi
+任职	rfvi
 紉	rfvi
 䌾	rfvj
 紉	rfvk
@@ -185897,11 +185899,11 @@ rime	rime
 㾒	rukr
 入库	ruku
 入口	rukz
+褥	rul
 蠕	rulb
 襦	rulb
 乳酪	rulc
 如来	ruld
-褥	ruli
 蝡	rulk
 入列	rulp
 入流	rulq
@@ -195413,8 +195415,8 @@ sh /storage/emulated/0/.ck/heom/code/11.sh	tijn
 㴸	ujeo
 𰛛	ujeo
 澹	ujer
+煽	ujf
 山峰	ujfg
-煽	ujfm
 烻	ujfm
 𤊼	ujfm
 剡	ujfn
@@ -202291,8 +202293,8 @@ http://mhtlim.top/usage/usage.html	uomk
 𡎬	vxom
 抓拍	vxpd
 众星捧月	vxpy
-中心区	vxq
 挝	vxq
+中心区	vxq
 撾	vxqb
 抓起	vxqi
 抓取	vxqu
@@ -206528,7 +206530,6 @@ http://mhtlim.top/usage/usage.html	uomk
 阋	xilu
 鬩	xilu
 咸吃萝卜淡操心	xilx
-西	xim
 硒	xim
 霫	xima
 豨	ximb
@@ -209321,6 +209322,7 @@ http://mhtlim.top/usage/usage.html	uomk
 饈	xqog
 俢	xqoh
 鸺	xqom
+锈	xqos
 𩛢	xqov
 修配	xqpw
 秀气	xqqi
@@ -210036,6 +210038,7 @@ http://mhtlim.top/usage/usage.html	uomk
 鞾	xttj
 𫖇	xttj
 雪天	xttm
+靴	xttp
 血统	xtts
 䒸	xttt
 学徒	xttu
@@ -216482,6 +216485,7 @@ http://mhtlim.top/usage/usage.html	uomk
 𨸘	yrni
 𢏮	yrnl
 元年	yrnm
+鸳	yrnm
 陨	yrno
 䱲	yrno
 𢐄	yrno
@@ -216849,6 +216853,7 @@ http://mhtlim.top/usage/usage.html	uomk
 𠳀	ysrb
 佣人	ysrf
 噰	ysrg
+咏	ysro
 𠹍	ysrr
 雍容	ysrs
 踴	ysrs
@@ -217300,6 +217305,7 @@ http://mhtlim.top/usage/usage.html	uomk
 鋊	yucr
 鋙	yucr
 渔村	yucy
+榆	yud
 楀	yudb
 栯	yudb
 棛	yudb
@@ -218601,9 +218607,9 @@ http://mhtlim.top/usage/usage.html	uomk
 醞	yymt
 韵母	yymu
 玧	yymu
-孕	yyn
 陨	yyn
 隕	yync
+孕	yynd
 云南	yynj
 一言难尽	yynj
 酝酿	yynl
@@ -219038,11 +219044,11 @@ http://mhtlim.top/usage/usage.html	uomk
 䖻	yzlv
 蝤	yzlw
 游轮	yzly
-祐	yzm
+憂	yzm
 游民	yzmb
 酭	yzmb
-憂	yzme
 𥜚	yzme
+憂	yzme
 油门	yzmf
 有名	yzmk
 𣁨	yzmk
@@ -219053,6 +219059,7 @@ http://mhtlim.top/usage/usage.html	uomk
 幼苗	yzmn
 幽默	yzmo
 㱊	yzmo
+祐	yzmr
 丣	yzms
 𣧥	yzms
 𤤬	yzms

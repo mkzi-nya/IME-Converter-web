@@ -14341,7 +14341,6 @@ IP地址	ipdv
 狡辩	jnbm
 脚步	jnbu
 脚背	jnbw
-交兵	jnbk
 教材	jncd
 窖藏	jnch
 交错	jnco
@@ -22061,7 +22060,6 @@ IP地址	ipdv
 亲朋	qbpg
 琴谱	qbpu
 去不去	qbqu
-亲亲	qbqb
 亲戚	qbqi
 亲情	qbqk
 秦腔	qbql
@@ -35982,7 +35980,6 @@ IP地址	ipdv
 意淫	yiyb
 医药	yiyc
 宜嗔宜喜	yiyx
-一夜	yiye
 一样	yiyh
 意义	yiyi
 遗言	yiyj
@@ -39267,7 +39264,7 @@ IP地址	ipdv
 拜	bdh
 辈	bwlq
 搬	bjq
-搏	boqi
+搏	boq
 悲	bwl
 堡	bcog
 堡	buo
@@ -40267,7 +40264,7 @@ IP地址	ipdv
 阿	eenr
 俄	eeo
 恩	en
-恶	eem
+恶	ee
 耳	ers
 鹅	eeh
 遏	eey
@@ -40418,7 +40415,7 @@ IP地址	ipdv
 蜂	fgl
 阜	fuhj
 馥	fuh
-帆	fjli
+帆	fjl
 袱	fulk
 樊	fjd
 愤	ffp
@@ -40724,9 +40721,9 @@ IP地址	ipdv
 尬	gak
 尴	gjk
 龟	gvn
-竿	gjhj
 帼	goli
 弓	gsn
+竿	gjh
 秆	gjh
 橄	gjdk
 梗	ggd
@@ -40765,7 +40762,8 @@ IP地址	ipdv
 箍	guh
 淦	gje
 汩	guea
-蛤	gel
+袼	gelr
+蛤	gelr
 褂	gxly
 咯	gerr
 羔	gct
@@ -40871,7 +40869,6 @@ IP地址	ipdv
 栝	gxd
 澉	gjek
 槔	gcdj
-袼	gel
 茛	gft
 鞲	gzt
 觏	gzt
@@ -41078,7 +41075,7 @@ IP地址	ipdv
 糊	huf
 悍	hjp
 巷	hht
-罕	hjbj
+罕	hjb
 幻	hrvs
 焊	hjf
 鹤	heom
@@ -42028,7 +42025,7 @@ IP地址	ipdv
 锯	juo
 睫	jpb
 泾	jkem
-剿	jnv
+剿	jnvn
 灸	jqnf
 嚼	jnri
 嚼	jtr
@@ -42734,7 +42731,7 @@ IP地址	ipdv
 洛	loe
 隆	lsn
 炼	lmf
-黎	lihe
+黎	lih
 伦	lyo
 兰	ljt
 卢	luy
@@ -43354,7 +43351,7 @@ IP地址	ipdv
 猫	mck
 魔	moii
 芒	mht
-募	muts
+募	mut
 闽	mbl
 瞄	mnb
 勉	mmns
@@ -45413,7 +45410,6 @@ IP地址	ipdv
 殖	uimv
 舍	ueo
 杀	uak
-烧	ucfu
 陕	ujn
 释	uihq
 赏	uhfo
@@ -45457,7 +45453,7 @@ IP地址	ipdv
 厦	ua
 蚀	uin
 狮	uik
-瘦	uzke
+瘦	uzk
 邵	ucs
 爽	ulk
 莎	uat
@@ -45670,7 +45666,7 @@ IP地址	ipdv
 𬤊	uiio
 𫮃	ujgj
 说	uoi
-少	ucf
+烧	ucf
 顺	uyl
 折	ueql
 衫	ujlh
@@ -45804,7 +45800,7 @@ IP地址	ipdv
 振	vfq
 障	vhn
 择	vdqq
-驻	vung
+驻	vun
 朱	vuhd
 赵	vcg
 钟	vso
@@ -45835,12 +45831,11 @@ IP地址	ipdv
 仲	vsol
 赚	vrb
 诊	vfih
-寨	vdjd
 炸	vaf
 旨	vip
 址	vig
 滞	vieb
-彰	vhyh
+彰	vhy
 哲	veqr
 摘	vdq
 桌	vo
@@ -45882,6 +45877,7 @@ IP地址	ipdv
 肇	vcm
 桩	vld
 窄	vdj
+寨	vdj
 嘱	vur
 贮	vubm
 渣	vae
@@ -48708,7 +48704,7 @@ GDP	gdp
 眄	mmb
 蘑	mot
 摩	moi
-苜	mut
+苜	mutu
 媒	mwv
 匏	pck
 莆	put

@@ -4482,6 +4482,7 @@ AA制	aavi
 剥皮	bopi
 愽	bopi
 播	boq
+搏	boq
 拍	boqa
 㩭	boqd
 挬	boqd
@@ -4489,7 +4490,6 @@ AA制	aavi
 撥	boqe
 㩧	boqe
 勃起	boqi
-搏	boqi
 薄情	boqk
 𢫯	boqk
 博取	boqu
@@ -12772,6 +12772,7 @@ deepseek	deep
 二等奖	edjl
 恩断义绝	edyj
 额	ee
+恶	ee
 恩恩爱爱	eeaa
 𨶯	eeaf
 𤭼	eean
@@ -12901,7 +12902,6 @@ deepseek	deep
 𧌄	eelu
 𧌄	eelv
 阏	eely
-恶	eem
 厄	eem
 鹅毛	eemc
 䫷	eemc
@@ -14770,10 +14770,10 @@ deepseek	deep
 𰺜	fjkw
 犯困	fjky
 犿	fjky
+帆	fjl
 烦劳	fjlc
 烦了	fjle
 范例	fjli
-帆	fjli
 泛滥	fjlj
 饭量	fjll
 翻脸	fjlm
@@ -16914,8 +16914,6 @@ GDP	gdp
 獦	gekv
 𬨍	gekv
 𮝺	gekv
-蛤	gel
-袼	gel
 阁	gel
 阁老	gelc
 隔了	gele
@@ -16923,6 +16921,8 @@ GDP	gdp
 隔离	geli
 虼	geln
 割裂	gelp
+袼	gelr
+蛤	gelr
 蛒	gelr
 𧎺	gelr
 𬮤	gelr
@@ -17617,6 +17617,7 @@ github	gith
 干股	gjgu
 各就各位	gjgw
 国际关系	gjgx
+竿	gjh
 秆	gjh
 干好	gjhc
 凲	gjhc
@@ -17625,7 +17626,6 @@ github	gith
 干涸	gjhe
 𱸜	gjhg
 干旱	gjhj
-竿	gjhj
 稈	gjhj
 筸	gjhj
 簳	gjhj
@@ -21772,13 +21772,13 @@ github	gith
 暵	hjao
 晗	hjar
 晥	hjau
+罕	hjb
 汉堡	hjbc
 𦜆	hjbe
 厚积薄发	hjbf
 合久必分	hjbf
 好景不长	hjbi
 好久不见	hjbj
-罕	hjbj
 睅	hjbj
 豻	hjbj
 䍑	hjbj
@@ -32583,7 +32583,6 @@ msbt.seku.su	jmwv
 䂃	jnbi
 搅拌	jnbj
 𥃪	jnbj
-交兵	jnbk
 胶	jnbk
 覐	jnbk
 賋	jnbk
@@ -32973,7 +32972,6 @@ msbt.seku.su	jmwv
 教授	jnuz
 缴	jnv
 娇	jnv
-剿	jnv
 狡诈	jnva
 嬌	jnvb
 纐	jnvc
@@ -32996,6 +32994,7 @@ msbt.seku.su	jmwv
 嬓	jnvk
 絞	jnvk
 纠	jnvl
+剿	jnvn
 焦灼	jnvo
 较重	jnvs
 勦	jnvs
@@ -39659,6 +39658,7 @@ msbt.seku.su	jmwv
 𫎱	ligs
 厉鬼	ligv
 利	lih
+黎	lih
 篱	lihb
 䅻	lihb
 犡	lihb
@@ -39681,7 +39681,6 @@ msbt.seku.su	jmwv
 𩘟	lihd
 𰤕	lihd
 离合	lihe
-黎	lihe
 㴝	lihe
 䉫	lihe
 䴻	lihe
@@ -47294,7 +47293,7 @@ milthm	milt
 目送	muss
 毣	musu
 幕	mut
-苜	mut
+募	mut
 暮	muta
 莯	mutd
 墓	mutg
@@ -47307,7 +47306,7 @@ milthm	milt
 慕	mutp
 𢜯	mutp
 木桶	muts
-募	muts
+苜	mutu
 木头	mutz
 𡵬	muud
 目视	muui
@@ -180593,7 +180592,6 @@ python	pyth
 钦佩	qbpw
 秦	qbq
 瞧不起	qbq
-亲亲	qbqb
 擒	qbqb
 捦	qbqc
 㩒	qbqf
@@ -193321,14 +193319,13 @@ sh /storage/emulated/0/.ck/heom/code/11.sh	tijn
 烧鹅	ucee
 溲	ucee
 少儿	ucer
-少	ucf
+烧	ucf
 𢼼	ucfe
 燿	ucfg
 烧饭	ucfj
 𨙹	ucfl
 𨛍	ucfl
 少妇	ucfu
-烧	ucfu
 燒	ucfu
 焼	ucfu
 神采飞扬	ucfy
@@ -197352,10 +197349,10 @@ http://mhtlim.top/usage/usage.html	uomk
 稍纵即逝	uzju
 售价	uzjx
 说走就走	uzjz
+瘦	uzk
 狩	uzk
 手铐	uzkc
 授课	uzke
-瘦	uzke
 痩	uzke
 首肯	uzkf
 收看	uzkj
@@ -198053,10 +198050,10 @@ http://mhtlim.top/usage/usage.html	uomk
 长大成人	vdir
 摘除	vdiu
 窄	vdj
+寨	vdj
 战斗机	vdj
 张灯结彩	vdjc
 真的假的	vdjd
-寨	vdjd
 𪀥	vdjf
 𤞮	vdjk
 斋戒	vdjp
@@ -199263,10 +199260,10 @@ http://mhtlim.top/usage/usage.html	uomk
 长兄	vhxs
 朝花夕拾	vhxu
 章	vhy
+彰	vhy
 长牙	vhya
 𪅂	vhyf
 张扬	vhyh
-彰	vhyh
 仗义	vhyi
 𠅹	vhyi
 遧	vhyj
@@ -201817,6 +201814,7 @@ http://mhtlim.top/usage/usage.html	uomk
 劯	vums
 瞩目	vumu
 主谋	vumz
+驻	vun
 陼	vuna
 鯺	vuna
 鬻	vunb
@@ -201828,7 +201826,6 @@ http://mhtlim.top/usage/usage.html	uomk
 𩶄	vund
 𤎧	vunf
 装神弄鬼	vung
-驻	vung
 逐年	vunm
 阻	vunm
 粥	vunn
@@ -214657,7 +214654,6 @@ http://mhtlim.top/usage/usage.html	uomk
 迆	yiyd
 訑	yiyd
 𧦧	yiyd
-一夜	yiye
 毅	yiye
 鷾	yiyf
 𪁚	yiyf

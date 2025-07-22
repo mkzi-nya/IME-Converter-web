@@ -28424,7 +28424,6 @@ php -S 127.0.0.1:8000	iphp
 埫	isgr
 重构	isgz
 重	ish
-种	ish
 虫害	ishd
 重合	ishe
 䳯	ishf
@@ -28436,6 +28435,7 @@ php -S 127.0.0.1:8000	iphp
 𥭥	ishi
 宠坏	ishk
 𢖄	ishk
+种	ishl
 𥫯	ishl
 𨈮	ishl
 𦑝	ishm
@@ -195105,8 +195105,8 @@ sh /storage/emulated/0/.ck/heom/code/11.sh	tijn
 食谱	uipu
 适配	uipw
 失陪	uipw
-拾	uiq
 势	uiq
+拾	uiq
 銴	uiqc
 揓	uiqd
 觢	uiqg
@@ -201229,7 +201229,7 @@ http://mhtlim.top/usage/usage.html	uomk
 转载	vrzd
 专责	vrze
 中	vs
-终	vs
+种	vs
 钟爱	vsai
 𨳗	vsai
 肿	vsb
@@ -201298,14 +201298,14 @@ http://mhtlim.top/usage/usage.html	uomk
 中共	vsgs
 终归	vsgv
 重	vsh
-种	vsh
-種	vshg
+種	vsh
 穜	vshg
 㣫	vshg
 籦	vshg
 𤚏	vshg
 𥷈	vshg
 𨉢	vshg
+種	vshg
 中行	vshh
 螽	vshi
 䇗	vshi
@@ -202699,8 +202699,8 @@ http://mhtlim.top/usage/usage.html	uomk
 骤增	vzzg
 肘子	vzzi
 我	w
-位	w
-位置	w
+为	w
+为什么	w
 挖	wa
 わ	wa
 ワ	wa
@@ -204263,7 +204263,6 @@ http://mhtlim.top/usage/usage.html	uomk
 无所遁形	wsdx
 无所顾忌	wsgj
 𥦷	wsji
-为什么	wsm
 外孙女	wsnv
 文思泉涌	wsqy
 无所适从	wsuc
@@ -204510,7 +204509,6 @@ http://mhtlim.top/usage/usage.html	uomk
 𩒾	wumc
 雾霾	wumd
 𥒀	wumd
-为什么	wume
 䃖	wumf
 瑦	wumf
 璑	wumf
@@ -204853,7 +204851,7 @@ http://mhtlim.top/usage/usage.html	uomk
 为之一振	wvyv
 万众一心	wvyx
 闻者足戒	wvzj
-为	ww
+位	ww
 未	ww
 韪	wwa
 𣈎	wwad
@@ -205409,6 +205407,7 @@ http://mhtlim.top/usage/usage.html	uomk
 蔚为壮观	wwvg
 維	wwvg
 违章	wwvh
+位置	wwvi
 䗽	wwvi
 𰳚	wwvi
 伪装	wwvl

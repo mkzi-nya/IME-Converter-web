@@ -180362,7 +180362,7 @@ git add . && git commit -m "meow" && git push origin main	push
 便宜没好货	pymh
 ぴょ	pyo
 ピョ	pyo
-pyth	python
+python	pyth
 ぴゅ	pyu
 ピュ	pyu
 平庸之辈	pyvb

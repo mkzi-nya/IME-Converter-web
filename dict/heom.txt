@@ -47041,7 +47041,7 @@ IP地址	ipdv
 约	yt
 月	yt
 元	yr
-也	ye
+夜	ye
 与	yu
 员	yrr
 已	yis
@@ -47740,7 +47740,6 @@ IP地址	ipdv
 走	zz
 责	zeq
 则	ze
-再	zd
 载	zd
 族	zuy
 足	zur
@@ -50407,7 +50406,7 @@ GDP	gdp
 严	yj
 园	yr
 友	yz
-子	z
+再	z
 遭	zc
 揍	zz
 坐	zo
@@ -51377,7 +51376,7 @@ $	ofhb
 位置	w
 显示	x
 有时	y
-自动	z
+子	z
 複	ful
 为什么	wsm
 无差别	wibp

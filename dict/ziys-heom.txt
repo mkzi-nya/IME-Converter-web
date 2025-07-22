@@ -212723,7 +212723,7 @@ http://mhtlim.top/usage/usage.html	uomk
 一肚子火	ydzh
 一肚子	ydzi
 一肚子气	ydzq
-也	ye
+夜	ye
 野	ye
 曗	yead
 晔	yeaj
@@ -219292,8 +219292,8 @@ http://mhtlim.top/usage/usage.html	uomk
 ⺀	yzzi
 游走	yzzz
 在	z
+再	z
 子	z
-自动	z
 ㄗ	z
 咋	za
 ざ	za
@@ -219613,7 +219613,6 @@ http://mhtlim.top/usage/usage.html	uomk
 早在	zczd
 枣子	zczi
 遭罪	zczv
-再	zd
 载	zd
 在案	zdan
 𣅃	zday

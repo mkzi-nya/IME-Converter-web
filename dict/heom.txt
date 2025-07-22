@@ -30251,7 +30251,6 @@ IP地址	ipdv
 执勤	viqb
 志气	viqi
 知情	viqk
-咫尺千里	viql
 之前	viqm
 只求	viqq
 职权	viqr
@@ -46632,6 +46631,7 @@ IP地址	ipdv
 契	xpqk
 橡	xldo
 巷	xlt
+翔	xlt
 袖	xql
 卸	xpo
 掀	xmq
@@ -48506,7 +48506,7 @@ GDP	gdp
 相连	xll
 象棋	xlq
 相思	xls
-相通	xlt
+相通	xltd
 巷子	xlz
 消化	xnh
 雄起	xsq

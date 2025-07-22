@@ -199887,7 +199887,6 @@ http://mhtlim.top/usage/usage.html	uomk
 知情	viqk
 㨖	viqk
 𢷸	viqk
-咫尺千里	viql
 掷	viql
 擲	viql
 擳	viql
@@ -207522,9 +207521,10 @@ http://mhtlim.top/usage/usage.html	uomk
 相随	xlsv
 驤	xlsv
 巷	xlt
-相通	xlt
+翔	xlt
 萫	xlta
 𦺣	xltc
+相通	xltd
 鯗	xltf
 𦍴	xltf
 𦎈	xltg

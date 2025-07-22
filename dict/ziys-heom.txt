@@ -194687,6 +194687,7 @@ sh /storage/emulated/0/.ck/heom/code/11.sh	tijn
 上座	uhzo
 事	ui
 十	ui
+诗	ui
 时	uia
 㒾	uiad
 時	uiai

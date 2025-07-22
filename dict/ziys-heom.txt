@@ -15317,7 +15317,7 @@ deepseek	deep
 孵化	fuhx
 复婚	fuhy
 福	fui
-福	fui
+府	fui
 腐	fuib
 甫	fuib
 𩒺	fuic
@@ -15328,7 +15328,6 @@ deepseek	deep
 𤉨	fuif
 扶持	fuii
 俯首称臣	fuii
-府	fuii
 尃	fuii
 祔	fuii
 禣	fuii
@@ -18756,6 +18755,7 @@ github	gith
 公尺	gsii
 𱍁	gsit
 隔三岔五	gsiw
+宫	gsj
 共计	gsj
 公斤	gsjb
 輁	gsjc
@@ -18771,7 +18771,6 @@ github	gith
 𥧂	gsjn
 𥨐	gsjn
 贡酒	gsjq
-宫	gsjr
 宮	gsjr
 𨋝	gsjs
 公爵	gsjt
@@ -186928,7 +186927,7 @@ rime	rime
 丧葬	shzh
 嗓子	shzi
 四	si
-寺	si
+丝	si
 䦙	siai
 四百	sibd
 𧳙	sibe
@@ -186988,6 +186987,7 @@ rime	rime
 燍	sifl
 私服	sifu
 𤆟	sifv
+寺	sig
 搜肠刮肚	sigd
 四个	sige
 死光	sigl
@@ -187211,8 +187211,7 @@ rime	rime
 私塾	siuu
 死水	siuv
 死守	siuz
-缌	siv
-姒	siv
+絲	siv
 㣈	sivb
 私宅	sivd
 死者	sive
@@ -187225,10 +187224,11 @@ rime	rime
 厶	sivi
 丝绸之路	sivl
 𡡒	sivl
-丝	sivm
 鸶	sivm
 纟	sivm
+姒	sivo
 娰	sivo
+缌	sivp
 媤	sivp
 緦	sivp
 㚶	sivr
@@ -200029,13 +200029,13 @@ http://mhtlim.top/usage/usage.html	uomk
 𡸜	viuv
 制售	viuz
 纸	viv
-彘	viv
+织	viv
+紙	viv
 織	viva
 嬂	viva
 㛿	vivb
 𡠹	vivb
 执照	vivc
-织	vivc
 㜱	vivc
 指摘	vivd
 智者	vive
@@ -200061,6 +200061,7 @@ http://mhtlim.top/usage/usage.html	uomk
 妷	vivo
 紩	vivo
 𮉢	vivo
+彘	vivp
 娡	vivp
 綕	vivp
 𬘨	vivp

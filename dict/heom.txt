@@ -40345,6 +40345,7 @@ IP地址	ipdv
 分	ff
 放	fh
 福	fui
+府	fui
 费	fw
 服	fub
 风	fg
@@ -40361,7 +40362,6 @@ IP地址	ipdv
 访	fhi
 飞	fwn
 非	fwl
-福	fui
 夫	fuq
 犯	fjk
 疯	fgk
@@ -40654,7 +40654,6 @@ IP地址	ipdv
 耕	ggq
 跟	gf
 郭	goy
-宫	gsjr
 谷	guc
 概	gdd
 稿	gchb
@@ -44750,7 +44749,7 @@ IP地址	ipdv
 孙	syn
 似	sio
 塞	sdj
-丝	sivm
+丝	si
 森	sf
 萨	sat
 缩	sov
@@ -44877,9 +44876,9 @@ IP地址	ipdv
 埽	scg
 嗍	sorb
 鸶	sivm
-缌	siv
+缌	sivp
 澌	siel
-姒	siv
+姒	sivo
 蔌	sut
 睃	sob
 颡	sheo
@@ -45748,7 +45747,6 @@ IP地址	ipdv
 至	vim
 指	viq
 证	vgi
-织	vivc
 支	vije
 张	vhn
 转	vr
@@ -45801,6 +45799,8 @@ IP地址	ipdv
 植	vidm
 植	vidv
 纸	viv
+织	viv
+紙	viv
 振	vfq
 障	vhn
 择	vdqq
@@ -46081,7 +46081,7 @@ IP地址	ipdv
 祭	vdb
 侧	vdon
 畛	vfwh
-彘	viv
+彘	vivp
 觯	vinj
 锺	vsog
 槠	vuda
@@ -48268,6 +48268,7 @@ GDP	gdp
 关头	grt
 官网	grw
 公会	gsh
+宫	gsj
 共计	gsj
 功名	gsm
 攻破	gsp
@@ -50378,7 +50379,8 @@ GDP	gdp
 忍	rf
 扔	rg
 随	s
-寺	si
+寺	sig
+絲	siv
 涩	se
 它	t
 淘	tc
@@ -57775,7 +57777,6 @@ $	ofhb
 𣀾	fuie
 焤	fuif
 𤉨	fuif
-府	fuii
 尃	fuii
 祔	fuii
 禣	fuii

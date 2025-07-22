@@ -47741,6 +47741,7 @@ IP地址	ipdv
 责	zeq
 则	ze
 载	zd
+自动	zd
 族	zuy
 足	zur
 字	zi
@@ -86711,7 +86712,7 @@ $	ofhb
 𥌰	wwbc
 𦠻	wwbc
 𧸽	wwbc
-爲	wwbf
+爲	wwb
 𥊪	wwbf
 眭	wwbg
 𧳞	wwbg

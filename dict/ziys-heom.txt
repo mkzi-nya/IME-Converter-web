@@ -204867,6 +204867,7 @@ http://mhtlim.top/usage/usage.html	uomk
 𬀩	wwas
 𨴓	wwau
 𨵋	wwav
+爲	wwb
 尾巴	wwba
 𦢿	wwbb
 𧳪	wwbb
@@ -204875,7 +204876,6 @@ http://mhtlim.top/usage/usage.html	uomk
 𦠻	wwbc
 𧸽	wwbc
 为本	wwbf
-爲	wwbf
 𥊪	wwbf
 眭	wwbg
 𧳞	wwbg
@@ -219614,6 +219614,7 @@ http://mhtlim.top/usage/usage.html	uomk
 枣子	zczi
 遭罪	zczv
 载	zd
+自动	zd
 在案	zdan
 𣅃	zday
 躁动不安	zdba

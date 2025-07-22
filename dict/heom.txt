@@ -41556,7 +41556,6 @@ IP地址	ipdv
 锄	iuo
 褚	iula
 岔	iac
-岔	iacu
 澈	iee
 郴	ifd
 逞	igy
@@ -41575,7 +41574,7 @@ IP地址	ipdv
 蠢	iyqi
 踌	izri
 躇	iur
-掣	ieh
+掣	iehq
 叱	iirp
 徜	ihh
 漦	iije
@@ -43845,6 +43844,7 @@ IP地址	ipdv
 农业局	nyj
 弄一下	nyx
 暖洋洋	nyy
+也	o
 哦	o
 喔	oo
 欧	ou
@@ -45951,7 +45951,7 @@ IP地址	ipdv
 札	vadu
 爪	vch
 爪	vxh
-毡	vjhr
+毡	vjh
 茁	vot
 栈	vjdj
 栅	vadm
@@ -46148,7 +46148,7 @@ IP地址	ipdv
 榰	vida
 疐	vijo
 擿	viqb
-飐	vjhr
+飐	vjh
 栴	vjdm
 栴	vjdy
 偡	vjo
@@ -51365,7 +51365,7 @@ $	ofhb
 理解	lijp
 目录	m
 内容	n
-哦哦	o
+噢	o
 便宜	p
 其他	q
 然后	r

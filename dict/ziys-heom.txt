@@ -25473,7 +25473,6 @@ github	gith
 𨩨	iacm
 差错	iaco
 䤩	iacp
-岔	iacu
 𨪺	iacu
 鍤	iacx
 查	iad
@@ -26058,7 +26057,6 @@ github	gith
 𧼳	iegu
 䞣	iegy
 彻	ieh
-掣	ieh
 车号	iehc
 㿭	iehe
 徹	iehk
@@ -26066,6 +26064,7 @@ github	gith
 𩗙	iehl
 车祸	ieho
 𱰗	iehp
+掣	iehq
 撤换	iehr
 勶	iehs
 撤回	iehv
@@ -50203,8 +50202,9 @@ milthm	milt
 譳	nzyb
 譨	nzyv
 念兹在兹	nzzz
+也	o
 哦	o
-哦哦	o
+噢	o
 お	o
 オ	o
 ㄛ	o
@@ -200229,6 +200229,8 @@ http://mhtlim.top/usage/usage.html	uomk
 战鼓	vjgu
 𡕁	vjgu
 𰊅	vjgy
+毡	vjh
+飐	vjh
 战壕	vjhc
 𤜇	vjhi
 𨊈	vjhj
@@ -200238,8 +200240,6 @@ http://mhtlim.top/usage/usage.html	uomk
 氊	vjhm
 𥴐	vjhm
 战火	vjho
-毡	vjhr
-飐	vjhr
 黏	vjhr
 颭	vjhr
 𥶕	vjhr

@@ -44230,7 +44230,7 @@ IP地址	ipdv
 侨	qnol
 迁	qmy
 秦	qbq
-妻	qijv
+妻	qij
 欠	qmno
 圈	qrw
 墙	qlg
@@ -44370,7 +44370,7 @@ IP地址	ipdv
 蔷	qlt
 蜻	qklb
 矜	qbn
-耆	qij
+耆	qija
 鞘	qntb
 葺	qitj
 朐	qubr
@@ -79041,10 +79041,10 @@ $	ofhb
 𦭡	sitr
 𦇵	siuf
 㣈	sivb
-絲	sivf
 糸	sivf
 糹	sivf
 鷥	sivf
+絲	sivf
 𦇲	sivg
 厶	sivi
 𡡒	sivl
@@ -84697,10 +84697,10 @@ $	ofhb
 妷	vivo
 紩	vivo
 𮉢	vivo
-紙	vivp
 娡	vivp
 綕	vivp
 𬘨	vivp
+紙	vivp
 𪒊	viwe
 𡈊	viwf
 𪑜	viwr

@@ -181076,7 +181076,8 @@ python	pyth
 麡	qiix
 𪗆	qiix
 七	qij
-耆	qij
+妻	qij
+耆	qija
 迄今	qijb
 轻车简从	qijc
 賫	qijc
@@ -181111,7 +181112,6 @@ python	pyth
 𣯆	qiju
 𧡺	qiju
 浅尝即止	qijv
-妻	qijv
 𡢖	qijv
 起家	qijx
 奇	qik
@@ -187216,10 +187216,10 @@ rime	rime
 㣈	sivb
 私宅	sivd
 死者	sive
-絲	sivf
 糸	sivf
 糹	sivf
 鷥	sivf
+絲	sivf
 𦇲	sivg
 四肢	sivi
 厶	sivi
@@ -200061,10 +200061,10 @@ http://mhtlim.top/usage/usage.html	uomk
 妷	vivo
 紩	vivo
 𮉢	vivo
-紙	vivp
 娡	vivp
 綕	vivp
 𬘨	vivp
+紙	vivp
 之中	vivs
 蜘蛛	vivu
 支柱	vivu

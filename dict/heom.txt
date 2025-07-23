@@ -31857,6 +31857,7 @@ IP地址	ipdv
 往事	whui
 网站	whvj
 望着	whve
+王者	whve
 网址	whvi
 玩忽职守	whvu
 乌合之众	whvv
@@ -35887,7 +35888,6 @@ IP地址	ipdv
 一批	yipi
 一瓶	yipk
 一盆	yipf
-一瞥	yipp
 一盘	yipj
 一起	yiqi
 疫情	yiqk
@@ -39867,7 +39867,7 @@ IP地址	ipdv
 冬	dsh
 渡	due
 掉	dnq
-胆	djb
+胆	dj
 灯	dgf
 旦	djam
 弹	djn
@@ -40269,7 +40269,7 @@ IP地址	ipdv
 噩	eemr
 愕	eep
 讹	eeip
-锷	eeo
+锷	eeos
 垩	eemg
 婀	eevr
 鹗	eerm
@@ -41770,6 +41770,7 @@ IP地址	ipdv
 见	jmb
 经	jk
 竟	jk
+京	jk
 家	jxj
 进	jb
 建	jmn
@@ -41781,7 +41782,7 @@ IP地址	ipdv
 将	jl
 记	jii
 教	jnj
-京	jky
+竞	jky
 决	jti
 交	jny
 结	jpv
@@ -47677,6 +47678,7 @@ IP地址	ipdv
 严厉	yl
 眼里	yl
 一片	yp
+一瞥	yp
 缘分	yf
 郁闷	ym
 也不会	ybh
@@ -48490,7 +48492,6 @@ GDP	gdp
 王八	whb
 旺季	whj
 往上	whu
-王者	whv
 网友	whyz
 晚了	wjl
 玩转	wjv
@@ -51458,6 +51459,7 @@ $	ofhb
 起誓	qiui
 觊觎	jy
 多练	dolm
+喵喵喵	mmmn
 我不知道	wbvd
 一命二运三风水四积阴德五读书	ymey
 六名七相八敬神九交贵人十养生	ymey
@@ -53886,6 +53888,7 @@ $	ofhb
 縩	cdvf
 𡣮	cdvf
 𮉯	cdvf
+纔	cdv
 纔	cdvi
 𨶨	cean
 𣌧	ceba
@@ -55457,9 +55460,10 @@ $	ofhb
 𬂅	djbj
 刐	djbn
 𥄦	djbn
+膽	djb
 赡	djbr
-膽	djbr
 贍	djbr
+膽	djbr
 𡵕	djbu
 𧴸	djbu
 鉭	djcm
@@ -56937,6 +56941,7 @@ $	ofhb
 阨	eenu
 娿	eenv
 儑	eeof
+餓	eeo
 餓	eeoi
 𩚬	eeon
 餩	eeoo
@@ -59229,8 +59234,9 @@ $	ofhb
 𧘏	gsln
 𬠈	gslo
 𧎡	gslr
-貢	gsmc
+貢	gsm
 碽	gsmc
+貢	gsmc
 𤨶	gsme
 𪄌	gsmf
 蛩	gsmi
@@ -61719,9 +61725,10 @@ $	ofhb
 烣	hvff
 㷐	hvfg
 𤌋	hvfi
-輝	hvfj
+輝	hvf
 煇	hvfj
 𠓊	hvfj
+輝	hvfj
 烜	hvfm
 煒	hvfq
 𪸩	hvfq
@@ -65244,9 +65251,10 @@ $	ofhb
 逕	jkym
 䪫	jkym
 誩	jkyr
-競	jkyu
+競	jky
 竸	jkyu
 𣬙	jkyu
+競	jkyu
 䁰	jlbc
 䜫	jlcm
 㯍	jldi
@@ -65710,9 +65718,10 @@ $	ofhb
 𦺘	jmtr
 䚊	jmtu
 𧢖	jmtu
-艱	jmtv
+艱	jmt
 茛	jmtv
 葌	jmtv
+艱	jmtv
 𧀇	jmtw
 𧂢	jmtw
 𩍎	jmty
@@ -75692,6 +75701,7 @@ $	ofhb
 𭠙	puqc
 擈	puqd
 扶	puqo
+撲	puq
 撲	puqo
 𨁏	purb
 䮒	pusb
@@ -76424,6 +76434,7 @@ $	ofhb
 齎	qiyc
 𨒅	qiyc
 𩒛	qiyc
+棄	qiy
 棄	qiyd
 竐	qiye
 𨑤	qiye
@@ -76612,6 +76623,7 @@ $	ofhb
 𬬰	qlou
 控	qlqm
 㩖	qlqm
+搶	qlq
 搶	qlqr
 蹡	qlri
 嗴	qlri
@@ -82312,9 +82324,10 @@ $	ofhb
 𩍋	ugtn
 蕂	ugts
 𦳗	ugtu
-繩	ugvu
+繩	ugv
 縄	ugvu
 𡞞	ugvu
+繩	ugvu
 畻	ugwg
 椉	ugyd
 𧪝	ugyp
@@ -86244,6 +86257,7 @@ $	ofhb
 𥾼	whvn
 亾	whvo
 兦	whvo
+網	whv
 網	whvv
 罒	whwl
 迋	whyg
@@ -91664,10 +91678,11 @@ $	ofhb
 㽈	yipn
 恞	yipn
 𱉇	yipn
-憶	yipp
+憶	yip
 𠤗	yipp
 𢖺	yipp
 𢘽	yipp
+憶	yipp
 怿	yipq
 觺	yipq
 勚	yips

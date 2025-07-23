@@ -6138,6 +6138,7 @@ Caonima～(∠・ω< )⌒☆	caon
 财神	cduf
 才是	cdui
 财税	cduv
+纔	cdv
 彩照	cdvc
 采摘	cdvd
 綵	cdvd
@@ -9703,6 +9704,7 @@ deepseek	deep
 底座	dizo
 抵罪	dizv
 但	dj
+胆	dj
 鴠	djaf
 暺	djaj
 旦	djam
@@ -9710,8 +9712,8 @@ deepseek	deep
 𱉗	djam
 𣅟	djau
 丹	djb
-胆	djb
 膻	djb
+膽	djb
 担保	djbc
 蛋白	djbd
 打击报复	djbf
@@ -9728,8 +9730,8 @@ deepseek	deep
 单薄	djbo
 淡泊	djbo
 赡	djbr
-膽	djbr
 贍	djbr
+膽	djbr
 眈	djbu
 𡵕	djbu
 𧴸	djbu
@@ -12980,7 +12982,7 @@ vivo手机断触解决方式https://www.taptap.cn/moment/654325286527043497	driu
 阨	eenu
 娿	eenv
 俄	eeo
-锷	eeo
+餓	eeo
 儑	eeof
 锇	eeoi
 餓	eeoi
@@ -12989,6 +12991,7 @@ vivo手机断触解决方式https://www.taptap.cn/moment/654325286527043497	driu
 僫	eeop
 𨱂	eeop
 钶	eeor
+锷	eeos
 偔	eeos
 𰽞	eeou
 𦛅	eeov
@@ -18821,11 +18824,12 @@ github	gith
 供楼	gslz
 工	gsm
 攻	gsm
+貢	gsm
 公民	gsmb
 工贸	gsmc
 珙	gsmc
-貢	gsmc
 碽	gsmc
+貢	gsmc
 干什么	gsme
 汞	gsme
 𤨶	gsme
@@ -24206,6 +24210,7 @@ github	gith
 洄	hver
 泋	hvet
 烩	hvf
+輝	hvf
 挥发	hvfa
 燴	hvfa
 烠	hvfb
@@ -24218,9 +24223,9 @@ github	gith
 回访	hvfh
 𤌋	hvfi
 回返	hvfj
-輝	hvfj
 煇	hvfj
 𠓊	hvfj
+輝	hvfj
 烜	hvfm
 辉	hvfq
 煒	hvfq
@@ -31323,6 +31328,7 @@ php -S 127.0.0.1:8000	iphp
 荆棘载途	jjzt
 经	jk
 竟	jk
+京	jk
 晶	jka
 景	jkaf
 㬌	jkaf
@@ -31652,8 +31658,9 @@ php -S 127.0.0.1:8000	iphp
 竞选	jkxr
 经血	jkxt
 惊吓	jkxx
-京	jky
+竞	jky
 靖	jky
+競	jky
 惊讶	jkya
 静音	jkyb
 梷	jkyd
@@ -31684,9 +31691,9 @@ php -S 127.0.0.1:8000	iphp
 誩	jkyr
 鲸鱼	jkyu
 竞	jkyu
-競	jkyu
 竸	jkyu
 𣬙	jkyu
+競	jkyu
 金口玉言	jkyy
 净增	jkzg
 镜子	jkzi
@@ -32428,6 +32435,7 @@ php -S 127.0.0.1:8000	iphp
 减损	jmsy
 兼	jmt
 茧	jmt
+艱	jmt
 践踏	jmta
 蕳	jmta
 𫈉	jmta
@@ -32483,9 +32491,9 @@ php -S 127.0.0.1:8000	iphp
 䚊	jmtu
 𧢖	jmtu
 减退	jmtv
-艱	jmtv
 茛	jmtv
 葌	jmtv
+艱	jmtv
 𧀇	jmtw
 𧂢	jmtw
 𩍎	jmty
@@ -46460,6 +46468,7 @@ milthm	milt
 䤄	mmml
 密密麻麻	mmmm
 㻰	mmmm
+喵喵喵	mmmn
 面膜	mmmo
 㤁	mmmp
 醎	mmmr
@@ -180178,6 +180187,7 @@ git fetch origin && git reset --hard origin/main && git clean -fd	pull
 婆说婆有理	pupl
 毞	pupu
 扑	puq
+撲	puq
 抪	puqb
 𭠙	puqc
 擈	puqd
@@ -181600,6 +181610,7 @@ python	pyth
 气喘吁吁	qixx
 齐	qiy
 弃	qiy
+棄	qiy
 气压	qiya
 欺压	qiya
 起因	qiyb
@@ -182105,6 +182116,7 @@ python	pyth
 抢拍	qlpd
 强迫	qlpo
 抢	qlq
+搶	qlq
 抢亲	qlqb
 强强	qlql
 抢钱	qlqm
@@ -194459,15 +194471,16 @@ sh /storage/emulated/0/.ck/heom/code/11.sh	tijn
 生疏	uguu
 生手	uguz
 绳	ugv
+繩	ugv
 生长	ugvh
 省长	ugvh
 升值	ugvi
 圣战	ugvj
 盛装	ugvl
 生猪	ugvu
-繩	ugvu
 縄	ugvu
 𡞞	ugvu
+繩	ugvu
 收官之战	ugvv
 升温	ugwf
 畻	ugwg
@@ -203616,8 +203629,9 @@ http://mhtlim.top/usage/usage.html	uomk
 往事	whui
 𣢫	whuo
 𡷢	whup
-王者	whv
+網	whv
 望着	whve
+王者	whve
 网址	whvi
 网站	whvj
 䋄	whvk
@@ -214390,6 +214404,7 @@ http://mhtlim.top/usage/usage.html	uomk
 餏	yiov
 疑	yip
 忆	yip
+憶	yip
 一品	yipb
 一排	yipd
 𢗎	yipe
@@ -214411,11 +214426,10 @@ http://mhtlim.top/usage/usage.html	uomk
 㽈	yipn
 恞	yipn
 𱉇	yipn
-一瞥	yipp
-憶	yipp
 𠤗	yipp
 𢖺	yipp
 𢘽	yipp
+憶	yipp
 肄	yipq
 怿	yipq
 觺	yipq
@@ -216270,6 +216284,7 @@ http://mhtlim.top/usage/usage.html	uomk
 唹	yory
 育	yoyb
 一片	yp
+一瞥	yp
 一片冰心	ypbx
 眼皮底下	ypdx
 一炮而红	ypeh

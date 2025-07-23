@@ -43314,13 +43314,12 @@ IP地址	ipdv
 孟	mgnt
 鸣	mkr
 秒	mn
-喵	mn
+妙	mn
 抹	moq
 漠	moe
 姆	muv
 茂	mct
 妹	mwv
-妙	mnv
 描	mnq
 墓	mutg
 脉	mdb
@@ -43448,6 +43447,7 @@ IP地址	ipdv
 瞑	mkbc
 篾	mph
 缈	mnv
+缪	mnv
 扪	mfq
 焖	mff
 懑	mfep
@@ -51370,7 +51370,8 @@ $	ofhb
 可以	k
 里	l
 理解	lijp
-目录	m
+目录	mulu
+喵	m
 内容	n
 噢	o
 便宜	p
@@ -51456,6 +51457,7 @@ $	ofhb
 实权	uiqr
 起誓	qiui
 觊觎	jy
+多练	dolm
 我不知道	wbvd
 一命二运三风水四积阴德五读书	ymey
 六名七相八敬神九交贵人十养生	ymey

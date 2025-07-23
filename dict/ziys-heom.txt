@@ -20341,7 +20341,7 @@ github	gith
 工作总结	gzzj
 和	h
 还	h
-忽略	h
+还是	h
 ㄏ	h
 哈	ha
 は	ha
@@ -23846,6 +23846,7 @@ github	gith
 𢎵	huln
 𧌧	huln
 胡乱	hulr
+忽略	hult
 葫芦	hulu
 呼噜	hulu
 䗂	hulu

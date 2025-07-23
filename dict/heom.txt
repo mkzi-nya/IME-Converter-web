@@ -39196,6 +39196,7 @@ IP地址	ipdv
 版	bjl
 边	bm
 遍	bm
+辩	bm
 病	bkk
 白	bd
 拜	bd
@@ -39251,14 +39252,13 @@ IP地址	ipdv
 辈	bwlq
 搬	bjq
 搏	boq
-悲	bwl
+辈	bwl
 堡	bcog
 堡	buo
 斌	bby
 榜	bhds
 碑	bwm
 坝	bag
-辩	bmy
 爸	bac
 屏	bkst
 柏	bdd
@@ -39381,7 +39381,6 @@ IP地址	ipdv
 陂	bwn
 煲	bcof
 钚	buo
-辫	bmyj
 亳	boyp
 贲	bijo
 耙	baq
@@ -41403,7 +41402,6 @@ IP地址	ipdv
 城	igg
 处	iu
 尝	ihf
-常	ihf
 创	ilo
 查	iad
 传	ir
@@ -43121,7 +43119,7 @@ IP地址	ipdv
 嫪	lcvh
 荖	lctp
 俫	ldot
-梾	ldd
+梾	lddt
 饹	len
 簕	leh
 崚	lgu
@@ -43186,7 +43184,6 @@ IP地址	ipdv
 𬬻	luos
 𬬭	lyop
 了	lnn
-来	ldd
 两	llm
 料	lnf
 虑	lvy
@@ -46515,12 +46512,13 @@ IP地址	ipdv
 乡	xlv
 协	xpj
 需	xu
+续	xu
+绪	xu
 消	xne
 选	xr
 兴	xkfc
 许	xui
 线	xmv
-续	xuv
 讯	xyi
 象	xln
 席	xii
@@ -46604,7 +46602,6 @@ IP地址	ipdv
 贤	xml
 兄	xsr
 熊	xs
-绪	xuva
 夕	xin
 霞	xxm
 湘	xleu
@@ -48618,6 +48615,7 @@ GDP	gdp
 槟	bkd
 煸	bmf
 辨	bmy
+辫	bmy
 孛	boj
 粢	cii
 粢	cim
@@ -48931,7 +48929,7 @@ GDP	gdp
 未知	wv
 微信	wx
 修改	xg
-小时	xu
+显示	xu
 修正	xv
 学习	xx
 选择	xz
@@ -50333,6 +50331,7 @@ GDP	gdp
 甭	bg
 逼	bi
 背	bw
+悲	bw
 此	c
 猜	cd
 打	d
@@ -51383,7 +51382,7 @@ $	ofhb
 时候	u
 直接	v
 为什么	w
-显示	x
+小时	x
 有时	y
 子	z
 複	ful
@@ -53710,9 +53709,10 @@ $	ofhb
 蜚	bwli
 㻗	bwli
 𧉥	bwli
-輩	bwlj
+輩	bwl
 軰	bwlj
 𢃍	bwlj
+輩	bwlj
 邶	bwll
 鄁	bwll
 𠢥	bwls
@@ -58762,10 +58762,11 @@ $	ofhb
 𪔆	gjbj
 𫤽	gjbo
 釬	gjcj
-桿	gjdj
+桿	gjd
 檊	gjdj
 皯	gjdj
 𣔼	gjdj
+桿	gjdj
 𣘠	gjdr
 灨	gjec
 𣹟	gjec
@@ -62928,8 +62929,9 @@ $	ofhb
 韔	ihdv
 淐	ihea
 淌	iher
-嘗	ihfa
+嘗	ihf
 焻	ihfa
+嘗	ihfa
 𤿼	ihfe
 鷩	ihff
 𪁺	ihff
@@ -68827,11 +68829,12 @@ $	ofhb
 𧳕	ldbt
 錸	ldco
 𨦂	ldcu
-賴	lddc
+賴	ldd
 賚	lddc
 頼	lddc
 櫴	lddc
 顂	lddc
+賴	lddc
 鵣	lddf
 鶆	lddf
 𪈈	lddf
@@ -76496,6 +76499,7 @@ $	ofhb
 𧖪	qkhi
 凊	qkib
 廎	qkic
+慶	qki
 慶	qkie
 綮	qkif
 䋜	qkif
@@ -80180,8 +80184,9 @@ $	ofhb
 職	tesa
 幐	tgbb
 𥉋	tgbe
-騰	tgbf
+騰	tgb
 鰧	tgbf
+騰	tgbf
 𨃗	tgbo
 謄	tgbr
 膯	tgbt
@@ -93406,6 +93411,7 @@ $	ofhb
 㺞	yukc
 㝼	yukd
 𩲾	yuki
+獄	yuk
 獄	yukk
 㚜	yukm
 戫	yukm
@@ -95293,3 +95299,13 @@ $	ofhb
 𧯩	iuoz
 𧰫	iuxx
 𩈤	iuxx
+㦚	bmjx
+㵷	bmjx
+辡	bmjx
+辧	bmjz
+𤀲	bmjz
+繻	xubx
+𦅏	xubx
+𣔼	gjjx
+櫴	ldcx
+顂	ldcx

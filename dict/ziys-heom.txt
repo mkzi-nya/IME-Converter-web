@@ -15958,7 +15958,6 @@ vivo手机断触解决方式https://www.taptap.cn/moment/654325286527043497	driu
 诽	fwi
 扉	fwi
 匪巢	fwic
-飞车	fwie
 廢	fwie
 祓	fwie
 俯卧撑	fwig
@@ -28801,6 +28800,7 @@ php -S 127.0.0.1:8000	iphp
 出路	iulu
 𧎷	iulu
 础	ium
+礎	ium
 出马	iuma
 禇	iuma
 出卖	iumd
@@ -28819,7 +28819,6 @@ php -S 127.0.0.1:8000	iphp
 豠	iumm
 亍	iumn
 触摸	iumo
-礎	iumo
 珿	iumo
 璴	iumo
 豖	iumo
@@ -28828,6 +28827,7 @@ php -S 127.0.0.1:8000	iphp
 𧯩	iumo
 𧰫	iumo
 𩈤	iumo
+礎	iumo
 触目	iumu
 祝	iumu
 硫	iumu
@@ -28858,6 +28858,12 @@ php -S 127.0.0.1:8000	iphp
 儊	iuoo
 𠇘	iuov
 傗	iuow
+珿	iuox
+璴	iuox
+豖	iuox
+𣢶	iuoz
+𥒭	iuoz
+𧯩	iuoz
 怵	iup
 出品	iupb
 出牌	iupd
@@ -28975,6 +28981,7 @@ php -S 127.0.0.1:8000	iphp
 储蓄	iuxu
 春生夏长	iuxv
 重拾信心	iuxx
+𧰫	iuxx
 出巡	iuxy
 畜	iuy
 出于	iuy
@@ -35385,6 +35392,7 @@ msbt.seku.su	jmwv
 渐行渐远	jxjy
 架	jxk
 夹	jxk
+夾	jxk
 𦙺	jxkb
 頰	jxkc
 頬	jxkc
@@ -35407,8 +35415,8 @@ msbt.seku.su	jmwv
 𫛥	jxkm
 乫	jxkn
 颊	jxko
-夾	jxko
 㿓	jxko
+夾	jxko
 加宽	jxkr
 痂	jxkr
 㹢	jxkr
@@ -39588,8 +39596,6 @@ msbt.seku.su	jmwv
 礪	libz
 禲	libz
 𦠓	libz
-𨢌	libz
-𩱇	libz
 鎘	licb
 𨯽	licb
 理财	licd
@@ -45361,6 +45367,7 @@ msbt.seku.su	jmwv
 𩦺	mgso
 毛骨悚然	mgsr
 萌	mgt
+夢	mgt
 𣊔	mgta
 𦷹	mgta
 莔	mgtb
@@ -45382,9 +45389,9 @@ msbt.seku.su	jmwv
 鹲	mgtm
 𰰡	mgtm
 甍	mgtn
-夢	mgtn
 𦿏	mgtn
 𧂛	mgtn
+夢	mgtn
 蒙	mgto
 䠢	mgto
 蕄	mgtp
@@ -199743,6 +199750,7 @@ http://mhtlim.top/usage/usage.html	uomk
 𤞌	vikp
 指控	viks
 帜	vil
+衹	vil
 幟	vila
 㸟	vila
 蟙	vila

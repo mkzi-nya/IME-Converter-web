@@ -29,6 +29,7 @@ _	;b
 邊	bmys
 許	xuyj
 證	vgy
+鐘	vsc
 积雪	jixt
 尸体	uit
 湛蓝	vjl
@@ -46275,6 +46276,7 @@ IP地址	ipdv
 雾	wums
 弯	wjyn
 围	www
+圍	www
 胃	wwwb
 蔓	wjte
 帷	wwl
@@ -46739,7 +46741,6 @@ IP地址	ipdv
 猩	xkk
 省	xkf
 薰	xyt
-飨	xlv
 岫	xqu
 暄	xram
 溴	xqe
@@ -46792,6 +46793,7 @@ IP地址	ipdv
 巽	xysc
 噱	xtr
 鲑	xpn
+瀣	xpe
 瀣	xpem
 藓	xmt
 鳕	xtn
@@ -46949,6 +46951,7 @@ IP地址	ipdv
 𬊈	xyf
 𬶮	xinr
 𬙋	xlvv
+飨	xlvv
 𬸣	xmjm
 𬩽	xysl
 𬍤	xymi
@@ -51444,6 +51447,7 @@ $	ofhb
 实权	uiqr
 起誓	qiui
 觊觎	jy
+我不知道	wbvd
 㕶	ngrm
 㕶	nnrm
 礼	limu
@@ -61110,6 +61114,7 @@ $	ofhb
 𩍡	hrtv
 嵈	hrue
 𡷗	hruu
+緩	hrv
 緩	hrve
 絙	hrvm
 𫄠	hrvm
@@ -71870,6 +71875,7 @@ $	ofhb
 僶	mbou
 𠊟	mbou
 惽	mbpa
+憫	mbp
 憫	mbpk
 忟	mbpk
 怋	mbpp
@@ -72376,11 +72382,12 @@ $	ofhb
 𨷬	miab
 㸓	miba
 冪	mibb
-瞇	mibd
+瞇	mib
 罙	mibd
 冞	mibd
 𥇆	mibd
 𦟂	mibd
+瞇	mibd
 𥇎	mibf
 鼏	mibl
 鼏	mibn
@@ -81844,8 +81851,9 @@ $	ofhb
 燿	ucfg
 𨙹	ucfl
 𨛍	ucfl
-燒	ucfu
+燒	ucf
 焼	ucfu
+燒	ucfu
 㲈	ucgr
 筲	uchb
 䈰	uchb
@@ -83998,11 +84006,13 @@ $	ofhb
 𥪘	vfyv
 䦛	vgad
 晸	vgak
-爭	vgbd
-睜	vgbd
+爭	vgb
+睜	vgb
 㬹	vgbd
 𧶄	vgbd
 𬥷	vgbd
+爭	vgbd
+睜	vgbd
 𩺄	vgbf
 瞠	vgbg
 𥊼	vgbh
@@ -85231,8 +85241,8 @@ $	ofhb
 𧳮	vsbg
 䝦	vsbo
 銿	vscb
-鐘	vscg
 鍾	vscg
+鐘	vscg
 鈡	vscl
 𠛀	vscn
 汷	vsee
@@ -87973,11 +87983,12 @@ $	ofhb
 㟟	xluu
 蚃	xlvi
 蠁	xlvi
-鄉	xlvl
+鄉	xlv
 郷	xlvl
 鄊	xlvl
 鄕	xlvl
 𨙵	xlvl
+鄉	xlvl
 絴	xlvq
 嚮	xlvr
 㗽	xlvr

@@ -2995,7 +2995,6 @@ AA制	aavi
 不吃这一套	bivt
 嬶	bivt
 𦂖	bivt
-畀	biw
 畢	biw
 逼问	biwf
 鷝	biwf
@@ -3006,6 +3005,7 @@ AA制	aavi
 畢	biwj
 奰	biwk
 㪤	biwk
+畀	biwl
 罷	biwp
 不成问题	biwt
 比武	biwu
@@ -23708,8 +23708,6 @@ github	gith
 𨢤	hugw
 𡍐	hugy
 乎	huh
-鹄	huh
-笏	huh
 戶	huh
 乕	huhb
 帍	huhb
@@ -23730,6 +23728,7 @@ github	gith
 𦏗	huhf
 䧼	huhg
 护航	huhh
+笏	huhh
 𩖨	huhh
 𩳨	huhi
 呼喊	huhj
@@ -23738,6 +23737,7 @@ github	gith
 𢨦	huhj
 𥶜	huhj
 火烧火燎	huhl
+鹄	huhm
 䇘	huhm
 𪏳	huhm
 㽇	huhn
@@ -39554,10 +39554,12 @@ msbt.seku.su	jmwv
 𨷦	liam
 立案	lian
 里程碑	lib
+离愁别绪	lib
 篱笆	liba
 矋	libb
 礼包	libc
 礼拜	libd
+驴唇不对马嘴	libd
 𥊈	libd
 𥌛	libe
 𥌤	libe
@@ -39575,13 +39577,11 @@ msbt.seku.su	jmwv
 𠝄	libn
 离别	libp
 𧲡	libs
-离愁别绪	libx
 酾	libx
 㡂	libx
 䄜	libx
 𨢌	libxz
 𩱇	libxz
-驴唇不对马嘴	libz
 礪	libz
 禲	libz
 𦠓	libz

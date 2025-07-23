@@ -17130,8 +17130,9 @@ IP地址	ipdv
 利弊	libi
 里边	libm
 离别	libp
-离愁别绪	libx
-驴唇不对马嘴	libz
+里程碑	lib
+离愁别绪	lib
+驴唇不对马嘴	libd
 理财	licd
 历次	lici
 力挫	lico
@@ -39462,7 +39463,7 @@ IP地址	ipdv
 庳	bwij
 髀	bibj
 鞴	bwtb
-畀	biw
+畀	biwl
 滗	bieu
 褊	bml
 菝	bate
@@ -41141,7 +41142,7 @@ IP地址	ipdv
 嘿	hwr
 骇	hdn
 珩	hgmn
-鹄	huh
+鹄	huhm
 壕	hcg
 荤	hyt
 蕙	hvtp
@@ -41209,7 +41210,7 @@ IP地址	ipdv
 鹘	hubm
 鳇	hln
 讧	hsi
-笏	huh
+笏	huhh
 蟥	hllc
 洄	hver
 诨	hyi
@@ -48977,7 +48978,6 @@ GDP	gdp
 局域网	jyw
 跨时代	kud
 轮不到	lbd
-里程碑	lib
 龙卷风	ljf
 两句话	ljh
 老年人	lnr

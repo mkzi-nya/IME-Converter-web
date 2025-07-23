@@ -41864,7 +41864,6 @@ IP地址	ipdv
 践	jmrj
 践	jmrq
 兼	jmc
-兼	jmh
 兼	jmt
 鉴	jmlc
 禁	jbd
@@ -41926,10 +41925,10 @@ IP地址	ipdv
 驾	jxkm
 剑	jmon
 尖	jmf
-肩	jmh
+肩	jmhb
 肩	jmi
 峻	jyu
-舰	jmhu
+舰	jmh
 崛	jtu
 睛	jkbb
 茧	jmt
@@ -42207,7 +42206,7 @@ IP地址	ipdv
 虮	jiln
 掎	jiqr
 鲣	jmng
-裥	jml
+裥	jmla
 踺	jmrq
 茳	jltm
 糨	jlf
@@ -48673,6 +48672,7 @@ GDP	gdp
 煎	jmtf
 渐	jme
 溅	jme
+鉴	jml
 监	jml
 槛	jmd
 皎	jnh
@@ -51443,6 +51443,7 @@ $	ofhb
 中心区	vxq
 位置	wwvi
 树叶	uuye
+选重	xris
 㕶	ngrm
 㕶	nnrm
 礼	limu

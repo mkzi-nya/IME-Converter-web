@@ -32052,9 +32052,9 @@ php -S 127.0.0.1:8000	iphp
 坚固	jmgu
 见鬼	jmgv
 简	jmh
-兼	jmh
-肩	jmh
+舰	jmh
 簡	jmha
+肩	jmhb
 𢨿	jmhb
 减号	jmhc
 顅	jmhc
@@ -32097,7 +32097,6 @@ php -S 127.0.0.1:8000	iphp
 䄯	jmht
 𮶙	jmht
 监护	jmhu
-舰	jmhu
 笕	jmhu
 䅐	jmhu
 筧	jmhu
@@ -32170,8 +32169,9 @@ php -S 127.0.0.1:8000	iphp
 减亏	jmkv
 𬲕	jmkv
 坚	jml
-裥	jml
+鉴	jml
 监	jml
+裥	jmla
 襇	jmla
 襉	jmlb
 监牢	jmlc
@@ -209504,6 +209504,7 @@ http://mhtlim.top/usage/usage.html	uomk
 𠗻	xrig
 𬤎	xrim
 宣传	xrir
+选重	xris
 选出	xriu
 悬垂	xriv
 宣	xrj

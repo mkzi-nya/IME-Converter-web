@@ -28907,7 +28907,6 @@ IP地址	ipdv
 尸山血海	uuxh
 属于	uuyu
 生杀予夺	uuyd
-树叶	uuye
 输氧	uuyh
 身首异处	uuyi
 输赢	uuyk
@@ -29648,7 +29647,6 @@ IP地址	ipdv
 摘除	vdiu
 摘抄	vdic
 长大成人	vdir
-斋戒	vdjp
 张灯结彩	vdjc
 真的假的	vdjd
 斩钉截铁	vdjt
@@ -32589,7 +32587,6 @@ IP地址	ipdv
 微弱	wwro
 弯弯绕绕	wwrr
 为荣	wwrs
-葳蕤	wwrv
 萎缩	wwso
 胃酸	wwsr
 尾随	wwsv
@@ -41957,7 +41954,7 @@ IP地址	ipdv
 碱	jmm
 浆	jlle
 竭	jpy
-拘	juqr
+拘	juq
 颈	jkno
 亟	jimm
 亟	jinm
@@ -42729,7 +42726,8 @@ IP地址	ipdv
 洛	loe
 隆	lsn
 炼	lmf
-黎	lih
+梨	lih
+黎	li
 伦	lyo
 兰	ljt
 卢	luy
@@ -42878,7 +42876,7 @@ IP地址	ipdv
 琉	lqmv
 苓	lkti
 苓	lktl
-卤	luy
+卤	lu
 斓	ljy
 摞	loq
 珑	lsmp
@@ -42908,7 +42906,7 @@ IP地址	ipdv
 蔺	lbt
 骡	lon
 窿	lsj
-虏	luys
+虏	luy
 婪	ljdv
 崂	lcu
 翎	lkom
@@ -45733,6 +45731,7 @@ IP地址	ipdv
 正	vg
 治	vie
 质	viho
+秩	viho
 专	vrq
 职	vis
 只	vi
@@ -45823,7 +45822,6 @@ IP地址	ipdv
 柱	vud
 殖	vimm
 殖	vimv
-秩	vih
 胀	vhb
 竹	vuh
 仲	vsol
@@ -45896,7 +45894,8 @@ IP地址	ipdv
 铮	vgo
 漳	vhej
 坠	vvn
-稚	vihg
+秩	vih
+稚	vih
 咋	vars
 钊	vco
 乍	vao
@@ -46742,7 +46741,7 @@ IP地址	ipdv
 嗅	xqr
 宿	xqj
 漩	xreo
-嘻	xirr
+嘻	xir
 眩	xrb
 酗	xumk
 衅	xbh
@@ -47142,7 +47141,7 @@ IP地址	ipdv
 允	yyi
 赢	yky
 幼	yzvs
-炎	yjff
+炎	yjf
 亦	yi
 宜	yij
 愈	yuop
@@ -47159,7 +47158,7 @@ IP地址	ipdv
 舆	yuhc
 缘	yrv
 役	yih
-宇	yuj
+宇	yujd
 耀	ycf
 阅	ytl
 抑	yiq
@@ -47195,7 +47194,7 @@ IP地址	ipdv
 呀	yar
 粤	yths
 幽	yzu
-寓	yujb
+寓	yuj
 悦	ytp
 孕	yynd
 婴	ykb
@@ -51438,6 +51437,7 @@ $	ofhb
 盗号	dchc
 中心区	vxq
 位置	wwvi
+树叶	uuye
 㕶	ngrm
 㕶	nnrm
 礼	limu

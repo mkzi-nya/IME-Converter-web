@@ -34926,6 +34926,7 @@ msbt.seku.su	jmwv
 𢚆	jups
 拒赔	jupw
 拒	juq
+拘	juq
 见识浅薄	juqb
 𢯺	juqb
 掬	juqd
@@ -34940,7 +34941,6 @@ msbt.seku.su	jmwv
 拠	juqn
 據	juqo
 俱全	juqr
-拘	juqr
 䎤	juqr
 挶	juqr
 耟	juqs
@@ -39515,6 +39515,7 @@ msbt.seku.su	jmwv
 拉祜族	lhzu
 理	li
 历	li
+黎	li
 㬏	liab
 曞	liab
 𰖩	liab
@@ -39656,7 +39657,7 @@ msbt.seku.su	jmwv
 𫎱	ligs
 厉鬼	ligv
 利	lih
-黎	lih
+梨	lih
 篱	lihb
 䅻	lihb
 犡	lihb
@@ -42977,6 +42978,7 @@ msbt.seku.su	jmwv
 烂摊子	ltz
 老头子	ltzi
 路	lu
+卤	lu
 㫽	luae
 𣆐	luas
 曥	luat
@@ -43372,7 +43374,7 @@ msbt.seku.su	jmwv
 陆续	luxu
 老少咸宜	luxy
 卢	luy
-卤	luy
+虏	luy
 录音	luyb
 六	luyc
 顱	luyc
@@ -43397,7 +43399,6 @@ msbt.seku.su	jmwv
 𣥐	luyo
 𤬛	luyo
 录用	luys
-虏	luys
 虜	luys
 𡳴	luys
 盧	luyt
@@ -196745,8 +196746,8 @@ http://mhtlim.top/usage/usage.html	uomk
 䢞	uuyd
 䢤	uuyd
 蒁	uuyd
-树叶	uuye
 叔	uuye
+树叶	uuye
 尗	uuyf
 虪	uuyf
 鶐	uuyf
@@ -198054,7 +198055,6 @@ http://mhtlim.top/usage/usage.html	uomk
 真的假的	vdjd
 𪀥	vdjf
 𤞮	vdjk
-斋戒	vdjp
 宅	vdjp
 斩钉截铁	vdjt
 指点江山	vdju
@@ -199480,6 +199480,7 @@ http://mhtlim.top/usage/usage.html	uomk
 只给	vigw
 制	vih
 秩	vih
+稚	vih
 軄	viha
 帋	vihb
 只好	vihc
@@ -199496,7 +199497,6 @@ http://mhtlim.top/usage/usage.html	uomk
 𤆒	vihf
 𤓕	vihf
 制衡	vihg
-稚	vihg
 䉜	vihg
 秷	vihg
 𡑘	vihg
@@ -199538,6 +199538,7 @@ http://mhtlim.top/usage/usage.html	uomk
 䄺	vihn
 劕	vihn
 质	viho
+秩	viho
 徔	viho
 𤴛	viho
 𩙾	viho
@@ -205298,7 +205299,6 @@ http://mhtlim.top/usage/usage.html	uomk
 为荣	wwrs
 𮰔	wwrs
 𠳿	wwru
-葳蕤	wwrv
 喂	wwrv
 喴	wwrv
 𨃄	wwrv
@@ -206694,6 +206694,7 @@ http://mhtlim.top/usage/usage.html	uomk
 摡	xiqu
 捿	xiqv
 吸	xir
+嘻	xir
 㗩	xira
 唏	xirb
 𰸐	xirb
@@ -206725,7 +206726,6 @@ http://mhtlim.top/usage/usage.html	uomk
 躧	xirp
 𠺒	xirp
 细软	xirr
-嘻	xirr
 㘊	xirr
 𨀙	xirr
 㕧	xirs
@@ -214869,6 +214869,7 @@ http://mhtlim.top/usage/usage.html	uomk
 㶄	yjex
 淊	yjex
 烟	yjf
+炎	yjf
 研发	yjfa
 㷔	yjfa
 焔	yjfa
@@ -214876,7 +214877,6 @@ http://mhtlim.top/usage/usage.html	uomk
 焑	yjfd
 敥	yjfe
 盐分	yjff
-炎	yjff
 焱	yjff
 𤎄	yjff
 𪂈	yjff
@@ -217549,11 +217549,11 @@ http://mhtlim.top/usage/usage.html	uomk
 𰶀	yuis
 严师出高徒	yuit
 愚蠢	yuiy
-宇	yuj
+寓	yuj
 右上角	yuj
 浴巾	yujb
-寓	yujb
 㝢	yujb
+宇	yujd
 穻	yujd
 𨊱	yujd
 㲾	yuje

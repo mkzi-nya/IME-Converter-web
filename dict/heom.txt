@@ -45736,10 +45736,11 @@ IP地址	ipdv
 专	vrq
 职	vis
 只	vi
+指	vi
 知	vi
 志	vigp
 至	vim
-指	viq
+执	viq
 证	vgi
 支	vije
 张	vhn
@@ -45755,6 +45756,7 @@ IP地址	ipdv
 州	vzi
 州	vzm
 整	vgd
+知	vio
 值	vio
 真	vf
 震	vf
@@ -48737,11 +48739,12 @@ GDP	gdp
 拯	vgq
 筝	vgh
 汁	vie
-执	viq
+挚	viq
 枳	vid
 祗	vii
 祗	vim
 智	vio
+智	vioa
 湛	vje
 𫗴	vjn
 渚	vue

@@ -199278,6 +199278,7 @@ http://mhtlim.top/usage/usage.html	uomk
 张嘴	vhzv
 中和作用	vhzy
 只	vi
+指	vi
 知	vi
 𨵂	viab
 䦯	viae
@@ -199796,8 +199797,10 @@ http://mhtlim.top/usage/usage.html	uomk
 侄女	vinv
 𡖻	vinv
 之内	vinw
+知	vio
 值	vio
 智	vio
+智	vioa
 𥏄	vioa
 𨿛	viob
 䝷	vioc
@@ -199859,9 +199862,9 @@ http://mhtlim.top/usage/usage.html	uomk
 质朴	vipu
 㥀	vipv
 支配	vipw
-指	viq
-值钱	viq
 执	viq
+值钱	viq
+挚	viq
 晢	viqa
 搘	viqa
 𢴠	viqa

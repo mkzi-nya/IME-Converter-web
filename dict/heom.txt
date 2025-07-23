@@ -41486,7 +41486,7 @@ IP地址	ipdv
 敞	ihfk
 丑	izn
 叉	iae
-厨	ium
+厨	iumi
 齿	iiy
 抄	icq
 刹	iak
@@ -41637,7 +41637,7 @@ IP地址	ipdv
 侪	ido
 坼	ieg
 瘳	izk
-亍	ium
+亍	iumn
 遄	iry
 谄	iji
 谶	ifi
@@ -51458,6 +51458,9 @@ $	ofhb
 起誓	qiui
 觊觎	jy
 我不知道	wbvd
+一命二运三风水四积阴德五读书	ymey
+六名七相八敬神九交贵人十养生	ymey
+你指尖跃动的电光，是我此生不灭的信仰	nvjm
 㕶	ngrm
 㕶	nnrm
 礼	limu
@@ -71976,6 +71979,7 @@ $	ofhb
 𠤝	mcfp
 𣭮	mcfu
 𤛖	mcgq
+貿	mch
 貿	mchc
 㒵	mchc
 𩿂	mchf
@@ -95251,8 +95255,15 @@ $	ofhb
 𦠓	libz
 𨢌	libz
 𩱇	libz
-𨢌	lixz
-𩱇	lixz
+𨢌	lixx
+𩱇	lixx
 勵	lisx
 珕	lisx
 𰦦	lisx
+覒	mcux
+𢅉	mcux
+𣯀	mcux
+𥟪	mcuz
+𨈥	mcuz
+𬆾	mcuz
+𲌰	mcxx

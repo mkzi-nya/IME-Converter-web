@@ -28801,8 +28801,6 @@ php -S 127.0.0.1:8000	iphp
 出路	iulu
 𧎷	iulu
 础	ium
-厨	ium
-亍	ium
 出马	iuma
 禇	iuma
 出卖	iumd
@@ -28812,12 +28810,14 @@ php -S 127.0.0.1:8000	iphp
 出门	iumf
 𠁉	iumg
 𢒔	iumh
+厨	iumi
 㕑	iumi
 㕏	iumj
 出名	iumk
 车水马龙	iuml
 出面	iumm
 豠	iumm
+亍	iumn
 触摸	iumo
 礎	iumo
 珿	iumo
@@ -40296,8 +40296,8 @@ msbt.seku.su	jmwv
 离休	lixq
 力学	lixt
 立夏	lixx
-𨢌	lixz
-𩱇	lixz
+𨢌	lixx
+𩱇	lixx
 离	liy
 裏	liy
 逦	liyb
@@ -44731,6 +44731,7 @@ msbt.seku.su	jmwv
 莫测高深	mcgu
 贸	mch
 牦	mch
+貿	mch
 冒号	mchc
 貿	mchc
 㒵	mchc
@@ -44862,6 +44863,12 @@ msbt.seku.su	jmwv
 冒失	mcui
 名存实亡	mcuw
 毛刷	mcux
+覒	mcux
+𢅉	mcux
+𣯀	mcux
+𥟪	mcuz
+𨈥	mcuz
+𬆾	mcuz
 嫹	mcvc
 冒着	mcve
 㚹	mcvl
@@ -44879,6 +44886,7 @@ msbt.seku.su	jmwv
 毛线	mcx
 貌相	mcxl
 冒险	mcxm
+𲌰	mcxx
 袤	mcy
 旄	mcy
 毛衣	mcy
@@ -49993,6 +50001,7 @@ milthm	milt
 拿着鸡毛当令箭	nvjj
 女警	nvjk
 年终奖	nvjl
+你指尖跃动的电光，是我此生不灭的信仰	nvjm
 女眷	nvjr
 狃	nvkg
 䖡	nvlg
@@ -216155,6 +216164,8 @@ http://mhtlim.top/usage/usage.html	uomk
 迎面而来	ymel
 掩面而泣	ymeq
 爷们儿	ymer
+一命二运三风水四积阴德五读书	ymey
+六名七相八敬神九交贵人十养生	ymey
 羽毛丰满	ymfm
 有目共睹	ymgd
 榆木疙瘩	ymgd

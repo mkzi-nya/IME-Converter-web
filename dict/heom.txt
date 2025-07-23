@@ -40637,7 +40637,7 @@ IP地址	ipdv
 攻	gsmk
 估	guo
 轨	gvk
-冠	grbi
+冠	grb
 赶	gjg
 盖	gdt
 敢	gjm
@@ -41541,7 +41541,7 @@ IP地址	ipdv
 绰	icv
 绰	iov
 稠	izhr
-橱	iudi
+橱	iud
 嘲	icrb
 椿	iyd
 锄	iuo
@@ -42035,7 +42035,7 @@ IP地址	ipdv
 跤	jnr
 踞	jurr
 强	jlni
-桨	jlld
+桨	jll
 咀	jurm
 蛟	jnlk
 瑾	jbm
@@ -45378,6 +45378,7 @@ IP地址	ipdv
 输	uuk
 绍	ucv
 授	uzq
+寿	uzq
 申	ufl
 顺	uy
 束	uud
@@ -45482,7 +45483,7 @@ IP地址	ipdv
 珊	ujm
 禅	ujij
 竖	uul
-蜀	uuwi
+蜀	uuw
 烁	uof
 仕	uiog
 柿	uidb
@@ -46566,7 +46567,7 @@ IP地址	ipdv
 峡	xxu
 刑	xkmn
 厦	xxme
-询	xyia
+询	xyi
 洗	xie
 悉	xihp
 辛	xby

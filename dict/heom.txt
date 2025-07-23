@@ -36194,7 +36194,6 @@ IP地址	ipdv
 英镑	ykbh
 硬币	ykbi
 应变	ykbm
-一客不烦二主	ykbv
 英才	ykcd
 英寸	ykcy
 应答	ykda
@@ -38606,6 +38605,7 @@ IP地址	ipdv
 总数	zsuu
 总账	zsvh
 总之	zsvi
+宗旨	zsvi
 总站	zsvj
 宗主	zsvu
 总务	zswu
@@ -39234,6 +39234,7 @@ IP地址	ipdv
 拔	baq
 胞	bcbu
 贝	bwb
+貝	bwb
 薄	bct
 薄	bot
 邦	bhh
@@ -41859,7 +41860,7 @@ IP地址	ipdv
 兼	jmt
 鉴	jmlc
 禁	jbd
-键	jmo
+键	jmoa
 疾	jik
 叫	jn
 皎	jn
@@ -41903,7 +41904,7 @@ IP地址	ipdv
 镜	jko
 寄	jij
 擊	jij
-晋	jbma
+晋	jbm
 柬	jmd
 嘉	jxg
 捷	jpqo
@@ -41916,7 +41917,7 @@ IP地址	ipdv
 君	jys
 掘	jtq
 驾	jxkm
-剑	jmon
+剑	jmo
 尖	jmf
 肩	jmhb
 肩	jmi
@@ -44204,7 +44205,7 @@ IP地址	ipdv
 勤	qbt
 抢	qlq
 渠	que
-潜	qmea
+潜	qme
 弃	qiy
 倾	qko
 侵	qbo
@@ -45738,6 +45739,7 @@ IP地址	ipdv
 志	vigp
 至	vim
 执	viq
+掷	viq
 证	vgi
 支	vije
 张	vhn
@@ -45912,7 +45914,6 @@ IP地址	ipdv
 浊	voe
 酯	vima
 踵	vsr
-掷	viql
 烛	vuf
 樟	vhd
 峙	viui
@@ -46444,7 +46445,6 @@ IP地址	ipdv
 𬀩	wwas
 我	woh
 王	whm
-纹	wfvk
 潍	wweg
 崴	wwuv
 挝	woqi
@@ -46470,6 +46470,8 @@ IP地址	ipdv
 玩不玩	wbw
 完蛋了	wdl
 稳定性	wdx
+纹	wfv
+紋	wfv
 五分钟	wfv
 无规矩不成方圆	wgj
 未婚夫	whf
@@ -47059,7 +47061,7 @@ IP地址	ipdv
 亿	yion
 优	yzo
 易	yia
-隐	ybnp
+隐	ybn
 引	ybn
 亚	ya
 么	ychi
@@ -47754,7 +47756,7 @@ IP地址	ipdv
 泽	zee
 座	zoi
 早	zc
-综	zsvf
+综	zsv
 罪	zvw
 灾	zdj
 左	zok
@@ -48464,7 +48466,6 @@ GDP	gdp
 宅子	vdz
 正途	vgt
 只管	vig
-值钱	viq
 质问	viw
 战线	vjx
 转头	vrt
@@ -48537,7 +48538,6 @@ GDP	gdp
 做了	zol
 踪迹	zsj
 宗师	zsu
-宗旨	zsv
 纵向	zsx
 纵有	zsy
 阻止	zuv
@@ -48918,6 +48918,7 @@ GDP	gdp
 直到	vd
 只会	vh
 追求	vq
+值钱	vq
 只是	vu
 真正	vv
 这些	vx
@@ -57825,9 +57826,10 @@ $	ofhb
 旉	fuis
 盙	fuit
 𢌹	fuit
-輔	fujb
-巿	fujb
+輔	fuj
 麱	fujb
+巿	fujb
+輔	fujb
 𪍏	fujc
 䴸	fujd
 𥦘	fujd
@@ -58432,6 +58434,7 @@ $	ofhb
 𢆜	geaj
 閘	geal
 閤	gear
+閣	gea
 閣	gear
 闔	geat
 𥉅	gebb
@@ -59489,8 +59492,9 @@ $	ofhb
 鐀	gvcc
 䤥	gvcu
 檜	gvda
-櫃	gvdc
+櫃	gvd
 𩏡	gvdc
+櫃	gvdc
 椢	gvdi
 𩏐	gvdi
 槶	gvdm
@@ -59550,8 +59554,9 @@ $	ofhb
 祪	gviu
 𩓠	gvjc
 窐	gvjg
-軌	gvjn
+軌	gvj
 𡬂	gvjn
+軌	gvjn
 攰	gvjs
 𡧭	gvju
 𥥠	gvju
@@ -64348,11 +64353,12 @@ $	ofhb
 盡	jblt
 䀆	jblt
 𧗁	jblt
-晉	jbma
+晉	jbm
 瑨	jbma
 㬜	jbma
 䃡	jbma
 䤐	jbma
+晉	jbma
 琻	jbmc
 瑧	jbmd
 𥖜	jbmf
@@ -66427,9 +66433,10 @@ $	ofhb
 繆	jqvh
 𠚨	jqvh
 𣁭	jqvj
-糾	jqvl
+糾	jqv
 丩	jqvl
 紤	jqvl
+糾	jqvl
 𠛩	jqvn
 乆	jqvo
 奺	jqvo
@@ -72137,8 +72144,9 @@ $	ofhb
 鷶	mdwf
 𧹒	mdwo
 䚑	mdwu
-邁	mdyb
+邁	mdy
 䜕	mdyb
+邁	mdyb
 𧱘	mdyl
 ⻨	mdze
 濹	meeg
@@ -72755,6 +72763,7 @@ $	ofhb
 慏	mkpc
 𦫭	mkpu
 掵	mkql
+鳴	mkr
 鳴	mkrf
 𡥸	mksd
 萌	mktb
@@ -81834,6 +81843,7 @@ $	ofhb
 䈉	uahv
 𢩖	uahx
 𦩿	uahx
+廈	uai
 廈	uaie
 𫍺	uaie
 𢩖	uaix
@@ -82057,6 +82067,7 @@ $	ofhb
 攝	ueqj
 𢶅	ueqo
 拾	ueqr
+捨	ueq
 捨	ueqr
 𠾏	uera
 𡄢	uera
@@ -82228,6 +82239,7 @@ $	ofhb
 紳	ufvl
 妽	ufvl
 姺	ufvu
+嬸	ufv
 嬸	ufvw
 罧	ufwd
 𦌀	ufwh
@@ -86137,8 +86149,8 @@ $	ofhb
 蘊	wftt
 鞰	wftt
 莬	wftu
-紋	wfvk
 妏	wfvk
+紋	wfvk
 缊	wfvt
 絻	wfvu
 𨜵	wfwl
@@ -86576,9 +86588,10 @@ $	ofhb
 𧺴	wugj
 𱖫	wugo
 䑁	wuhb
-烏	wuhf
+烏	wuh
 䉑	wuhf
 𪄝	wuhf
+烏	wuhf
 箼	wuhg
 𢩈	wuhg
 𥟽	wuhg
@@ -88247,8 +88260,9 @@ $	ofhb
 軐	xmjj
 軐	xmjk
 韯	xmjm
-憲	xmjp
+憲	xmj
 𨏥	xmjp
+憲	xmjp
 輱	xmjr
 𡫹	xmjr
 轞	xmjt
@@ -89826,6 +89840,7 @@ $	ofhb
 𥯾	xxhr
 𥰶	xxhr
 毳	xxhu
+廈	xxi
 廈	xxie
 𢈤	xxil
 𲂆	xxil
@@ -91927,6 +91942,7 @@ $	ofhb
 𣦌	yiyk
 訲	yiyl
 誼	yiym
+翊	yiym
 竩	yiym
 辷	yiym
 𱊰	yiym
@@ -92493,9 +92509,10 @@ $	ofhb
 罌	ykbu
 膡	ykbu
 𦦿	ykbu
-嬰	ykbv
+嬰	ykb
 䑉	ykbv
 𥌽	ykbv
+嬰	ykbv
 鐛	ykcf
 鍈	ykck
 𧯀	ykck
@@ -95309,3 +95326,12 @@ $	ofhb
 𣔼	gjjx
 櫴	ldcx
 顂	ldcx
+珚	yjkx
+礹	yjkx
+釅	yjkz
+𥜒	yjkz
+䤐	jbax
+𡱺	qurx
+𦕙	qurx
+𦗛	qurx
+

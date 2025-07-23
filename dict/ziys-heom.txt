@@ -1,3 +1,4 @@
+
 0721，是一种脑力与体力结合的活动，无数的仁人志士投身于这伟大的活动。有的人运用于实战，沉重地打击了老穗织正绿旗的睡眠，为反封建做出了突出贡献；有的人进行了科技上的革新，以花洒这种坚硬的东西保证了实感和持久性；有的人将此用于课上与老师斗争，展示了她的勇敢与坚毅。不过，我们伟大的绫地宁宁，将0721玩出了新高度，玩出了新水平，成为了0721界的一座丰碑。在0721界，后人看到这时，不得不感叹“天不生宁宁，万古如长夜”。正如赫尔曼拉姆是抢劫界的大贤至圣先师一样，绫地宁宁可以说是0721界的大贤至圣先师。
 在宁宁之前，古典派的0721主要是动手动脑，并且工作环境恶劣，安全没有保障。而我们伟大的绫地宁宁在0721方面进行了伟大的探索，开创了0721现代化、机械化、正规化、多元化的先河，造就了0721界的革命，实现了0721界的伟大进步。这个进步，不亚于两次工业革命！
 长久以来，0721是以手工的形式为主，但我们的宁宁进行了技术上的革新，先是以桌角代替手工，后来为了可持续发展就采用了一种红色的小机械，并将其命名为“起爆器”，意思是爆炸性的革新，据路边社消息宁宁将来很有可能要冲击诺贝尔奖。同时为了高效运作，她将起爆器扩展到了两个，进一步促进了0721生产力的发展，这项成就堪比福特流水线。这场技术革命深深影响了后世，鼓舞后人在这领域创造性转化，创新性发展。
@@ -5343,6 +5344,7 @@ AA制	aavi
 悲哀	bwai
 备案	bwan
 贝	bwb
+貝	bwb
 背部	bwb
 背包	bwbc
 貝	bwbc
@@ -15373,10 +15375,11 @@ vivo手机断触解决方式https://www.taptap.cn/moment/654325286527043497	driu
 讣	fuiy
 复仇	fuiz
 富	fuj
+輔	fuj
 附近	fujb
-輔	fujb
-巿	fujb
 麱	fujb
+巿	fujb
+輔	fujb
 𪍏	fujc
 䴸	fujd
 𥦘	fujd
@@ -16804,6 +16807,7 @@ GDP	gdp
 哥	ge
 げ	ge
 ゲ	ge
+閣	gea
 割爱	geai
 𢆜	geaj
 閘	geal
@@ -19440,10 +19444,11 @@ github	gith
 鬼才	gvcd
 䤥	gvcu
 桂	gvd
+櫃	gvd
 檜	gvda
 轨道	gvdc
-櫃	gvdc
 𩏡	gvdc
+櫃	gvdc
 归档	gvdh
 跪地	gvdi
 桧	gvdi
@@ -19541,6 +19546,7 @@ github	gith
 公众场所	gvis
 祪	gviu
 诡计	gvj
+軌	gvj
 𩓠	gvjc
 窐	gvjg
 轨迹	gvji
@@ -19550,8 +19556,8 @@ github	gith
 贵贱	gvjm
 硅胶	gvjn
 宄	gvjn
-軌	gvjn
 𡬂	gvjn
+軌	gvjn
 归结	gvjp
 归咎	gvjq
 攰	gvjs
@@ -29625,6 +29631,7 @@ php -S 127.0.0.1:8000	iphp
 基本	jb
 㬐	jbaa
 紧挨	jbai
+䤐	jbax
 骄兵必败	jbbb
 近百	jbbd
 紧绷	jbbg
@@ -29799,13 +29806,14 @@ php -S 127.0.0.1:8000	iphp
 䀆	jblt
 𧗁	jblt
 近路	jblu
+晋	jbm
 瑾	jbm
-晋	jbma
-晉	jbma
+晉	jbm
 瑨	jbma
 㬜	jbma
 䃡	jbma
 䤐	jbma
+晉	jbma
 琻	jbmc
 瑧	jbmd
 祲	jbme
@@ -32324,8 +32332,9 @@ php -S 127.0.0.1:8000	iphp
 𧤨	jmnv
 贱内	jmnw
 挤眉弄眼	jmny
-键	jmo
+剑	jmo
 僭	jmo
+键	jmoa
 锏	jmoa
 僣	jmoa
 䭠	jmoc
@@ -32347,7 +32356,6 @@ php -S 127.0.0.1:8000	iphp
 𰾌	jmol
 俭	jmom
 𰿈	jmom
-剑	jmon
 劍	jmon
 剣	jmon
 俿	jmon
@@ -33895,6 +33903,7 @@ msbt.seku.su	jmwv
 酒水	jquv
 就手	jquz
 纠	jqv
+糾	jqv
 旧宅	jqvd
 九折	jqve
 就诊	jqvf
@@ -33906,9 +33915,9 @@ msbt.seku.su	jmwv
 救治	jqvi
 𣁭	jqvj
 酒庄	jqvl
-糾	jqvl
 丩	jqvl
 紤	jqvl
+糾	jqvl
 𠛩	jqvn
 乆	jqvo
 奺	jqvo
@@ -45075,10 +45084,11 @@ msbt.seku.su	jmwv
 卖笑	mdxn
 面对现实	mdxu
 迈	mdy
+邁	mdy
 麦芽	mdya
 卖淫	mdyb
-邁	mdyb
 䜕	mdyb
+邁	mdyb
 买药	mdyc
 卖艺	mdyi
 𧱘	mdyl
@@ -46251,6 +46261,7 @@ milthm	milt
 明确	mkqt
 名曲	mkqu
 鸣	mkr
+鳴	mkr
 名人	mkrf
 鳴	mkrf
 明日	mkri
@@ -182321,8 +182332,8 @@ python	pyth
 𣘝	qmdu
 𣟋	qmdv
 轻描淡写	qmdx
+潜	qme
 浅	qme
-潜	qmea
 潛	qmea
 濳	qmea
 灊	qmeb
@@ -184325,6 +184336,9 @@ python	pyth
 𨄅	qurr
 屈辱	quru
 㖆	qurw
+𡱺	qurx
+𦕙	qurx
+𦗛	qurx
 取	qus
 屈	qus
 区	qus
@@ -193185,6 +193199,7 @@ sh /storage/emulated/0/.ck/heom/code/11.sh	tijn
 傻话	uahx
 𢩖	uahx
 𦩿	uahx
+廈	uai
 刹车	uaie
 廈	uaie
 𫍺	uaie
@@ -193805,6 +193820,7 @@ sh /storage/emulated/0/.ck/heom/code/11.sh	tijn
 懾	uepj
 社评	uepk
 摄	ueq
+捨	ueq
 摂	ueqc
 揲	ueqd
 𱂊	ueqd
@@ -194191,6 +194207,7 @@ sh /storage/emulated/0/.ck/heom/code/11.sh	tijn
 伸手	ufuz
 绅	ufv
 婶	ufv
+嬸	ufv
 是非之地	ufvd
 綝	ufvd
 深圳	ufvf
@@ -199980,7 +199997,7 @@ http://mhtlim.top/usage/usage.html	uomk
 㥀	vipv
 支配	vipw
 执	viq
-值钱	viq
+掷	viq
 挚	viq
 晢	viqa
 搘	viqa
@@ -200004,7 +200021,6 @@ http://mhtlim.top/usage/usage.html	uomk
 知情	viqk
 㨖	viqk
 𢷸	viqk
-掷	viql
 擲	viql
 擳	viql
 𰓜	viql
@@ -201090,6 +201106,7 @@ http://mhtlim.top/usage/usage.html	uomk
 只怕有心人	vpyr
 正确	vq
 追求	vq
+值钱	vq
 知其不可而为之	vqbv
 只欠东风	vqdf
 沾亲带故	vqdg
@@ -203333,14 +203350,15 @@ http://mhtlim.top/usage/usage.html	uomk
 文书	wfuu
 温水	wfuv
 温顺	wfuy
+纹	wfv
+紋	wfv
 五分钟	wfv
 文摘	wfvd
 文章	wfvh
 文职	wfvi
 问斩	wfvj
-纹	wfvk
-紋	wfvk
 妏	wfvk
+紋	wfvk
 稳重	wfvs
 缊	wfvt
 稳住	wfvu
@@ -204522,13 +204540,14 @@ http://mhtlim.top/usage/usage.html	uomk
 为时过早	wugz
 物	wuh
 务	wuh
+烏	wuh
 䑁	wuhb
 晚上好	wuhc
 无害	wuhd
 无痕	wuhf
-烏	wuhf
 䉑	wuhf
 𪄝	wuhf
+烏	wuhf
 箼	wuhg
 𢩈	wuhg
 𥟽	wuhg
@@ -208015,6 +208034,7 @@ http://mhtlim.top/usage/usage.html	uomk
 献丑	xmiz
 献	xmj
 宪	xmj
+憲	xmj
 先进	xmjb
 鶱	xmjf
 性命交关	xmjg
@@ -208027,8 +208047,8 @@ http://mhtlim.top/usage/usage.html	uomk
 𬸣	xmjm
 韯	xmjm
 衔接	xmjp
-憲	xmjp
 𨏥	xmjp
+憲	xmjp
 輱	xmjr
 𡫹	xmjr
 先决	xmjt
@@ -210896,6 +210916,7 @@ http://mhtlim.top/usage/usage.html	uomk
 下回	xxhv
 下滑	xxhx
 夏侯	xxhz
+廈	xxi
 下车	xxie
 瞎扯	xxie
 廈	xxie
@@ -212084,6 +212105,7 @@ http://mhtlim.top/usage/usage.html	uomk
 𨢂	ybmu
 硍	ybmv
 阴谋	ybmz
+隐	ybn
 引	ybn
 阴	ybn
 𩐞	ybna
@@ -212108,7 +212130,6 @@ http://mhtlim.top/usage/usage.html	uomk
 鮣	ybnl
 夜不能寐	ybnm
 饮	ybno
-隐	ybnp
 隱	ybnp
 隠	ybnp
 𡖣	ybns
@@ -214817,6 +214838,7 @@ http://mhtlim.top/usage/usage.html	uomk
 訲	yiyl
 翊	yiym
 誼	yiym
+翊	yiym
 竩	yiym
 辷	yiym
 𱊰	yiym
@@ -215200,6 +215222,10 @@ http://mhtlim.top/usage/usage.html	uomk
 狠	yjkv
 狿	yjkv
 㿕	yjkx
+珚	yjkx
+礹	yjkx
+釅	yjkz
+𥜒	yjkz
 蜒	yjl
 阎	yjl
 阉	yjl
@@ -215691,6 +215717,7 @@ http://mhtlim.top/usage/usage.html	uomk
 𣋋	ykau
 婴	ykb
 鹦	ykb
+嬰	ykb
 迎宾	ykbb
 𦡺	ykbb
 賏	ykbc
@@ -215724,11 +215751,10 @@ http://mhtlim.top/usage/usage.html	uomk
 罌	ykbu
 膡	ykbu
 𦦿	ykbu
-一客不烦二主	ykbv
 媵	ykbv
-嬰	ykbv
 䑉	ykbv
 𥌽	ykbv
+嬰	ykbv
 英才	ykcd
 鐛	ykcf
 鍈	ykck
@@ -221389,15 +221415,15 @@ http://mhtlim.top/usage/usage.html	uomk
 嵸	zsuo
 𡵝	zsuo
 总数	zsuu
+综	zsv
 纵	zsv
-宗旨	zsv
 緵	zsve
 𡞧	zsve
 𰬯	zsve
-综	zsvf
 綜	zsvf
 总账	zsvh
 总之	zsvi
+宗旨	zsvi
 总站	zsvj
 縱	zsvo
 緃	zsvo

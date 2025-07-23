@@ -14409,7 +14409,6 @@ IP地址	ipdv
 教科	jnke
 校勘	jnkj
 较快	jnkk
-骄狂	jnkl
 交款	jnkr
 叫苦	jnku
 叫来	jnld
@@ -40737,7 +40736,7 @@ IP地址	ipdv
 闺	gvlg
 噶	gar
 卦	gxg
-咕	gurr
+咕	gur
 丐	gdm
 呱	guro
 呱	gxro
@@ -41827,7 +41826,7 @@ IP地址	ipdv
 检	jmd
 九	jqk
 即	jia
-奖	jllk
+奖	jll
 届	jpsw
 健	jmoq
 竞	jkyu
@@ -41874,7 +41873,7 @@ IP地址	ipdv
 鉴	jmlc
 禁	jbd
 键	jmo
-疾	jikk
+疾	jik
 叫	jn
 皎	jn
 架	jxk
@@ -41899,7 +41898,7 @@ IP地址	ipdv
 劲	jkn
 缴	jnv
 敬	jkt
-辑	jik
+辑	jikj
 纠	jqv
 净	jki
 籍	jiha
@@ -41933,7 +41932,6 @@ IP地址	ipdv
 尖	jmf
 肩	jmh
 肩	jmi
-肩	jmm
 峻	jyu
 舰	jmhu
 崛	jtu
@@ -41999,7 +41997,7 @@ IP地址	ipdv
 钾	jxo
 诀	jti
 襟	jblf
-歼	jmmj
+歼	jmm
 娇	jnv
 獗	jtk
 畸	jiwr
@@ -46261,7 +46259,7 @@ IP地址	ipdv
 乌	wupm
 遗	wwyo
 误	wui
-亡	whyv
+亡	why
 谓	wwi
 恶	wump
 屋	wus
@@ -47439,6 +47437,7 @@ IP地址	ipdv
 氩	yao
 桠	yad
 胤	yblu
+邮	yzl
 蝣	yzl
 瑗	yrme
 嘤	ykrv
@@ -47734,6 +47733,7 @@ IP地址	ipdv
 做	zo
 走	zz
 责	zeq
+择	zeq
 则	ze
 载	zd
 自动	zd
@@ -48485,7 +48485,7 @@ GDP	gdp
 旺季	whj
 往上	whu
 王者	whv
-网友	why
+网友	whyz
 晚了	wjl
 玩转	wjv
 玩意	wjy
@@ -48675,7 +48675,7 @@ GDP	gdp
 皎	jnh
 敫	jnh
 僭	jmo
-戬	jmm
+戬	jmmi
 醮	jnm
 诘	jpi
 疚	jqk
@@ -48803,7 +48803,7 @@ GDP	gdp
 鹬	yunm
 谀	yuio
 纭	yyv
-蚰	yzl
+蚰	yzlw
 渍	zie
 蕃	fjtw
 麸	fuqo

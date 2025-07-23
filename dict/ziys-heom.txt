@@ -19266,6 +19266,7 @@ github	gith
 股权	guqr
 㧽	guqr
 故去	guqu
+咕	gur
 更是如此	gurc
 古人	gurf
 唃	gurg
@@ -19276,7 +19277,6 @@ github	gith
 呱	guro
 唃	gurq
 拱手让人	gurr
-咕	gurr
 唂	gurr
 𠻧	gurr
 高收入	guru
@@ -30570,7 +30570,7 @@ php -S 127.0.0.1:8000	iphp
 几句	jiju
 计价	jijx
 季军	jijy
-辑	jik
+疾	jik
 奇	jik
 瘠	jikb
 㾊	jikb
@@ -30588,10 +30588,10 @@ php -S 127.0.0.1:8000	iphp
 犱	jiki
 𠫷	jiki
 𧎿	jiki
+辑	jikj
 㾵	jikj
 𬏟	jikj
 几块	jikk
-疾	jikk
 犱	jikk
 猤	jikk
 瘈	jikk
@@ -31730,6 +31730,7 @@ php -S 127.0.0.1:8000	iphp
 降价	jljx
 将军	jljy
 讲课	jlke
+奖	jll
 降临	jllb
 将来	jlld
 桨	jlld
@@ -31738,7 +31739,6 @@ php -S 127.0.0.1:8000	iphp
 襁	jlli
 螀	jlli
 将领	jllk
-奖	jllk
 奨	jllk
 虹	jllm
 䗵	jllm
@@ -32199,9 +32199,8 @@ php -S 127.0.0.1:8000	iphp
 简略	jmlt
 𰴘	jmlu
 简陋	jmlz
-肩	jmm
 碱	jmm
-戬	jmm
+歼	jmm
 简码	jmma
 磵	jmma
 𰧃	jmma
@@ -32217,12 +32216,12 @@ php -S 127.0.0.1:8000	iphp
 䵡	jmmf
 䵤	jmmf
 鳽	jmmf
+戬	jmmi
 戩	jmmi
 碊	jmmi
 蠒	jmmi
 𡬵	jmmi
 减慢	jmmj
-歼	jmmj
 幵	jmmj
 豣	jmmj
 简明	jmmk
@@ -32773,7 +32772,6 @@ msbt.seku.su	jmwv
 𢼫	jnkk
 𤉧	jnkk
 𤶀	jnkk
-骄狂	jnkl
 轿	jnkl
 㽱	jnkl
 交款	jnkr
@@ -203540,7 +203538,7 @@ http://mhtlim.top/usage/usage.html	uomk
 往下	whxx
 未婚先孕	whxy
 望	why
-网友	why
+亡	why
 网银	whyb
 网页	whye
 迋	whyg
@@ -203556,11 +203554,11 @@ http://mhtlim.top/usage/usage.html	uomk
 方	whys
 望月	whyt
 盲	whyu
-亡	whyv
 妄	whyv
 誷	whyv
 𧧄	whyv
 往右	whyz
+网友	whyz
 ⺲	whzc
 玩火自焚	whzf
 王子	whzi
@@ -219014,8 +219012,8 @@ http://mhtlim.top/usage/usage.html	uomk
 𤸈	yzkw
 𬨎	yzkw
 由	yzl
+邮	yzl
 蝣	yzl
-蚰	yzl
 牖	yzlb
 牗	yzlb
 有劳	yzlc
@@ -219039,6 +219037,7 @@ http://mhtlim.top/usage/usage.html	uomk
 忧虑	yzlv
 一走了之	yzlv
 䖻	yzlv
+蚰	yzlw
 蝤	yzlw
 游轮	yzly
 憂	yzm
@@ -219859,6 +219858,7 @@ http://mhtlim.top/usage/usage.html	uomk
 伬	zeoo
 择偶	zeou
 责	zeq
+择	zeq
 措	zeqa
 責	zeqc
 耫	zeqc

@@ -1445,7 +1445,6 @@ AA制	aavi
 保加利亚	bjly
 斑马	bjma
 版面	bjmm
-不结盟	bjmg
 不结盟运动	bjmd
 不讲面子	bjmz
 比基尼	bjni
@@ -40684,7 +40683,7 @@ IP地址	ipdv
 冈	ghb
 溉	gde
 鬼	gvh
-辜	gujj
+辜	guj
 勾	gzp
 杠	ghd
 膏	gcy
@@ -42801,8 +42800,10 @@ IP地址	ipdv
 螺	lolf
 麟	lbi
 芦	lut
-谅	lli
+凉	lli
 良	lli
+谅	lli
+谅	llif
 菱	lkt
 锣	loo
 庐	luis
@@ -45495,7 +45496,7 @@ IP地址	ipdv
 舜	uyb
 矢	uiok
 耍	uxm
-峙	uiui
+峙	uiu
 慑	uep
 煞	uanf
 删	ujb
@@ -45878,7 +45879,7 @@ IP地址	ipdv
 窄	vdj
 寨	vdj
 嘱	vur
-贮	vubm
+贮	vub
 渣	vae
 昼	vzsm
 肢	vibe
@@ -47180,7 +47181,8 @@ IP地址	ipdv
 页	yem
 遥	ycyu
 氧	yho
-颜	yjy
+彦	yjy
+颜	yjyo
 岳	yto
 爷	yec
 悠	yzop
@@ -47205,7 +47207,6 @@ IP地址	ipdv
 溢	yie
 殷	ybhe
 椅	yid
-彦	yjyh
 轧	yaku
 狱	yuk
 喻	yur
@@ -47249,7 +47250,7 @@ IP地址	ipdv
 哑	yarc
 钥	yco
 钥	ytob
-蚁	yilk
+蚁	yil
 吟	ybr
 渝	yuen
 渝	yuev
@@ -47794,7 +47795,7 @@ IP地址	ipdv
 孜	zin
 佐	zoom
 噪	zcr
-灶	zcfg
+灶	zcf
 淄	ziew
 砸	zam
 赃	zhb
@@ -48522,7 +48523,7 @@ GDP	gdp
 拥护	ysh
 油锅	yzg
 杂质	zav
-造反	zcf
+造反	zcfj
 造就	zcj
 糟了	zcl
 早起	zcq

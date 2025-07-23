@@ -1044,7 +1044,7 @@ AA制	aavi
 八股	bagu
 𤜕	bagu
 八卦	bagx
-八	bah
+笆	bah
 拔河	bahe
 魃	bahe
 叐	bahe
@@ -1064,7 +1064,6 @@ AA制	aavi
 八荒	bahl
 䆉	bahp
 跋扈	bahu
-笆	bahu
 㸭	bahu
 𣬶	bahu
 𥝧	bahu
@@ -6439,6 +6438,7 @@ Caonima～(∠・ω< )⌒☆	caon
 藏书	chuu
 藏着	chve
 藏拙	chvo
+仓五	chwu
 仓位	chww
 苍蝇	chyk
 䢢	chyr
@@ -20970,6 +20970,7 @@ github	gith
 喝彩	hecd
 鉌	hecd
 何曾	hecg
+鹤仓	hech
 贺词	heci
 鉀	hecl
 𧮵	hecr
@@ -21169,7 +21170,7 @@ github	gith
 𠚔	henr
 𡇶	henr
 河内	henw
-合	heo
+鹤	heo
 頜	heoc
 龢	heod
 𰽬	heod
@@ -24284,6 +24285,7 @@ github	gith
 诲	hviy
 回抽	hviz
 惠	hvj
+卉	hvj
 灰烬	hvjb
 輠	hvjd
 汇集	hvji
@@ -24298,7 +24300,6 @@ github	gith
 恵	hvjp
 挥之即去	hvjq
 回绝	hvjt
-卉	hvjt
 汇聚	hvju
 货真价实	hvju
 𡜦	hvjv
@@ -30035,6 +30036,7 @@ php -S 127.0.0.1:8000	iphp
 结党营私	jdys
 就等于	jdyu
 金额	je
+饥饿	je
 今儿个	jege
 剪恶除奸	jeij
 吉尔吉斯	jejs
@@ -30318,7 +30320,6 @@ php -S 127.0.0.1:8000	iphp
 潗	jied
 㳵	jied
 㴕	jied
-饥饿	jiee
 汲	jiee
 漃	jiee
 漈	jief
@@ -32244,6 +32245,7 @@ php -S 127.0.0.1:8000	iphp
 𰧔	jmmt
 健美	jmmw
 建	jmn
+饯	jmn
 𩻘	jmnb
 鳒	jmnc
 鰜	jmnc
@@ -32253,7 +32255,6 @@ php -S 127.0.0.1:8000	iphp
 䧖	jmni
 𫊱	jmni
 艰难	jmnj
-饯	jmnj
 奸佞	jmnk
 𢐆	jmnn
 𬳆	jmnn
@@ -34803,13 +34804,13 @@ msbt.seku.su	jmwv
 窶	jujv
 𪧘	jujv
 居家	jujx
+狙	juk
 车	juk
 𤷢	jukc
 㹼	jukd
 𪀣	jukf
 㪺	jukj
 疽	jukm
-狙	jukm
 𠙆	jukn
 𠟰	jukn
 𤢓	juko
@@ -38735,6 +38736,7 @@ msbt.seku.su	jmwv
 临行	lbxk
 遴选	lbxr
 聊表心意	lbxy
+吝	lby
 利比亚	lbya
 林荫	lbyb
 稟	lbyd
@@ -38742,7 +38744,6 @@ msbt.seku.su	jmwv
 遴	lbyq
 䢯	lbyq
 林园	lbyr
-吝	lbyr
 㐭	lbyr
 淋雨	lbyu
 林子	lbzi
@@ -42644,10 +42645,10 @@ msbt.seku.su	jmwv
 乱序	lrxu
 令人心折	lrxv
 鸾	lry
+孪	lry
 銮	lryc
 𰁜	lryc
 栾	lryd
-孪	lryd
 𰛪	lrye
 鵉	lryf
 脔	lryo
@@ -181458,6 +181459,7 @@ python	pyth
 𡻰	qiuf
 齐声	qiug
 其实	qiui
+起誓	qiui
 𧰙	qiui
 青城山	qiuj
 嵠	qiuk
@@ -181524,7 +181526,6 @@ python	pyth
 气喘吁吁	qixx
 齐	qiy
 弃	qiy
-歧	qiy
 气压	qiya
 欺压	qiya
 起因	qiyb
@@ -181536,7 +181537,7 @@ python	pyth
 𩒛	qiyc
 前程远大	qiyd
 棄	qiyd
-企业	qiye
+歧	qiye
 竐	qiye
 𨑤	qiye
 𪗅	qiye
@@ -184536,6 +184537,7 @@ python	pyth
 𫱿	qxyv
 卡子	qxzi
 群	qy
+企业	qy
 轻徭薄赋	qybf
 缺一不可	qybk
 晴雨表	qybn
@@ -189785,12 +189787,12 @@ rime	rime
 体	ti
 替	ti
 题	tia
+剔	tia
 題	tiac
 鶗	tiaf
 𣈡	tiak
 𫛸	tiam
 提案	tian
-剔	tian
 𣉆	tiao
 惖	tiap
 𧡨	tiau
@@ -195100,8 +195102,8 @@ sh /storage/emulated/0/.ck/heom/code/11.sh	tijn
 食谱	uipu
 适配	uipw
 失陪	uipw
-势	uiq
 拾	uiq
+拭	uiq
 銴	uiqc
 揓	uiqd
 觢	uiqg
@@ -195119,8 +195121,9 @@ sh /storage/emulated/0/.ck/heom/code/11.sh	tijn
 失窃	uiqp
 㸷	uiqq
 觢	uiqq
-实权	uiqr
 誓	uiqr
+实权	uiqr
+势	uiqs
 失去	uiqu
 市区	uiqu
 噬	uir
@@ -199288,6 +199291,7 @@ http://mhtlim.top/usage/usage.html	uomk
 昵	viap
 㫑	vias
 脂	vib
+炙	vib
 膱	viba
 䐭	vibb
 𢅁	vibb
@@ -199302,7 +199306,6 @@ http://mhtlim.top/usage/usage.html	uomk
 𥃫	vibe
 𦟔	vibe
 直奔	vibf
-炙	vibf
 𦛧	vibf
 胵	vibg
 腟	vibg
@@ -208723,6 +208726,7 @@ http://mhtlim.top/usage/usage.html	uomk
 小组	xnzu
 西欧	xo
 些	xp
+写	xp
 歇	xpa
 𨵪	xpac
 𨵚	xpad
@@ -208762,6 +208766,7 @@ http://mhtlim.top/usage/usage.html	uomk
 𨧥	xpcm
 写错	xpco
 械	xpd
+楔	xpd
 榍	xpdb
 邪道	xpdc
 携带	xpdd
@@ -208771,7 +208776,6 @@ http://mhtlim.top/usage/usage.html	uomk
 鞋底	xpdi
 榭	xpdi
 协定	xpdk
-楔	xpdk
 血盆大口	xpdk
 㭨	xpdl
 鞋垫	xpdm
@@ -213108,6 +213112,7 @@ http://mhtlim.top/usage/usage.html	uomk
 鸢飞鱼跃	yfyy
 应付自如	yfzr
 应该	yg
+阉割	yg
 一个比一个	ygbg
 雁过拔毛	ygbm
 一个鼻孔出气	ygbq
@@ -213369,6 +213374,7 @@ http://mhtlim.top/usage/usage.html	uomk
 𱌀	yhlu
 𧓲	yhlv
 烟花柳巷	yhlx
+殃	yhm
 玚	yhm
 样貌	yhmc
 羊毛	yhmc
@@ -213377,9 +213383,8 @@ http://mhtlim.top/usage/usage.html	uomk
 禓	yhmh
 霷	yhmh
 扬名	yhmk
-殃	yhmk
-䄃	yhmk
 雵	yhmk
+䄃	yhmk
 仰面	yhmm
 秧苗	yhmn
 与虎谋皮	yhmp
@@ -213557,6 +213562,8 @@ http://mhtlim.top/usage/usage.html	uomk
 昱	yiat
 曀	yiat
 晲	yiau
+臆	yib
+胰	yib
 贻	yib
 一把	yiba
 宜宾	yibb
@@ -213587,13 +213594,11 @@ http://mhtlim.top/usage/usage.html	uomk
 冝	yibm
 𥄿	yibm
 仪表	yibn
-胰	yibn
 眱	yibn
 肊	yibn
 𧳁	yibn
 衣钵	yibo
 一别	yibp
-臆	yibp
 眤	yibp
 骮	yibp
 𥄻	yibp
@@ -214893,7 +214898,7 @@ http://mhtlim.top/usage/usage.html	uomk
 爓	yjfx
 𰟘	yjfx
 盐	yjg
-阉割	yjg
+堰	yjg
 掩盖	yjgd
 严格	yjge
 𧾤	yjge
@@ -214915,7 +214920,6 @@ http://mhtlim.top/usage/usage.html	uomk
 𥯃	yjgu
 𧻃	yjgu
 烟鬼	yjgv
-堰	yjgv
 埏	yjgv
 𧽉	yjgv
 一决高下	yjgx
@@ -215089,6 +215093,7 @@ http://mhtlim.top/usage/usage.html	uomk
 阏	yjly
 研	yjm
 厌	yjm
+砚	yjm
 掩码	yjma
 烟民	yjmb
 𢅠	yjmb
@@ -215152,7 +215157,6 @@ http://mhtlim.top/usage/usage.html	uomk
 㿼	yjmt
 𨤎	yjmt
 烟幕	yjmu
-砚	yjmu
 醃	yjmu
 硯	yjmu
 䄋	yjmu
@@ -219572,7 +219576,7 @@ http://mhtlim.top/usage/usage.html	uomk
 𨠷	zctw
 噪声	zcug
 早上	zcuh
-早市	zcui
+造势	zcui
 早衰	zcuk
 早熟	zcuu
 艸	zcuu

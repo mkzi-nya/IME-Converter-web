@@ -13641,7 +13641,6 @@ IP地址	ipdv
 激动	jids
 鸡蛋	jidj
 挤兑	jidv
-饥饿	jiee
 继而	jier
 绝尘而去	jieq
 激发	jifa
@@ -22378,7 +22377,6 @@ IP地址	ipdv
 旗下	qixx
 气压	qiya
 起因	qiyb
-企业	qiye
 歧义	qiyi
 奇异	qiyi
 气焰	qiyj
@@ -28132,7 +28130,6 @@ IP地址	ipdv
 时期	uiqi
 石桥	uiqn
 失窃	uiqp
-实权	uiqr
 失去	uiqu
 势成骑虎	uiqh
 湿热	uire
@@ -37853,7 +37850,6 @@ IP地址	ipdv
 早退	zctv
 早上	zcuh
 噪声	zcug
-早市	zcui
 早衰	zcuk
 早熟	zcuu
 早睡	zcuv
@@ -39185,7 +39181,7 @@ IP地址	ipdv
 必	bip
 包	bcp
 布	buk
-八	bah
+笆	bah
 便	bmo
 版	bjl
 边	bm
@@ -39374,7 +39370,6 @@ IP地址	ipdv
 裱	bnl
 陂	bwn
 煲	bcof
-笆	bahu
 钚	buo
 辫	bmyj
 亳	boyp
@@ -40948,7 +40943,7 @@ IP地址	ipdv
 华	hxo
 会	hv
 行	hh
-合	heo
+鹤	heo
 后	hz
 厚	hz
 好	hc
@@ -41059,7 +41054,7 @@ IP地址	ipdv
 幻	hrvs
 焊	hjf
 鹤	heom
-卉	hvjt
+卉	hvj
 浑	hye
 昏	hyh
 翰	hjjm
@@ -42048,6 +42043,7 @@ IP地址	ipdv
 绛	jlvq
 筠	jyh
 沮	jue
+狙	juk
 车	juk
 伽	jxor
 嫉	jivk
@@ -42085,7 +42081,7 @@ IP地址	ipdv
 箕	jihc
 蹶	jtr
 枷	jxd
-饯	jmnj
+饯	jmn
 碣	jpmv
 霁	jiml
 锏	jmoa
@@ -42137,7 +42133,6 @@ IP地址	ipdv
 堇	jbtm
 荩	jbt
 豇	jlm
-狙	jukm
 岬	jxu
 胛	jxb
 桷	jtd
@@ -42332,6 +42327,7 @@ IP地址	ipdv
 精彩	jc
 简单	jd
 金额	je
+饥饿	je
 几乎	jh
 记号	jh
 解放	jf
@@ -42897,7 +42893,7 @@ IP地址	ipdv
 翎	lkom
 篓	lzh
 砾	limd
-吝	lbyr
+吝	lby
 阑	ljlf
 粼	lbf
 唠	lcr
@@ -42923,7 +42919,7 @@ IP地址	ipdv
 挛	lryq
 噜	lura
 绿	luv
-孪	lryd
+孪	lry
 楝	lmd
 潦	lcef
 潦	lne
@@ -44222,7 +44218,7 @@ IP地址	ipdv
 悄	qnp
 拳	qrf
 洽	qxe
-歧	qiy
+歧	qiye
 浅	qme
 禽	qbob
 劝	qre
@@ -45035,7 +45031,7 @@ IP地址	ipdv
 棠	thfd
 驼	ton
 烫	the
-剔	tian
+剔	tia
 榻	tad
 蹄	tirb
 沓	tae
@@ -45451,8 +45447,9 @@ IP地址	ipdv
 杉	ujdh
 单	ujc
 霜	ulm
-势	uiq
+势	uiqs
 拾	uiq
+拭	uiq
 尸	uis
 甩	ukb
 筛	udh
@@ -45914,7 +45911,7 @@ IP地址	ipdv
 篆	vrh
 赈	vfb
 盏	vji
-炙	vibf
+炙	vib
 辗	vjkv
 拙	voqu
 绽	vjv
@@ -46482,6 +46479,7 @@ IP地址	ipdv
 向	xlh
 箱	xlh
 些	xp
+写	xp
 系	xi
 西	xi
 惜	xip
@@ -46770,7 +46768,7 @@ IP地址	ipdv
 饷	xln
 盱	xubd
 缃	xlvu
-楔	xpdk
+楔	xpd
 颉	xpgo
 骧	xlnv
 蓿	xuta
@@ -47261,13 +47259,13 @@ IP地址	ipdv
 肴	yckb
 匀	yyp
 樱	ykd
-堰	yjgv
+堰	yjg
 姨	yiv
 粥	yunn
 鸦	yamm
 瑛	ykmk
 茵	ybtk
-砚	yjmu
+砚	yjm
 熠	yifa
 瑜	yumn
 瑜	yumv
@@ -47290,7 +47288,6 @@ IP地址	ipdv
 垣	yrgm
 倚	yior
 诣	yiia
-胰	yibn
 釉	yzbw
 釉	yzhw
 痒	yhk
@@ -47354,7 +47351,8 @@ IP地址	ipdv
 攸	yzok
 黝	yzw
 幺	ycv
-臆	yibp
+臆	yib
+胰	yib
 弋	yiip
 罂	ykbu
 铱	yiov
@@ -47576,6 +47574,7 @@ IP地址	ipdv
 约	ycv
 旸	yha
 飏	yhhh
+殃	yhm
 玚	yhm
 咉	yhr
 垟	yhgq
@@ -47652,6 +47651,7 @@ IP地址	ipdv
 一定	yd
 因为	yw
 应该	yg
+阉割	yg
 一直	yv
 一下	yx
 云南	yn
@@ -48504,7 +48504,6 @@ GDP	gdp
 下蛋	xxd
 药店	ycd
 钥匙	ycu
-阉割	yjg
 蜒	yjl
 阎	yjl
 阉	yjl
@@ -48824,7 +48823,6 @@ GDP	gdp
 嵬	wwui
 烜	xrf
 呷	xxrl
-殃	yhmk
 痍	yikn
 沂	yiel
 翳	yism
@@ -51439,6 +51437,12 @@ $	ofhb
 位置	wwvi
 树叶	uuye
 选重	xris
+鹤仓	hech
+仓五	chwu
+企业	qy
+造势	zcui
+实权	uiqr
+起誓	qiui
 㕶	ngrm
 㕶	nnrm
 礼	limu
@@ -90958,8 +90962,8 @@ $	ofhb
 瑒	yhmh
 禓	yhmh
 霷	yhmh
-䄃	yhmk
 雵	yhmk
+䄃	yhmk
 珜	yhmq
 𥒞	yhmq
 𠮴	yhmr

@@ -1722,6 +1722,7 @@ AA制	aavi
 拜	bd
 败	bdb
 不得不	bdb
+敗	bdb
 百宝	bdbc
 拜拜	bdbd
 败笔	bdbi
@@ -8434,6 +8435,7 @@ Ciallo～(∠・ω< )⌒☆	cial
 倒下	dcxx
 大材小用	dcxy
 道	dcy
+導	dcy
 导引	dcyb
 䆃	dcyd
 道义	dcyi
@@ -12048,12 +12050,13 @@ vivo手机断触解决方式https://www.taptap.cn/moment/654325286527043497	driu
 东施效颦	duxp
 低声下气	duxq
 督	duy
+讀	duy
 毒牙	duya
 读音	duyb
 毒药	duyc
-讀	duyc
 錖	duyc
 䢱	duyc
+讀	duyc
 多少有点	duyd
 毒液	duye
 读研	duyj
@@ -17607,12 +17610,13 @@ github	gith
 赶赴	gjfu
 孤军奋战	gjfv
 赶	gjg
+趕	gjg
 尴尬	gjga
 干戈	gjge
 各家各户	gjgh
 敢干	gjgj
-趕	gjgj
 𱖇	gjgj
+趕	gjgj
 感光	gjgl
 国际惯例	gjgl
 坩	gjgm
@@ -18684,6 +18688,7 @@ github	gith
 灌醉	grzv
 各人自扫门前雪	grzx
 共	gs
+功名	gs
 公司	gs
 公安	gsan
 𨴛	gsap
@@ -18810,14 +18815,14 @@ github	gith
 功率	gslv
 供楼	gslz
 工	gsm
-功名	gsm
-汞	gsm
+攻	gsm
 公民	gsmb
 工贸	gsmc
 珙	gsmc
 貢	gsmc
 碽	gsmc
 干什么	gsme
+汞	gsme
 𤨶	gsme
 𪄌	gsmf
 巩	gsmi
@@ -18829,7 +18834,6 @@ github	gith
 鞏	gsmj
 𨋑	gsmj
 共鸣	gsmk
-攻	gsmk
 巩	gsmk
 𩃙	gsmk
 共勉	gsmm
@@ -23120,6 +23124,7 @@ github	gith
 懁	hrpv
 𢟿	hrpv
 𫜅	hrpv
+換	hrq
 擐	hrq
 欢庆	hrqk
 換	hrqk
@@ -24841,6 +24846,7 @@ github	gith
 夻	hxkr
 花魁	hxkv
 畫	hxl
+劃	hxl
 候选栏	hxl
 哗啦	hxla
 花心萝卜	hxlb
@@ -26864,7 +26870,8 @@ https://mkzi-nya.github.io/milthm-calculator-web/	ifqi
 偿还	ihhr
 长虹	ihhs
 兏	ihhu
-昶	ihi
+廠	ihi
+昶	ihia
 唇红齿白	ihib
 长城	ihig
 常常	ihih
@@ -28483,6 +28490,7 @@ php -S 127.0.0.1:8000	iphp
 痋	iski
 冲垮	iskx
 虫	isl
+蟲	isl
 重来	isld
 蝩	islg
 褈	islg
@@ -30410,8 +30418,8 @@ php -S 127.0.0.1:8000	iphp
 籍	jiha
 𥡴	jiha
 稩	jihb
-箕	jihc
 積	jihc
+箕	jihc
 稘	jihc
 季	jihd
 𥝌	jihd
@@ -30535,7 +30543,7 @@ php -S 127.0.0.1:8000	iphp
 基础	jiiu
 麡	jiix
 寄	jij
-戟	jij
+擊	jij
 警察局	jij
 基金	jijb
 賫	jijc
@@ -30552,6 +30560,7 @@ php -S 127.0.0.1:8000	iphp
 繋	jijf
 墼	jijg
 积极	jiji
+戟	jiji
 蟿	jiji
 輯	jijj
 轚	jijj
@@ -30570,9 +30579,9 @@ php -S 127.0.0.1:8000	iphp
 季节	jijp
 𢡴	jijp
 急救	jijq
-擊	jijq
 撃	jijq
 𰺟	jijq
+擊	jijq
 𠿉	jijr
 𨊻	jijt
 几句	jiju
@@ -30716,6 +30725,7 @@ php -S 127.0.0.1:8000	iphp
 计谋	jimz
 急	jin
 及	jin
+際	jin
 缉拿	jina
 隔	jinb
 骥	jinc
@@ -30729,11 +30739,11 @@ php -S 127.0.0.1:8000	iphp
 𨸚	jine
 际	jinf
 𬶭	jinf
-際	jinf
 䲯	jinf
 焏	jinf
 鰶	jinf
 𪂺	jinf
+際	jinf
 技能	jing
 𧥄	jini
 济南	jinj
@@ -31873,6 +31883,7 @@ php -S 127.0.0.1:8000	iphp
 降雪	jlxt
 降序	jlxu
 见猎心喜	jlxx
+講	jly
 降压	jlya
 江阴	jlyb
 講	jlyb
@@ -32742,6 +32753,7 @@ msbt.seku.su	jmwv
 叫春	jniy
 教	jnj
 窖	jnj
+較	jnj
 较近	jnjb
 较劲	jnjb
 轎	jnjb
@@ -33350,7 +33362,7 @@ msbt.seku.su	jmwv
 姐妹	jpmw
 阶	jpn
 桀	jpn
-鲒	jpn
+階	jpn
 接纳	jpna
 階	jpna
 𪀾	jpnf
@@ -33373,6 +33385,7 @@ msbt.seku.su	jmwv
 䱄	jpno
 𢎡	jpno
 觧	jpnq
+鲒	jpnr
 鮚	jpnr
 𩧵	jpnr
 𥁂	jpnt
@@ -38691,6 +38704,7 @@ msbt.seku.su	jmwv
 㖁	lbri
 凛然	lbrj
 蹸	lbrq
+臨	lbs
 老不死	lbs
 老不死的	lbsd
 吝啬	lbse
@@ -42544,6 +42558,7 @@ msbt.seku.su	jmwv
 来去自由	lqzy
 溜走	lqzz
 乱	lr
+亂	lrb
 𤔔	lrbb
 老弱病残	lrbc
 𢿢	lrbe
@@ -189259,6 +189274,7 @@ rime	rime
 太黑	tdhw
 太后	tdhz
 台	tdi
+態	tdi
 太差	tdia
 太吵	tdic
 炱	tdif
@@ -200636,6 +200652,7 @@ http://mhtlim.top/usage/usage.html	uomk
 装蒜	vlsr
 撞碎	vlsv
 𩮱	vlsx
+莊	vlt
 状态	vltd
 荘	vltg
 莊	vltg
@@ -203085,6 +203102,7 @@ http://mhtlim.top/usage/usage.html	uomk
 温度	wfdu
 𣜺	wfdu
 温	wfe
+溫	wfe
 闻风而动	wfed
 汶	wfek
 渂	wfek
@@ -205425,6 +205443,7 @@ http://mhtlim.top/usage/usage.html	uomk
 为首	wwuz
 维	wwv
 纬	wwv
+維	wwv
 嬒	wwva
 媦	wwvb
 緭	wwvb
@@ -206935,6 +206954,7 @@ http://mhtlim.top/usage/usage.html	uomk
 唏嘘	xixu
 西夏	xixx
 喜讯	xixy
+戲	xiy
 西亚	xiya
 謵	xiya
 吸引	xiyb
@@ -206945,10 +206965,10 @@ http://mhtlim.top/usage/usage.html	uomk
 夕阳	xiyh
 西医	xiyi
 蜥蜴	xiyi
-戲	xiyi
 戯	xiyi
 戱	xiyi
 𢧽	xiyi
+戲	xiyi
 吸烟	xiyj
 遟	xiyj
 喜迎	xiyk
@@ -207476,11 +207496,12 @@ http://mhtlim.top/usage/usage.html	uomk
 响雷	xllw
 项	xlm
 厢	xlm
+項	xlm
 𣅰	xlma
 乡民	xlmb
 相貌	xlmc
-項	xlmc
 𥊾	xlmc
+項	xlmc
 𣨳	xlml
 相面	xlmm
 瓨	xlmn
@@ -208243,10 +208264,11 @@ http://mhtlim.top/usage/usage.html	uomk
 峴	xmuu
 线	xmv
 嫌	xmv
-娴	xmv
+線	xmv
 嫺	xmvb
 先兆	xmvc
 繊	xmvc
+娴	xmvd
 嫻	xmvd
 闲着	xmve
 線	xmve
@@ -211540,6 +211562,7 @@ http://mhtlim.top/usage/usage.html	uomk
 𰿴	yalv
 压	yam
 牙	yam
+亞	yam
 亚麻	yama
 𣉩	yama
 襾	yamb
@@ -211567,12 +211590,12 @@ http://mhtlim.top/usage/usage.html	uomk
 邪	yaml
 瑘	yaml
 鸦	yamm
-亞	yamm
 亜	yamm
 䃁	yamm
 𠄮	yamm
 𩃐	yamm
 𱉨	yamm
+亞	yamm
 𠜲	yamn
 𫥼	yamn
 㰳	yamo
@@ -214486,6 +214509,7 @@ http://mhtlim.top/usage/usage.html	uomk
 阳春三月	yisy
 益	yit
 艺	yit
+義	yit
 䕍	yitb
 一套	yitc
 䔬	yitc
@@ -214501,12 +214525,12 @@ http://mhtlim.top/usage/usage.html	uomk
 一趟	yith
 苐	yith
 𩋌	yith
-義	yiti
 藝	yiti
 兿	yiti
 蓺	yiti
 萟	yiti
 芸	yiti
+義	yiti
 䔱	yitj
 艾	yitk
 蓺	yitk
@@ -216644,6 +216668,7 @@ http://mhtlim.top/usage/usage.html	uomk
 媴	yrvv
 一人之下	yrvx
 圆周	yrvz
+園	yrw
 以人为本	yrwb
 圓	yrwc
 圎	yrwc

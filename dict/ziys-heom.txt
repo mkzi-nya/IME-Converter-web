@@ -217,6 +217,7 @@ AA制	aavi
 𭏦	aigt
 堨	aigv
 𡉓	aigv
+皑	aih
 爱好	aihc
 爱河	aihe
 皧	aihe
@@ -232,7 +233,6 @@ AA制	aavi
 皚	aiht
 𦩴	aiht
 爱护	aihu
-皑	aihu
 躷	aihv
 馤	aihv
 𪕭	aihv
@@ -15398,6 +15398,7 @@ deepseek	deep
 浮夸	fukx
 弗	ful
 複	ful
+袱	ful
 蜅	fulb
 𧌈	fulb
 頫	fulc
@@ -29627,7 +29628,6 @@ php -S 127.0.0.1:8000	iphp
 津	jbe
 溍	jbea
 㴆	jbeb
-金额	jbee
 浸	jbee
 濅	jbee
 𤄼	jbef
@@ -29868,7 +29868,6 @@ php -S 127.0.0.1:8000	iphp
 㝻	jbth
 吉布提	jbti
 基本条件	jbtj
-今天	jbtm
 堇	jbtm
 金榜题名	jbtm
 菫	jbtm
@@ -29922,7 +29921,6 @@ php -S 127.0.0.1:8000	iphp
 紧追	jbvv
 紧抓	jbvx
 𪑙	jbwc
-今晚	jbwj
 举步维艰	jbwj
 紧握	jbwo
 进屋	jbwu
@@ -30133,6 +30131,7 @@ php -S 127.0.0.1:8000	iphp
 居功自傲	jgza
 几个字	jgzi
 几乎	jh
+记号	jh
 浸会大学	jhdx
 酒酣耳热	jher
 尽欢而散	jhes
@@ -30399,7 +30398,6 @@ php -S 127.0.0.1:8000	iphp
 籍	jiha
 𥡴	jiha
 稩	jihb
-记号	jihc
 箕	jihc
 積	jihc
 稘	jihc
@@ -30479,7 +30477,6 @@ php -S 127.0.0.1:8000	iphp
 笄	jiht
 䀈	jiht
 𢓄	jiht
-几乎	jihu
 疾呼	jihu
 嵇	jihu
 嵆	jihu
@@ -30797,7 +30794,6 @@ php -S 127.0.0.1:8000	iphp
 𰽲	jior
 㔕	jios
 𣱗	jios
-奇偶	jiou
 䚐	jiou
 𩞊	jiou
 偈	jiov
@@ -33167,7 +33163,6 @@ msbt.seku.su	jmwv
 刦	jpgn
 𧽄	jpgn
 𧾯	jpgn
-结果	jpgo
 颉	jpgo
 接管	jpgr
 趌	jpgr
@@ -33267,8 +33262,8 @@ msbt.seku.su	jmwv
 解渴	jpke
 𡙣	jpke
 㾏	jpkg
-疖	jpkl
 疥	jpkl
+疖	jpkl
 癤	jpkl
 𡗦	jpkl
 𡗲	jpkl
@@ -39840,7 +39835,6 @@ msbt.seku.su	jmwv
 癧	likm
 𤻤	likm
 猁	likn
-㾐	likn
 𠛘	likn
 𤹈	likn
 㿛	likp
@@ -43524,12 +43518,12 @@ msbt.seku.su	jmwv
 魯	lvna
 录	lvne
 铝	lvo
-氯	lvo
-侣	lvo
+氯	lvoe
 㲶	lvoi
 儢	lvop
 𮣶	lvop
 𰂦	lvop
+侣	lvor
 侶	lvor
 偻	lvov
 僂	lvov
@@ -191237,6 +191231,7 @@ sh /storage/emulated/0/.ck/heom/code/11.sh	tijn
 调休	tnxq
 挑选	tnxr
 调序	tnxu
+迢	tny
 龆	tny
 条约	tny
 调养	tnyh
@@ -191247,6 +191242,7 @@ sh /storage/emulated/0/.ck/heom/code/11.sh	tijn
 調	tnyr
 齠	tnyr
 跳跃	tnyt
+条约	tnyt
 调匀	tnyy
 跳蚤	tnzc
 条子	tnzi
@@ -195126,6 +195122,7 @@ sh /storage/emulated/0/.ck/heom/code/11.sh	tijn
 誓	uiqr
 失去	uiqu
 市区	uiqu
+噬	uir
 嗜	uir
 𡂓	uirb
 嘘	uirc
@@ -195142,7 +195139,6 @@ sh /storage/emulated/0/.ck/heom/code/11.sh	tijn
 𠯰	uirj
 𡅵	uirj
 示弱	uiro
-噬	uiro
 㖷	uiro
 跩	uirp
 䟗	uirp
@@ -196742,6 +196738,7 @@ http://mhtlim.top/usage/usage.html	uomk
 莘莘学子	uuxz
 述	uuy
 熟	uuy
+孰	uuy
 䢤	uuyc
 生杀予夺	uuyd
 䢞	uuyd
@@ -196755,7 +196752,6 @@ http://mhtlim.top/usage/usage.html	uomk
 塾	uuyg
 输氧	uuyh
 身首异处	uuyi
-孰	uuyi
 稍胜一筹	uuyi
 输赢	uuyk
 孰	uuyk
@@ -198318,7 +198314,6 @@ http://mhtlim.top/usage/usage.html	uomk
 摺	veqa
 摘	veqb
 埑	veqg
-这期	veqi
 蛰	veqi
 𡘭	veqk
 悊	veqp
@@ -204910,6 +204905,7 @@ http://mhtlim.top/usage/usage.html	uomk
 鏏	wwcs
 錗	wwcv
 鍡	wwcv
+桅	wwd
 伟大	wwda
 欈	wwdb
 味道	wwdc
@@ -204928,7 +204924,6 @@ http://mhtlim.top/usage/usage.html	uomk
 𩏏	wwds
 娓娓动听	wwdt
 唯独	wwdu
-桅	wwdu
 梶	wwdu
 椳	wwdv
 㮃	wwdv
@@ -206532,6 +206527,7 @@ http://mhtlim.top/usage/usage.html	uomk
 鬩	xilu
 咸吃萝卜淡操心	xilx
 硒	xim
+矽	xim
 霫	xima
 豨	ximb
 酾	ximb
@@ -206551,10 +206547,10 @@ http://mhtlim.top/usage/usage.html	uomk
 壐	ximg
 𲆰	ximh
 细密	ximi
-矽	ximi
 璽	ximi
 𧲘	ximi
 𲆦	ximi
+矽	ximi
 㕃	ximj
 禊	ximk
 磎	ximk
@@ -210314,6 +210310,7 @@ http://mhtlim.top/usage/usage.html	uomk
 学术论文	xulw
 䙒	xulw
 绪论	xuly
+酗	xum
 醑	xumb
 𥚩	xumb
 𦘼	xumb
@@ -210327,7 +210324,6 @@ http://mhtlim.top/usage/usage.html	uomk
 聓	xumj
 𦕓	xumj
 虚名	xumk
-酗	xumk
 𩂉	xumk
 邪	xuml
 𰻡	xuml
@@ -212744,7 +212740,6 @@ http://mhtlim.top/usage/usage.html	uomk
 𦠜	yebj
 𬑓	yebj
 也别	yebp
-也不	yebu
 䁆	yebu
 䁆	yebv
 爷	yec
@@ -212805,7 +212800,6 @@ http://mhtlim.top/usage/usage.html	uomk
 堨	yegv
 野狗	yegz
 也好	yehc
-也还	yehd
 䈎	yehd
 𥮧	yehd
 𩘏	yehd
@@ -212841,8 +212835,6 @@ http://mhtlim.top/usage/usage.html	uomk
 夜间	yejm
 页脚	yejn
 业界	yejp
-也就	yejq
-也可	yeke
 㪑	yeke
 𤝇	yeki
 也看	yekj
@@ -212876,7 +212868,6 @@ http://mhtlim.top/usage/usage.html	uomk
 礏	yemd
 𣐂	yemd
 𣩫	yemd
-也门	yemf
 𣩯	yemf
 𩼴	yemf
 夜盲	yemh
@@ -213006,7 +212997,6 @@ http://mhtlim.top/usage/usage.html	uomk
 嶫	yeud
 有二说二	yeue
 野生	yeug
-也是	yeui
 𡽣	yeuk
 峫	yeul
 𱛹	yeul
@@ -214979,13 +214969,13 @@ http://mhtlim.top/usage/usage.html	uomk
 𥶿	yjhx
 欲拒还迎	yjhy
 咽喉	yjhz
+谚	yji
 严查	yjia
 䜩	yjif
 扊	yjif
 𢉘	yjif
 严惩	yjig
 延长	yjih
-谚	yjih
 演唱	yjih
 𫥍	yjih
 延迟	yjii
@@ -215063,14 +215053,14 @@ http://mhtlim.top/usage/usage.html	uomk
 狠	yjkv
 狿	yjkv
 㿕	yjkx
-严厉	yjl
 蜒	yjl
+阉	yjl
 𧺅	yjlc
 一举两得	yjld
 䗡	yjlf
 䗎	yjlg
 有句老话	yjlh
-眼里	yjli
+严厉	yjli
 严令	yjlk
 𧞣	yjlk
 𰳹	yjlk
@@ -215849,6 +215839,7 @@ http://mhtlim.top/usage/usage.html	uomk
 鹰隼	yksy
 英	ykt
 莹	ykt
+萤	ykt
 𦭬	yktb
 𫇦	yktb
 樱桃	yktc
@@ -215958,6 +215949,7 @@ http://mhtlim.top/usage/usage.html	uomk
 影子	ykzi
 硬座	ykzo
 原来	yl
+眼里	yl
 意料不到	ylbd
 有理不在声高	ylbg
 于理不合	ylbh
@@ -217619,6 +217611,7 @@ http://mhtlim.top/usage/usage.html	uomk
 瘉	yukv
 㦽	yukv
 瘀	yuky
+裕	yul
 聿	yul
 䘻	yulb
 蜟	yulb
@@ -217652,7 +217645,6 @@ http://mhtlim.top/usage/usage.html	uomk
 𧐄	yulo
 预留	yulq
 鱼卵	yulr
-裕	yulr
 𧈯	yuls
 优胜劣汰	yult
 语录	yulu
@@ -218641,13 +218633,12 @@ http://mhtlim.top/usage/usage.html	uomk
 恽	yypq
 愠	yypt
 慍	yypt
-韫	yyq
+耘	yyq
 隐约其辞	yyqc
 艳压群芳	yyqf
 因缘巧合	yyqh
 有缘千里来相会	yyqh
 运气	yyqi
-耘	yyqi
 咬牙切齿	yyqi
 抎	yyqi
 玉液琼浆	yyqj
@@ -218657,6 +218648,7 @@ http://mhtlim.top/usage/usage.html	uomk
 𱂈	yyqq
 㩈	yyqr
 云雀	yyqt
+韫	yyqt
 郧	yyr
 員	yyrc
 𡅙	yyrc

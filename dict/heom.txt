@@ -5455,7 +5455,6 @@ AA制	aavi
 独爱	duai
 多少遍	dubm
 独臂	dubi
-独霸	duba
 读报	dubc
 独白	dubd
 读本	dubf
@@ -13775,7 +13774,6 @@ IP地址	ipdv
 急症	jivg
 几张	jivh
 机制	jivi
-激战	jivj
 集中	jivs
 记住	jivu
 脊椎	jivv
@@ -39843,6 +39841,7 @@ IP地址	ipdv
 督	duy
 贷	ddo
 读	du
+赌	du
 短	dro
 登	dgn
 邓	dge
@@ -39909,18 +39908,17 @@ IP地址	ipdv
 歹	ddm
 甸	dmpw
 碘	dmmc
-赌	dub
 淀	dmeo
 殿	dms
 钓	dno
 呆	ddr
-睹	duba
 滴	dieb
 朵	doh
 挡	dhq
 垫	dmq
 涤	die
 盯	dkb
+睹	dub
 肚	dub
 叠	dpe
 澄	dge
@@ -40192,6 +40190,7 @@ IP地址	ipdv
 镫	dgot
 叇	ddme
 代表	db
+独霸	db
 地方	df
 东西	dx
 到了	dl
@@ -40906,7 +40905,6 @@ IP地址	ipdv
 𬮿	gdnu
 𬒔	ggmb
 𬇹	goei
-给	gwv
 挂	gxq
 颈	ggno
 粳	ggfk
@@ -41786,11 +41784,10 @@ IP地址	ipdv
 件	jm
 居	jusr
 局	jus
-级	jiv
 据	ju
 江	jle
 近	jby
-几	ji
+级	ji
 接	jp
 劫	jpg
 究	jqj
@@ -44404,7 +44401,7 @@ IP地址	ipdv
 阒	qulk
 绻	qrv
 髂	qxb
-仟	qmo
+仟	qmoj
 芡	qmto
 谯	qnif
 湫	qqef
@@ -45066,7 +45063,7 @@ IP地址	ipdv
 钛	tdo
 荼	tut
 叨	tcrh
-檀	tjdm
+檀	tjd
 痰	tjkf
 捅	tsq
 苔	tdt
@@ -46306,7 +46303,7 @@ IP地址	ipdv
 凹	was
 勿	wup
 薇	wwt
-苇	wwts
+苇	wwt
 巫	wum
 炜	wwfs
 侮	wuoj
@@ -47352,7 +47349,8 @@ IP地址	ipdv
 闫	yjlm
 晔	yeaj
 昱	yua
-酉	yzmm
+憂	yzm
+酉	yzm
 攸	yzok
 黝	yzw
 幺	ycv
@@ -47658,6 +47656,7 @@ IP地址	ipdv
 一下	yx
 云南	yn
 原来	yl
+严厉	yl
 眼里	yl
 一片	yp
 缘分	yf
@@ -48507,6 +48506,7 @@ GDP	gdp
 钥匙	ycu
 阉割	yjg
 蜒	yjl
+阎	yjl
 阉	yjl
 远离	yrl
 拥护	ysh
@@ -48872,6 +48872,7 @@ GDP	gdp
 假如	jr
 即使	ju
 极致	jv
+激战	jv
 极为	jw
 困难	kn
 两边	lb
@@ -51353,7 +51354,8 @@ $	ofhb
 关系	g
 忽略	h
 重新	i
-键盘	j
+键盘	jmpj
+几	j
 可以	k
 里	l
 理解	lijp
@@ -59649,6 +59651,7 @@ $	ofhb
 ⻲	gvzl
 ⻱	gvzu
 胲	gwbo
+給	gwv
 給	gwvr
 𣅻	gxar
 𨵃	gxau
@@ -64974,9 +64977,10 @@ $	ofhb
 𦁳	jivd
 級	jive
 幾	jiv
-繼	jivi
+繼	jiv
 㡭	jivi
 幾	jivi
+繼	jivi
 緝	jivj
 幾	jivk
 姫	jivl
@@ -93905,7 +93909,6 @@ $	ofhb
 䖻	yzlv
 蝤	yzlw
 酭	yzmb
-憂	yzm
 𥜚	yzme
 憂	yzme
 𣁨	yzmk

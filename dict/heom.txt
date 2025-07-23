@@ -919,8 +919,10 @@ AA制	aavi
 不动如山	bdru
 不打算	bdsr
 白色	bdse
+白丝	bdsi
 冰冻三尺	bdsi
 冰冻三尺，非一日之寒	bdsh
+裸足	lozu
 白送	bdss
 败诉	bdsu
 百岁	bdsv
@@ -17133,6 +17135,8 @@ IP地址	ipdv
 里程碑	lib
 离愁别绪	lib
 驴唇不对马嘴	libd
+驴头不对马嘴	ltbd
+牛头不对马嘴	ntbd
 理财	licd
 历次	lici
 力挫	lico
@@ -20760,7 +20764,6 @@ IP地址	ipdv
 浓郁	nsyu
 浓烟	nsyj
 弄脏	nszh
-牛头不对马嘴	ntbz
 虐待	ntdd
 脑体倒挂	ntdg
 疟疾	ntji
@@ -54148,6 +54151,7 @@ $	ofhb
 𦍧	ciyq
 𪉪	ciyq
 訾	ciyr
+詞	ciy
 詞	ciyr
 飺	ciyv
 䏼	cjbi
@@ -58076,6 +58080,7 @@ $	ofhb
 畉	fuwo
 𦊾	fuwr
 䍖	fuwu
+膚	fuy
 膚	fuyb
 㚆	fuye
 𥪋	fuye
@@ -64128,6 +64133,7 @@ $	ofhb
 芚	iytu
 蒓	iytu
 媋	iyva
+純	iyv
 純	iyvu
 𧇶	iyya
 㝇	iyyd
@@ -68051,6 +68057,7 @@ $	ofhb
 𣽟	kreo
 𢕫	krho
 𥟓	krhr
+寬	krj
 寬	krji
 窾	krjo
 窽	krjo
@@ -69286,16 +69293,6 @@ $	ofhb
 𦠓	limb
 𨢌	limb
 𩱇	limb
-酾	libx
-㡂	libx
-䄜	libx
-礪	libz
-禲	libz
-𦠓	libz
-𨢌	libz
-𩱇	libz
-𨢌	libxz
-𩱇	libxz
 𤳓	limc
 𨬑	limc
 礫	limd
@@ -69373,9 +69370,6 @@ $	ofhb
 勵	lims
 珕	lims
 𰦦	lims
-勵	lisx
-珕	lisx
-𰦦	lisx
 禮	limt
 砬	limt
 雴	limt
@@ -70023,6 +70017,7 @@ $	ofhb
 湸	llen
 湸	lleu
 糧	llfg
+糧	llf
 煷	llfn
 煷	llfu
 𡑆	llgg
@@ -79384,9 +79379,10 @@ $	ofhb
 𢱤	ssqk
 捒	ssql
 𠳼	ssrd
-鬆	sssi
+鬆	sss
 䯳	sssi
 𨱛	sssi
+鬆	sssi
 䯷	sssj
 𨱿	sssj
 䯷	sssk
@@ -82706,6 +82702,7 @@ $	ofhb
 ⺮	uizo
 ⻠	uizv
 𣆴	ujam
+閃	uja
 閃	ujao
 閊	ujau
 𣆴	ujav
@@ -92840,9 +92837,10 @@ $	ofhb
 嬽	yrvk
 𡢊	yrvk
 𡣬	yrvk
-緣	yrvo
+緣	yrv
 縁	yrvo
 𤬌	yrvo
+緣	yrvo
 𥿎	yrvu
 嬛	yrvv
 媴	yrvv
@@ -95245,3 +95243,16 @@ $	ofhb
 兝	ffke
 兣	like
 瓩	qmwa
+酾	libx
+㡂	libx
+䄜	libx
+礪	libz
+禲	libz
+𦠓	libz
+𨢌	libz
+𩱇	libz
+𨢌	lixz
+𩱇	lixz
+勵	lisx
+珕	lisx
+𰦦	lisx

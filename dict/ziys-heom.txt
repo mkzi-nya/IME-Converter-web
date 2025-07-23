@@ -1898,6 +1898,7 @@ AA制	aavi
 白肉	bdrz
 白色	bdse
 冰冻三尺，非一日之寒	bdsh
+白丝	bdsi
 冰冻三尺	bdsi
 不打算	bdsr
 白送	bdss
@@ -6683,6 +6684,7 @@ Ciallo～(∠・ω< )⌒☆	cial
 雌雄	cixs
 次序	cixu
 此	ciy
+詞	ciy
 𧧒	ciyb
 次要	ciyc
 𡥎	ciyd
@@ -15796,6 +15798,7 @@ vivo手机断触解决方式https://www.taptap.cn/moment/654325286527043497	driu
 父兄	fuxs
 抚恤	fuxu
 服下	fuxx
+膚	fuy
 复印	fuyb
 放手一搏	fuyb
 膚	fuyb
@@ -29337,6 +29340,7 @@ php -S 127.0.0.1:8000	iphp
 蠢事	iyui
 纯属	iyuu
 纯水	iyuv
+純	iyv
 媋	iyva
 纯真	iyvf
 纯正	iyvg
@@ -37424,6 +37428,7 @@ msbt.seku.su	jmwv
 宽绰	krio
 喟然长叹	krit
 宽	krj
+寬	krj
 苦肉计	krji
 寬	krji
 窾	krjo
@@ -39580,8 +39585,6 @@ msbt.seku.su	jmwv
 酾	libx
 㡂	libx
 䄜	libx
-𨢌	libxz
-𩱇	libxz
 礪	libz
 禲	libz
 𦠓	libz
@@ -40293,6 +40296,8 @@ msbt.seku.su	jmwv
 离休	lixq
 力学	lixt
 立夏	lixx
+𨢌	lixz
+𩱇	lixz
 离	liy
 裏	liy
 逦	liyb
@@ -41070,6 +41075,7 @@ msbt.seku.su	jmwv
 湸	lleu
 量力而行	llex
 粮	llf
+糧	llf
 两份	llff
 凉风	llfg
 糧	llfg
@@ -42094,6 +42100,7 @@ msbt.seku.su	jmwv
 落在	lozd
 骡子	lozi
 落座	lozo
+裸足	lozu
 列	lp
 㬯	lpaq
 𣋲	lpav
@@ -42947,6 +42954,7 @@ msbt.seku.su	jmwv
 略	lt
 聊天	lt
 㔀	ltan
+驴头不对马嘴	ltbd
 𦊹	ltbr
 来头不小	ltbx
 鋢	ltcd
@@ -49860,7 +49868,7 @@ milthm	milt
 弄脏	nszh
 虐	nt
 𨵫	ntar
-牛头不对马嘴	ntbz
+牛头不对马嘴	ntbd
 虐待	ntdd
 脑体倒挂	ntdg
 乇	nthp
@@ -187958,10 +187966,11 @@ rime	rime
 丝丝入扣	ssrk
 松软	ssrr
 松茸	ssrs
+鬆	sss
 送死	sssi
-鬆	sssi
 䯳	sssi
 𨱛	sssi
+鬆	sssi
 松散	sssj
 䯷	sssj
 𨱿	sssj
@@ -195385,6 +195394,7 @@ sh /storage/emulated/0/.ck/heom/code/11.sh	tijn
 山	uj
 时间	uj
 世纪	uj
+閃	uja
 晱	ujaf
 𣆴	ujam
 山坳	ujao
@@ -216668,6 +216678,7 @@ http://mhtlim.top/usage/usage.html	uomk
 元首	yruz
 缘	yrv
 媛	yrv
+緣	yrv
 远着	yrve
 嫄	yrvf
 远征	yrvg
@@ -216679,9 +216690,9 @@ http://mhtlim.top/usage/usage.html	uomk
 原装	yrvl
 引人注目	yrvm
 圆桌	yrvo
-緣	yrvo
 縁	yrvo
 𤬌	yrvo
+緣	yrvo
 援助	yrvu
 妧	yrvu
 跃然纸上	yrvu

@@ -1996,6 +1996,7 @@ AA制	aavi
 白纸	bdvi
 白昼	bdvz
 本单位	bdw
+瓸	bdwa
 罢	bdwi
 百万	bdwj
 宝刀未老	bdwl
@@ -14406,6 +14407,7 @@ vivo手机断触解决方式https://www.taptap.cn/moment/654325286527043497	driu
 分钟	ffvs
 非分之想	ffvx
 肺腑之言	ffvy
+瓰	ffwa
 分外	ffwd
 分文	ffwf
 𤰪	ffwh
@@ -197510,6 +197512,7 @@ sh /storage/emulated/0/.ck/heom/code/11.sh	tijn
 施主	uivu
 失准	uivy
 失误	uiw
+瓧	uiwa
 室外	uiwd
 失望	uiwh
 十万	uiwj

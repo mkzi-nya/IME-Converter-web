@@ -20865,6 +20865,7 @@ github	gith
 暠	hcab
 䯫	hcab
 顥	hcac
+𦦲	hcad
 㬔	hcah
 暤	hcaj
 暭	hcaj
@@ -21148,6 +21149,9 @@ github	gith
 好做	hczo
 好走	hczz
 害	hd
+𦧙	hdaa
+𪏿	hdab
+𥮗	hdac
 海岸	hdan
 閡	hdao
 骸	hdb
@@ -21774,6 +21778,11 @@ github	gith
 合奏	hezz
 很	hf
 回复	hf
+𩲪	hfaa
+𤆒	hfab
+𤓕	hfac
+舃	hfad
+𪃼	hfae
 很爱	hfai
 很暗	hfan
 艮	hfav
@@ -23334,6 +23343,16 @@ github	gith
 火葬	hozh
 活字	hozi
 害怕	hp
+𨈚	hpaa
+飔	hpab
+𥯨	hpac
+𪕳	hpad
+𥭡	hpae
+氏	hpaf
+䬁	hpag
+𢓀	hpah
+𥫝	hpai
+𩖹	hpaj
 和平鸽	hpge
 和平共处	hpgi
 狐朋狗友	hpgy

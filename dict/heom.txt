@@ -25,6 +25,8 @@
 _	;b
 「	;n
 」	;m
+，	oq
+。	ow
 牆	qlv
 邊	bmys
 許	xuyj

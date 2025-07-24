@@ -66,7 +66,9 @@ AA制	aavi
 安安心心	aaxx
 啊呀	aaya
 阿姨	aayi
+謻	aayn
 啊哟	aayo
+譩	aayp
 腌臜	aaza
 安保	ab
 爱不爱	abai
@@ -85,6 +87,7 @@ AA制	aavi
 爱不释手	abuu
 阿布扎比	abvb
 熬不住	abvu
+𢡃	abyp
 按错	ac
 爱才若渴	acrk
 爱财如命	acrm

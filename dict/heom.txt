@@ -51460,7 +51460,8 @@ $	ofhb
 我不知道	wbvd
 一命二运三风水四积阴德五读书	ymey
 六名七相八敬神九交贵人十养生	ymey
-你指尖跃动的电光，是我此生不灭的信仰	nvjm
+你指尖跃动的电光，是我此生不灭的信仰	nvjy
+包浆	bcjl
 㕶	ngrm
 㕶	nnrm
 礼	limu
@@ -76643,10 +76644,11 @@ $	ofhb
 瑲	qlmr
 𥓌	qlmu
 𮠞	qlmu
-強	qlni
+強	qln
 𢐩	qlni
 𧖑	qlni
 𫗳	qlni
+強	qlni
 𢏄	qlnl
 疆	qlnm
 彊	qlnm
@@ -96986,8 +96988,7 @@ $	ofhb
 㒞	jyob
 雋	jyoc
 啹	jurg
-鱂	jlna
-𩴒	jlnb
+𩴒	jlna
 𬶱	jknh
 𰝗	jmeg
 𡁪	jiaw
@@ -98245,7 +98246,6 @@ $	ofhb
 𧕉	qilz
 𩥂	qisb
 𨙬	qisg
-𫗳	qlna
 𨦄	qmca
 鑓	qmcb
 𠔺	qmcc

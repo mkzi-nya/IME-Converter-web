@@ -33403,9 +33403,9 @@ php -S 127.0.0.1:8000	iphp
 𧤨	jmnv
 贱内	jmnw
 挤眉弄眼	jmny
+键	jmo
 剑	jmo
 僭	jmo
-键	jmoa
 锏	jmoa
 僣	jmoa
 䭈	jmob
@@ -35318,6 +35318,7 @@ msbt.seku.su	jmwv
 吉人自有天相	jrzx
 矫揉造作	jrzz
 计算	js
+极速	js
 炅	jsa
 𩓺	jsac
 煚	jsaf

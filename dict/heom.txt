@@ -41861,7 +41861,7 @@ IP地址	ipdv
 兼	jmt
 鉴	jmlc
 禁	jbd
-键	jmoa
+键	jmo
 疾	jik
 叫	jn
 皎	jn
@@ -42351,6 +42351,7 @@ IP地址	ipdv
 简直	jv
 骄傲	ja
 计算	js
+极速	js
 节奏	jz
 今晚	jw
 奇偶	jo

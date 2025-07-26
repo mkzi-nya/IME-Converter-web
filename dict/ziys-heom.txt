@@ -3185,6 +3185,7 @@ AA制	aavi
 办案	bjan
 闆	bjar
 笔记本	bjb
+笔记本电脑	bjb
 𦝤	bjbc
 半百	bjbd
 𣪂	bjbe
@@ -6443,6 +6444,7 @@ Caonima～(∠・ω< )⌒☆	caon
 测距	ceju
 测控	ceks
 测量	cell
+侧脸	celm
 策略	celt
 厕	cem
 策马	cema
@@ -9006,6 +9008,7 @@ Ciallo～(∠・ω< )⌒☆	cial
 ⺞	ddzi
 呆坐	ddzo
 傣族	ddzu
+叮当作响	ddzx
 带走	ddzz
 得	de
 で	de
@@ -10735,6 +10738,7 @@ deepseek	deep
 𧍿	dmlh
 典礼	dmli
 电力	dmli
+店里	dmli
 电缆	dmlj
 电量	dmll
 电疗	dmln
@@ -10887,6 +10891,7 @@ deepseek	deep
 奌	dmyk
 㓠	dmyn
 电源	dmyr
+店员	dmyr
 𪓼	dmyu
 电邮	dmyz
 滇藏	dmzh
@@ -15323,6 +15328,7 @@ vivo手机断触解决方式https://www.taptap.cn/moment/654325286527043497	driu
 番薯	fjuu
 反手	fjuz
 反之	fjv
+翻着	fjve
 发家致富	fjvf
 反正	fjvg
 繁殖	fjvi
@@ -22865,6 +22871,7 @@ github	gith
 淮	hke
 𣸎	hkee
 瀤	hkev
+喝咖啡	hkfw
 坏	hkg
 壞	hkgv
 壊	hkgv
@@ -30018,6 +30025,7 @@ php -S 127.0.0.1:8000	iphp
 重温旧梦	iwjm
 成为可能	iwkn
 吃完了	iwle
+穿围裙	iwq
 出问题	iwti
 查无实据	iwuj
 储物箱	iwxl
@@ -31316,9 +31324,9 @@ php -S 127.0.0.1:8000	iphp
 濟	jiex
 𥳏	jiey
 𪅹	jiez
+脊	jif
 激发	jifa
 𤋭	jifa
-脊	jifb
 𥺵	jifb
 𩓮	jifc
 穄	jifd
@@ -31382,8 +31390,8 @@ php -S 127.0.0.1:8000	iphp
 寄给	jigw
 记挂	jigx
 机构	jigz
-稽	jih
 积	jih
+稽	jih
 笈	jih
 籍	jiha
 𥡴	jiha
@@ -31723,6 +31731,7 @@ php -S 127.0.0.1:8000	iphp
 霵	jims
 𠀷	jimt
 继母	jimu
+积木	jimu
 旡	jimu
 㒫	jimu
 玘	jimu
@@ -32088,27 +32097,28 @@ php -S 127.0.0.1:8000	iphp
 跻身	jiuf
 𡿙	jiuf
 寄生	jiug
-玘	jiuh
+㒫	jiuh
 及时	jiui
 嶯	jiui
 嶯	jiuj
 嵠	jiuk
-𣯅	jiul
+玘	jiul
 峜	jium
 𡹪	jium
 㞦	jiun
-旣	jiuo
-穊	jiup
-𣄯	jiuq
-𩠨	jiur
-𪘥	jius
-𱌸	jiut
+𣯅	jiuo
+旣	jiup
+穊	jiuq
+𣄯	jiur
+𩠨	jius
+𪘥	jiut
 技术	jiuu
 既成事实	jiuu
 覬	jiuu
 积水	jiuv
-𢁂	jiuw
+𱌸	jiuw
 𡽉	jiux
+𢁂	jiuy
 棘手	jiuz
 继	jiv
 幾	jiv
@@ -33399,6 +33409,7 @@ php -S 127.0.0.1:8000	iphp
 𥍹	jmnq
 𱄃	jmnq
 鰔	jmnr
+渐浓	jmns
 𧥈	jmnt
 𧤨	jmnv
 贱内	jmnw
@@ -37258,6 +37269,7 @@ msbt.seku.su	jmwv
 考察	kcia
 看菜吃饭	kcif
 考场	kcih
+靠窗	kcil
 考	kcj
 靠近	kcjb
 烤鸡	kcji
@@ -39713,6 +39725,7 @@ msbt.seku.su	jmwv
 拉环	lahr
 拉回	lahv
 拉黑	lahw
+拉花	lahx
 拉扯	laie
 拉长	laih
 𢉨	lain
@@ -42702,6 +42715,7 @@ msbt.seku.su	jmwv
 浏览器	llq
 掚	llqb
 𪭵	llqb
+亮起	llqi
 朗朗乾坤	llqk
 踉跄	llql
 两千	llqm
@@ -48915,8 +48929,8 @@ milthm	milt
 鉧	muci
 䥈	muct
 鉬	mucu
-模	mud
 木	mud
+模	mud
 橅	mudf
 目的	mudi
 牡丹	mudj
@@ -49084,6 +49098,7 @@ milthm	milt
 缪	muvh
 繆	muvh
 拇指	muvi
+木质	muvi
 縸	muvk
 𫄲	muvk
 木桩	muvl
@@ -184894,6 +184909,7 @@ python	pyth
 繑	qnvb
 繰	qnvd
 瞧着	qnve
+敲着	qnve
 嫶	qnvf
 乔装	qnvl
 𰬐	qnvl
@@ -192837,6 +192853,7 @@ sh /storage/emulated/0/.ck/heom/code/11.sh	tijn
 綎	tkvg
 停止	tkvi
 極致の対音は、 0.6 x まで減速しても、すべて完璧な対音である。奇妙なキー型設計、ほとんどのスペクターが全く考えられなかった解法、人を超える勇気、みんなが使えない危険な配置は私が全部使う ; 負かされない忍耐力、繰り返される音楽の段落ごとに、すべてキー型を再設計する、私の意志は、極限対音を代表し、安定した休憩段、高潮段のスペクトル体系を創意する。このスペクトルにはすべてのキー型が含まれており、最初から最後まで少しずつ繰り返さず、すべての人が一定の倍速を減らしてこのスペクトルを体験する価値がある。これが最終的な証明であり、これが通常の究極の果てである。「私は最終的な証明書を通過しました。今は天空の城に入る必要があります」	tkvi
+极致的对音，即使减速到0.6x，也全是完美对音的；诡谲的键型设计，几乎所有谱师根本想不到的解法；过人的勇气，大家不敢用的危险配置我全用；无法被击败的耐心，每个重复的音乐段落，全部重新设计一遍键型；我的意志，代表极限扣对音，稳定休息段，创想高潮段的写谱体系。本谱包含所有键型，从头玩到尾不带一点点的重复，值得所有人去减一个一定的倍速来体验这张谱。这就是最终的证明，这就是常规的终极尽头。“我已经通过了最终的证明，现在我需要进入天空之城”	tkvi
 停战	tkvj
 听装	tkvl
 𤱹	tkvn
@@ -198767,6 +198784,7 @@ http://mhtlim.top/usage/usage.html	uomk
 数据	uuju
 輸	uujv
 暑假	uujx
+书架	uujx
 疏浚	uujy
 输	uuk
 𤻃	uuka
@@ -208202,6 +208220,7 @@ http://mhtlim.top/usage/usage.html	uomk
 无业人员	wyry
 危言耸听	wyst
 无疑是	wyui
+无意识	wyui
 武夷山	wyuj
 勿以善小而不为	wyuw
 闻一知二	wyve
@@ -208532,6 +208551,7 @@ http://mhtlim.top/usage/usage.html	uomk
 虾兵蟹将	xbxj
 新型	xbxk
 新兴	xbxk
+心形	xbxk
 心想	xbxl
 新鲜	xbxm
 信不信由你	xbxn
@@ -221708,6 +221728,7 @@ http://mhtlim.top/usage/usage.html	uomk
 一阵阵	yvvf
 月中折桂	yvvg
 有志者事竟成	yvvi
+一盏盏	yvvj
 饮鸩止渴	yvvk
 有志之士	yvvu
 由衷之言	yvvy
@@ -222647,6 +222668,7 @@ http://mhtlim.top/usage/usage.html	uomk
 呦	yzr
 哊	yzrb
 嚘	yzre
+有人	yzrf
 㗀	yzri
 悠然	yzrj
 唀	yzrs
@@ -224491,7 +224513,9 @@ http://mhtlim.top/usage/usage.html	uomk
 作数	zouu
 左手	zouz
 𦁎	zova
+𦈛	zovb
 作者	zove
+坐着	zove
 繓	zove
 𦈛	zove
 坐镇	zovf
@@ -224510,6 +224534,7 @@ http://mhtlim.top/usage/usage.html	uomk
 作物	zowu
 作为	zoww
 作息	zoxi
+作响	zoxl
 作秀	zoxq
 左胸	zoxs
 作序	zoxu

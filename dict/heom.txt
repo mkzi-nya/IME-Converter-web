@@ -16236,6 +16236,7 @@ IP地址	ipdv
 岿然不动	krbd
 宽带	krdd
 宽大	krda
+宽大的	krda
 宽度	krdu
 款额	kree
 宽幅	krfu
@@ -22621,6 +22622,7 @@ IP地址	ipdv
 强加	qljx
 枪口	qlkz
 强烈	qllp
+强烈的	qllp
 强邻	qllb
 强力	qlli
 强令	qllk
@@ -35167,6 +35169,7 @@ IP地址	ipdv
 音乐	ybyt
 阴雨	ybyu
 言不由衷	ybyv
+氤氲	ybyy
 愿不愿意	ybyy
 音游	ybyz
 引诱	ybyz
@@ -51523,6 +51526,15 @@ $	ofhb
 油菜花	ychx
 简单鹤	jde
 还要	hy
+所及	soji
+之处	viiu
+冥灵	mklk
+玄晶	xrjk
+可以看到	kykd
+他们是	tmu
+直行	vixk
+很可能	hkn
+
 㕶	ngrm
 㕶	nnrm
 礼	limu
@@ -96324,6 +96336,7 @@ $	ofhb
 𥝮	viin
 祬	viiq
 𢇨	viir
+𢎈	viit
 螲	vilf
 砥	vimh
 厎	vimj
@@ -97313,7 +97326,7 @@ $	ofhb
 𨁷	virj
 酈	vimw
 𣨋	vimx
-𫟞	viit
+𫟞	viiw
 𩴀	vuht
 𥠽	vikd
 邅	vjyd
@@ -98455,7 +98468,7 @@ $	ofhb
 𥭡	vipg
 氏	viph
 𧊙	vils
-𥒗	viiw
+𥒗	viix
 𨟾	vipi
 𨻆	vinr
 𩻼	vins

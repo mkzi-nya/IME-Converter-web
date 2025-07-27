@@ -1,3 +1,4 @@
+
 0721，是一种脑力与体力结合的活动，无数的仁人志士投身于这伟大的活动。有的人运用于实战，沉重地打击了老穗织正绿旗的睡眠，为反封建做出了突出贡献；有的人进行了科技上的革新，以花洒这种坚硬的东西保证了实感和持久性；有的人将此用于课上与老师斗争，展示了她的勇敢与坚毅。不过，我们伟大的绫地宁宁，将0721玩出了新高度，玩出了新水平，成为了0721界的一座丰碑。在0721界，后人看到这时，不得不感叹“天不生宁宁，万古如长夜”。正如赫尔曼拉姆是抢劫界的大贤至圣先师一样，绫地宁宁可以说是0721界的大贤至圣先师。
 在宁宁之前，古典派的0721主要是动手动脑，并且工作环境恶劣，安全没有保障。而我们伟大的绫地宁宁在0721方面进行了伟大的探索，开创了0721现代化、机械化、正规化、多元化的先河，造就了0721界的革命，实现了0721界的伟大进步。这个进步，不亚于两次工业革命！
 长久以来，0721是以手工的形式为主，但我们的宁宁进行了技术上的革新，先是以桌角代替手工，后来为了可持续发展就采用了一种红色的小机械，并将其命名为“起爆器”，意思是爆炸性的革新，据路边社消息宁宁将来很有可能要冲击诺贝尔奖。同时为了高效运作，她将起爆器扩展到了两个，进一步促进了0721生产力的发展，这项成就堪比福特流水线。这场技术革命深深影响了后世，鼓舞后人在这领域创造性转化，创新性发展。
@@ -22908,6 +22909,7 @@ github	gith
 航空母舰	hkmj
 䃶	hkmv
 𣩹	hkmv
+很可能	hkn
 怀念	hknm
 很可能是	hknu
 佪	hkor
@@ -38708,6 +38710,7 @@ msbt.seku.su	jmwv
 䥗	krco
 鑧	krcu
 宽大	krda
+宽大的	krda
 宽带	krdd
 棵	krdd
 㯘	krdo
@@ -39480,6 +39483,7 @@ msbt.seku.su	jmwv
 困窘	kyjs
 困局	kyju
 𣰘	kyju
+可以看到	kykd
 看一看	kykj
 猑	kykp
 困苦	kyku
@@ -47907,6 +47911,7 @@ milthm	milt
 明朗	mklh
 名利	mkli
 命令	mklk
+冥灵	mklk
 明亮	mkll
 明了	mkln
 名列	mklp
@@ -183998,6 +184003,7 @@ python	pyth
 强令	qllk
 丬	qllm
 强烈	qllp
+强烈的	qllp
 抢掠	qllt
 玱	qlm
 千里马	qlma
@@ -189695,6 +189701,7 @@ rime	rime
 𪍨	sojd
 𡩡	sojf
 𪍟	sojf
+所及	soji
 缩减	sojm
 𪍌	sojr
 𪍔	sojv
@@ -193217,6 +193224,7 @@ sh /storage/emulated/0/.ck/heom/code/11.sh	tijn
 觍	tmtu
 覥	tmtu
 甜头	tmtz
+他们是	tmu
 添设	tmue
 天神	tmuf
 天生	tmug
@@ -202032,12 +202040,14 @@ http://mhtlim.top/usage/usage.html	uomk
 祬	viiq
 𢇨	viir
 直冲	viis
-𫟞	viit
+𢎈	viit
 指出	viiu
 支出	viiu
+之处	viiu
 𢎈	viiu
 禃	viiv
-𥒗	viiw
+𫟞	viiw
+𥒗	viix
 直	vij
 耆	vija
 至今	vijb
@@ -202569,6 +202579,7 @@ http://mhtlim.top/usage/usage.html	uomk
 知心	vixb
 窒息	vixi
 执行	vixk
+直行	vixk
 指向	vixl
 志向	vixl
 直线	vixm
@@ -212402,6 +212413,7 @@ http://mhtlim.top/usage/usage.html	uomk
 𩘒	xrji
 軒	xrjj
 䆭	xrjj
+玄晶	xrjk
 𨊼	xrjk
 翧	xrjm
 选举	xrju
@@ -215162,6 +215174,7 @@ http://mhtlim.top/usage/usage.html	uomk
 𨐐	ybyu
 言不由衷	ybyv
 齦	ybyv
+氤氲	ybyy
 愿不愿意	ybyy
 有板有眼	ybyy
 音游	ybyz

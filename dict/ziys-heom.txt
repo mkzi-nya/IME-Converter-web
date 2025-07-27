@@ -6524,6 +6524,7 @@ Caonima～(∠・ω< )⌒☆	caon
 㞥	cfuo
 𬱣	cfuo
 𦊃	cfwn
+才发现	cfx
 餐风饮露	cfyl
 曾	cg
 㬝	cgaa
@@ -10475,6 +10476,7 @@ deepseek	deep
 大开绿灯	dkld
 多亏了	dkle
 定力	dkli
+叮铃	dklk
 定量	dkll
 帄	dkln
 虰	dkln
@@ -10623,8 +10625,8 @@ deepseek	deep
 鼎力相助	dlxv
 大老爷们	dlym
 大老远	dlyr
-独龙族	dlzu
 独立自主	dlzv
+叮铃作响	dlzx
 点	dm
 𣇖	dmaa
 道貌岸然	dmar
@@ -12906,6 +12908,7 @@ vivo手机断触解决方式https://www.taptap.cn/moment/654325286527043497	driu
 𩞤	dyyv
 得意洋洋	dyyy
 **音游的重复练习到底改变了人体的什么？**  改变了你的**第二性特征**，进而改变你的第一性特征。如果你是男生，首先，打音游会导致睾丸变异，开始分泌**雌性激素**。进而导致你开始做一些比较女生的举止，比如说穿裙子、穿白丝（记得发照片）。然后你的第二性特征开始改变（你懂的，不懂百度），紧接着你的第一性特征会逐渐萎缩并转变为异性的第一性特征。值得注意的是声音的变化最快，如果已经长了胡子的话胡子会停止生长并自然脱落。女性重复打音游会逐渐对男性失去兴趣（虽然可能一开始也就没有）并只想百合。	dyyz
+蹲在	dyzd
 多音字	dyzi
 顿足	dyzu
 大有作为	dyzw
@@ -13031,6 +13034,7 @@ vivo手机断触解决方式https://www.taptap.cn/moment/654325286527043497	driu
 都能	dzng
 阧	dznj
 斗牛	dznq
+逗弄	dzns
 饾	dznt
 𨹜	dznt
 钭	dzo
@@ -14118,6 +14122,7 @@ vivo手机断触解决方式https://www.taptap.cn/moment/654325286527043497	driu
 𨷒	ffas
 缝缝补补	ffbb
 膹	ffbc
+粉白	ffbd
 盼	ffbh
 朌	ffbh
 肦	ffbh
@@ -19147,6 +19152,7 @@ github	gith
 瓘	grmg
 礶	grmg
 官迷	grmi
+灌满	grmj
 冠名	grmk
 观摩	grmo
 琯	grmr
@@ -26052,6 +26058,7 @@ github	gith
 慧眼识珠	hyuv
 婚	hyv
 緡	hyva
+混着	hyve
 后遗症	hyvg
 混账	hyvh
 混战	hyvj
@@ -31864,6 +31871,7 @@ php -S 127.0.0.1:8000	iphp
 憿	jipk
 𢜭	jipl
 几篇	jipm
+几片	jipm
 㥛	jipm
 机票	jipn
 急迫	jipo
@@ -32608,6 +32616,7 @@ php -S 127.0.0.1:8000	iphp
 𩇕	jkqh
 惊奇	jkqi
 景气	jkqi
+惊起	jkqi
 敬请	jkqk
 擏	jkqk
 京腔	jkql
@@ -187809,6 +187818,7 @@ rime	rime
 瑢	rsm
 戎马	rsma
 容貌	rsmc
+绒毛	rsmc
 𡭋	rsmi
 𢦿	rsmi
 𲆵	rsmi
@@ -188605,6 +188615,7 @@ rime	rime
 骚客	scke
 𤠘	scki
 螦	sclf
+扫落	sclo
 𧑫	sclp
 骚乱	sclr
 扫雷	sclw
@@ -192885,6 +192896,7 @@ sh /storage/emulated/0/.ck/heom/code/11.sh	tijn
 挺远	tkyr
 停用	tkys
 挺有	tkyz
+停在	tkzd
 亭子	tkzi
 讨论	tl
 谈恋爱	tlai
@@ -193223,6 +193235,7 @@ sh /storage/emulated/0/.ck/heom/code/11.sh	tijn
 甜心	tmxb
 天性	tmxk
 天马行空	tmxk
+甜香	tmxl
 天线	tmxm
 填写	tmxp
 贪慕虚荣	tmxr
@@ -198544,6 +198557,7 @@ http://mhtlim.top/usage/usage.html	uomk
 声色俱厉	usjl
 瘦死骆驼比马大	usld
 声嘶力竭	uslj
+是什么	usm
 声色犬马	usqm
 视死如归	usrg
 十三岁	uss
@@ -199020,6 +199034,7 @@ http://mhtlim.top/usage/usage.html	uomk
 舒张	uuvh
 杀身之祸	uuvh
 数值	uuvi
+树枝	uuvi
 舒展	uuvj
 梳妆	uuvl
 綀	uuvl
@@ -199448,6 +199463,7 @@ http://mhtlim.top/usage/usage.html	uomk
 誜	uxye
 水性杨花	uxyh
 伤心欲绝	uxyj
+深吸一口气	uxyk
 升学压力	uxyl
 赏心悦目	uxym
 受限于	uxyu
@@ -202969,6 +202985,7 @@ http://mhtlim.top/usage/usage.html	uomk
 占有	vjyz
 战友	vjyz
 站在	vjzd
+沾在	vjzd
 拽	vk
 中看不中用	vkby
 𱖕	vkgc
@@ -215618,6 +215635,7 @@ http://mhtlim.top/usage/usage.html	uomk
 ⺓	yczi
 瑶族	yczu
 一定	yd
+一地	yd
 印第安	yda
 印第安人	ydar
 一大把	ydba
@@ -219588,6 +219606,7 @@ http://mhtlim.top/usage/usage.html	uomk
 有去无回	yqwh
 有气无力	yqwl
 鸦雀无声	yqwu
+野蔷薇	yqww
 偃旗息鼓	yqxg
 意气相投	yqxt
 有求于	yqy

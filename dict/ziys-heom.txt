@@ -40476,6 +40476,7 @@ msbt.seku.su	jmwv
 铼	ldot
 赖皮	ldpi
 懒得去	ldq
+连点器	ldqi
 𦓹	ldqo
 𪎌	ldqt
 来去	ldqu

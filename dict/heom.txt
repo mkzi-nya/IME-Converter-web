@@ -2049,6 +2049,7 @@ AA制	aavi
 播音	boyb
 播映	boyk
 脖子	bozi
+脖子上	bozi
 跛足	bozu
 别把	bpba
 不偏不倚	bpby
@@ -9780,7 +9781,6 @@ AA制	aavi
 黑灯瞎火	hdxh
 还有	hdyz
 海牙	hdya
-还要	hdyc
 海洋	hdyh
 骇异	hdyi
 海燕	hdyj
@@ -10846,6 +10846,7 @@ AA制	aavi
 鸿儒	hsru
 红润	hsry
 红色	hsse
+红色的	hsse
 红糖	hsth
 红桃	hstc
 哄抬	hstd
@@ -11226,6 +11227,7 @@ AA制	aavi
 好为人师	hwru
 荒无人烟	hwry
 黑色	hwse
+黑色的	hwse
 换位思考	hwsk
 黑桃	hwtc
 黑体	hwti
@@ -14456,7 +14458,6 @@ IP地址	ipdv
 交融	jnrs
 娇柔	jnrz
 搅扰	jnrc
-角色	jnse
 绞死	jnsi
 教唆	jnso
 交通	jnts
@@ -16945,6 +16946,7 @@ IP地址	ipdv
 来着	ldve
 赖账	ldvh
 来往	ldwh
+来往的	ldwh
 来玩	ldwj
 老大无成	ldwi
 力大无穷	ldwq
@@ -17315,6 +17317,7 @@ IP地址	ipdv
 篮球	ljqq
 懒人	ljrf
 蓝色	ljse
+蓝色的	ljse
 懒散	ljsj
 垃圾桶	ljts
 篮坛	ljtj
@@ -18278,6 +18281,7 @@ IP地址	ipdv
 理直气壮	lvqv
 旅人	lvrf
 绿色	lvse
+绿色的	lvse
 连中三元	lvsy
 旅途	lvtu
 临阵退缩	lvts
@@ -36189,7 +36193,6 @@ IP地址	ipdv
 一惊一乍	yjyv
 咽炎	yjyj
 燕子	yjzi
-牙尖嘴利	yjzl
 烟嘴	yjzv
 演奏	yjzz
 迎宾	ykbb
@@ -41392,7 +41395,7 @@ IP地址	ipdv
 出	i
 差	ia
 产	ij
-成	ig
+乘	ig
 长	ih
 常	ih
 唱	ihr
@@ -50354,7 +50357,7 @@ GDP	gdp
 还	h
 化	hx
 壶	hu
-初	i
+成	i
 扯	ie
 程	ig
 臭	iz
@@ -51491,7 +51494,11 @@ $	ofhb
 才发现	cfx
 野蔷薇	yqww
 粉白	ffbd
+粉白的	ffbd
+粉白色	ffbd
+粉白色的	ffbd
 一地	yd
+落了一地	llyd
 蹲在	dyzd
 树枝	uuvi
 逗弄	dzns
@@ -51503,10 +51510,19 @@ $	ofhb
 几片	jipm
 混着	hyve
 甜香	tmxl
-深吸一口气	uxyk
+深吸一口气	uxyq
 灌满	grmj
+灌满了	grmj
 是什么	usm
 连点器	ldqi
+已经走了	yjzl
+爬满	pamj
+爬满了	pamj
+走过来	zgl
+甩了甩	uluk
+油菜花	ychx
+简单鹤	jde
+还要	hy
 㕶	ngrm
 㕶	nnrm
 礼	limu
@@ -97602,6 +97618,7 @@ $	ofhb
 𩠨	jius
 𪘥	jiut
 𱌸	jiuw
+粉白色的	ffba
 臸	viar
 𡍶	viat
 𥒓	viau

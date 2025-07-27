@@ -4809,6 +4809,7 @@ AA制	aavi
 亳	boyp
 譒	boyw
 脖子	bozi
+脖子上	bozi
 ⺊	bozm
 跛足	bozu
 别	bp
@@ -14120,9 +14121,13 @@ vivo手机断触解决方式https://www.taptap.cn/moment/654325286527043497	driu
 昐	ffah
 𨳣	ffas
 𨷒	ffas
+粉白色的	ffba
 缝缝补补	ffbb
 膹	ffbc
 粉白	ffbd
+粉白的	ffbd
+粉白色	ffbd
+粉白色的	ffbd
 盼	ffbh
 朌	ffbh
 肦	ffbh
@@ -19153,6 +19158,7 @@ github	gith
 礶	grmg
 官迷	grmi
 灌满	grmj
+灌满了	grmj
 冠名	grmk
 观摩	grmo
 琯	grmr
@@ -21573,7 +21579,6 @@ github	gith
 蝴蝶效应	hdxy
 亥	hdy
 海牙	hdya
-还要	hdyc
 頦	hdyc
 海洋	hdyh
 骇异	hdyi
@@ -24231,6 +24236,7 @@ github	gith
 红润	hsry
 𦕠	hssc
 红色	hsse
+红色的	hsse
 𦕷	hsse
 𦑠	hssg
 耾	hssi
@@ -25501,6 +25507,7 @@ github	gith
 好为人师	hwru
 荒无人烟	hwry
 黑色	hwse
+黑色的	hwse
 换位思考	hwsk
 黑桃	hwtc
 黑体	hwti
@@ -25870,6 +25877,7 @@ github	gith
 化作	hxzo
 好戏在后头	hxzt
 混	hy
+还要	hy
 ひゃ	hya
 ヒャ	hya
 閽	hyaa
@@ -26295,7 +26303,7 @@ github	gith
 猴子	hzzi
 后座	hzzo
 出	i
-初	i
+成	i
 重新	i
 い	i
 イ	i
@@ -27291,7 +27299,7 @@ https://mkzi-nya.github.io/milthm-calculator-web/	ifqi
 趁早	ifzc
 臣子	ifzi
 沉醉	ifzv
-成	ig
+乘	ig
 程	ig
 晟	igas
 𠕠	igas
@@ -30929,6 +30937,7 @@ php -S 127.0.0.1:8000	iphp
 娇滴滴	jddi
 叫地地不灵	jddl
 绝大多数	jddu
+简单鹤	jde
 崛地而起	jdeq
 借贷方	jdf
 假道伐虢	jdfg
@@ -34118,7 +34127,6 @@ msbt.seku.su	jmwv
 𨲭	jnsb
 𩯘	jnsb
 𦗵	jnsd
-角色	jnse
 绞死	jnsi
 𬮄	jnsl
 𠝑	jnsn
@@ -40520,6 +40528,7 @@ msbt.seku.su	jmwv
 婡	ldvo
 𫝫	ldvt
 来往	ldwh
+来往的	ldwh
 老大无成	ldwi
 来玩	ldwj
 𤲓	ldwo
@@ -42021,6 +42030,7 @@ msbt.seku.su	jmwv
 𪢌	ljrw
 𪢠	ljrw
 蓝色	ljse
+蓝色的	ljse
 𪇖	ljsf
 𡮻	ljsh
 懒散	ljsj
@@ -42814,6 +42824,7 @@ msbt.seku.su	jmwv
 陆陆续续	llxx
 亮	lly
 良药	llyc
+落了一地	llyd
 諒	llyf
 𡮎	llyf
 两样	llyh
@@ -45236,6 +45247,7 @@ msbt.seku.su	jmwv
 𫫵	lvrv
 屡	lvs
 绿色	lvse
+绿色的	lvse
 履	lvse
 馿	lvss
 驢	lvst
@@ -179688,6 +179700,8 @@ $	otm
 琶	pam
 𥐙	pamc
 𱍕	pamf
+爬满	pamj
+爬满了	pamj
 𱍕	pamo
 𣧜	pamu
 𩈆	pamu
@@ -198236,6 +198250,7 @@ sh /storage/emulated/0/.ck/heom/code/11.sh	tijn
 水龙头	ultz
 试了试	ulu
 水落石出	ului
+甩了甩	uluk
 双双	ulul
 说来说去	uluq
 时冷时热	ulur
@@ -199464,9 +199479,9 @@ http://mhtlim.top/usage/usage.html	uomk
 誜	uxye
 水性杨花	uxyh
 伤心欲绝	uxyj
-深吸一口气	uxyk
 升学压力	uxyl
 赏心悦目	uxym
+深吸一口气	uxyq
 受限于	uxyu
 上下一心	uxyx
 刷子	uxzi
@@ -215300,6 +215315,7 @@ http://mhtlim.top/usage/usage.html	uomk
 𪖐	ychu
 𰠴	ychu
 要回	ychv
+油菜花	ychx
 𦥝	ychx
 谣	yci
 𫍚	ycia
@@ -218874,7 +218890,7 @@ http://mhtlim.top/usage/usage.html	uomk
 𪗤	yjyy
 𪙊	yjyz
 燕子	yjzi
-牙尖嘴利	yjzl
+已经走了	yjzl
 烟嘴	yjzv
 ⻈	yjzv
 演奏	yjzz
@@ -223564,6 +223580,7 @@ http://mhtlim.top/usage/usage.html	uomk
 再过几年	zgjn
 再过几天	zgjt
 增加	zgjx
+走过来	zgl
 䙢	zgla
 足够了	zgle
 赠礼	zgli

@@ -51514,6 +51514,16 @@ $	ofhb
 你看	nk
 横屏	hgpk
 鸿蒙	hsmg
+0	ouzl
+1	ouzy
+2	ouze
+3	ouzs
+4	ouzs
+5	ouzw
+6	ouzl
+7	ouzq
+8	ouzb
+9	ouzj
 㕶	ngrm
 㕶	nnrm
 礼	limu

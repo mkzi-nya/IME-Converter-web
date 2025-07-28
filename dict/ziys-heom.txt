@@ -179613,6 +179613,16 @@ $	otm
 謳	ouyr
 𪙃	ouyr
 偶遇	ouyu
+8	ouzb
+2	ouze
+9	ouzj
+0	ouzl
+6	ouzl
+7	ouzq
+3	ouzs
+4	ouzs
+5	ouzw
+1	ouzy
 欧洲	ov
 。	ow
 偶像	ox

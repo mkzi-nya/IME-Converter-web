@@ -51512,6 +51512,8 @@ $	ofhb
 你在	nz
 我在	wz
 你看	nk
+横屏	hgpk
+鸿蒙	hsmg
 㕶	ngrm
 㕶	nnrm
 礼	limu

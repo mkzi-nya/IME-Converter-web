@@ -22193,6 +22193,7 @@ github	gith
 横排	hgpd
 横批	hgpi
 横盘	hgpj
+横屏	hgpk
 恆	hgpm
 悙	hgpn
 訇	hgpr
@@ -24118,6 +24119,7 @@ github	gith
 霐	hsmd
 𧋔	hsme
 䲨	hsmf
+鸿蒙	hsmg
 𨾊	hsmg
 䨎	hsmi
 玜	hsmi

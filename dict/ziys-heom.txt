@@ -3364,6 +3364,7 @@ _	;b
 必经之地	bjvd
 办证	bjvg
 班长	bjvh
+半张	bjvh
 败军之将	bjvj
 必经之路	bjvl
 百家争鸣	bjvm
@@ -10033,6 +10034,7 @@ deepseek	deep
 对酒当歌	djdg
 担当	djdh
 淡淡	djdj
+淡淡的	djdj
 𩏥	djdj
 淡定	djdk
 大吉大利	djdl
@@ -12796,6 +12798,7 @@ vivo手机断触解决方式https://www.taptap.cn/moment/654325286527043497	driu
 镦	dyok
 伅	dyou
 𠎻	dyou
+电影票	dyp
 頓	dypc
 盾牌	dypd
 惇	dypd
@@ -15036,11 +15039,13 @@ vivo手机断触解决方式https://www.taptap.cn/moment/654325286527043497	driu
 樊	fjd
 梵	fjd
 反打	fjda
-𨟄	fjdb
+鐢	fjdb
 反倒	fjdc
+翻到	fjdc
 䫶	fjdc
 鐢	fjdc
 棥	fjdd
+𨟄	fjde
 翻江倒海	fjdh
 非机动车	fjdi
 杋	fjdi
@@ -18255,6 +18260,7 @@ github	gith
 赶快	gjkk
 尷	gjkt
 干枯	gjku
+干枯的	gjku
 感喟	gjkv
 甘霖	gjlb
 赶来	gjld
@@ -25645,6 +25651,7 @@ github	gith
 螖	hxlb
 话唠	hxlc
 花了	hxle
+画了	hxle
 画廊	hxlh
 华丽	hxli
 花篮	hxlj
@@ -38969,6 +38976,7 @@ msbt.seku.su	jmwv
 苦力	kuli
 褲	kulj
 苦练	kulm
+哭脸	kulm
 㠸	kulo
 𩇵	kulr
 窟窿	kuls
@@ -48495,6 +48503,7 @@ milthm	milt
 劰	mohs
 𠡞	mohs
 模糊	mohu
+模糊的	mohu
 覛	mohu
 衇	mohv
 抹黑	mohw
@@ -181486,6 +181495,7 @@ $	otm
 淲	pneu
 票房	pnfh
 漂浮	pnfu
+票根	pngf
 𧽤	pngf
 飘过	pngo
 篻	pnha
@@ -190346,6 +190356,7 @@ rime	rime
 塑身	suuf
 素食	suui
 诉说	suuo
+诉说着	suuo
 素数	suuu
 缩	suva
 縮	suva
@@ -191213,6 +191224,7 @@ rime	rime
 掏空	tcks
 𮷝	tckx
 套牢	tclc
+淘来	tcld
 鼗	tcle
 逃离	tcli
 韬略	tclt
@@ -199100,6 +199112,7 @@ http://mhtlim.top/usage/usage.html	uomk
 蒁	uuyd
 叔	uuye
 树叶	uuye
+书页	uuye
 尗	uuyf
 虪	uuyf
 鶐	uuyf
@@ -200371,6 +200384,7 @@ http://mhtlim.top/usage/usage.html	uomk
 旐	vcyo
 詔	vcyr
 注册资本	vczb
+照在	vczd
 沼泽	vcze
 ⺤	vczf
 ⺥	vczf
@@ -205610,6 +205624,7 @@ http://mhtlim.top/usage/usage.html	uomk
 温存	wfcy
 问答	wfda
 问道	wfdc
+闻到	wfdc
 温带	wfdd
 桽	wfdg
 文档	wfdh
@@ -210474,6 +210489,7 @@ http://mhtlim.top/usage/usage.html	uomk
 䏹	xmbu
 先辈	xmbw
 䐄	xmbx
+鼸	xmca
 仙草	xmcc
 鑦	xmcc
 咸菜	xmcd
@@ -210586,7 +210602,7 @@ http://mhtlim.top/usage/usage.html	uomk
 衔	xmh
 舷	xmh
 瞎忙活	xmh
-秈	xmha
+𧈁	xmha
 肩	xmhb
 䉯	xmhc
 稴	xmhc
@@ -210595,10 +210611,10 @@ http://mhtlim.top/usage/usage.html	uomk
 陷害	xmhd
 显赫	xmhe
 𤉌	xmhf
-箲	xmhg
+秈	xmhg
 彡	xmhh
 𥰳	xmhi
-𢕖	xmhj
+箲	xmhj
 㪇	xmhk
 𢕭	xmhk
 𥰳	xmhk
@@ -210614,14 +210630,15 @@ http://mhtlim.top/usage/usage.html	uomk
 𢖋	xmhn
 𥲋	xmhn
 现货	xmho
+鲜活	xmho
 𥟕	xmho
 𧈁	xmho
-𣭡	xmhp
+𢕖	xmhp
 䉳	xmhq
 𢖎	xmhr
 𦩢	xmhr
 鲜红	xmhs
-𥬍	xmht
+𣭡	xmht
 笑面虎	xmhu
 筅	xmhu
 毨	xmhu
@@ -210632,10 +210649,10 @@ http://mhtlim.top/usage/usage.html	uomk
 𥬍	xmhu
 𧠒	xmhu
 贤惠	xmhv
-𧠒	xmhw
+𥬍	xmhw
 鲜花	xmhx
 臽	xmhx
-鼸	xmhy
+𧠒	xmhy
 先后	xmhz
 咸	xmi
 冼	xmi
@@ -211532,7 +211549,6 @@ http://mhtlim.top/usage/usage.html	uomk
 消息	xnxi
 小型	xnxk
 小巷	xnxl
-小小	xnxn
 小写	xnxp
 枭雄	xnxs
 小学	xnxt
@@ -213613,7 +213629,7 @@ http://mhtlim.top/usage/usage.html	uomk
 𨩽	xxcm
 鎼	xxcq
 鎋	xxcr
-下蛋	xxd
+小小的	xxd
 下达	xxda
 吓到	xxdc
 许许多多	xxdd
@@ -213624,6 +213640,7 @@ http://mhtlim.top/usage/usage.html	uomk
 熊熊大火	xxdh
 𧕱	xxdi
 下单	xxdj
+下蛋	xxdj
 下定	xxdk
 柙	xxdl
 小心点	xxdm
@@ -214000,6 +214017,7 @@ http://mhtlim.top/usage/usage.html	uomk
 下一步	xybu
 䞊	xybu
 𧸩	xybu
+薰衣草	xyc
 鑫	xycc
 鑂	xycf
 下一次	xyci
@@ -223730,6 +223748,7 @@ http://mhtlim.top/usage/usage.html	uomk
 𪓅	zhws
 赃物	zhwu
 作何选择	zhxz
+最后一	zhy
 最后一次	zhyc
 最后一个	zhyg
 最后一刻	zhyk
@@ -223871,6 +223890,7 @@ http://mhtlim.top/usage/usage.html	uomk
 自筹	ziiz
 资金	zijb
 自己	ziji
+字迹	ziji
 资产阶级	zijj
 載	zijj
 自建	zijm
@@ -225339,6 +225359,7 @@ http://mhtlim.top/usage/usage.html	uomk
 坐卧不宁	zwbn
 贼胆	zwdj
 自我感觉良好	zwgh
+座位号	zwh
 贼船	zwir
 自我介绍	zwju
 𢨗	zwki

@@ -4566,6 +4566,7 @@ _	;b
 对酒当歌	djdg
 担当	djdh
 淡淡	djdj
+淡淡的	djdj
 淡定	djdk
 单调	djdn
 大江东去	djdq
@@ -8202,6 +8203,7 @@ _	;b
 感慨	gjkd
 干咳	gjke
 干枯	gjku
+干枯的	gjku
 感喟	gjkv
 甘霖	gjlb
 赶来	gjld
@@ -19471,6 +19473,7 @@ IP地址	ipdv
 磨合	mohe
 魔幻	mohr
 模糊	mohu
+模糊的	mohu
 抹黑	mohw
 摸出	moiu
 抹茶	moia
@@ -25093,6 +25096,7 @@ IP地址	ipdv
 塑身	suuf
 素食	suui
 诉说	suuo
+诉说着	suuo
 素数	suuu
 素质	suvi
 诉诸	suvu
@@ -33853,7 +33857,6 @@ IP地址	ipdv
 消息	xnxi
 小型	xnxk
 小巷	xnxl
-小小	xnxn
 小写	xnxp
 枭雄	xnxs
 小学	xnxt
@@ -34564,6 +34567,7 @@ IP地址	ipdv
 下等	xxdg
 熊熊大火	xxdh
 下单	xxdj
+下蛋	xxdj
 下定	xxdk
 下跌	xxdp
 下毒	xxdu
@@ -48468,7 +48472,6 @@ GDP	gdp
 续保	xub
 虚实	xuu
 瑕疵	xxc
-下蛋	xxd
 药店	ycd
 钥匙	ycu
 蜒	yjl
@@ -51524,6 +51527,22 @@ $	ofhb
 7	ouzq
 8	ouzb
 9	ouzj
+淘来	tcld
+半张	bjvh
+电影票	dyp
+座位号	zwh
+票根	pngf
+小小的	xxd
+字迹	ziji
+画了	hxle
+哭脸	kulm
+翻到	fjdc
+最后一	zhy
+薰衣草	xyc
+闻到	wfdc
+照在	vczd
+书页	uuye
+鲜活	xmho
 㕶	ngrm
 㕶	nnrm
 礼	limu
@@ -95571,7 +95590,8 @@ $	ofhb
 䲱	fhha
 𥫳	fhhb
 𪕃	fhhd
-𨟄	fjdb
+鐢	fjdb
+𨟄	fjde
 畨	fjfb
 賻	fuba
 𣑿	fuda
@@ -96449,12 +96469,13 @@ $	ofhb
 𩏩	xmdc
 𬃫	xmdg
 𰉚	xmga
-秈	xmha
-箲	xmhg
-𢕖	xmhj
-𣭡	xmhp
-𥬍	xmht
-𧠒	xmhw
+𧈁	xmha
+秈	xmhg
+箲	xmhj
+𢕖	xmhp
+𣭡	xmht
+𥬍	xmhw
+𧠒	xmhy
 𰣯	xmke
 蚿	xmla
 褼	xmlb
@@ -98566,7 +98587,7 @@ $	ofhb
 𥿧	xlvm
 𧬰	xlvn
 𰛵	xmea
-鼸	xmhy
+鼸	xmca
 𣰷	xmmq
 𠜎	xmnt
 𢖋	xmnw

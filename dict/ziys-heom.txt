@@ -1793,6 +1793,7 @@ _	;b
 摆动	bdds
 不登大雅之堂	bddt
 百度	bddu
+摆渡	bddu
 棑	bddy
 𩎻	bddy
 背道而驰	bdei
@@ -10702,6 +10703,7 @@ deepseek	deep
 电竞	dmjk
 㝪	dmjk
 垫脚	dmjn
+踮脚	dmjn
 颠	dmjo
 电解	dmjp
 碘酒	dmjq
@@ -14701,7 +14703,6 @@ vivo手机断触解决方式https://www.taptap.cn/moment/654325286527043497	driu
 风闻	fgwf
 丰功伟绩	fgwj
 蜂窝	fgwo
-法国梧桐	fgwt
 风味	fgww
 风光无限	fgwx
 奉献	fgx
@@ -15646,6 +15647,7 @@ vivo手机断触解决方式https://www.taptap.cn/moment/654325286527043497	driu
 枎	fudo
 麩	fudo
 浮动	fuds
+浮动着	fuds
 幅度	fudu
 复读	fudu
 枹	fudu
@@ -38689,6 +38691,7 @@ msbt.seku.su	jmwv
 看破红尘	kphi
 堪培拉	kpla
 开篇伊始	kpyu
+空气	kq
 况且	kq
 口气不善	kqbu
 空前绝后	kqjh
@@ -38699,6 +38702,7 @@ msbt.seku.su	jmwv
 口腔溃疡	kqky
 看起来	kqld
 矿泉水	kquv
+空气中	kqv
 可取之处	kqvi
 宽	kr
 髋	krb
@@ -38845,7 +38849,6 @@ msbt.seku.su	jmwv
 悾	kspm
 控	ksq
 空缺	ksq
-空气	ksqi
 空前	ksqm
 𢷙	ksqm
 控球	ksqq
@@ -40320,6 +40323,7 @@ msbt.seku.su	jmwv
 老少	lcuc
 劳神	lcuf
 老师	lcui
+老式	lcui
 㟹	lcul
 老说	lcuo
 㟉	lcuq
@@ -42523,6 +42527,7 @@ msbt.seku.su	jmwv
 零星	lkx
 灵犀	lkxi
 另行	lkxk
+菱形	lkxk
 领先	lkxm
 凌霄	lkxn
 领袖	lkxq
@@ -50261,6 +50266,7 @@ milthm	milt
 能有	ngyz
 那个字	ngzi
 囊	nh
+女孩	nh
 曩	nha
 哪壶不开提哪壶	nhbh
 䁸	nhbv
@@ -51784,7 +51790,6 @@ milthm	milt
 能征惯战	nvgv
 衄	nvh
 䘐	nvhc
-女孩	nvhd
 䶊	nvhg
 衂	nvhh
 衂	nvhi
@@ -194835,6 +194840,7 @@ sh /storage/emulated/0/.ck/heom/code/11.sh	tijn
 𠺙	tvrv
 𦖦	tvsc
 褪色	tvse
+褪色的	tvse
 颓丧	tvsh
 退缩	tvso
 推算	tvsr
@@ -207366,6 +207372,7 @@ http://mhtlim.top/usage/usage.html	uomk
 䓊	wutr
 蘁	wutr
 梧桐	wuts
+梧桐叶	wuts
 靰	wutu
 𦬂	wutu
 屼	wuu
@@ -213613,6 +213620,8 @@ http://mhtlim.top/usage/usage.html	uomk
 虚位以待	xwyd
 夏威夷	xwyi
 吓我一跳	xwyt
+小王子	xwz
+《小王子》	xwz
 心无杂念	xwzn
 下	xx
 学习	xx
@@ -215333,6 +215342,7 @@ http://mhtlim.top/usage/usage.html	uomk
 要害	ychd
 乐	ychd
 吆喝	yche
+吆喝声	yche
 𤂼	yche
 鴁	ychf
 𤒝	ychf
@@ -221763,6 +221773,7 @@ http://mhtlim.top/usage/usage.html	uomk
 焉知非福	yvff
 一阵风	yvfg
 医者父母心	yvfx
+一整个	yvg
 一争高下	yvgx
 已臻化境	yvhj
 一枕黄粱	yvhl
@@ -222670,6 +222681,7 @@ http://mhtlim.top/usage/usage.html	uomk
 右面	yzmm
 幼苗	yzmn
 幽默	yzmo
+油墨	yzmo
 㱊	yzmo
 祐	yzmr
 丣	yzms
@@ -224604,6 +224616,7 @@ http://mhtlim.top/usage/usage.html	uomk
 作战	zovj
 坐庄	zovl
 左转	zovr
+座钟	zovs
 䋏	zovs
 𮉣	zovs
 做主	zovu

@@ -6608,7 +6608,6 @@ _	;b
 丰功伟绩	fgwj
 蜂窝	fgwo
 风光无限	fgwx
-法国梧桐	fgwt
 缝隙	fgxi
 奉行	fgxk
 风向	fgxl
@@ -7157,6 +7156,7 @@ _	;b
 负担	fudj
 浮雕	fudn
 浮动	fuds
+浮动着	fuds
 幅度	fudu
 付费	fufw
 夫人	furf
@@ -16278,7 +16278,6 @@ IP地址	ipdv
 恐怕	kspa
 控盘	kspj
 空瓶	kspk
-空气	ksqi
 空前	ksqm
 控球	ksqq
 孔雀	ksqt
@@ -20782,7 +20781,6 @@ IP地址	ipdv
 女方	nvfh
 女工	nvgs
 女鬼	nvgv
-女孩	nvhd
 女皇	nvhl
 女警	nvjk
 女眷	nvjr
@@ -26860,6 +26858,7 @@ IP地址	ipdv
 推送	tvss
 推算	tvsr
 褪色	tvse
+褪色的	tvse
 颓丧	tvsh
 退缩	tvso
 推脱	tvto
@@ -32344,6 +32343,7 @@ IP地址	ipdv
 舞厅	wutk
 五天	wutm
 梧桐	wuts
+梧桐叶	wuts
 乌纱	wuua
 唯手熟尔	wuue
 万世师表	wuub
@@ -35176,6 +35176,7 @@ IP地址	ipdv
 要好	ychc
 要害	ychd
 吆喝	yche
+吆喝声	yche
 摇晃	ychl
 要回	ychv
 以次充好	ycih
@@ -42578,7 +42579,6 @@ IP地址	ipdv
 开车	ki
 恐怖	kb
 恐怕	kp
-况且	kq
 看不出	kbi
 靠不住	kbv
 看得懂	kdd
@@ -51545,6 +51545,19 @@ $	ofhb
 书页	uuye
 鲜活	xmho
 一生	yiug
+摆渡	bddu
+菱形	lkxk
+女孩	nh
+踮脚	dmjn
+小王子	xwz
+《小王子》	xwz
+老式	lcui
+座钟	zovs
+空气	kq
+况且	kq
+空气中	kqv
+油墨	yzmo
+一整个	yvg
 㕶	ngrm
 㕶	nnrm
 礼	limu

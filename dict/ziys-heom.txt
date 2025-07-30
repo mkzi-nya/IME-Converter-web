@@ -1558,6 +1558,8 @@ _	;b
 报了	bcle
 爆冷	bclg
 暴力	bcli
+包里	bcli
+包里的	bcli
 包揽	bclj
 不辞劳苦	bclk
 爆料	bcln
@@ -5029,6 +5031,7 @@ _	;b
 不吐不快	btbk
 笨头笨脑	btbn
 不痛不痒	btby
+把他的	btd
 八抬大轿	btdj
 白头到老	btdl
 不同的人	btdr
@@ -5558,6 +5561,7 @@ _	;b
 悲催	bwcv
 不枉此行	bwcx
 杯	bwd
+把我的	bwd
 北大	bwda
 杮	bwdb
 韛	bwdb
@@ -12855,6 +12859,7 @@ vivo手机断触解决方式https://www.taptap.cn/moment/654325286527043497	driu
 躉	dyto
 𦰭	dytu
 当一天和尚撞一天钟	dytv
+的一声	dyu
 崸	dyuc
 顿生	dyug
 顿时	dyui
@@ -199142,6 +199147,7 @@ http://mhtlim.top/usage/usage.html	uomk
 孰	uuy
 蒁	uuya
 树阴	uuyb
+树阴下	uuyb
 䢤	uuyc
 生杀予夺	uuyd
 䢞	uuyd
@@ -199886,6 +199892,7 @@ http://mhtlim.top/usage/usage.html	uomk
 手足无措	uzwc
 守望	uzwh
 手腕	uzwj
+手腕上	uzwj
 少走弯路	uzwl
 手握	uzwo
 手误	uzwu

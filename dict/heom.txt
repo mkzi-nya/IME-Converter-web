@@ -29392,6 +29392,7 @@ IP地址	ipdv
 手足无措	uzwc
 守望	uzwh
 手腕	uzwj
+手腕上	uzwj
 手握	uzwo
 手误	uzwu
 收尾	uzww
@@ -51565,10 +51566,16 @@ $	ofhb
 高跟鞋	ggx
 捏着	npve
 树阴	uuyb
+树阴下	uuyb
 评书	pkuu
 钉枪	dkql
 牢牢	lclc
 帆布包	fbb
+把他的	btd
+把我的	bwd
+的一声	dyu
+包里	bcli
+包里的	bcli
 㕶	ngrm
 㕶	nnrm
 礼	limu

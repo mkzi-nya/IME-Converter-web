@@ -5358,6 +5358,7 @@ _	;b
 薄	buti
 不识抬举	butj
 不停	butk
+布条	butn
 不妥	buto
 䪁	buto
 补贴	butp
@@ -10510,6 +10511,7 @@ deepseek	deep
 定期	dkqi
 丢盔弃甲	dkqj
 定情	dkqk
+钉枪	dkql
 叮	dkr
 定然	dkrj
 啶	dkro
@@ -14047,6 +14049,7 @@ vivo手机断触解决方式https://www.taptap.cn/moment/654325286527043497	driu
 发作	fazo
 方便	fb
 分别	fb
+帆布包	fbb
 风必摧之	fbcv
 罚不当罪	fbdz
 烦不烦	fbfj
@@ -17912,6 +17915,7 @@ GDP	gdp
 公共卫生	ggwu
 更为	ggww
 亘古未有	ggwy
+高跟鞋	ggx
 更新	ggxb
 cd /storage/emulated/0/.ck/heom/code/ && git pull origin main	ggxb
 官官相护	ggxh
@@ -40224,6 +40228,7 @@ msbt.seku.su	jmwv
 癆	lcks
 劳苦	lcku
 姥姥	lclc
+牢牢	lclc
 老了	lcle
 劳力	lcli
 老龄	lclk
@@ -46114,6 +46119,7 @@ msbt.seku.su	jmwv
 马术	mauu
 妈	mav
 蚂蚱	mava
+马扎	mava
 嫲	mavc
 嫲	mavd
 麻疹	mavf
@@ -51402,6 +51408,7 @@ milthm	milt
 巕	npuv
 孽债	npvd
 䌜	npvd
+捏着	npve
 𦈙	npve
 孽障	npvh
 牛皮纸	npvi
@@ -181302,6 +181309,7 @@ $	otm
 𢆟	pkuj
 评说	pkuo
 评述	pkuu
+评书	pkuu
 平顺	pkuy
 平手	pkuz
 娉	pkv
@@ -193915,6 +193923,7 @@ sh /storage/emulated/0/.ck/heom/code/11.sh	tijn
 贴水	tpuv
 贴着	tpve
 脱贫致富	tpvf
+铁砧	tpvf
 铁证	tpvg
 铁掌	tpvh
 铁腕	tpwj
@@ -199132,6 +199141,7 @@ http://mhtlim.top/usage/usage.html	uomk
 熟	uuy
 孰	uuy
 蒁	uuya
+树阴	uuyb
 䢤	uuyc
 生杀予夺	uuyd
 䢞	uuyd
@@ -199918,8 +199928,8 @@ http://mhtlim.top/usage/usage.html	uomk
 ⺘	uzzm
 受罪	uzzv
 这	v
+着	v
 之	v
-直接	v
 扎	va
 治安案件	vaaj
 閘	vaal
@@ -200558,7 +200568,7 @@ http://mhtlim.top/usage/usage.html	uomk
 宅子	vdz
 摘自	vdzi
 镇定自若	vdzr
-着	ve
+折	ve
 遮	ve
 𣇧	veaf
 𨵊	veai
@@ -200721,7 +200731,7 @@ http://mhtlim.top/usage/usage.html	uomk
 这篇	vepm
 𠝝	vepn
 𠞃	vepn
-折	veq
+哲	veq
 蜇	veq
 晢	veqa
 摺	veqa
@@ -202675,6 +202685,7 @@ http://mhtlim.top/usage/usage.html	uomk
 至尊	vizy
 站	vj
 占	vj
+直接	vj
 䦓	vjar
 閚	vjat
 瞻	vjb

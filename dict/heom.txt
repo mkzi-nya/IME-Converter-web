@@ -45684,7 +45684,7 @@ IP地址	ipdv
 重	vsh
 者	vej
 種	vsh
-着	ve
+折	ve
 正	vg
 治	vie
 质	viho
@@ -45773,7 +45773,7 @@ IP地址	ipdv
 扎	va
 祝	vui
 祝	vum
-折	veq
+哲	veq
 阵	vfn
 猪	vuk
 帐	vhl
@@ -50353,6 +50353,7 @@ GDP	gdp
 时	u
 省	ug
 守	uz
+着	v
 之	v
 症	vg
 种	vs
@@ -51339,7 +51340,6 @@ $	ofhb
 所有	s
 提供	t
 时候	u
-直接	v
 为什么	w
 小时	x
 有时	y
@@ -51558,6 +51558,17 @@ $	ofhb
 空气中	kqv
 油墨	yzmo
 一整个	yvg
+马扎	mava
+直接	vj
+布条	butn
+铁砧	tpvf
+高跟鞋	ggx
+捏着	npve
+树阴	uuyb
+评书	pkuu
+钉枪	dkql
+牢牢	lclc
+帆布包	fbb
 㕶	ngrm
 㕶	nnrm
 礼	limu

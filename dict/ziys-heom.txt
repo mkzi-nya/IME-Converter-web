@@ -1883,6 +1883,7 @@ _	;b
 败落	bdlo
 襬	bdlp
 白露	bdlu
+白鹭	bdlu
 败类	bdlw
 百	bdm
 帮倒忙	bdm
@@ -1967,6 +1968,7 @@ _	;b
 拜师	bdui
 拜山	bduj
 㠔	bduj
+白霜	bdul
 白说	bduo
 不动声色	bdus
 不得善终	bduv
@@ -15343,6 +15345,7 @@ vivo手机断触解决方式https://www.taptap.cn/moment/654325286527043497	driu
 反手	fjuz
 反之	fjv
 翻着	fjve
+泛着	fjve
 发家致富	fjvf
 反正	fjvg
 繁殖	fjvi
@@ -26205,6 +26208,7 @@ github	gith
 后路	hzlu
 后轮	hzly
 厚	hzm
+孩子们	hzm
 后妈	hzma
 后门	hzmf
 𥚦	hzmk
@@ -32698,6 +32702,7 @@ php -S 127.0.0.1:8000	iphp
 䔔	jktu
 鲸吞	jkty
 镜头	jktz
+镜头里	jktz
 教科书	jku
 鲸鲨	jkua
 劲射	jkue
@@ -43921,6 +43926,7 @@ msbt.seku.su	jmwv
 六点	lqdm
 𣞗	lqdn
 流动	lqds
+流动的	lqds
 桺	lqds
 流毒	lqdu
 六七点钟	lqdv
@@ -45365,6 +45371,7 @@ msbt.seku.su	jmwv
 鐳	lwcw
 鑘	lwcw
 檑	lwd
+芦苇荡	lwd
 雷达	lwda
 樏	lwdf
 欙	lwdf
@@ -184480,6 +184487,7 @@ python	pyth
 𣢬	qmmo
 𧲀	qmmq
 䙴	qmmu
+欠	qmn
 𧣑	qmna
 𨽨	qmnb
 鰜	qmnc
@@ -184494,7 +184502,6 @@ python	pyth
 鹐	qmnm
 𧣑	qmnm
 𩨊	qmnn
-欠	qmno
 𨺩	qmnq
 𩨃	qmnq
 迁怒	qmnu
@@ -190666,6 +190673,8 @@ rime	rime
 碎屑	svxp
 遂	svy
 馊主意	svy
+遀	svya
+碎银	svyb
 䜔	svyb
 䢫	svyb
 遀	svyb
@@ -200616,6 +200625,8 @@ http://mhtlim.top/usage/usage.html	uomk
 㯰	vedm
 折叠	vedp
 折断	vedr
+折断了	vedr
+折断的	vedr
 㭯	vedu
 㯰	vedv
 浙	vee
@@ -202560,6 +202571,7 @@ http://mhtlim.top/usage/usage.html	uomk
 剬	viun
 直说	viuo
 指数	viuu
+汁水	viuv
 𡸜	viuv
 制售	viuz
 纸	viv
@@ -204815,6 +204827,7 @@ http://mhtlim.top/usage/usage.html	uomk
 缒	vvvr
 縋	vvvr
 追逐	vvvu
+追逐着	vvvu
 重中之重	vvvv
 真真正正	vvvv
 只争朝夕	vvvx
@@ -219837,6 +219850,7 @@ http://mhtlim.top/usage/usage.html	uomk
 原创	yril
 贠	yrio
 远处	yriu
+远处的	yriu
 𫍠	yriu
 冤仇	yriz
 远近	yrjb

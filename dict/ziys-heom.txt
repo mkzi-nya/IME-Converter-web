@@ -1917,6 +1917,7 @@ _	;b
 不定期	bdq
 𫖔	bdqb
 不得其法	bdqf
+白汽	bdqi
 捭	bdqj
 拝	bdqj
 百强	bdql
@@ -1989,6 +1990,7 @@ _	;b
 宝刀未老	bdwl
 罷	bdwp
 㔥	bdws
+白雾	bdwu
 百味	bdww
 北斗星	bdx
 白皙	bdxi
@@ -3366,6 +3368,7 @@ _	;b
 𦎊	bjtc
 𠦒	bjtj
 半天	bjtm
+半条	bjtn
 办妥	bjto
 靽	bjtq
 𠦒	bjtq
@@ -5050,6 +5053,7 @@ _	;b
 不同程度	btid
 不提倡	btih
 不同程度上	btiu
+半条街	btj
 不推荐	btjm
 不太可能	btkn
 别提了	btl
@@ -6904,6 +6908,7 @@ Ciallo～(∠・ω< )⌒☆	cial
 词缀	civv
 此外	ciwd
 此文	ciwf
+瓷碗	ciwj
 刺猬	ciww
 慈禧	cixi
 雌性	cixk
@@ -18948,6 +18953,7 @@ github	gith
 国债	govd
 綶	govd
 过着	gove
+裹着	gove
 果真	govf
 过账	govh
 果汁	govi
@@ -40110,6 +40116,7 @@ msbt.seku.su	jmwv
 林芝	lbvi
 临战	lbvj
 鳞状	lbvl
+邻桌	lbvo
 繗	lbvq
 𬙈	lbvq
 临终	lbvs
@@ -41856,6 +41863,7 @@ msbt.seku.su	jmwv
 路见不平	ljbp
 𧸦	ljbt
 𬥾	ljbt
+蓝布	ljbu
 屡禁不止	ljbv
 䑌	ljbw
 𥌻	ljbw
@@ -45802,6 +45810,7 @@ msbt.seku.su	jmwv
 论语	lyyu
 绿油油	lyyz
 老样子	lyz
+老爷子	lyz
 轮子	lyzi
 论罪	lyzv
 聊以自慰	lyzw
@@ -181580,6 +181589,7 @@ $	otm
 𪋖	pnii
 飘窗	pnil
 瓢虫	pnis
+飘出	pniu
 飘进	pnjb
 𣝐	pnjd
 竂	pnjf
@@ -186108,6 +186118,8 @@ python	pyth
 戵	qubi
 祛斑	qubj
 七手八脚	qubj
+青石板路	qubl
+青石板路上	qubl
 䁦	qubm
 𬸱	qubm
 刞	qubn
@@ -188583,6 +188595,7 @@ rime	rime
 洒泪	salw
 䙣	saly
 㪪	same
+撒满	samj
 𩆅	samm
 𱅂	sane
 隡	sanm
@@ -191777,6 +191790,7 @@ rime	rime
 𢥂	tgpf
 𢚺	tgpr
 痛改前非	tgqf
+腾起	tgqi
 天高任鸟飞	tgrf
 䠮	tgrf
 𬧃	tgrm
@@ -194993,6 +195007,7 @@ sh /storage/emulated/0/.ck/heom/code/11.sh	tijn
 天下太平	txtp
 贪小失大	txud
 通讯社	txue
+谈笑声	txug
 推心置腹	txvf
 通行证	txvg
 天下无敌	txwd
@@ -203306,6 +203321,7 @@ http://mhtlim.top/usage/usage.html	uomk
 掌门人	vmrf
 皱眉头	vmtz
 这么少	vmuc
+桌面上	vmuh
 这么爽	vmul
 这么说	vmuo
 琢磨琢磨	vmvm
@@ -204164,6 +204180,7 @@ http://mhtlim.top/usage/usage.html	uomk
 主办	vubj
 驻兵	vubk
 主编	vubm
+竹编	vubm
 𰮙	vubm
 貯	vubn
 眝	vubn
@@ -209617,6 +209634,7 @@ http://mhtlim.top/usage/usage.html	uomk
 稀松	xiss
 习俗	xisu
 细碎	xisv
+细碎的	xisv
 媐	xisv
 昔	xit
 𦸚	xita
@@ -210357,6 +210375,7 @@ http://mhtlim.top/usage/usage.html	uomk
 相亲	xlqb
 星罗棋布	xlqb
 想起	xlqi
+香气	xlqi
 详情	xlqk
 向前	xlqm
 镶嵌	xlqm
@@ -219444,6 +219463,7 @@ http://mhtlim.top/usage/usage.html	uomk
 原来	yl
 严厉	yl
 眼里	yl
+油亮	yl
 意料不到	ylbd
 有理不在声高	ylbg
 于理不合	ylbh

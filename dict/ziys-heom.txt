@@ -30545,6 +30545,7 @@ php -S 127.0.0.1:8000	iphp
 𦞬	jbbk
 肵	jbbl
 金边	jbbm
+锦标	jbbn
 禁播	jbbo
 肋	jbbs
 贐	jbbt
@@ -38407,11 +38408,11 @@ msbt.seku.su	jmwv
 𩦱	kksa
 駃	kksk
 快速	kksu
+蒯	kkt
 看看腿	kkt
 蕢	kktc
 𦳋	kkte
 快艇	kktk
-蒯	kktn
 蒉	kkto
 哭哭啼啼	kktt
 快退	kktv
@@ -40012,6 +40013,7 @@ msbt.seku.su	jmwv
 冷不冷	lblg
 𫔴	lblg
 琳琅	lblh
+淋漓	lbli
 凛冽	lblp
 䗲	lblq
 𤗷	lblq
@@ -44405,6 +44407,7 @@ msbt.seku.su	jmwv
 𪚝	lsga
 䥢	lsgc
 鏧	lsgc
+笼盖	lsgd
 两三个	lsge
 𣫣	lsgi
 垅	lsgp
@@ -181365,6 +181368,7 @@ $	otm
 平行	pkxk
 贫困线	pkxm
 评选	pkxr
+凭空消失	pkxu
 頩	pkyc
 鵧	pkyf
 评议	pkyi
@@ -196443,8 +196447,8 @@ sh /storage/emulated/0/.ck/heom/code/11.sh	tijn
 顺风顺水	ufuu
 渗水	ufuv
 伸手	ufuz
-绅	ufv
 婶	ufv
+绅	ufv
 嬸	ufv
 是非之地	ufvd
 綝	ufvd
@@ -196595,8 +196599,8 @@ sh /storage/emulated/0/.ck/heom/code/11.sh	tijn
 𦩱	ughg
 睡个好觉	ughj
 𦖞	ughj
-牲	ughm
 笙	ughm
+牲	ughm
 甡	ughm
 鼪	ughm
 𬸆	ughm
@@ -197612,6 +197616,7 @@ sh /storage/emulated/0/.ck/heom/code/11.sh	tijn
 峕	uiua
 旹	uiua
 施舍	uiue
+失神	uiuf
 失身	uiuf
 师生	uiug
 𡉸	uiug
@@ -204289,8 +204294,8 @@ http://mhtlim.top/usage/usage.html	uomk
 趉	vugu
 竹棍	vugy
 猪狗	vugz
-筑	vuh
 竹	vuh
+筑	vuh
 築	vuh
 箸	vuha
 𢔪	vuha

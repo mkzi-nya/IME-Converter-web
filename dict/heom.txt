@@ -28141,6 +28141,7 @@ IP地址	ipdv
 试图	uitu
 石头	uitz
 施舍	uiue
+失神	uiuf
 失身	uiuf
 师生	uiug
 时尚	uiuh
@@ -42467,7 +42468,7 @@ IP地址	ipdv
 稞	kehd
 邝	kli
 琨	kym
-蒯	kktn
+蒯	kkt
 揩	kdq
 髋	krb
 伉	kho
@@ -45391,6 +45392,7 @@ IP地址	ipdv
 睡	uvb
 硕	uom
 逝	uiyl
+笙	ughm
 牲	ughm
 慎	ufp
 疏	uunu
@@ -45402,7 +45404,6 @@ IP地址	ipdv
 纱	uav
 淑	uuee
 渗	ufeh
-绅	ufv
 蛇	uel
 叔	uuye
 术	uuid
@@ -45482,7 +45483,6 @@ IP地址	ipdv
 赡	ujb
 梢	ucd
 拴	ur
-笙	ughm
 栅	ujdm
 澍	uue
 沭	uued
@@ -45509,6 +45509,7 @@ IP地址	ipdv
 鳝	ujn
 塾	uuyg
 婶	ufv
+绅	ufv
 歙	ueoo
 甥	ughs
 娠	ufvv
@@ -45754,6 +45755,7 @@ IP地址	ipdv
 状	vllk
 着	vctu
 针	vfoj
+竹	vuh
 筑	vuh
 找	vc
 召	vcs
@@ -45796,7 +45798,6 @@ IP地址	ipdv
 殖	vimm
 殖	vimv
 胀	vhb
-竹	vuh
 仲	vsol
 赚	vrb
 诊	vfih
@@ -51634,6 +51635,10 @@ $	ofhb
 细碎的	xisv
 油亮	yl
 吱呀	vy
+锦标	jbbn
+笼盖	lsgd
+凭空消失	pkxu
+淋漓	lbli
 看看腿	kkt
 㕶	ngrm
 㕶	nnrm

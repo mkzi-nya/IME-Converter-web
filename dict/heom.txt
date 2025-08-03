@@ -42467,7 +42467,7 @@ IP地址	ipdv
 稞	kehd
 邝	kli
 琨	kym
-蒯	kkt
+蒯	kktn
 揩	kdq
 髋	krb
 伉	kho
@@ -51634,6 +51634,7 @@ $	ofhb
 细碎的	xisv
 油亮	yl
 吱呀	vy
+看看腿	kkt
 㕶	ngrm
 㕶	nnrm
 礼	limu

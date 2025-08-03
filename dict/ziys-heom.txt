@@ -10595,8 +10595,10 @@ deepseek	deep
 得理不饶人	dlbr
 得来不易	dlby
 大老粗	dlcu
+多来点	dld
 多劳多得	dldd
 颠鸾倒凤	dldf
+多了点	dldm
 多伦多	dldo
 颠来倒去	dldq
 独来独往	dldw
@@ -40438,6 +40440,7 @@ msbt.seku.su	jmwv
 郲	lddl
 𬩾	lddl
 来电	lddm
+来点	lddm
 𱉵	lddm
 來	lddo
 赉	lddo
@@ -217937,6 +217940,7 @@ http://mhtlim.top/usage/usage.html	uomk
 𫍟	yiwb
 異	yiwc
 意外	yiwd
+以外	yiwd
 𪐣	yiwd
 𦌩	yiwe
 疑问	yiwf

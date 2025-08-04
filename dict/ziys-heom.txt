@@ -47179,6 +47179,7 @@ msbt.seku.su	jmwv
 铭感五内	mgwn
 𦊽	mgwo
 甿	mgwv
+萌新	mgxb
 慢工细活	mgxh
 没关系	mgxi
 梦想	mgxl
@@ -207015,6 +207016,7 @@ http://mhtlim.top/usage/usage.html	uomk
 我所欲也	wsyy
 无所作为	wszw
 问题	wt
+问题不大	wtbd
 乌托邦	wtbh
 万头攒动	wtcd
 无头苍蝇	wtcy

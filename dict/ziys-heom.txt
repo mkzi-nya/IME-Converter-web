@@ -193055,6 +193055,7 @@ sh /storage/emulated/0/.ck/heom/code/11.sh	tijn
 捅娄子	tlzi
 天	tm
 舔	tm
+😋	tm
 天啊	tmaa
 晪	tmac
 闐	tmac

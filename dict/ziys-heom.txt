@@ -83,6 +83,8 @@ _	;b
 Ą	a
 Α	a
 А	a
+ᶏ	a
+ᶐ	a
 阿	aa
 腌	aab
 阿爸	aaba
@@ -6091,6 +6093,7 @@ _	;b
 Ƈ	c
 ϲ	c
 С	c
+ᶜ	c
 擦	ca
 擦边	cabm
 擦背	cabw
@@ -8144,6 +8147,10 @@ Ciallo～(∠・ω< )⌒☆	cial
 Ð	d
 Δ	d
 Д	d
+ᶑ	d
+ᶝ	d
+ᶞ	d
+ᶟ	d
 大	da
 达	da
 だ	da
@@ -13231,6 +13238,9 @@ vivo手机断触解决方式https://www.taptap.cn/moment/654325286527043497	driu
 Ǝ	e
 Ε	e
 Е	e
+ᶒ	e
+ᶓ	e
+ᶔ	e
 恩爱	ea
 而不	eb
 饿不饿	ebee
@@ -13969,6 +13979,7 @@ vivo手机断触解决方式https://www.taptap.cn/moment/654325286527043497	driu
 Ƒ	f
 Ϝ	f
 Ф	f
+ᶠ	f
 法	fa
 閥	faai
 法案	faan
@@ -16959,6 +16970,9 @@ vivo手机断触解决方式https://www.taptap.cn/moment/654325286527043497	driu
 Ɠ	g
 Γ	g
 Г	g
+ᶡ	g
+ᶢ	g
+ᶣ	g
 嘎	ga
 が	ga
 ガ	ga
@@ -26480,6 +26494,8 @@ github	gith
 Ɨ	i
 Ι	i
 І	i
+ᶖ	i
+ᶦ	i
 差	ia
 𣆗	iaar
 插拔	iaba
@@ -39927,6 +39943,8 @@ msbt.seku.su	jmwv
 Ł	l
 Λ	l
 Л	l
+ᶤ	l
+ᶥ	l
 啦	la
 旯	laan
 腊	lab
@@ -49951,6 +49969,11 @@ milthm	milt
 Ɲ	n
 Ν	n
 Н	n
+ᶧ	n
+ᶨ	n
+ᶩ	n
+ᶮ	n
+ᶯ	n
 那	na
 な	na
 ナ	na
@@ -52349,6 +52372,8 @@ milthm	milt
 Ơ	o
 Ο	o
 О	o
+ᶗ	o
+ᶿ	o
 哦对	od
 藕断丝连	odsl
 偶尔	oe
@@ -179953,6 +179978,7 @@ $	otm
 Þ	p
 Π	p
 П	p
+ᶲ	p
 怕	pa
 ぱ	pa
 パ	pa
@@ -187072,6 +187098,11 @@ python	pyth
 Ȓ	r
 Ρ	r
 Р	r
+ᶪ	r
+ᶫ	r
+ᶬ	r
+ᶰ	r
+ᶱ	r
 热爱	ra
 ら	ra
 ラ	ra
@@ -188797,6 +188828,9 @@ rime	rime
 Ʃ	s
 Σ	s
 С	s
+ᶭ	s
+ᶳ	s
+ᶴ	s
 撒	sa
 さ	sa
 サ	sa
@@ -191229,6 +191263,8 @@ rime	rime
 Ʈ	t
 Τ	t
 Т	t
+ᶵ	t
+ᶶ	t
 她	ta
 た	ta
 タ	ta
@@ -195649,6 +195685,9 @@ sh /storage/emulated/0/.ck/heom/code/11.sh	tijn
 Ʊ	u
 Υ	u
 У	u
+ᶘ	u
+ᶙ	u
+ᶷ	u
 啥	ua
 厦	ua
 𣉜	uaae
@@ -200302,6 +200341,9 @@ http://mhtlim.top/usage/usage.html	uomk
 Ѵ	v
 ν	v
 Ν	v
+ᶚ	v
+ᶸ	v
+ᶹ	v
 扎	va
 治安案件	vaaj
 閘	vaal
@@ -214820,6 +214862,8 @@ http://mhtlim.top/usage/usage.html	uomk
 Ƴ	y
 γ	y
 Υ	y
+ᶛ	y
+ᶺ	y
 亚	ya
 雅	ya
 や	ya
@@ -223374,6 +223418,10 @@ http://mhtlim.top/usage/usage.html	uomk
 Ƶ	z
 Ζ	z
 З	z
+ᶻ	z
+ᶼ	z
+ᶽ	z
+ᶾ	z
 咋	za
 ざ	za
 ザ	za

@@ -43,7 +43,6 @@ _	;b
 会响	hvxl
 样貌	yhmc
 通灵	tslk
-食物	uiwu
 事物	uiwu
 盲盒	mhhe
 大地	dadi
@@ -78,7 +77,6 @@ _	;b
 黯淡	andj
 大概	dagd
 冻住	dsvu
-内侧	nwce
 歪斜	wdxp
 全力	qrli
 术法	uufa

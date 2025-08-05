@@ -26466,7 +26466,6 @@ github	gith
 ĩ	i
 į	i
 ɨ	i
-ı	i
 ī̱	i
 ι	i
 ɩ	i
@@ -188789,7 +188788,6 @@ rime	rime
 š	s
 ş	s
 ș	s
-ſ	s
 ʂ	s
 Ś	s
 Ŝ	s
@@ -195632,7 +195630,6 @@ sh /storage/emulated/0/.ck/heom/code/11.sh	tijn
 ǔ	u
 ù	u
 û	u
-v	u
 ũ	u
 ů	u
 ű	u
@@ -195645,7 +195642,6 @@ v	u
 Ǔ	u
 Ù	u
 Û	u
-v	u
 Ũ	u
 Ů	u
 Ű	u
@@ -200286,12 +200282,10 @@ http://mhtlim.top/usage/usage.html	uomk
 ǘ	v
 ǚ	v
 ǜ	v
-v	v
 Ǖ	v
 Ǘ	v
 Ǚ	v
 Ǜ	v
-v	v
 Ǖ	v
 Ǘ	v
 Ǚ	v

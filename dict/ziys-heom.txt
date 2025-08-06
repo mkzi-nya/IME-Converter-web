@@ -14976,6 +14976,7 @@ vivo手机断触解决方式https://www.taptap.cn/moment/654325286527043497	driu
 方框	fhkl
 放宽	fhkr
 防控	fhks
+符号看象限	fhkx
 肺活量	fhl
 芳邻	fhlb
 放了	fhle
@@ -31083,6 +31084,7 @@ php -S 127.0.0.1:8000	iphp
 进驻	jbvu
 紧追	jbvv
 紧抓	jbvx
+奇变偶不变	jbwb
 𪑙	jbwc
 举步维艰	jbwj
 紧握	jbwo
@@ -212768,6 +212770,7 @@ http://mhtlim.top/usage/usage.html	uomk
 𩛢	xqov
 修配	xqpw
 秀气	xqqi
+休憩	xqqi
 修桥	xqqn
 羞怯	xqqp
 绣球	xqqq

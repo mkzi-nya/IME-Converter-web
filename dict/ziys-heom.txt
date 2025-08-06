@@ -212841,6 +212841,7 @@ http://mhtlim.top/usage/usage.html	uomk
 修造	xqzc
 袖子	xqzi
 选	xr
+新人	xr
 昍	xraa
 𣉖	xrab
 暖	xrae
@@ -215689,6 +215690,7 @@ http://mhtlim.top/usage/usage.html	uomk
 音信	ybxb
 因袭	ybxi
 隐形	ybxk
+音形	ybxk
 印象	ybxl
 阴险	ybxm
 音效	ybxn

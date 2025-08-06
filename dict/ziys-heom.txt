@@ -48005,6 +48005,7 @@ milthm	milt
 蟎	mjlb
 襔	mjlb
 慢了	mjle
+满了	mjle
 𧜞	mjle
 蛮力	mjli
 满脸	mjlm
@@ -190018,6 +190019,7 @@ rime	rime
 岁末年初	smni
 驷马难追	smnv
 素昧平生	smpu
+什么时候	smuh
 三明治	smvi
 司马昭之心	smvx
 四目相对	smxd

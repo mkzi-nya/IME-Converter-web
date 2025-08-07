@@ -33516,8 +33516,9 @@ php -S 127.0.0.1:8000	iphp
 弿	jmjn
 蹇	jmjo
 䟅	jmjo
+简介	jmjp
 间接	jmjp
-见解	jmjp
+简洁	jmjp
 謇	jmjr
 𠹟	jmjr
 坚决	jmjt

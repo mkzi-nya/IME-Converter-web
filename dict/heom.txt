@@ -14184,6 +14184,7 @@ IP地址	ipdv
 剪辑	jmji
 渐渐	jmjm
 尖叫	jmjn
+简介	jmjp
 间接	jmjp
 坚决	jmjt
 艰巨	jmju
@@ -49419,7 +49420,7 @@ GDP	gdp
 鉴定	jmdk
 坚固	jmgu
 监察	jmia
-见解	jmjp
+简洁	jmjp
 间距	jmju
 假模假样	jmjy
 贱人	jmrf

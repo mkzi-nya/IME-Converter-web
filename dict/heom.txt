@@ -45396,7 +45396,7 @@ IP地址	ipdv
 笙	ughm
 牲	ughm
 慎	ufp
-疏	uunu
+疏	uun
 疏	uunv
 湿	uie
 擅	ujq
@@ -45603,7 +45603,7 @@ IP地址	ipdv
 贳	uipo
 搠	uoq
 漴	ulef
-隃	uun
+隃	uunn
 昇	ugat
 睄	ucb
 柖	ucdr
@@ -51672,6 +51672,7 @@ $	ofhb
 这题	veti
 怎么做	zmzo
 放置	fhvi
+稀疏	xiuu
 㕶	ngrm
 㕶	nnrm
 礼	limu

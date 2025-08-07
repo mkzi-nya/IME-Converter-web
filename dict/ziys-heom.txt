@@ -199372,7 +199372,7 @@ http://mhtlim.top/usage/usage.html	uomk
 𣰿	uumu
 书眉	uumw
 少数民族	uumz
-隃	uun
+疏	uun
 鱪	uuna
 鱰	uuna
 𨽉	uuna
@@ -199393,9 +199393,9 @@ http://mhtlim.top/usage/usage.html	uomk
 数年	uunm
 𡤽	uunm
 𥍝	uunm
+隃	uunn
 疋	uuno
 枢纽	uunq
-疏	uunu
 𧠣	uunu
 淑女	uunv
 疏	uunv
@@ -209063,6 +209063,7 @@ http://mhtlim.top/usage/usage.html	uomk
 𢭧	xbqu
 下笔千言	xbqy
 信任	xbrf
+近日，在各大音游群中，一个诡异的行为引发网友热议。当群里的人数+1时，很多群友就像着了魔一样，自己会遇到各种各样的问题，并且都会向一个名为“新人”的生物请教。为什么会发生这样离奇诡异的事情？“新人”又是何方神圣？本期《走进科学》带你揭秘——“新人”	xbrf
 欣然	xbrj
 噺	xbrl
 幸不辱命	xbrm
@@ -210147,6 +210148,7 @@ http://mhtlim.top/usage/usage.html	uomk
 𡻎	xius
 系数	xiuu
 洗漱	xiuu
+稀疏	xiuu
 溪水	xiuv
 心驰神往	xiuw
 洗刷	xiux
@@ -223637,7 +223639,6 @@ $cmd{**音游的重复练习到底改变了人体的什么？**\r\n  改变了�
 自不量力	zbll
 做不了	zbln
 总不能	zbng
-近日，在各大音游群中，一个诡异的行为引发网友热议。当群里的人数+1时，很多群友就像着了魔一样，自己会遇到各种各样的问题，并且都会向一个名为“新人”的生物请教。为什么会发生这样离奇诡异的事情？“新人”又是何方神圣？本期《走进科学》带你揭秘——“新人”	zbrf
 再不然	zbrj
 罪不容诛	zbrv
 凿壁偷光	zbtg

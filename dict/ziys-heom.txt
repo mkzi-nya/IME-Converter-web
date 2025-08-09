@@ -32636,8 +32636,8 @@ php -S 127.0.0.1:8000	iphp
 𨵼	jkal
 晟	jkas
 𣋢	jkau
-腈	jkb
-睛	jkbb
+睛	jkb
+腈	jkbb
 䝼	jkbb
 𦜳	jkbb
 警报	jkbc
@@ -49547,6 +49547,7 @@ milthm	milt
 梅	mwdj
 韎	mwdj
 没电	mwdm
+没懂	mwds
 没动	mwds
 梅毒	mwdu
 楣	mwdu

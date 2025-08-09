@@ -5425,6 +5425,7 @@ _	;b
 不胜	buug
 补上	buuh
 不是	buui
+布衫	buuj
 不失时机	buuj
 不爽	buul
 不说	buuo
@@ -11753,13 +11754,14 @@ deepseek	deep
 断层	drcg
 断词	drci
 短促	drcu
-断点	drd
 短刀	drdc
 椴	drde
 𩏇	drde
 断档	drdh
 断定	drdk
+端点	drdm
 断电	drdm
+断点	drdm
 短短	drdr
 𣠭	drdu
 大仁大义	drdy
@@ -31774,6 +31776,7 @@ php -S 127.0.0.1:8000	iphp
 擊	jij
 警察局	jij
 𡫀	jija
+激进	jijb
 基金	jijb
 賫	jijc
 賷	jijc
@@ -40991,6 +40994,9 @@ msbt.seku.su	jmwv
 冷战	lgvj
 两个钟	lgvs
 两个钟头	lgvt
+愣住	lgvu
+棱柱	lgvu
+棱锥	lgvv
 乐观主义	lgvy
 劣根性	lgxk
 冷笑	lgxn
@@ -45854,6 +45860,8 @@ msbt.seku.su	jmwv
 令行禁止	lxjv
 厉行节约	lxjy
 留下来	lxl
+留下了	lxl
+落下来	lxl
 离心离德	lxld
 连下两城	lxli
 俩	lxo
@@ -46786,6 +46794,7 @@ msbt.seku.su	jmwv
 蟊	mcni
 𧔨	mcni
 𥎟	mcnj
+猫娘	mcnl
 夘	mcnl
 𨺸	mcnl
 愗	mcnp
@@ -49429,6 +49438,7 @@ milthm	milt
 母系	muxi
 木星	muxk
 木箱	muxl
+母线	muxm
 母校	muxn
 木屑	muxp
 目眩	muxr
@@ -50975,6 +50985,7 @@ milthm	milt
 喃喃	njnj
 𩹞	njnj
 南宁	njnk
+男娘	njnl
 男女	njnv
 𤿏	njoe
 𤌔	njof
@@ -185083,6 +185094,7 @@ python	pyth
 前奏	qmzz
 欠揍	qmzz
 桥	qn
+去年	qn
 𨜍	qnal
 瞧	qnb
 睄	qnbb
@@ -186621,7 +186633,6 @@ python	pyth
 魼	quni
 𱇜	quni
 𨸟	qunk
-去年	qunm
 鱋	qunm
 𨼫	quno
 取暖	qunr
@@ -199533,6 +199544,7 @@ http://mhtlim.top/usage/usage.html	uomk
 絉	uuvd
 竖着	uuve
 婌	uuve
+数着	uuve
 顺时针	uuvf
 甩手掌柜	uuvg
 舒张	uuvh
@@ -199547,6 +199559,7 @@ http://mhtlim.top/usage/usage.html	uomk
 纾	uuvn
 紓	uuvn
 书桌	uuvo
+书桌上	uuvo
 𥿇	uuvo
 㣽	uuvp
 首善之区	uuvq
@@ -199815,6 +199828,7 @@ http://mhtlim.top/usage/usage.html	uomk
 水仙	uvxm
 生殖系统	uvxt
 水下	uvxx
+是这样	uvy
 受制于	uvy
 水压	uvya
 水印	uvyb
@@ -199839,6 +199853,7 @@ http://mhtlim.top/usage/usage.html	uomk
 水灾	uvzd
 ⺢	uvzf
 睡姿	uvzi
+水渍	uvzi
 ⺡	uvzm
 水族	uvzu
 谁	uw
@@ -205450,6 +205465,7 @@ http://mhtlim.top/usage/usage.html	uomk
 準	vyej
 扎伊尔	vyer
 障眼法	vyfa
+这一个	vyg
 埻	vygd
 中央广播电台	vygt
 招摇过市	vygu
@@ -207082,6 +207098,7 @@ http://mhtlim.top/usage/usage.html	uomk
 万一	wjyi
 晚宴	wjyj
 蜿蜒	wjyj
+蜿蜒的	wjyj
 我见犹怜	wjyl
 弯	wjyn
 万元	wjyr
@@ -210133,6 +210150,7 @@ http://mhtlim.top/usage/usage.html	uomk
 㠄	xiua
 雟	xiub
 稀少	xiuc
+𬟪	xiud
 牺牲	xiug
 喜事	xiui
 巇	xiui
@@ -210267,6 +210285,7 @@ http://mhtlim.top/usage/usage.html	uomk
 䖒	xiyt
 謚	xiyt
 西域	xiyu
+细雨	xiyu
 覤	xiyu
 𬟪	xiyu
 襲	xiyv
@@ -210750,7 +210769,7 @@ http://mhtlim.top/usage/usage.html	uomk
 想哭	xlku
 𤷼	xlku
 小两口	xlkz
-相连	xll
+小萝莉	xll
 相邻	xllb
 鬨	xllc
 向来	xlld
@@ -210759,6 +210778,7 @@ http://mhtlim.top/usage/usage.html	uomk
 心路历程	xlli
 响亮	xlll
 项链	xllm
+相连	xllm
 香料	xlln
 蟓	xllo
 襐	xllo
@@ -211946,6 +211966,7 @@ http://mhtlim.top/usage/usage.html	uomk
 消灭	xnmp
 小妹	xnmw
 骁	xnn
+小男娘	xnn
 笑纳	xnna
 鮹	xnnb
 𩵖	xnnf
@@ -213122,6 +213143,7 @@ http://mhtlim.top/usage/usage.html	uomk
 悬着	xrve
 仙人掌	xrvh
 选址	xrvi
+宣纸	xrvi
 妶	xrvi
 媗	xrvm
 縇	xrvm
@@ -214442,6 +214464,7 @@ http://mhtlim.top/usage/usage.html	uomk
 㰺	xxro
 𢝅	xxrp
 熙熙攘攘	xxrr
+香香软软	xxrr
 栩栩如生	xxru
 先小人后君子	xxrz
 騢	xxse
@@ -222351,6 +222374,7 @@ $cmd{**音游的重复练习到底改变了人体的什么？**\r\n  改变了�
 一朝权在手，便把令来行	yvqx
 意中人	yvr
 运指如飞	yvrf
+油纸伞	yvs
 银装素裹	yvsg
 一致通过	yvtg
 一整天	yvtm

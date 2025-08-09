@@ -2376,6 +2376,7 @@ _	;b
 部首	buuz
 不舍	buue
 不是省油的灯	buud
+布衫	buuj
 不失时机	buuj
 部长	buvh
 布置	buvi
@@ -5206,7 +5207,9 @@ _	;b
 短刀	drdc
 断档	drdh
 断定	drdk
+端点	drdm
 断电	drdm
+断点	drdm
 短短	drdr
 大仁大义	drdy
 短发	drfa
@@ -13648,6 +13651,7 @@ IP地址	ipdv
 击穿	jiir
 基础	jiiu
 计程车	jiie
+激进	jijb
 基金	jijb
 积极	jiji
 寂静	jijk
@@ -23272,7 +23276,6 @@ IP地址	ipdv
 取名	qumk
 欺上瞒下	qumx
 其实难副	qunf
-去年	qunm
 取暖	qunr
 气势磅礴	qupb
 欺善怕恶	qupe
@@ -28854,6 +28857,7 @@ IP地址	ipdv
 舒展	uuvj
 梳妆	uuvl
 书桌	uuvo
+书桌上	uuvo
 首善之区	uuvq
 事实证明	uuvm
 甩手掌柜	uuvg
@@ -48203,7 +48207,6 @@ GDP	gdp
 顶住	dkv
 屌丝	dns
 跌价	dpj
-断点	drd
 短线	drx
 动机	dsj
 独唱	dui
@@ -48477,7 +48480,7 @@ GDP	gdp
 兴致	xkv
 想必	xlb
 享福	xlf
-相连	xll
+相连	xllm
 象棋	xlq
 相思	xls
 相通	xltd
@@ -48970,7 +48973,6 @@ GDP	gdp
 势利眼	uly
 摄氏度	uud
 省政府	uvf
-受制于	uvy
 支付宝	vfb
 正方形	vfx
 主持人	vir
@@ -49962,6 +49964,7 @@ GDP	gdp
 物竞天择	wjtz
 无拘无束	wjwu
 蜿蜒	wjyj
+蜿蜒的	wjyj
 无利不起早	wlbz
 无利可图	wlkt
 歪理邪说	wlxu
@@ -51674,6 +51677,26 @@ $	ofhb
 怎么做	zmzo
 放置	fhvi
 稀疏	xiuu
+母线	muxm
+这一个	vyg
+愣住	lgvu
+棱柱	lgvu
+棱锥	lgvv
+留下了	lxl
+落下来	lxl
+去年	qn
+水渍	uvzi
+数着	uuve
+细雨	xiyu
+是这样	uvy
+受制于	uvy
+油纸伞	yvs
+宣纸	xrvi
+猫娘	mcnl
+香香软软	xxrr
+小萝莉	xll
+小男娘	xnn
+男娘	njnl
 㕶	ngrm
 㕶	nnrm
 礼	limu
@@ -96594,6 +96617,7 @@ $	ofhb
 卥	xiyw
 誒	xikg
 𥪦	xikh
+𬟪	xiud
 𣨾	xkmb
 𩈡	xkme
 鄕	xlvc

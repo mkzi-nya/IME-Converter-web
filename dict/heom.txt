@@ -13679,8 +13679,8 @@ IP地址	ipdv
 激烈	jilp
 激流	jilq
 基隆	jils
-纪录	jilu
 记录	jilu
+纪录	jilu
 几率	jilv
 纪律	jilv
 积累	jilw

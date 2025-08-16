@@ -22745,6 +22745,7 @@ IP地址	ipdv
 遣散	qmsj
 遣送	qmss
 青霉素	qmsu
+嵌套	qmtc
 潜逃	qmtc
 前台	qmtd
 前提	qmti
@@ -48365,7 +48366,6 @@ GDP	gdp
 枪毙	qlb
 墙纸	qlv
 潜力	qml
-嵌套	qmt
 瞧瞧	qnq
 权力	qrl
 全套	qrt

@@ -3489,6 +3489,7 @@ _	;b
 不经一事不长一智	bjyv
 搬运	bjyy
 败家子	bjz
+板子	bjzi
 班子	bjzi
 扮作	bjzo
 不进则退	bjzt
@@ -8766,6 +8767,7 @@ Ciallo～(∠・ω< )⌒☆	cial
 𫝵	dcui
 刀山	dcuj
 倒数	dcuu
+导数	dcuu
 倒水	dcuv
 到手	dcuz
 倒着	dcve
@@ -9024,6 +9026,7 @@ Ciallo～(∠・ω< )⌒☆	cial
 带上	dduh
 獃	dduk
 大多数人	ddur
+代数	dduu
 袋鼠	dduu
 多多少少	dduu
 地动山摇	dduy
@@ -10179,6 +10182,7 @@ deepseek	deep
 㴷	djeu
 湛	djev
 𣲥	djey
+定积分	djff
 大家风范	djff
 单方	djfh
 但凡	djfj
@@ -12553,6 +12557,7 @@ vivo手机断触解决方式https://www.taptap.cn/moment/654325286527043497	driu
 对比	dvbi
 𦡷	dvbi
 对半	dvbj
+对标	dvbn
 䯟	dvbo
 𩨽	dvbr
 兑	dvc
@@ -12965,6 +12970,7 @@ vivo手机断触解决方式https://www.taptap.cn/moment/654325286527043497	driu
 顿时	dyui
 多一事不如少一事	dyuu
 大意失荆州	dyuv
+断崖式领先	dyux
 德艺双馨	dyux
 大洋洲	dyv
 𩔂	dyvc
@@ -20993,6 +20999,7 @@ github	gith
 𦎼	gzgq
 狗官	gzgr
 坸	gzgr
+勾股	gzgu
 故作高深	gzgu
 敢作敢为	gzgw
 狗狗	gzgz
@@ -21924,6 +21931,7 @@ github	gith
 诃	hei
 何尝	hei
 喝茶	heia
+和差	heia
 𰵿	heib
 𥘫	heic
 𰵝	heid
@@ -22356,6 +22364,7 @@ github	gith
 𠔲	hgcu
 桁	hgd
 橫	hgdc
+恒等	hgdg
 楻	hgdg
 恒定	hgdk
 𣕲	hgdm
@@ -27652,6 +27661,7 @@ https://mkzi-nya.github.io/milthm-calculator-web/	ifqi
 惩处	igiu
 䆵	igja
 成绩	igji
+乘积	igji
 城建	igjm
 承建	igjm
 成交	igjn
@@ -31525,8 +31535,8 @@ php -S 127.0.0.1:8000	iphp
 𱇺	jidz
 鸡	jie
 济	jie
-𡬄	jiea
-𣪠	jieb
+𥰦	jiea
+𡬄	jieb
 𨦮	jiec
 潗	jied
 㳵	jied
@@ -31553,14 +31563,14 @@ php -S 127.0.0.1:8000	iphp
 绝尘而去	jieq
 继而	jier
 洁	jier
-𨍺	jies
-𦿓	jiet
+𣪠	jies
+𨍺	jiet
 洎	jieu
-𨋉	jiev
-𥠋	jiew
+𦿓	jiev
+𨋉	jiew
 濟	jiex
-𥡒	jiey
-𥳏	jiez
+𥠋	jiey
+𥡒	jiez
 脊	jif
 激发	jifa
 𤋭	jifa
@@ -31586,14 +31596,14 @@ php -S 127.0.0.1:8000	iphp
 𪄵	jift
 肌肤	jifu
 绝处逢生	jifu
-𪅹	jifv
+𥳏	jifv
 计费	jifw
 㸄	jifx
-𬓠	jify
-㞆	jifz
+𪅹	jify
+𬓠	jifz
 吉	jig
 圾	jig
-秶	jiga
+㞆	jiga
 塉	jigb
 极高	jigc
 㙫	jigd
@@ -31603,20 +31613,20 @@ php -S 127.0.0.1:8000	iphp
 鴶	jigf
 䟌	jigg
 𪔋	jigg
-嘰	jigh
+秶	jigh
 㙨	jigi
 䟇	jigi
-𠹋	jigj
+嘰	jigj
 㙨	jigk
 䟇	jigk
 𧽑	jigk
 激光	jigl
 郆	jigl
-𦺬	jigm
+𠹋	jigm
 䞘	jign
 记过	jigo
-𥾊	jigp
-𦇧	jigq
+𦺬	jigp
+𥾊	jigq
 机关	jigr
 籍贯	jigr
 趌	jigr
@@ -31625,6 +31635,7 @@ php -S 127.0.0.1:8000	iphp
 击鼓	jigu
 垍	jigu
 覿	jigu
+𦇧	jigv
 寄给	jigw
 记挂	jigx
 机构	jigz
@@ -31642,6 +31653,7 @@ php -S 127.0.0.1:8000	iphp
 𨤹	jihd
 集合	jihe
 稷	jihe
+几何	jihe
 㧀	jihe
 㹄	jihe
 彶	jihe
@@ -31660,7 +31672,7 @@ php -S 127.0.0.1:8000	iphp
 堲	jihg
 墍	jihg
 簊	jihg
-㹄	jihh
+㧀	jihh
 穖	jihi
 艥	jihi
 魕	jihi
@@ -31705,14 +31717,14 @@ php -S 127.0.0.1:8000	iphp
 𥭌	jihp
 𥭜	jihp
 𩴃	jihp
-彶	jihq
+㹄	jihq
 疾患	jihr
 犄	jihr
 徛	jihr
 秸	jihr
 躸	jihr
 𧫜	jihr
-鬾	jihs
+彶	jihs
 笄	jiht
 䀈	jiht
 𢓄	jiht
@@ -31728,11 +31740,11 @@ php -S 127.0.0.1:8000	iphp
 机会	jihv
 忌讳	jihv
 㛷	jihv
-𢃺	jihw
+鬾	jihw
 计划	jihx
 穧	jihx
-𢺼	jihy
-𥰦	jihz
+𢃺	jihy
+𢺼	jihz
 记	jii
 计	jii
 稽查	jiia
@@ -39032,6 +39044,7 @@ msbt.seku.su	jmwv
 空洞	ksds
 𣏺	ksdu
 涳	ksem
+控分	ksff
 空房	ksfh
 空翻	ksfj
 空腹	ksfu
@@ -185549,6 +185562,7 @@ python	pyth
 釚	qqcn
 釓	qqcu
 全权代表	qqdb
+求导	qqdc
 敲敲打打	qqdd
 清清淡淡	qqdd
 求得	qqde
@@ -186607,6 +186621,7 @@ python	pyth
 青山绿水	qulu
 䖦	qulu
 𧌑	qulu
+曲率	qulv
 蛐	qulw
 切身利益	quly
 祛	qum
@@ -186620,6 +186635,7 @@ python	pyth
 曲面	qumm
 砠	qumm
 𩇐	qumn
+取模	qumo
 𤨎	qumo
 曲目	qumu
 欺上瞒下	qumx
@@ -201905,6 +201921,7 @@ http://mhtlim.top/usage/usage.html	uomk
 挣钱	vgqm
 正巧	vgqn
 掟	vgqo
+正切	vgqp
 征求	vgqq
 证券	vgqr
 政权	vgqr
@@ -202002,6 +202019,7 @@ http://mhtlim.top/usage/usage.html	uomk
 朝过夕改	vgxg
 整形	vgxk
 正想	vgxl
+正弦	vgxm
 争先	vgxm
 政协	vgxp
 整修	vgxq
@@ -202274,20 +202292,22 @@ http://mhtlim.top/usage/usage.html	uomk
 胝	vibm
 䐈	vibm
 指标	vibn
+制表	vibn
 𥇕	vibn
 𦜋	vibn
 直播	vibo
 䏯	vibp
-𦟔	vibq
+𦜋	vibq
 𥇭	vibr
 𦝔	vibr
-𧸕	vibs
-𰊂	vibt
+𦟔	vibs
+𧸕	vibt
 止步	vibu
 乿	vibu
 忠臣不事二主	vibv
 䐈	vibv
 纸杯	vibw
+𰊂	vibx
 𨬚	vicb
 𨰛	vicb
 鑕	vicc
@@ -205805,6 +205825,7 @@ http://mhtlim.top/usage/usage.html	uomk
 周线	vzxm
 周旋	vzxr
 週	vzy
+謅	vzya
 𣥯	vzyb
 昼夜	vzye
 諏	vzye
@@ -205818,6 +205839,7 @@ http://mhtlim.top/usage/usage.html	uomk
 週	vzyr
 𧇟	vzyr
 咒语	vzyu
+骤雨	vzyu
 詋	vzyu
 謅	vzyu
 䛆	vzyw
@@ -206839,6 +206861,7 @@ http://mhtlim.top/usage/usage.html	uomk
 烷	wjf
 玩法	wjfa
 万分	wjff
+微积分	wjff
 晚风	wjfg
 晚饭	wjfj
 万福	wjfu
@@ -207139,6 +207162,7 @@ http://mhtlim.top/usage/usage.html	uomk
 无可指责	wkvz
 无可挽回	wkwh
 无可无不可	wkwk
+我看下	wkx
 无可限量	wkxl
 挖空心思	wkxs
 胃溃疡	wkyh
@@ -207686,6 +207710,7 @@ http://mhtlim.top/usage/usage.html	uomk
 𢄓	wulf
 物理	wuli
 无理	wuli
+物量	wull
 无量	wull
 𰏓	wulm
 无聊	wuln
@@ -208150,6 +208175,7 @@ http://mhtlim.top/usage/usage.html	uomk
 㭏	wwds
 𩏏	wwds
 娓娓动听	wwdt
+维度	wwdu
 唯独	wwdu
 梶	wwdu
 椳	wwdv
@@ -210786,6 +210812,7 @@ http://mhtlim.top/usage/usage.html	uomk
 𨷿	xllh
 心路历程	xlli
 响亮	xlll
+向量	xlll
 项链	xllm
 相连	xllm
 香料	xlln
@@ -211679,6 +211706,7 @@ http://mhtlim.top/usage/usage.html	uomk
 闲心	xmxb
 纤细	xmxi
 现行	xmxk
+线性	xmxk
 现象	xmxl
 显现	xmxm
 险些	xmxp
@@ -212161,6 +212189,7 @@ http://mhtlim.top/usage/usage.html	uomk
 歊	xnyo
 校园	xnyr
 小鸟依人	xnyr
+消元	xnyr
 效用	xnys
 効	xnys
 小雨	xnyu
@@ -215685,6 +215714,7 @@ http://mhtlim.top/usage/usage.html	uomk
 嶾	ybup
 訔	ybur
 𢌲	ybut
+因数	ybuu
 引述	ybuu
 饮水	ybuv
 也不失为	ybuw
@@ -222021,6 +222051,7 @@ $cmd{**音游的重复练习到底改变了人体的什么？**\r\n  改变了�
 饮食起居	yuqj
 淤青	yuqk
 挧	yuqm
+余切	yuqp
 欲求	yuqq
 余缺	yuqt
 扵	yuqy
@@ -222162,7 +222193,7 @@ $cmd{**音游的重复练习到底改变了人体的什么？**\r\n  改变了�
 崳	yuun
 峪	yuur
 峿	yuur
-遇神杀神	yuuu
+余数	yuuu
 一试身手	yuuu
 雨水	yuuv
 嵛	yuuv
@@ -222250,6 +222281,7 @@ $cmd{**音游的重复练习到底改变了人体的什么？**\r\n  改变了�
 预习	yuxi
 预想	yuxl
 预先	yuxm
+余弦	yuxm
 预选	yuxr
 愚兄	yuxs
 淤血	yuxt
@@ -224808,6 +224840,7 @@ $cmd{**音游的重复练习到底改变了人体的什么？**\r\n  改变了�
 自造	zizc
 自在	zizd
 自责	zize
+砸场子	zizi
 自吹自擂	zizl
 自尊	zizy
 自己	zj
@@ -225739,6 +225772,7 @@ $cmd{**音游的重复练习到底改变了人体的什么？**\r\n  改变了�
 𦵬	zuts
 𧗎	zutt
 组图	zutu
+再试试	zuu
 自视甚高	zuug
 祖上	zuuh
 祖师	zuui

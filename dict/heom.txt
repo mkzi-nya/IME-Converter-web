@@ -4177,7 +4177,7 @@ _	;b
 得出	deiu
 得奖	dejl
 得救	dejq
-得了	dele
+得了	del
 吊儿郎当	deld
 得力	deli
 第二轮	dely
@@ -47927,7 +47927,6 @@ IP地址	ipdv
 噂	zyr
 嶟	zyu
 最	zva
-组	zuv
 再	zdm
 早	zca
 怎	zfo
@@ -51735,6 +51734,13 @@ $	ofhb
 曲率	qulv
 消元	xnyr
 几何	jihe
+数论	uuly
+方程组	fiz
+不就得了	bjdl
+查分	iaff
+薛定谔	xde
+鹤大	heda
+看得出来	kdil
 㕶	ngrm
 㕶	nnrm
 礼	limu

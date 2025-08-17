@@ -43966,7 +43966,7 @@ IP地址	ipdv
 叛	pjfe
 譬	pisr
 扁	pmh
-扁	pmi
+扁	pmib
 扁	pmm
 溥	puei
 刨	pcp
@@ -51752,6 +51752,8 @@ $	ofhb
 大手子	duz
 龙逼	lsbi
 我不是	wbu
+蒟蒻	juro
+这什么	vsm
 㕶	ngrm
 㕶	nnrm
 礼	limu

@@ -36495,6 +36495,7 @@ msbt.seku.su	jmwv
 㘌	jurn
 𠰾	jurn
 𧿻	jurn
+蒟蒻	juro
 足	juro
 躆	juro
 𥷚	jurp
@@ -181764,9 +181765,9 @@ $	otm
 𢕨	pmhs
 𧡤	pmhu
 骗婚	pmhy
-扁	pmi
 谝	pmi
 偏差	pmia
+扁	pmib
 𢉞	pmib
 貵	pmic
 騗	pmif
@@ -204493,6 +204494,7 @@ http://mhtlim.top/usage/usage.html	uomk
 盅	vslt
 中路	vslu
 种类	vslw
+这什么	vsm
 种马	vsma
 𥗦	vsmg
 𩅞	vsmg

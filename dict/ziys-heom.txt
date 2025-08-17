@@ -39969,6 +39969,7 @@ msbt.seku.su	jmwv
 叩谢	kzxp
 看走眼	kzy
 扣押	kzya
+口牙	kzya
 口音	kzyb
 口译	kzyi
 看在眼里	kzyl
@@ -49813,6 +49814,7 @@ milthm	milt
 没有	mwyz
 妹子	mwzi
 目无尊长	mwzv
+喵唔	mw㕶	ngrm
 明显	mx
 没想到	mxdc
 墨西哥	mxge
@@ -50588,7 +50590,6 @@ milthm	milt
 能工巧匠	ngqj
 那个人	ngr
 能人	ngrf
-㕶	ngrm
 𠹌	ngrp
 𨃳	ngrp
 𠮾	ngru
@@ -201719,7 +201720,7 @@ http://mhtlim.top/usage/usage.html	uomk
 振作	vfzo
 照方子抓药	vfzy
 正	vg
-症	vg
+这个	vg
 治国安邦	vgab
 䦛	vgad
 晸	vgak
@@ -201846,6 +201847,7 @@ http://mhtlim.top/usage/usage.html	uomk
 䆸	vgjt
 𡪺	vgjt
 证据	vgju
+症	vgk
 狰	vgk
 蒸烤	vgkc
 睁开	vgkd
@@ -207410,6 +207412,7 @@ http://mhtlim.top/usage/usage.html	uomk
 果	wowd
 𣂽	wowl
 窝心	woxb
+我想	woxl
 斡旋	woxr
 龌	woy
 齷	woyg
@@ -208832,6 +208835,7 @@ http://mhtlim.top/usage/usage.html	uomk
 我行我素	wxws
 无休无止	wxwv
 危险性	wxxk
+我想在	wxz
 无形资产	wxzi
 唯一	wy
 亡羊补牢	wybl
@@ -216807,8 +216811,8 @@ $cmd{**音游的重复练习到底改变了人体的什么？**\r\n  改变了�
 阳奉阴违	yfyw
 鸢飞鱼跃	yfyy
 应付自如	yfzr
-应该	yg
 一个	yg
+应该	yg
 阉割	yg
 一个比一个	ygbg
 雁过拔毛	ygbm
@@ -216915,6 +216919,7 @@ $cmd{**音游的重复练习到底改变了人体的什么？**\r\n  改变了�
 一竿子到底	ygzd
 一个字	ygzi
 油光锃亮	ygzl
+应该怎么	ygzm
 一鼓作气	ygzq
 一棍子打死	ygzs
 裕固族	ygzu
@@ -225052,6 +225057,7 @@ $cmd{**音游的重复练习到底改变了人体的什么？**\r\n  改变了�
 贼眉鼠眼	zmuy
 怎么着	zmve
 怎么这样	zmvy
+怎么写	zmxp
 怎么样	zmyh
 怎么用	zmys
 自卖自夸	zmzk
@@ -225930,6 +225936,7 @@ $cmd{**音游的重复练习到底改变了人体的什么？**\r\n  改变了�
 最快	zvkk
 最酷	zvku
 罪魁	zvkv
+在这里	zvl
 自制力	zvl
 蟕	zvlb
 醉了	zvle

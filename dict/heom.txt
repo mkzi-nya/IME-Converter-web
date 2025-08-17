@@ -46003,7 +46003,6 @@ IP地址	ipdv
 鹧	vei
 谪	vei
 赭	veg
-狰	vgk
 丁	vgm
 纣	vzvi
 獐	vhk
@@ -47660,8 +47659,8 @@ IP地址	ipdv
 一定	yd
 因为	yw
 一位	yw
-应该	yg
 一个	yg
+应该	yg
 阉割	yg
 一直	yv
 一下	yx
@@ -47956,6 +47955,7 @@ IP地址	ipdv
 责任心	zrx
 左上角	zuj
 早知道	zvd
+在这里	zvl
 自制力	zvl
 走下去	zxq
 左右手	zyu
@@ -50385,7 +50385,8 @@ GDP	gdp
 守	uz
 着	v
 之	v
-症	vg
+症	vgk
+狰	vgk
 种	vs
 为	w
 文	wf
@@ -51741,7 +51742,13 @@ $	ofhb
 薛定谔	xde
 鹤大	heda
 看得出来	kdil
-㕶	ngrm
+口牙	kzya
+怎么写	zmxp
+我想	woxl
+我想在	wxz
+这个	vg
+应该怎么	ygzm
+喵唔	mw㕶	ngrm
 㕶	nnrm
 礼	limu
 𠮾	ngru

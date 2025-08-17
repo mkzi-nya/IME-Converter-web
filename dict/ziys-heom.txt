@@ -3444,6 +3444,7 @@ _	;b
 版主	bjvu
 不见真佛不烧香	bjvx
 不解之缘	bjvy
+半轴	bjvz
 𪒋	bjwe
 斑纹	bjwf
 保家卫国	bjwg
@@ -36899,6 +36900,7 @@ msbt.seku.su	jmwv
 嘉奖	jxjl
 尽心尽力	jxjl
 加减	jxjm
+夹角	jxjn
 家教	jxjn
 𡩚	jxjo
 嫁接	jxjp
@@ -222236,6 +222238,7 @@ $cmd{**音游的重复练习到底改变了人体的什么？**\r\n  改变了�
 艈	yuvg
 鱼水之欢	yuvh
 预知	yuvi
+阈值	yuvi
 一时之间	yuvj
 妪	yuvk
 娛	yuvk

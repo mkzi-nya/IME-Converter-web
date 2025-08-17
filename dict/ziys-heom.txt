@@ -12541,6 +12541,7 @@ vivo手机断触解决方式https://www.taptap.cn/moment/654325286527043497	driu
 多少有些	duyx
 独有	duyz
 独自	duz
+大手子	duz
 肚子	duzi
 独生子女	duzn
 东山再起	duzq
@@ -44626,6 +44627,7 @@ msbt.seku.su	jmwv
 𫎦	lsbd
 朧	lsbe
 里斯本	lsbf
+龙逼	lsbi
 😨👉🐉	lsbi
 老死不相往来	lsbl
 眬	lsbp
@@ -49522,6 +49524,7 @@ milthm	milt
 莫衷一是	mvyu
 每	mw
 美	mw
+喵唔	mw
 眉	mwa
 昧	mwa
 鶥	mwaf
@@ -49814,7 +49817,6 @@ milthm	milt
 没有	mwyz
 妹子	mwzi
 目无尊长	mwzv
-喵唔	mw㕶	ngrm
 明显	mx
 没想到	mxdc
 墨西哥	mxge
@@ -50590,6 +50592,7 @@ milthm	milt
 能工巧匠	ngqj
 那个人	ngr
 能人	ngrf
+㕶	ngrm
 𠹌	ngrp
 𨃳	ngrp
 𠮾	ngru
@@ -206004,6 +206007,7 @@ http://mhtlim.top/usage/usage.html	uomk
 玩不起	wbqi
 卧冰求鲤	wbql
 我不入地狱谁入地狱	wbry
+我不是	wbu
 无不是	wbui
 无病呻吟	wbuy
 我不知道	wbvd

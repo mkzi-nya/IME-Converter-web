@@ -5278,6 +5278,7 @@ _	;b
 布景	bujk
 不胜酒力	bujl
 部件	bujm
+补角	bujn
 轐	bujo
 不解	bujp
 不久	bujq

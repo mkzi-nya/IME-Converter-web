@@ -51785,6 +51785,9 @@ $	ofhb
 n-buna	nbna
 「	oz
 」	oc
+仅剩	jbug
+去世	quui
+去逝	quui
 㕶	ngrm
 㕶	nnrm
 礼	limu

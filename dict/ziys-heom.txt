@@ -31087,6 +31087,7 @@ php -S 127.0.0.1:8000	iphp
 𡺽	jbua
 谨慎	jbuf
 晋升	jbug
+仅剩	jbug
 脊背生寒	jbuh
 近视	jbui
 金山	jbuj
@@ -186809,6 +186810,8 @@ python	pyth
 𩿩	quuf
 取胜	quug
 趋势	quui
+去世	quui
+去逝	quui
 𦸶	quuj
 岖	quuk
 㠊	quum

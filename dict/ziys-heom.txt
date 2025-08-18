@@ -10038,6 +10038,7 @@ deepseek	deep
 媞	divo
 地砖	divr
 地主	divu
+对称轴	divz
 低洼	diwa
 低温	diwf
 帝王	diwh
@@ -27598,6 +27599,7 @@ https://mkzi-nya.github.io/milthm-calculator-web/	ifqi
 浈	igeo
 溗	igep
 惩罚	igfa
+乘法	igfa
 㲂	igfe
 𢿧	igfe
 𣀏	igfe
@@ -29822,7 +29824,9 @@ php -S 127.0.0.1:8000	iphp
 出发	iuf
 触发	iufa
 处罚	iufa
+除法	iufa
 䊰	iufa
+䊰	iufb
 𤏱	iufe
 处分	iuff
 厨房	iufh
@@ -200989,7 +200993,9 @@ http://mhtlim.top/usage/usage.html	uomk
 𥰾	vdhs
 虒	vdhu
 这段话	vdhx
+轴对称	vdi
 摘抄	vdic
+轴对称	vdif
 𢋿	vdif
 亝	vdim
 㡯	vdip

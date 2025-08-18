@@ -51758,6 +51758,11 @@ $	ofhb
 鬼畜	gviu
 阈值	yuvi
 半轴	bjvz
+乘法	igfa
+除法	iufa
+轴对称	vdi
+轴对称	vdif
+对称轴	divz
 㕶	ngrm
 㕶	nnrm
 礼	limu
@@ -96007,6 +96012,7 @@ $	ofhb
 𧠛	ijyk
 剙	iltb
 𨘼	irya
+䊰	iufb
 蟵	iulb
 𢅥	iulc
 豖	iumb

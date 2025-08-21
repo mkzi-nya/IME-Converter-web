@@ -12203,11 +12203,11 @@ _	;b
 场所	ihso
 常态	ihtd
 畅谈	ihtj
+长条	ihtn
 冲昏头脑	ihtn
 畅通	ihts
 成何体统	ihtt
 长途	ihtu
-长条	ihtn
 长沙	ihua
 常设	ihue
 厂商	ihuh
@@ -51795,6 +51795,11 @@ n-buna	nbna
 好了没	hlm
 好了吗	hlm
 是什么东东	usmd
+二次元	ecy
+次元	ciyr
+拟合	nihe
+略有耳闻	lyew
+杂鱼	zayu
 㕶	ngrm
 㕶	nnrm
 礼	limu

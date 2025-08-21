@@ -7007,6 +7007,7 @@ Ciallo～(∠・ω< )⌒☆	cial
 𨒤	ciyp
 𦍧	ciyq
 𪉪	ciyq
+次元	ciyr
 訾	ciyr
 詞	ciyr
 词语	ciyu
@@ -13286,6 +13287,7 @@ vivo手机断触解决方式https://www.taptap.cn/moment/654325286527043497	driu
 而不用	ebys
 恩赐	ec
 耳聪目明	ecmm
+二次元	ecy
 恶毒	ed
 儿大不由娘	edbn
 二等奖	edjl
@@ -28091,8 +28093,8 @@ https://mkzi-nya.github.io/milthm-calculator-web/	ifqi
 𦼳	ihth
 𧀄	ihth
 畅谈	ihtj
-冲昏头脑	ihtn
 长条	ihtn
+冲昏头脑	ihtn
 𦰱	ihtr
 畅通	ihts
 成何体统	ihtt
@@ -45957,6 +45959,7 @@ msbt.seku.su	jmwv
 沦	lye
 淪	lyeb
 溣	lyeb
+略有耳闻	lyew
 㷍	lyfb
 劳燕分飞	lyff
 轮番	lyfj
@@ -50756,6 +50759,7 @@ n-buna	nbna
 𥷄	nihb
 你好	nihc
 𤙌	nihd
+拟合	nihe
 㪒	nihe
 𧖷	nihf
 𪏸	nihg
@@ -223754,6 +223758,7 @@ $cmd{**音游的重复练习到底改变了人体的什么？**\r\n  改变了�
 咋样	zayh
 杂役	zayi
 𧬩	zaym
+杂鱼	zayu
 咂嘴	zazv
 咋不	zb
 做不到	zbdc

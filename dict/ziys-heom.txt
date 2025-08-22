@@ -11002,6 +11002,7 @@ deepseek	deep
 电邮	dmyz
 滇藏	dmzh
 电子	dmzi
+垫子	dmzi
 点赞	dmzj
 电钻	dmzr
 电阻	dmzu
@@ -26590,6 +26591,7 @@ github	gith
 𨙳	iael
 𧠈	iaeu
 查分	iaff
+差分	iaff
 查封	iafg
 茶饭	iafj
 𥻗	iafm
@@ -49268,6 +49270,7 @@ milthm	milt
 摩天轮	mtly
 没头没脑	mtmn
 蒙太奇	mtqi
+没听清	mtqk
 门庭若市	mtru
 慢条斯理	mtsl
 慢吞吞	mtty
@@ -193359,6 +193362,7 @@ sh /storage/emulated/0/.ck/heom/code/11.sh	tijn
 挺	tkq
 叹口气	tkq
 挺起	tkqi
+听清	tkqk
 挺强	tkql
 耓	tkqn
 听取	tkqu

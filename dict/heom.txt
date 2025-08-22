@@ -51800,6 +51800,10 @@ n-buna	nbna
 拟合	nihe
 略有耳闻	lyew
 杂鱼	zayu
+垫子	dmzi
+差分	iaff
+没听清	mtqk
+听清	tkqk
 㕶	ngrm
 㕶	nnrm
 礼	limu

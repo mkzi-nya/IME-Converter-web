@@ -20127,7 +20127,7 @@ IP地址	ipdv
 女扮男装	nbnv
 南半球	nbqq
 你不仁我不义	nbry
-那不是	nbui
+那不是	nbu
 耐不住	nbvu
 拿不准	nbvy
 牛鼻子	nbzi
@@ -51804,6 +51804,9 @@ n-buna	nbna
 差分	iaff
 没听清	mtqk
 听清	tkqk
+这首	veuz
+折寿	veuz
+我就不信	wjbx
 㕶	ngrm
 㕶	nnrm
 礼	limu

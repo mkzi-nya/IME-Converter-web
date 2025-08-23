@@ -50293,7 +50293,7 @@ n-buna	nbna
 南半球	nbqq
 𠽝	nbrc
 你不仁我不义	nbry
-那不是	nbui
+那不是	nbu
 䋻	nbvj
 耐不住	nbvu
 拿不准	nbvy
@@ -201363,6 +201363,8 @@ http://mhtlim.top/usage/usage.html	uomk
 这时	veui
 折扇	veuj
 㪿	veul
+这首	veuz
+折寿	veuz
 嫬	vevf
 这张	vevh
 𦅄	vevk
@@ -206875,6 +206877,7 @@ http://mhtlim.top/usage/usage.html	uomk
 𰷡	wjbu
 晚辈	wjbw
 瓦解冰消	wjbx
+我就不信	wjbx
 𨩵	wjca
 𨩻	wjcb
 鋄	wjce

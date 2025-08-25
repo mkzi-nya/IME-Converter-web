@@ -8285,6 +8285,7 @@ Ciallo～(∠・ω< )⌒☆	cial
 大奖	dajl
 搭建	dajm
 打搅	dajn
+打胶	dajn
 大街	dajp
 搭救	dajq
 答卷	dajr
@@ -202344,12 +202345,13 @@ http://mhtlim.top/usage/usage.html	uomk
 豸	vibh
 纸币	vibi
 胝	vibi
+直逼	vibi
 䝰	vibi
 𧠴	vibi
 值班	vibj
 治病	vibk
 䞃	vibk
-𧠴	vibl
+䝰	vibl
 质变	vibm
 胝	vibm
 䐈	vibm
@@ -202359,17 +202361,18 @@ http://mhtlim.top/usage/usage.html	uomk
 𦜋	vibn
 直播	vibo
 䏯	vibp
-𦜋	vibq
+𧠴	vibq
 𥇭	vibr
 𦝔	vibr
-𦟔	vibs
-𧸕	vibt
+𦜋	vibs
+𦟔	vibt
 止步	vibu
 乿	vibu
 忠臣不事二主	vibv
 䐈	vibv
 纸杯	vibw
-𰊂	vibx
+𧸕	vibx
+𰊂	viby
 𨬚	vicb
 𨰛	vicb
 鑕	vicc
@@ -206500,6 +206503,7 @@ http://mhtlim.top/usage/usage.html	uomk
 为非作歹	wfzd
 问责	wfze
 文字	wfzi
+本来睡得好好的，被弄醒了，因为发现有长长的东西插进了身体，疯狂吮吸着我的体液，拔出来了后又扬长而去，吻遍了我的全身留下了好多红痕，胸部和大腿内侧也留了许多红色的印记😨	wfzi
 问罪	wfzv
 无副作用	wfzy
 翁	wg
@@ -224003,6 +224007,7 @@ $cmd{**音游的重复练习到底改变了人体的什么？**\r\n  改变了�
 宰割	zdge
 𱖞	zdgg
 在岗	zdgh
+再过	zdgo
 自动化	zdh
 再好	zdhc
 灾害	zdhd

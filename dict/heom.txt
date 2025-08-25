@@ -51813,6 +51813,9 @@ n-buna	nbna
 移项	yixl
 臆想	yixl
 遗照	yivc
+打胶	dajn
+再过	zdgo
+直逼	vibi
 㕶	ngrm
 㕶	nnrm
 礼	limu
@@ -96597,8 +96600,9 @@ n-buna	nbna
 𦚦	vgbb
 𢹑	vgqa
 𫖖	vgqb
-𧠴	vibl
-𦜋	vibq
+䝰	vibl
+𧠴	vibq
+𦜋	vibs
 樴	vidh
 梔	vidj
 𥏷	viga
@@ -97594,7 +97598,7 @@ n-buna	nbna
 簗	vuhk
 𦧙	vuhp
 𪏿	vuhr
-𦟔	vibs
+𦟔	vibt
 䬹	vioh
 𠋤	viol
 𥎹	vioq
@@ -98752,8 +98756,8 @@ n-buna	nbna
 𩙩	vchb
 𪁧	vfml
 𫖬	vfmm
-𧸕	vibt
-𰊂	vibx
+𧸕	vibx
+𰊂	viby
 𤆒	vifb
 𤓕	vifc
 𫟬	vilh

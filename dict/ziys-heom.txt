@@ -29254,6 +29254,7 @@ https://mkzi-nya.github.io/milthm-calculator-web/	ifqi
 长年累月	inly
 吹牛皮	inpi
 成年人	inrf
+穿女装	inv
 刹那之间	invj
 痴男怨女	inyn
 处女作	inz
@@ -38506,6 +38507,7 @@ msbt.seku.su	jmwv
 𡶪	kjmu
 𧯰	kjmx
 𩓟	kjnc
+看你	kjni
 欿	kjno
 侃	kjo
 𩑟	kjoc

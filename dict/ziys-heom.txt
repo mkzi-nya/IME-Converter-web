@@ -1463,6 +1463,7 @@ _	;b
 𦡕	bcba
 𧵢	bcbb
 宝宝	bcbc
+抱抱	bcbc
 脬	bcbd
 𤔣	bcbe
 𦢊	bcbe
@@ -1847,6 +1848,7 @@ _	;b
 粨	bdfa
 𡭢	bdfd
 百分	bdff
+贝多芬	bdff
 白癜风	bdfg
 拜访	bdfh
 摆放	bdfh
@@ -12943,9 +12945,11 @@ vivo手机断触解决方式https://www.taptap.cn/moment/654325286527043497	driu
 伅	dyou
 𠎻	dyou
 电影票	dyp
+低音谱表	dypb
 頓	dypc
 盾牌	dypd
 惇	dypd
+低音谱号	dyph
 𧿗	dypo
 大雨瓢泼	dypp
 大雨滂沱	dypt
@@ -14262,6 +14266,7 @@ vivo手机断触解决方式https://www.taptap.cn/moment/654325286527043497	driu
 防盗门	fdmf
 反对派	fdpd
 风度翩翩	fdpp
+浮点数	fdu
 放得下	fdxx
 分道扬镳	fdyb
 辅导员	fdyr
@@ -15812,12 +15817,14 @@ vivo手机断触解决方式https://www.taptap.cn/moment/654325286527043497	driu
 韍	fudk
 𣞒	fudk
 𣘧	fudl
-麬	fudm
+附点	fudm
+浮点	fudm
 浮雕	fudn
 柫	fudn
 𩎛	fudn
 枎	fudo
 麩	fudo
+麬	fudp
 浮动	fuds
 浮动着	fuds
 幅度	fudu
@@ -20894,6 +20901,8 @@ github	gith
 ぎょ	gyo
 ギョ	gyo
 工艺品	gypb
+高音谱表	gypb
+高音谱号	gyph
 滚屏	gypk
 惃	gypp
 观音菩萨	gyps
@@ -44849,6 +44858,7 @@ msbt.seku.su	jmwv
 两三岁	lssv
 𫖅	lsta
 龙套	lstc
+李斯特	lste
 龙腾	lstg
 龙体	lsti
 龙潭	lstj
@@ -45896,6 +45906,7 @@ msbt.seku.su	jmwv
 来无影，去无踪	lwyz
 联系	lx
 离乡背井	lxbj
+练习册	lxce
 联系电话	lxdh
 量小非君子	lxfz
 狼心狗肺	lxgf
@@ -45920,6 +45931,7 @@ msbt.seku.su	jmwv
 倆	lxob
 溜须拍马	lxpm
 两袖清风	lxqf
+练习曲	lxqu
 两厢情愿	lxqy
 俩人	lxrf
 履险如夷	lxry
@@ -49542,6 +49554,7 @@ milthm	milt
 卖主求荣	mvq
 梦中情人	mvqr
 满招损，谦受益	mvsy
+莫扎特	mvte
 名震天下	mvtx
 摸着石头过河	mvu
 明知山有虎	mvuh
@@ -180166,6 +180179,7 @@ $	otm
 爬行	paxk
 怕羞	paxq
 趴下	paxx
+琶音	payb
 𪗔	payc
 怕痒	payh
 𥩙	payu
@@ -211846,6 +211860,7 @@ http://mhtlim.top/usage/usage.html	uomk
 𡦝	xnbd
 𥆔	xnbd
 小本	xnbf
+肖邦	xnbh
 𦟞	xnbj
 笑柄	xnbk
 胶	xnbk
@@ -213419,6 +213434,7 @@ http://mhtlim.top/usage/usage.html	uomk
 𩌠	xstb
 兄台	xstd
 胸膛	xsth
+肖斯塔科维奇	xstk
 𦵡	xstr
 𦬺	xstu
 凶	xsu
@@ -215547,6 +215563,7 @@ http://mhtlim.top/usage/usage.html	uomk
 𨋙	ybjl
 引荐	ybjm
 音节	ybjp
+音阶	ybjp
 𨏈	ybjp
 饮酒	ybjq
 輑	ybjr

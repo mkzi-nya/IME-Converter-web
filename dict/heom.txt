@@ -51845,6 +51845,7 @@ n-buna	nbna
 读谱	dupu
 识谱	uipu
 好酷	hcku
+♡	aixb
 㕶	ngrm
 㕶	nnrm
 礼	limu

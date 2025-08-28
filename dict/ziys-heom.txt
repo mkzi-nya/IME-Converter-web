@@ -407,6 +407,7 @@ _	;b
 㝶	aiwi
 爱玩	aiwj
 爱心	aixb
+♡	aixb
 ❤	aixb
 爱惜	aixi
 矮小	aixn

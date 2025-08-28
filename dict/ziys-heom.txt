@@ -36363,6 +36363,7 @@ msbt.seku.su	jmwv
 𡨅	jujr
 𡨢	jujr
 拒绝	jujt
+就是就是	juju
 今生今世	juju
 窭	jujv
 寠	jujv
@@ -203859,6 +203860,7 @@ http://mhtlim.top/usage/usage.html	uomk
 这么贵	vmgv
 这么好	vmhc
 照猫画虎	vmhh
+这么坏	vmhk
 这么回事	vmhu
 这么差	vmia
 这么丑	vmiz

@@ -15058,6 +15058,7 @@ IP地址	ipdv
 举荐	jujm
 聚焦	jujn
 拒绝	jujt
+就是就是	juju
 今生今世	juju
 居家	jujx
 巨款	jukr
@@ -51852,6 +51853,7 @@ n-buna	nbna
 雌小鬼	cxg
 是这么	uvm
 翻转	fjvr
+这么坏	vmhk
 㕶	ngrm
 㕶	nnrm
 礼	limu

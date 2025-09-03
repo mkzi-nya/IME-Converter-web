@@ -33950,6 +33950,7 @@ php -S 127.0.0.1:8000	iphp
 舰长	jmvh
 近墨者黑	jmvh
 兼职	jmvi
+剪枝	jmvi
 纤	jmvj
 姧	jmvj
 𦂇	jmvk
@@ -188435,6 +188436,7 @@ rime	rime
 𪗴	rsyn
 蝾螈	rsyr
 荣誉	rsyu
+冗余	rsyu
 日思夜想	rsyx
 融资	rszi
 认同	rt
@@ -196484,7 +196486,7 @@ sh /storage/emulated/0/.ck/heom/code/11.sh	tijn
 慑服	uefu
 赦	ueg
 舌根	uegf
-舍管	uegr；
+舍管	uegr
 社工	uegs
 射	ueh
 舌	ueh

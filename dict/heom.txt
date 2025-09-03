@@ -51857,8 +51857,10 @@ n-buna	nbna
 祭日	jiri
 幻影	hryk
 宿管	sugr
-舍管	uegr；
+舍管	uegr
 操你妈	cnm
+冗余	rsyu
+剪枝	jmvi
 㕶	ngrm
 㕶	nnrm
 礼	limu

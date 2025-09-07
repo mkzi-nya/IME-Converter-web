@@ -51865,6 +51865,8 @@ n-buna	nbna
 算式	srui
 投注	tzvu
 献祭	xmji
+猫耳	mcer
+猫娘	mcnl
 㕶	ngrm
 㕶	nnrm
 礼	limu
@@ -97978,6 +97980,7 @@ n-buna	nbna
 𱌸	jiuw
 粉白色的	ffba
 遀	svya
+𨺸	mcnb
 臸	viaq
 𡍶	viar
 𥒓	viat

@@ -46766,6 +46766,7 @@ msbt.seku.su	jmwv
 毛豆	mcdz
 泖	mce
 𣴼	mcec
+猫耳	mcer
 㴘	mceu
 𣴟	mceu
 𣹪	mceu
@@ -46866,11 +46867,13 @@ msbt.seku.su	jmwv
 蝥	mcn
 暓	mcna
 𣊃	mcna
+𨺸	mcnb
 堥	mcng
 猫腻	mcni
 蟊	mcni
 𧔨	mcni
 𥎟	mcnj
+猫娘	mcnl
 猫娘	mcnl
 夘	mcnl
 𨺸	mcnl

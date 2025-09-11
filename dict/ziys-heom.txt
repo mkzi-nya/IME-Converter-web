@@ -179875,6 +179875,7 @@ $	ofhb
 ㇉	okzsvs
 ㇣	okzsxxx
 呣	om
+：	omh
 呒	omr
 唔	on
 嗯	onr

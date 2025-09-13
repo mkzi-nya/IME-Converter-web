@@ -192663,7 +192663,7 @@ rime	rime
 同场竞技	tijj
 体检	tijm
 提交	tijn
-sh /storage/emulated/0/.ck/heom/code/11.sh	tijn
+sh /storage/emulated/0/.ck/mkzi/heom/code/11.sh	tijn
 𣤖	tijo
 题解	tijp
 提价	tijx
@@ -202450,6 +202450,7 @@ http://mhtlim.top/usage/usage.html	uomk
 櫍	vidc
 𣖌	vidc
 𣖿	vidc
+只带	vidd
 纸袋	vidd
 值得	vide
 㮹	vide

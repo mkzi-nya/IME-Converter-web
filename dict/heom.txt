@@ -39625,7 +39625,6 @@ IP地址	ipdv
 材	cdd
 措	coqa
 曾	cg
-菜	cd
 测	ce
 草	cc
 藏	ch
@@ -50330,6 +50329,7 @@ GDP	gdp
 悲	bw
 此	c
 猜	cd
+菜	cd
 打	d
 达	da
 道	dc
@@ -51874,6 +51874,7 @@ n-buna	nbna
 蓝莓	ljmw
 体裁	ticd
 拍子	pdzi
+盲猜	mhcd
 㕶	ngrm
 㕶	nnrm
 礼	limu

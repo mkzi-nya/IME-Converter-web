@@ -6287,8 +6287,8 @@ Caonima～(∠・ω< )⌒☆	caon
 操作	cczo
 操纵	cczs
 ⻀	cczy
-菜	cd
 猜	cd
+菜	cd
 采	cdb
 财	cdb
 睬	cdb
@@ -18116,7 +18116,7 @@ GDP	gdp
 亘古未有	ggwy
 高跟鞋	ggx
 更新	ggxb
-cd /storage/emulated/0/.ck/heom/code/ && git pull origin main	ggxb
+cd /storage/emulated/0/.ck/mkzi/heom/code/ && git pull origin main	ggxb
 官官相护	ggxh
 高官显爵	ggxj
 更显	ggxm
@@ -47550,6 +47550,7 @@ msbt.seku.su	jmwv
 矒	mhbu
 鼆	mhbu
 盳	mhbv
+盲猜	mhcd
 盲从	mhcs
 釯	mhcv
 鋩	mhcv

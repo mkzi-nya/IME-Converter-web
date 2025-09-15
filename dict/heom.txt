@@ -51875,6 +51875,13 @@ n-buna	nbna
 体裁	ticd
 拍子	pdzi
 盲猜	mhcd
+视奸	uijm
+水煎	uvjm
+睡奸	uvjm
+口交	kzjn
+足交	zujn
+手交	uzjn
+肛交	ghjn
 㕶	ngrm
 㕶	nnrm
 礼	limu
@@ -97211,6 +97218,7 @@ n-buna	nbna
 𬆦	jiky
 𣖿	vidn
 𠚅	viua
+軾	uijs
 耭	jiqh
 徝	vivq
 犆	vivr

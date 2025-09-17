@@ -32818,6 +32818,7 @@ php -S 127.0.0.1:8000	iphp
 痙	jkkm
 𤜰	jkkn
 惊恐	jkks
+精力	jkl
 蜻	jklb
 敬老	jklc
 幜	jklf

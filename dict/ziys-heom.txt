@@ -194771,6 +194771,7 @@ sh /storage/emulated/0/.ck/mkzi/heom/code/11.sh	tijn
 硐	tsmr
 𨠌	tsmy
 同谋	tsmz
+捅死你	tsn
 鲖	tsn
 㪌	tsne
 𡦜	tsng
@@ -194778,6 +194779,7 @@ sh /storage/emulated/0/.ck/mkzi/heom/code/11.sh	tijn
 䂈	tsni
 童男	tsnj
 童年	tsnm
+捅死你喵	tsnm
 㼧	tsnn
 鮦	tsnr
 𢏕	tsnr

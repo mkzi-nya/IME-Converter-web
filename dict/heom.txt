@@ -51890,6 +51890,7 @@ n-buna	nbna
 班会	bjhv
 赛博	sdbo
 种植	vsvi
+中职	vsvi
 㕶	ngrm
 㕶	nnrm
 礼	limu
@@ -96734,7 +96735,8 @@ n-buna	nbna
 𰋹	vrvd
 鼨	vsha
 𢁷	vsla
-妐	vsva
+中职	vsva
+妐	vsvb
 櫡	vudd
 櫧	vude
 𥞏	vuhb

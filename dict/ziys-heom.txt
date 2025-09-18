@@ -204690,7 +204690,8 @@ http://mhtlim.top/usage/usage.html	uomk
 中暑	vsuu
 中枢	vsuu
 终	vsv
-妐	vsva
+中职	vsva
+妐	vsvb
 中招	vsvc
 忠贞	vsvf
 媑	vsvg
@@ -204699,6 +204700,7 @@ http://mhtlim.top/usage/usage.html	uomk
 终止	vsvi
 中指	vsvi
 种植	vsvi
+中职	vsvi
 妐	vsvi
 妕	vsvl
 終	vsvm

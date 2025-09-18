@@ -3304,6 +3304,7 @@ _	;b
 半酣	bjhj
 𥷁	bjhj
 秚	bjhq
+班会	bjhv
 褩	bjhv
 版画	bjhx
 班车	bjie
@@ -189239,6 +189240,7 @@ rime	rime
 赛	sd
 速度	sd
 腮	sdb
+赛博	sdbo
 色胆包天	sdbt
 塞北	sdbw
 赛道	sddc
@@ -204688,6 +204690,7 @@ http://mhtlim.top/usage/usage.html	uomk
 中暑	vsuu
 中枢	vsuu
 终	vsv
+妐	vsva
 中招	vsvc
 忠贞	vsvf
 媑	vsvg
@@ -204695,6 +204698,7 @@ http://mhtlim.top/usage/usage.html	uomk
 肿胀	vsvh
 终止	vsvi
 中指	vsvi
+种植	vsvi
 妐	vsvi
 妕	vsvl
 終	vsvm

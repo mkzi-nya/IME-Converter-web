@@ -51887,6 +51887,9 @@ n-buna	nbna
 调律	tnlv
 捅死你喵	tsnm
 精力	jkl
+班会	bjhv
+赛博	sdbo
+种植	vsvi
 㕶	ngrm
 㕶	nnrm
 礼	limu
@@ -96731,6 +96734,7 @@ n-buna	nbna
 𰋹	vrvd
 鼨	vsha
 𢁷	vsla
+妐	vsva
 櫡	vudd
 櫧	vude
 𥞏	vuhb

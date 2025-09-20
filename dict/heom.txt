@@ -51892,6 +51892,7 @@ n-buna	nbna
 种植	vsvi
 中职	vsvi
 烤鱼	kcyu
+白嫖	bdpn
 㕶	ngrm
 㕶	nnrm
 礼	limu

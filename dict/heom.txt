@@ -47305,8 +47305,8 @@ IP地址	ipdv
 垣	yrgm
 倚	yior
 诣	yiia
-釉	yzbw
-釉	yzhw
+釉	yzb
+釉	yzh
 痒	yhk
 萦	yktf
 焉	yjmf
@@ -51894,6 +51894,9 @@ n-buna	nbna
 中职	vsvi
 烤鱼	kcyu
 白嫖	bdpn
+唇釉	iyyz
+类人群星闪耀时	lrqu
+人类群星闪耀时	rlqu
 㕶	ngrm
 㕶	nnrm
 礼	limu
@@ -97193,10 +97196,9 @@ n-buna	nbna
 𩘓	yzha
 𩴙	yzhb
 𦥣	yzhg
-牰	yzhj
-秞	yzhn
-𥴕	yzhq
-𦩲	yzht
+秞	yzhj
+𥴕	yzhn
+𦩲	yzhq
 蜏	yzla
 𨡴	yzma
 𧆕	yzta

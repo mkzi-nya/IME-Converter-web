@@ -37498,6 +37498,7 @@ IP地址	ipdv
 冤有头，债有主	yytv
 一语双关	yyug
 有一说一	yyuy
+运营商	yyuh
 熠熠生辉	yyuh
 陨石	yyui
 运输	yyuu
@@ -51897,6 +51898,7 @@ n-buna	nbna
 唇釉	iyyz
 类人群星闪耀时	lrqu
 人类群星闪耀时	rlqu
+何意味	hyww
 㕶	ngrm
 㕶	nnrm
 礼	limu

@@ -18435,6 +18435,7 @@ IP地址	ipdv
 赖以生存	lyuc
 另一种	lyvs
 论证	lyvg
+轮指	lyvi
 轮值	lyvi
 论战	lyvj
 路遥知马力	lyvl

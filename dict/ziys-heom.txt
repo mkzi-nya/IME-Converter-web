@@ -34103,6 +34103,7 @@ msbt.seku.su	jmwv
 角度	jndu
 校对	jndv
 暨南大学	jndx
+浇	jne
 𤃭	jnea
 漅	jned
 交恶	jnee
@@ -34119,7 +34120,6 @@ msbt.seku.su	jmwv
 𣺳	jnen
 滘	jner
 䀊	jnet
-浇	jneu
 澆	jneu
 灚	jneu
 觉	jnf
@@ -34475,6 +34475,7 @@ msbt.seku.su	jmwv
 峧	jnuk
 教书	jnuu
 胶水	jnuv
+浇水	jnuv
 教授	jnuz
 缴	jnv
 娇	jnv
@@ -45942,6 +45943,7 @@ msbt.seku.su	jmwv
 流星赶月	lxgy
 柳下惠	lxh
 龙行虎步	lxhb
+露晓卉庭	lxht
 兰心蕙质	lxhv
 理想化	lxhx
 老羞成怒	lxin

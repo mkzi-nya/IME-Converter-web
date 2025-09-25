@@ -41954,7 +41954,7 @@ IP地址	ipdv
 亟	jinm
 寂	jije
 暨	jiam
-浇	jneu
+浇	jne
 浸	jbee
 脊	jif
 跻	jirl
@@ -51902,6 +51902,7 @@ n-buna	nbna
 类人群星闪耀时	lrqu
 人类群星闪耀时	rlqu
 何意味	hyww
+浇水	jnuv
 㕶	ngrm
 㕶	nnrm
 礼	limu

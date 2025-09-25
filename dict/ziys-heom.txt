@@ -18772,6 +18772,7 @@ github	gith
 光辉	glhv
 光滑	glhx
 告老还乡	glhx
+洸花	glhx
 廣	glic
 𥀱	glie
 𪇵	glif
@@ -45924,6 +45925,10 @@ msbt.seku.su	jmwv
 类型	lwxk
 泪腺	lwxm
 羸	lwy
+露维亚	lwya
+芦苇鸭	lwya
+卤味鸭	lwya
+鹿萎鸭	lwya
 䛶	lwyd
 誄	lwyd
 泪眼	lwyj
@@ -190916,6 +190921,7 @@ rime	rime
 宿舍	suue
 塑身	suuf
 素食	suui
+苏珊	suuj
 诉说	suuo
 诉说着	suuo
 素数	suuu

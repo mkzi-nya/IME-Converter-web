@@ -45932,6 +45932,7 @@ msbt.seku.su	jmwv
 䛶	lwyd
 誄	lwyd
 泪眼	lwyj
+阑尾炎	lwyj
 𦣄	lwyj
 雷雨	lwyu
 䢮	lwyw
@@ -208826,6 +208827,7 @@ http://mhtlim.top/usage/usage.html	uomk
 葨	wwtv
 巍	wwu
 为啥	wwua
+尾杀	wwua
 𡷕	wwub
 𧢧	wwuc
 𡶎	wwud

@@ -8809,6 +8809,7 @@ Ciallo～(∠・ω< )⌒☆	cial
 导演	dcyj
 多此一举	dcyj
 倒影	dcyk
+倒映	dcyk
 大草原	dcyr
 噵	dcyr
 盗用	dcys
@@ -24863,6 +24864,7 @@ github	gith
 虎狼	hulh
 狐狸	huli
 护理	huli
+湖里	huli
 护栏	hulj
 华山论剑	hulj
 互联	hulm
@@ -31149,6 +31151,7 @@ php -S 127.0.0.1:8000	iphp
 进驻	jbvu
 紧追	jbvv
 紧抓	jbvx
+紧皱	jbvz
 奇变偶不变	jbwb
 𪑙	jbwc
 举步维艰	jbwj
@@ -31588,7 +31591,7 @@ php -S 127.0.0.1:8000	iphp
 鸡	jie
 济	jie
 𥰦	jiea
-𡬄	jieb
+𬆦	jieb
 𨦮	jiec
 潗	jied
 㳵	jied
@@ -31615,14 +31618,14 @@ php -S 127.0.0.1:8000	iphp
 绝尘而去	jieq
 继而	jier
 洁	jier
-𣪠	jies
-𨍺	jiet
+𡬄	jies
+𣪠	jiet
 洎	jieu
-𦿓	jiev
-𨋉	jiew
+𨍺	jiev
+𦿓	jiew
 濟	jiex
-𤛄	jiey
-𥠋	jiez
+𨋉	jiey
+𤛄	jiez
 脊	jif
 激发	jifa
 𤋭	jifa
@@ -31648,11 +31651,11 @@ php -S 127.0.0.1:8000	iphp
 𪄵	jift
 肌肤	jifu
 绝处逢生	jifu
-𥡒	jifv
+𥠋	jifv
 计费	jifw
 㸄	jifx
-𥳏	jify
-𪅹	jifz
+𥡒	jify
+𥳏	jifz
 吉	jig
 圾	jig
 𤿠	jiga
@@ -31666,20 +31669,20 @@ php -S 127.0.0.1:8000	iphp
 鴶	jigf
 䟌	jigg
 𪔋	jigg
-𬓠	jigh
+𪅹	jigh
 㙨	jigi
 䟇	jigi
-㞆	jigj
+𬓠	jigj
 㙨	jigk
 䟇	jigk
 𧽑	jigk
 激光	jigl
 郆	jigl
-秶	jigm
+㞆	jigm
 䞘	jign
 记过	jigo
-嘰	jigp
-𠹋	jigq
+秶	jigp
+嘰	jigq
 机关	jigr
 籍贯	jigr
 趌	jigr
@@ -31688,10 +31691,10 @@ php -S 127.0.0.1:8000	iphp
 击鼓	jigu
 垍	jigu
 覿	jigu
-𦺬	jigv
+𠹋	jigv
 寄给	jigw
 记挂	jigx
-𥾊	jigy
+𦺬	jigy
 机构	jigz
 积	jih
 稽	jih
@@ -31836,8 +31839,9 @@ php -S 127.0.0.1:8000	iphp
 𥳏	jiit
 基础	jiiu
 𪅹	jiiv
-𦇧	jiiw
+𥾊	jiiw
 麡	jiix
+𦇧	jiiy
 寄	jij
 擊	jij
 警察局	jij
@@ -31924,21 +31928,21 @@ php -S 127.0.0.1:8000	iphp
 𤺷	jikm
 剞	jikn
 𤜝	jikn
-敧	jiko
+禨	jiko
 疵	jikp
 𤜾	jikq
 猗	jikr
 狤	jikr
 㚡	jikr
 㞆	jikr
-㽺	jiks
+敧	jiks
 𨐆	jikt
 疾苦	jiku
 𤵀	jiku
 击溃	jikv
-𤠎	jikw
+㽺	jikw
 癠	jikx
-𬆦	jiky
+𤠎	jiky
 忌口	jikz
 冀	jil
 蟻	jil
@@ -32044,11 +32048,11 @@ php -S 127.0.0.1:8000	iphp
 玘	jimu
 𣯅	jimu
 𥖙	jimv
-磯	jimw
+集美	jimw
 璾	jimx
 霽	jimx
 𨣧	jimx
-禨	jimy
+磯	jimy
 计谋	jimz
 急	jin
 及	jin
@@ -189705,6 +189709,7 @@ rime	rime
 鼶	sihu
 𥠱	sihu
 撕毁	sihv
+丝滑	sihx
 厮混	sihy
 死后	sihz
 祀	sii
@@ -196872,6 +196877,7 @@ sh /storage/emulated/0/.ck/mkzi/heom/code/11.sh	tijn
 什么	ufme
 神秘	ufmi
 申明	ufmk
+神明	ufmk
 神	ufml
 神庙	ufmn
 神魔	ufmo
@@ -207839,6 +207845,7 @@ http://mhtlim.top/usage/usage.html	uomk
 误触	wuiu
 庑	wuiu
 卫生间	wuj
+无尽	wujb
 万事俱备	wujb
 窏	wujd
 万事俱备，只欠东风	wujf
@@ -207955,7 +207962,7 @@ http://mhtlim.top/usage/usage.html	uomk
 无脑	wunc
 无奈	wund
 弙	wund
-騖	wune
+𩝕	wune
 䳱	wunf
 熃	wunf
 隖	wunf
@@ -207966,7 +207973,7 @@ http://mhtlim.top/usage/usage.html	uomk
 𩻚	wunf
 无能	wung
 䨁	wung
-鰞	wunh
+騖	wunh
 污泥	wuni
 忤逆	wuni
 蝥	wuni
@@ -207976,13 +207983,13 @@ http://mhtlim.top/usage/usage.html	uomk
 奦	wunk
 敄	wunk
 𩶭	wunk
-鶩	wunl
+鰞	wunl
 鹜	wunm
 骛	wunm
 𬮻	wunm
-𨼊	wunn
+鶩	wunn
 𨂣	wuno
-𩻚	wunp
+𨼊	wunp
 𦎦	wunq
 鯃	wunr
 务农	wuns
@@ -207992,10 +207999,12 @@ http://mhtlim.top/usage/usage.html	uomk
 瞀	wunu
 阢	wunu
 嵍	wunu
+巫女	wunv
 舞女	wunv
 婺	wunv
 𩝕	wunv
 𥎈	wunw
+𩻚	wunx
 午	wuo
 舞	wuo
 𩝷	wuoa
@@ -217637,7 +217646,7 @@ $cmd{**音游的重复练习到底改变了人体的什么？**\r\n  改变了�
 湙	yiek
 𭣧	yiek
 沂	yiel
-𧢂	yiem
+耴	yiem
 汽	yien
 洟	yien
 泆	yieo
@@ -217650,7 +217659,7 @@ $cmd{**音游的重复练习到底改变了人体的什么？**\r\n  改变了�
 治	yier
 渏	yier
 𠲻	yier
-嬑	yies
+𧢂	yies
 泄	yiet
 洫	yiet
 㳑	yiet
@@ -217659,10 +217668,10 @@ $cmd{**音游的重复练习到底改变了人体的什么？**\r\n  改变了�
 溰	yiet
 浥	yieu
 㳖	yiev
-絏	yiew
-繶	yiex
-𥾐	yiey
-扅	yiez
+嬑	yiew
+絏	yiex
+繶	yiey
+𥾐	yiez
 燚	yif
 依法	yifa
 熠	yifa
@@ -217679,24 +217688,24 @@ $cmd{**音游的重复练习到底改变了人体的什么？**\r\n  改变了�
 燡	yifj
 𠓋	yifj
 焲	yifk
-虒	yifl
+扅	yifl
 𤆾	yifm
 𮳜	yifm
 熪	yifn
 𤈙	yifn
-鳦	yifo
+虒	yifo
 燱	yifp
 𰞇	yifq
 𥹋	yifr
-𠛃	yifs
+鳦	yifs
 熤	yift
 衣服	yifu
 依附	yifu
-𢓡	yifv
+𠛃	yifv
 已非	yifw
-𢖅	yifx
-𦨇	yify
-𪀓	yifz
+𢓡	yifx
+𢖅	yify
+𦨇	yifz
 壹	yig
 圯	yig
 𧺝	yiga
@@ -217739,9 +217748,9 @@ $cmd{**音游的重复练习到底改变了人体的什么？**\r\n  改变了�
 𡍡	yigu
 衣柜	yigv
 夁	yigw
-䖊	yigx
-𠜁	yigy
-𤝻	yigz
+𪀓	yigx
+䖊	yigy
+𠜁	yigz
 移	yih
 役	yih
 顊	yiha
@@ -217924,10 +217933,10 @@ $cmd{**音游的重复练习到底改变了人体的什么？**\r\n  改变了�
 𡬓	yije
 一触即发	yijf
 𩴮	yijg
-𦠉	yijh
+𤝻	yijh
 以及	yiji
 轙	yiji
-𰷪	yijj
+𦠉	yijj
 已经	yijk
 㝣	yijk
 宧	yijl
@@ -217946,15 +217955,15 @@ $cmd{**音游的重复练习到底改变了人体的什么？**\r\n  改变了�
 𪹀	yijq
 语出惊人	yijr
 輢	yijr
-浂	yijs
-湙	yijt
+𰷪	yijs
+浂	yijt
 依据	yiju
 一句	yiju
 𥥴	yijv
-𭣧	yijw
+湙	yijw
 一家	yijx
-㴁	yijy
-㴒	yijz
+𭣧	yijy
+㴁	yijz
 夷	yik
 猗	yik
 𭩚	yika
@@ -218319,9 +218328,9 @@ $cmd{**音游的重复练习到底改变了人体的什么？**\r\n  改变了�
 𢂼	yiqb
 𦔜	yiqc
 扡	yiqd
-溰	yiqe
-秇	yiqf
-鸃	yiqg
+㴒	yiqe
+溰	yiqf
+秇	yiqg
 𦓻	yiqh
 一起	yiqi
 𢩼	yiqi
@@ -218333,7 +218342,7 @@ $cmd{**音游的重复练习到底改变了人体的什么？**\r\n  改变了�
 一枪	yiql
 以前	yiqm
 拸	yiqn
-𩘧	yiqo
+鸃	yiqo
 一切	yiqp
 𢩮	yiqp
 𪎈	yiqp
@@ -218341,18 +218350,18 @@ $cmd{**音游的重复练习到底改变了人体的什么？**\r\n  改变了�
 一圈	yiqr
 耛	yiqr
 𢷔	yiqr
-𱊈	yiqs
+𩘧	yiqs
 抴	yiqt
 撎	yiqt
 一曲	yiqu
 挹	yiqu
 掜	yiqu
 𢱁	yiqu
-䬁	yiqv
-𢓀	yiqw
-𥫝	yiqx
+𱊈	yiqv
+䬁	yiqw
+𢓀	yiqx
 一群	yiqy
-𩖹	yiqz
+𥫝	yiqz
 异	yir
 咦	yir
 檹	yira
@@ -218550,6 +218559,7 @@ $cmd{**音游的重复练习到底改变了人体的什么？**\r\n  改变了�
 一生	yiug
 以上	yiuh
 意识	yiui
+仪式	yiui
 㠖	yiui
 嶬	yiui
 𡾾	yiui
@@ -218570,9 +218580,9 @@ $cmd{**音游的重复练习到底改变了人体的什么？**\r\n  改变了�
 𨣬	yius
 𩂒	yiut
 艺术	yiuu
-𡾾	yiuv
-𧔮	yiuw
-耴	yiux
+嶬	yiuv
+𡾾	yiuw
+𧔮	yiux
 一瞬	yiuy
 一首	yiuz
 姨	yiv
@@ -218636,8 +218646,8 @@ $cmd{**音游的重复练习到底改变了人体的什么？**\r\n  改变了�
 彜	yivy
 一周	yivz
 意味	yiw
-𫍙	yiwa
-𫍟	yiwb
+𩖹	yiwa
+𫍙	yiwb
 異	yiwc
 意外	yiwd
 以外	yiwd
@@ -218648,13 +218658,13 @@ $cmd{**音游的重复练习到底改变了人体的什么？**\r\n  改变了�
 腰缠万贯	yiwg
 以往	yiwh
 遗忘	yiwh
-𢈶	yiwi
+𫍟	yiwi
 一万	yiwj
 睪	yiwj
 圛	yiwj
 斁	yiwk
-𢦕	yiwl
-𤬩	yiwm
+𢈶	yiwl
+𢦕	yiwm
 遗臭万年	yiwn
 黟	yiwn
 𪐘	yiwn
@@ -218662,8 +218672,8 @@ $cmd{**音游的重复练习到底改变了人体的什么？**\r\n  改变了�
 欭	yiwo
 歝	yiwo
 黓	yiwp
-𰵖	yiwq
-𰵥	yiwr
+𤬩	yiwq
+𰵖	yiwr
 黝	yiws
 𢍰	yiwt
 义务	yiwu
@@ -218671,20 +218681,20 @@ $cmd{**音游的重复练习到底改变了人体的什么？**\r\n  改变了�
 运筹帷幄之中	yiwv
 畩	yiwv
 以为	yiww
-𰶁	yiwx
-𬤞	yiwy
-𰵔	yiwz
+𰵥	yiwx
+𰶁	yiwy
+𬤞	yiwz
 臆想	yixa
 疑心	yixb
-𧙡	yixc
+𰵔	yixc
 以诚相待	yixd
 羊肠小道	yixd
-𧱊	yixe
-𩂹	yixf
-𥘒	yixg
-𥙇	yixh
+𧙡	yixe
+𧱊	yixf
+𩂹	yixg
+𥘒	yixh
 依稀	yixi
-𩠂	yixj
+𥙇	yixj
 异性	yixk
 意向	yixl
 遗像	yixl
@@ -218692,19 +218702,19 @@ $cmd{**音游的重复练习到底改变了人体的什么？**\r\n  改变了�
 臆想	yixl
 一线	yixm
 一笑	yixn
-𡥁	yixo
+𩠂	yixo
 一些	yixp
 衣袖	yixq
-𱇧	yixr
+𡥁	yixr
 疑凶	yixs
 医学	yixt
-𮩞	yixu
-𢖴	yixv
-𬬩	yixw
+𱇧	yixu
+𮩞	yixv
+𢖴	yixw
 以下	yixx
 𠀳	yixx
-𩚂	yixy
-恞	yixz
+𬬩	yixy
+𩚂	yixz
 意	yiy
 裔	yiy
 逸	yiy
@@ -218794,32 +218804,32 @@ $cmd{**音游的重复练习到底改变了人体的什么？**\r\n  改变了�
 越扯越远	yiyy
 𥩖	yiyy
 已有	yiyz
-𱉇	yiza
-𠿣	yizb
+恞	yiza
+𱉇	yizb
 一早	yizc
-黳	yizd
+𠿣	yizd
 一则	yize
-𤇴	yizf
-𩥯	yizg
+黳	yizf
+𤇴	yizg
 胰脏	yizh
 椅子	yizi
-𩾠	yizj
-𠚮	yizk
+𩥯	yizj
+𩾠	yizk
 ⻂	yizl
 一锤子买卖	yizm
-𡱐	yizn
+𠚮	yizn
 一座	yizo
 ⻂	yizo
-𧅖	yizp
-萟	yizq
-芸	yizr
+𡱐	yizp
+𧅖	yizq
+萟	yizr
 一宗	yizs
-𦮸	yizt
+芸	yizt
 彝族	yizu
-辷	yizv
-𱊰	yizw
-謻	yizx
-譩	yizy
+𦮸	yizv
+辷	yizw
+𱊰	yizx
+謻	yizy
 移走	yizz
 眼	yj
 严	yj
@@ -221497,29 +221507,29 @@ $cmd{**音游的重复练习到底改变了人体的什么？**\r\n  改变了�
 𩨈	yuae
 𨶢	yuaf
 𧱬	yuag
-斔	yuah
-諛	yuai
+𱈂	yuah
+斔	yuai
 𨵉	yuaj
 𣋉	yuak
-𣢦	yual
+諛	yual
 閾	yuam
 预案	yuan
 𠕦	yuan
 𨵦	yuan
 欥	yuao
-𣣎	yuap
-祤	yuaq
-𱉍	yuar
-𦋢	yuas
-𩨙	yuat
-𫗇	yuau
+𣢦	yuap
+𣣎	yuaq
+祤	yuar
+𱉍	yuas
+𦋢	yuat
+𩨙	yuau
 𠕦	yuav
 𡿯	yuav
 𨵦	yuav
-𬲆	yuaw
-魊	yuax
+𫗇	yuaw
+𬲆	yuax
 閼	yuay
-𥝍	yuaz
+魊	yuaz
 腧	yuba
 一手包办	yubb
 䁌	yubb
@@ -221532,11 +221542,11 @@ $cmd{**音游的重复练习到底改变了人体的什么？**\r\n  改变了�
 䐳	yubf
 𥉑	yubg
 一时半会	yubh
-𦋢	yubi
+御币	yubi
 遇事不决	yubj
 语病	yubk
 一声不吭	yubk
-𩩘	yubl
+𦋢	yubl
 䍞	yubm
 貐	yubn
 睮	yubn
@@ -221545,13 +221555,13 @@ $cmd{**音游的重复练习到底改变了人体的什么？**\r\n  改变了�
 𩨙	yubn
 余波	yubo
 腴	yubo
-鱊	yubp
-𩱌	yubq
+𩩘	yubp
+鱊	yubq
 䏸	yubr
 𩩑	yubr
 𩨗	yubs
-𩱱	yubt
-𫚪	yubu
+𩱌	yubt
+𩱱	yubu
 掩饰不住	yubv
 貐	yubv
 睮	yubv
@@ -221559,8 +221569,8 @@ $cmd{**音游的重复练习到底改变了人体的什么？**\r\n  改变了�
 𦋢	yubv
 预备	yubw
 一声不响	yubx
-𱅫	yuby
-𱈂	yubz
+𫚪	yuby
+𱅫	yubz
 籅	yuca
 錥	yucb
 鍝	yucb
@@ -221595,9 +221605,9 @@ $cmd{**音游的重复练习到底改变了人体的什么？**\r\n  改变了�
 𦦫	yucu
 𦦲	yucv
 𨰸	yucw
-𱊭	yucx
+𥝍	yucx
 渔村	yucy
-毺	yucz
+𱊭	yucz
 榆	yud
 欝	yuda
 楀	yudb
@@ -221625,19 +221635,19 @@ $cmd{**音游的重复练习到底改变了人体的什么？**\r\n  改变了�
 榆	yudn
 楰	yudo
 櫲	yudo
-衘	yudp
+毺	yudp
 桙	yudq
 𩏴	yudq
 梧	yudr
 𬰸	yuds
-𢔢	yudt
+衘	yudt
 鱼肚	yudu
 楡	yudv
 野生动物	yudw
-𢔬	yudx
+𢔢	yudx
 愚钝	yudy
 棜	yudy
-𢖡	yudz
+𢔬	yudz
 浴	yue
 汩	yuea
 淯	yueb
@@ -221650,8 +221660,8 @@ $cmd{**音游的重复练习到底改变了人体的什么？**\r\n  改变了�
 漁	yuef
 一闪而过	yueg
 灪	yueh
-𤚎	yuei
-𦩞	yuej
+𢖡	yuei
+𤚎	yuej
 澳	yuek
 澞	yuek
 𣡉	yuek
@@ -221662,19 +221672,19 @@ $cmd{**音游的重复练习到底改变了人体的什么？**\r\n  改变了�
 渝	yuen
 滪	yueo
 㳛	yueo
-𧗪	yuep
-𱃞	yueq
+𦩞	yuep
+𧗪	yueq
 鱼儿	yuer
 污	yues
 汚	yues
 澚	yues
 盓	yuet
-𧑐	yueu
+𱃞	yueu
 渝	yuev
-𩈕	yuew
+𧑐	yuew
 由上而下	yuex
 淤	yuey
-𫓾	yuez
+𩈕	yuez
 燠	yuf
 语法	yufa
 愈发	yufa
@@ -221689,16 +221699,17 @@ $cmd{**音游的重复练习到底改变了人体的什么？**\r\n  改变了�
 预防	yufh
 有伤风化	yufh
 爩	yufh
-𰾙	yufi
-𩝗	yufj
+𫓾	yufi
+𰾙	yufj
 𥹔	yufk
-𩋤	yufl
+𩝗	yufl
 衣食父母	yufm
 𱉰	yufm
-𰬻	yufn
+𩋤	yufn
 玉佛	yufo
 𣢒	yufo
 𥸪	yufo
+𰬻	yufp
 誉	yufr
 煜	yuft
 预付	yufu

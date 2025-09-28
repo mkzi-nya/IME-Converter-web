@@ -27485,7 +27485,7 @@ github	gith
 捵	ifqc
 查分器	ifqi
 http://mhtlim.top/	ifqi
-https://mkzi-nya.github.io/milthm-calculator-web/	ifqi
+https://milcalc.netlify.app/	ifqi
 吃饭去了	ifql
 揨	ifqn
 臣妾	ifqp
@@ -34490,8 +34490,8 @@ msbt.seku.su	jmwv
 教室	jnui
 峧	jnuk
 教书	jnuu
-胶水	jnuv
 浇水	jnuv
+胶水	jnuv
 教授	jnuz
 缴	jnv
 娇	jnv
@@ -186680,6 +186680,7 @@ python	pyth
 𥃔	quht
 𩖷	quhu
 取回	quhv
+曲绘	quhv
 筁	quhw
 区划	quhx
 祛	qui

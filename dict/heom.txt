@@ -14456,6 +14456,7 @@ IP地址	ipdv
 脚上	jnuh
 教师	jnui
 教书	jnuu
+浇水	jnuv
 胶水	jnuv
 教授	jnuz
 狡诈	jnva
@@ -51905,7 +51906,6 @@ n-buna	nbna
 类人群星闪耀时	lrqu
 人类群星闪耀时	rlqu
 何意味	hyww
-浇水	jnuv
 阑尾炎	lwyj
 集美	jimw
 湖里	huli

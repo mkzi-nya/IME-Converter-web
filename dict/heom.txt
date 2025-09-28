@@ -14126,6 +14126,7 @@ IP地址	ipdv
 奖项	jlxl
 降雪	jlxt
 降序	jlxu
+降下	jlxx
 见猎心喜	jlxx
 降压	jlya
 江阴	jlyb
@@ -51933,7 +51934,11 @@ n-buna	nbna
 拽着	vkve
 好想	hcxl
 雨声	yuug
-
+这一刻	vyk
+静待	jkdd
+无言	wuyj
+向我	xlwo
+神社	ufue
 㕶	ngrm
 㕶	nnrm
 礼	limu

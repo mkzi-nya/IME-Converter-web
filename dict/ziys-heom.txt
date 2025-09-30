@@ -1572,7 +1572,7 @@ _	;b
 宲	bcjd
 𡧖	bcjd
 䴐	bcjf
-宝鸡	bcji
+暴击	bcji
 报警	bcjk
 褒奖	bcjl
 包浆	bcjl
@@ -32063,8 +32063,8 @@ php -S 127.0.0.1:8000	iphp
 𨣧	jimx
 磯	jimy
 计谋	jimz
-急	jin
 及	jin
+急	jin
 際	jin
 缉拿	jina
 隔	jinb
@@ -203226,8 +203226,9 @@ http://mhtlim.top/usage/usage.html	uomk
 𦭮	vitw
 咫尺天涯	vity
 指头	vitz
-知识	viu
-𠚅	viua
+峙	viu
+崻	viua
+𠚅	viub
 至少	viuc
 𡽆	viuc
 直射	viue
@@ -203237,8 +203238,9 @@ http://mhtlim.top/usage/usage.html	uomk
 之上	viuh
 智商	viuh
 豒	viuh
+知识	viui
 指示	viui
-峙	viui
+芝士	viui
 崻	viui
 𠚅	viui
 直率	viuk
@@ -211946,6 +211948,7 @@ http://mhtlim.top/usage/usage.html	uomk
 鹹	xmyr
 諴	xmyr
 先用	xmys
+弦乐	xmyt
 訮	xmyt
 咸鱼	xmyu
 㲔	xmyu
@@ -216844,6 +216847,7 @@ $cmd{**音游的重复练习到底改变了人体的什么？**\r\n  改变了�
 拽	yeqp
 𢪧	yeqq
 抴	yeqt
+夜曲	yequ
 䎨	yequ
 䎨	yeqv
 擖	yeqv

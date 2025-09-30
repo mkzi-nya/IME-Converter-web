@@ -660,7 +660,7 @@ _	;b
 报酬	bciz
 抱紧	bcjb
 不存芥蒂	bcjd
-宝鸡	bcji
+暴击	bcji
 报警	bcjk
 褒奖	bcjl
 保健	bcjm
@@ -39037,8 +39037,9 @@ IP地址	ipdv
 指导	vidc
 以下	yixx
 意志	yivi
-知识	viu
+知识	viui
 指示	viui
+芝士	viui
 二十	erui
 称为	igww
 消失	xnui
@@ -41848,8 +41849,8 @@ IP地址	ipdv
 角	jtnq
 觉	jnf
 觉	jtf
-急	jin
 及	jin
+急	jin
 简	jmh
 街	jph
 救	jqi
@@ -45923,7 +45924,7 @@ IP地址	ipdv
 踵	vsr
 烛	vuf
 樟	vhd
-峙	viui
+峙	viu
 桢	vfdo
 账	vhb
 杖	vhdk
@@ -51939,6 +51940,8 @@ n-buna	nbna
 无言	wuyj
 向我	xlwo
 神社	ufue
+弦乐	xmyt
+夜曲	yequ
 㕶	ngrm
 㕶	nnrm
 礼	limu
@@ -97277,7 +97280,8 @@ n-buna	nbna
 𤠎	jiky
 𬆦	jieb
 𣖿	vidn
-𠚅	viua
+崻	viua
+𠚅	viub
 軾	uijs
 𱛬	uiub
 耭	jiqh

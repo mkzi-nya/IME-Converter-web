@@ -51950,6 +51950,7 @@ n-buna	nbna
 神通	ufts
 神童	ufts
 褶皱	vevz
+奏鸣曲式	zmqu
 㕶	ngrm
 㕶	nnrm
 礼	limu

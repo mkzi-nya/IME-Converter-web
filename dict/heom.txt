@@ -1550,6 +1550,7 @@ _	;b
 不可兼得	bkjd
 并击	bkji
 并肩	bkjm
+病娇	bkjn
 冰窖	bkjn
 并就	bkjq
 病句	bkju
@@ -51951,6 +51952,10 @@ n-buna	nbna
 神童	ufts
 褶皱	vevz
 奏鸣曲式	zmqu
+支线	vixm
+傲娇	aojn
+扩写	koxp
+表情包	bqb
 㕶	ngrm
 㕶	nnrm
 礼	limu

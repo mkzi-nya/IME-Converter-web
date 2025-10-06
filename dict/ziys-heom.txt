@@ -39717,6 +39717,9 @@ msbt.seku.su	jmwv
 挎包	kxbc
 哭笑不得	kxbd
 髁	kxbd
+跨性别	kxbp
+⚧	kxbp
+🏳️‍⚧	kxbp㕶	ngrm
 䯞	kxbr
 骻	kxbs
 錁	kxcd
@@ -50717,7 +50720,6 @@ n-buna	nbna
 能工巧匠	ngqj
 那个人	ngr
 能人	ngrf
-㕶	ngrm
 𠹌	ngrp
 𨃳	ngrp
 𠮾	ngru

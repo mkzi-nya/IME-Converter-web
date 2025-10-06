@@ -51964,7 +51964,9 @@ n-buna	nbna
 小药娘	xynl
 药娘	ycnl
 🍥	ycnl
-㕶	ngrm
+跨性别	kxbp
+⚧	kxbp
+🏳️‍⚧	kxbp㕶	ngrm
 㕶	nnrm
 礼	limu
 𠮾	ngru

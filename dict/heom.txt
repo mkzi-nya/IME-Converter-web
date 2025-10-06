@@ -51966,7 +51966,8 @@ n-buna	nbna
 🍥	ycnl
 跨性别	kxbp
 ⚧	kxbp
-🏳️‍⚧	kxbp㕶	ngrm
+🏳️‍⚧️	kxbp
+㕶	ngrm
 㕶	nnrm
 礼	limu
 𠮾	ngru

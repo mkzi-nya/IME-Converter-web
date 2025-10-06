@@ -46734,7 +46734,7 @@ IP地址	ipdv
 靴	xttp
 削	xtf
 戌	xui
-鲟	xyn
+鲟	xyni
 胥	xun
 汐	xiei
 匣	xxsl
@@ -51961,6 +51961,9 @@ n-buna	nbna
 廉洁	lmjp
 法制	favi
 天帝	tmdi
+小药娘	xynl
+药娘	ycnl
+🍥	ycnl
 㕶	ngrm
 㕶	nnrm
 礼	limu

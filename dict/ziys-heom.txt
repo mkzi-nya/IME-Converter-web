@@ -1,23 +1,3 @@
-ゃ    zya
-ゅ    zyu
-ょ    zyo
-ぁ    za
-ぃ    zi
-ぅ    zu
-ぇ    ze
-ぉ    zo
-ゎ    zwa
-ャ    zya
-ュ    zyu
-ョ    zyo
-ァ    za
-ィ    zi
-ゥ    zu
-ェ    ze
-ォ    zo
-ヮ    zwa
-っ    ztsu
-ッ    ztsu
 ：	;
 ！	;a
 _	;b
@@ -229690,6 +229670,8 @@ $cmd{**音游的重复练习到底改变了人体的什么？**\r\n  改变了�
 咋	za
 ざ	za
 ザ	za
+ぁ	za
+ァ	za
 臜	zab
 𦠛	zaba
 臢	zabc
@@ -230167,6 +230149,8 @@ $cmd{**音游的重复练习到底改变了人体的什么？**\r\n  改变了�
 则	ze
 ぜ	ze
 ゼ	ze
+ぇ	ze
+ェ	ze
 昃	zea
 昗	zeac
 𢧠	zeai
@@ -230553,6 +230537,8 @@ $cmd{**音游的重复练习到底改变了人体的什么？**\r\n  改变了�
 藏族	zhzu
 字	zi
 紫	zi
+ぃ	zi
+ィ	zi
 自爱	ziai
 自傲	ziao
 眦	zib
@@ -231183,6 +231169,8 @@ $cmd{**音游的重复练习到底改变了人体的什么？**\r\n  改变了�
 坐	zo
 ぞ	zo
 ゾ	zo
+ぉ	zo
+ォ	zo
 昨	zoa
 做爱	zoai
 作案	zoan
@@ -231740,6 +231728,8 @@ $cmd{**音游的重复练习到底改变了人体的什么？**\r\n  改变了�
 总体来说	ztlu
 自投罗网	ztlw
 自讨没趣	ztmq
+っ	ztsu
+ッ	ztsu
 总体上	ztuh
 总体上讲	ztuj
 总体说来	ztul
@@ -231755,6 +231745,8 @@ $cmd{**音游的重复练习到底改变了人体的什么？**\r\n  改变了�
 づ	zu
 ズ	zu
 ヅ	zu
+ぅ	zu
+ゥ	zu
 阻碍	zuai
 座上宾	zubb
 作声不得	zubd
@@ -232153,6 +232145,8 @@ $cmd{**音游的重复练习到底改变了人体的什么？**\r\n  改变了�
 罪责	zvze
 贼	zw
 座位	zw
+ゎ	zwa
+ヮ	zwa
 自我安慰	zwaw
 贼	zwb
 坐卧不安	zwba
@@ -232223,6 +232217,8 @@ $cmd{**音游的重复练习到底改变了人体的什么？**\r\n  改变了�
 再下一城	zxyi
 仔细一看	zxyk
 怎样	zy
+ゃ	zya
+ャ	zya
 走一步看一步	zybb
 再也不会	zybh
 𥊭	zybi
@@ -232276,6 +232272,8 @@ $cmd{**音游的重复练习到底改变了人体的什么？**\r\n  改变了�
 鳟	zyn
 鱒	zyni
 𨱔	zyo
+ょ	zyo
+ョ	zyo
 僔	zyoi
 罇	zyoi
 撙	zyq
@@ -232299,6 +232297,8 @@ $cmd{**音游的重复练习到底改变了人体的什么？**\r\n  改变了�
 做一天和尚撞一天钟	zytv
 嶟	zyu
 左右手	zyu
+ゅ	zyu
+ュ	zyu
 吱一声	zyug
 尊师	zyui
 造谣生事	zyuu

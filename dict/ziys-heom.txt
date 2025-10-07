@@ -195641,6 +195641,7 @@ rime	rime
 司马	sima
 𩅰	simb
 禩	simc
+私密	simi
 㺨	simi
 𤣵	simi
 死命	simk

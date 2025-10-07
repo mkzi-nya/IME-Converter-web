@@ -51968,6 +51968,7 @@ n-buna	nbna
 跨性别	kxbp
 ⚧	kxbp
 🏳️‍⚧️	kxbp
+私密	simi
 㕶	ngrm
 㕶	nnrm
 礼	limu

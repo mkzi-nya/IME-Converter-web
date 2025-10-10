@@ -19408,6 +19408,7 @@ IP地址	ipdv
 免息	mmxi
 棉线	mmxm
 棉鞋	mmxp
+免修	mmxq
 面面相觑	mmxq
 棉絮	mmxu
 蒙蒙细雨	mmxy
@@ -51969,6 +51970,7 @@ n-buna	nbna
 ⚧	kxbp
 🏳️‍⚧️	kxbp
 私密	simi
+申请书	uquu
 㕶	ngrm
 㕶	nnrm
 礼	limu

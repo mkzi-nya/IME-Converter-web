@@ -21899,7 +21899,7 @@ IP地址	ipdv
 扑向	puxl
 谱写	puxp
 普选	puxr
-谱子	puzi
+谱子	puzi……
 铺子	puzi
 旁征博引	pvby
 皮之不存，毛将焉附	pvbf
@@ -51973,6 +51973,7 @@ n-buna	nbna
 🏳️‍⚧️	kxbp
 私密	simi
 申请书	uquu
+求根	qqgf
 㕶	ngrm
 㕶	nnrm
 礼	limu

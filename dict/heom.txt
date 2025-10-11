@@ -21899,6 +21899,7 @@ IP地址	ipdv
 扑向	puxl
 谱写	puxp
 普选	puxr
+谱子	puzi
 铺子	puzi
 旁征博引	pvby
 皮之不存，毛将焉附	pvbf
@@ -41826,6 +41827,7 @@ IP地址	ipdv
 九	jqk
 即	jia
 奖	jll
+届	jps
 届	jpsw
 健	jmoq
 竞	jkyu

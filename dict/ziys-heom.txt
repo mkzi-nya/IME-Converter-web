@@ -35005,6 +35005,7 @@ msbt.seku.su	jmwv
 𡵒	jpru
 家破人亡	jprw
 家贫如洗	jprx
+届	jps
 劫色	jpse
 屆	jpsg
 卪	jpsi
@@ -188460,6 +188461,7 @@ git add . && git commit -m "meow" && git push origin main	push
 𤰑	puyn
 𧭎	puyo
 𩑀	puyo
+谱子	puzi
 铺子	puzi
 ⺙	puzk
 配置	pv

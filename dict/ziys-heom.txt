@@ -49876,6 +49876,7 @@ milthm	milt
 每天	mwtm
 𪉏	mwtm
 每条	mwtn
+美瞳	mwts
 美图	mwtu
 葿	mwtu
 𩋿	mwtu
@@ -200520,8 +200521,8 @@ sh /storage/emulated/0/.ck/mkzi/heom/code/11.sh	tijn
 通	ts
 曈	tsag
 晍	tsar
-彤	tsb
 瞳	tsb
+彤	tsb
 𩩅	tsba
 通报	tsbc
 同胞	tsbc

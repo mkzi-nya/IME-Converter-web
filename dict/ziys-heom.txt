@@ -39253,8 +39253,8 @@ msbt.seku.su	jmwv
 看图识字	ktuz
 空头支票	ktvp
 口头语	ktyu
-哭	ku
 酷	ku
+哭	ku
 く	ku
 ク	ku
 酷爱	kuai

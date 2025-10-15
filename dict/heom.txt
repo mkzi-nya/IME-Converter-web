@@ -42443,8 +42443,8 @@ IP地址	ipdv
 狂	klk
 哭	kur
 渴	kee
-哭	ku
 酷	ku
+哭	ku
 喀	karr
 壳	keg
 烤	kcf

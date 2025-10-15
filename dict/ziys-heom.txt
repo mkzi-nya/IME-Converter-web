@@ -1,3 +1,4 @@
+五声调式
 ：	;
 ！	;a
 _	;b
@@ -8192,6 +8193,7 @@ Ciallo～(∠・ω< )⌒☆	cial
 大葱	dacs
 大大	dada
 大道	dadc
+答道	dadc
 搭档	dadh
 大地	dadi
 打底	dadi
@@ -8410,6 +8412,7 @@ Ciallo～(∠・ω< )⌒☆	cial
 答题	dati
 打探	datj
 打听	datk
+大厅	datk
 靼	datm
 𦬹	datm
 剳	datn
@@ -11183,6 +11186,7 @@ deepseek	deep
 𩋙	dntr
 掉头	dntz
 雕饰	dnui
+调式	dnui
 掉渣	dnva
 吊着	dnve
 吊针	dnvf
@@ -29016,6 +29020,7 @@ https://milcalc.netlify.app/	ifqi
 𪓄	ijwi
 产物	ijwu
 产销	ijxn
+谄笑	ijxn
 颤	ijy
 䜛	ijya
 颤音	ijyb
@@ -32674,6 +32679,7 @@ php -S 127.0.0.1:8000	iphp
 久经沙场	jjui
 旧金山	jjuj
 节节胜利	jjul
+借景抒情	jjuq
 结结实实	jjuu
 句句属实	jjuu
 狙击手	jjuz
@@ -33287,6 +33293,7 @@ php -S 127.0.0.1:8000	iphp
 江中	jlvs
 䋌	jlvs
 㢡	jlvt
+僵住	jlvu
 嗟来之食	jlvu
 既来之，则安之	jlvv
 醬	jlvw
@@ -35394,7 +35401,8 @@ msbt.seku.su	jmwv
 就手	jquz
 纠	jqv
 糾	jqv
-𫄙	jqva
+乣	jqva
+𫄙	jqvb
 旧宅	jqvd
 九折	jqve
 就诊	jqvf
@@ -35415,6 +35423,7 @@ msbt.seku.su	jmwv
 酒盅	jqvs
 𠠳	jqvs
 救助	jqvu
+揪住	jqvu
 糺	jqvu
 乣	jqvu
 𫄙	jqvu
@@ -189413,12 +189422,13 @@ python	pyth
 𢺷	qije
 鶈	qijf
 𪄖	qijf
-𣯆	qijg
-𧡺	qijh
+𡫁	qijg
+𣯆	qijh
 奇迹	qiji
 契机	qiji
 蟿	qiji
-𢺷	qijj
+𧡺	qijj
+𢺷	qijk
 𨙸	qijl
 郪	qijl
 𨞢	qijl
@@ -189435,6 +189445,7 @@ python	pyth
 𠀁	qijs
 气绝	qijt
 器具	qiju
+齐聚	qiju
 罊	qiju
 𡫁	qiju
 𣯆	qiju
@@ -195585,6 +195596,7 @@ rime	rime
 丝滑	sihx
 厮混	sihy
 死后	sihz
+嘶吼	sihz
 祀	sii
 𪊍	siia
 思潮	siic
@@ -195609,6 +195621,7 @@ rime	rime
 丝绸	siiz
 漦	sij
 司机	siji
+死寂	siji
 䡳	sijl
 死角	sijn
 死结	sijp
@@ -201960,6 +201973,7 @@ sh /storage/emulated/0/.ck/mkzi/heom/code/11.sh	tijn
 萐	uato
 沙土	uatu
 杀头	uatz
+霎时	uau
 傻傻	uaua
 杀生	uaug
 杀伤	uauh
@@ -222831,6 +222845,7 @@ $cmd{**音游的重复练习到底改变了人体的什么？**\r\n  改变了�
 幼儿园	yeyr
 也用	yeys
 业余	yeyu
+揶揄	yeyu
 謁	yeyv
 言而有信	yeyx
 也有	yeyz

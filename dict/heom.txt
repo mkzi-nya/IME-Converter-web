@@ -14116,6 +14116,7 @@ IP地址	ipdv
 江中	jlvs
 奖章	jlvh
 奖状	jlvl
+僵住	jlvu
 嗟来之食	jlvu
 既来之，则安之	jlvv
 捡了芝麻，丢了西瓜	jlvg
@@ -51977,6 +51978,18 @@ n-buna	nbna
 彳亍	iiiu
 哦嗨哟	ohyo
 おはよう	ohyo
+谄笑	ijxn
+揪住	jqvu
+齐聚	qiju
+霎时	uau
+揶揄	yeyu
+大厅	datk
+死寂	siji
+答道	dadc
+嘶吼	sihz
+借景抒情	jjuq
+五声调式
+调式	dnui
 㕶	ngrm
 㕶	nnrm
 礼	limu
@@ -96392,7 +96405,8 @@ n-buna	nbna
 𪙏	jpyd
 𫜯	jpyf
 𫃗	jqfa
-𫄙	jqva
+乣	jqva
+𫄙	jqvb
 𨖏	jqya
 鴡	juba
 鶪	jubh
@@ -96574,8 +96588,9 @@ n-buna	nbna
 啔	qiio
 𡹘	qiiq
 𥤥	qijd
-𣯆	qijg
-𧡺	qijh
+𡫁	qijg
+𣯆	qijh
+𧡺	qijj
 蚚	qilh
 𧌞	qilj
 𢁒	qilm
@@ -98784,7 +98799,7 @@ n-buna	nbna
 𩲪	qifs
 𡹘	qiuh
 𥫟	qium
-𢺷	qijj
+𢺷	qijk
 𤺗	qika
 𬨂	qikb
 𧕉	qilz

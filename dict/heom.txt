@@ -51996,6 +51996,8 @@ n-buna	nbna
 自习	zixi
 异体	yiti
 异体字	ytz
+什么意思	smys
+有什么用	smy
 㕶	ngrm
 㕶	nnrm
 礼	limu

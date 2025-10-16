@@ -48778,7 +48778,7 @@ GDP	gdp
 岘	xmu
 蚬	xml
 娴	xmvd
-骁	xnn
+骁	xnnu
 蟹	xpn
 谐	xpi
 谑	xti

@@ -13647,6 +13647,7 @@ IP地址	ipdv
 记挂	jigx
 机构	jigz
 集合	jihe
+几何	jihe
 嫉恨	jihf
 饥荒	jihl
 激活	jiho
@@ -51758,7 +51759,6 @@ $	ofhb
 微积分	wjff
 曲率	qulv
 消元	xnyr
-几何	jihe
 数论	uuly
 方程组	fiz
 不就得了	bjdl

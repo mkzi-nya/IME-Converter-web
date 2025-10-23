@@ -48146,6 +48146,7 @@ milthm	milt
 䡬	mjje
 𥧭	mjje
 𪍩	mjje
+满级	mjji
 满街	mjjp
 摩肩接踵	mjjv
 獌	mjke
@@ -210673,6 +210674,7 @@ http://mhtlim.top/usage/usage.html	uomk
 中央	vsyh
 中医	vsyi
 忠言	vsyj
+终焉	vsyj
 中英	vsyk
 𧆼	vsym
 螤	vsyo

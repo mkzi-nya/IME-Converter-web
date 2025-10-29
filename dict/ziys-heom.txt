@@ -44186,6 +44186,7 @@ msbt.seku.su	jmwv
 姴	lpmv
 𧞕	lpmv
 𩨐	lpna
+列宁	lpnk
 烈女	lpnv
 𫚭	lpnv
 鱲	lpnv
@@ -48394,6 +48395,7 @@ milthm	milt
 名人	mkrf
 鳴	mkrf
 明日	mkri
+马克思	mks
 𡥸	mksd
 茗	mkt
 萌	mktb
@@ -212878,10 +212880,11 @@ wiki	wiki
 完毕	wjbi
 𤧩	wjbi
 晚班	wjbj
-脕	wjbk
-貦	wjbl
-𧲦	wjbm
-𰷡	wjbn
+维基百科	wjbk
+脕	wjbl
+貦	wjbm
+𧲦	wjbn
+𰷡	wjbo
 瞣	wjbp
 贃	wjbp
 𧹗	wjbp

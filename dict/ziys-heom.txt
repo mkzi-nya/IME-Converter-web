@@ -212840,6 +212840,7 @@ http://mhtlim.top/usage/usage.html	uomk
 无处藏身	wicu
 胃肠道	wid
 无产阶级	wijj
+wiki	wiki
 无处可去	wikq
 无重码	wima
 望尘莫及	wimj
@@ -214431,6 +214432,7 @@ http://mhtlim.top/usage/usage.html	uomk
 𥧙	wwjd
 寪	wwjf
 危机	wwji
+维基	wwji
 文文静静	wwjj
 未经	wwjk
 𨚘	wwjl

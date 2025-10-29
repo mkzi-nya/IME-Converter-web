@@ -52009,6 +52009,7 @@ wiki	wiki
 维基百科	wjbk
 马克思	mks
 列宁	lpnk
+劲爆	jbbc
 㕶	ngrm
 㕶	nnrm
 礼	limu

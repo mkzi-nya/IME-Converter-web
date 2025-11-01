@@ -197810,6 +197810,7 @@ rime	rime
 嫍	tcvx
 縚	tcvx
 𬘺	tcvx
+套娃	tcwa
 逃亡	tcwh
 掏心	tcxb
 淘洗	tcxi
@@ -224093,6 +224094,7 @@ $cmd{**音游的重复练习到底改变了人体的什么？**\r\n  改变了�
 𨠑	yimx
 𩈭	yimy
 𠪗	yimz
+乙	yin
 一刹那	yina
 鮨	yina
 𮬜	yina
@@ -224139,7 +224141,6 @@ $cmd{**音游的重复练习到底改变了人体的什么？**\r\n  改变了�
 彞	yint
 𥃠	yint
 𮩞	yint
-乙	yinu
 𨹝	yinu
 义女	yinv
 䧇	yinv

@@ -43315,6 +43315,7 @@ IP地址	ipdv
 苗	mnt
 貌	mcb
 慢	mj
+曼	mja
 曼	mjae
 妈	mav
 默	mowk
@@ -51997,7 +51998,7 @@ n-buna	nbna
 异体	yiti
 异体字	ytz
 什么意思	smys
-有什么用	smy
+有什么用	ysmy
 🐟	yun
 终焉	vsyj
 满级	mjji
@@ -52012,6 +52013,12 @@ wiki	wiki
 劲爆	jbbc
 套娃	tcwa
 琳琅满目	llmm
+摸鱼	moyu
+狙击	juji
+主题曲	vtq
+赤子	iizi
+民族自豪	mbzh
+欸嘿	eihw
 㕶	ngrm
 㕶	nnrm
 礼	limu

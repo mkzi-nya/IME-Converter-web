@@ -8071,6 +8071,7 @@ Ciallo～(∠・ω< )⌒☆	cial
 蹲	cyri
 吋	cyri
 存入	cyru
+cytus	cytu
 村舍	cyue
 存身	cyuf
 此一时，彼一时	cyuu
@@ -186843,6 +186844,7 @@ $	otm
 篣	phhs
 胖乎乎	phhu
 庞	phi
+phigros	phig
 尨	phih
 庬	phih
 龐	phip
@@ -193303,6 +193305,7 @@ $cmd{你是怎么加入此群的？\r\n□ 朋友推荐\r\n□ 从网上获知\r
 れ	re
 レ	re
 热爱	reai
+reality	real
 𤑄	rebf
 热播	rebo
 热带	redd

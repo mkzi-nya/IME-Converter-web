@@ -17728,7 +17728,7 @@ GDP	gdp
 臵	gemr
 𤩲	gemv
 隔	gen
-彁	gena
+呄	gena
 𩹺	genb
 觡	genc
 鮯	gend
@@ -17736,10 +17736,10 @@ GDP	gdp
 𫚗	genf
 过而能改	geng
 𨼣	genj
+彁	genr
 饹	genr
 䧄	genr
 呄	genr
-彁	genr
 觡	genr
 鮯	genr
 𩹿	genr

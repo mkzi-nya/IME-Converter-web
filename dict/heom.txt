@@ -22259,6 +22259,7 @@ IP地址	ipdv
 气候	qihz
 沏茶	qiia
 倾巢出动	qiid
+骑车	qiie
 汽车	qiie
 启程	qiig
 气场	qiih
@@ -52022,7 +52023,6 @@ wiki	wiki
 欸嘿	eihw
 即视感	jugj
 初心	iuxb
-骑车	qiie
 㕶	ngrm
 㕶	nnrm
 礼	limu

@@ -189392,8 +189392,8 @@ python	pyth
 𰵲	qiic
 倾巢出动	qiid
 棨	qiid
-汽车	qiie
 骑车	qiie
+汽车	qiie
 戚	qiif
 綮	qiif
 䋯	qiif

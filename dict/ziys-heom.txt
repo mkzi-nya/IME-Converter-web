@@ -191859,6 +191859,7 @@ python	pyth
 逑	qqy
 蚯蚓	qqyb
 ॣ	qqyc
+秋叶	qqye
 𧇸	qqyf
 訅	qqyn
 𨕦	qqyn
@@ -201011,6 +201012,7 @@ sh /storage/emulated/0/.ck/mkzi/heom/code/11.sh	tijn
 宊	tujk
 𥥛	tujk
 土建	tujm
+图鉴	tujm
 𱊖	tujm
 𠞀	tujn
 𠟶	tujn
@@ -213796,6 +213798,7 @@ wiki	wiki
 物件	wujm
 午觉	wujn
 误解	wujp
+五阶	wujp
 寤	wujr
 窹	wujr
 舞剧	wuju

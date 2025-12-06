@@ -11734,6 +11734,7 @@ deepseek	deep
 大气磅礴	dqpb
 大权旁落	dqpl
 单枪匹马	dqpm
+荡秋千	dqq
 丢弃	dqqi
 丢钱	dqqm
 的确如此	dqrc
@@ -52281,6 +52282,7 @@ n-buna	nbna
 能征惯战	nvgv
 衄	nvh
 䘐	nvhc
+女孩	nvhd
 䶊	nvhg
 衂	nvhh
 衂	nvhi

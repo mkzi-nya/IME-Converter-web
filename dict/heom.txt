@@ -2372,7 +2372,7 @@ _	;b
 不慎	buuf
 不胜	buug
 补上	buuh
-不是	buui
+不适	buui
 不爽	buul
 不说	buuo
 部署	buuu
@@ -46246,7 +46246,6 @@ IP地址	ipdv
 无	wu
 五	wu
 武	wum
-完	wj
 王	wh
 望	why
 闻	wfl
@@ -50420,6 +50419,7 @@ GDP	gdp
 文	wf
 忘	wh
 玩	wj
+完	wj
 未	ww
 性	x
 心	xb
@@ -52030,6 +52030,8 @@ wiki	wiki
 女孩	nvhd
 荡秋千	dqq
 聊天记录	ltjl
+生理不适	ulbu
+坏掉	hkdn
 㕶	ngrm
 㕶	nnrm
 礼	limu

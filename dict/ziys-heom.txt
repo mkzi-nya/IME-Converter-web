@@ -5414,7 +5414,7 @@ _	;b
 不慎	buuf
 不胜	buug
 补上	buuh
-不是	buui
+不适	buui
 布衫	buuj
 不失时机	buuj
 不爽	buul
@@ -23111,6 +23111,7 @@ github	gith
 槐	hkd
 会哭的孩子有奶吃	hkdi
 坏蛋	hkdj
+坏掉	hkdn
 櫰	hkdv
 淮	hke
 𣸎	hkee
@@ -204709,6 +204710,7 @@ sh /storage/emulated/0/.ck/mkzi/heom/code/11.sh	tijn
 双边	ulbm
 生老病死	ulbs
 十里不同俗	ulbs
+生理不适	ulbu
 双倍	ulbw
 上梁不正下梁歪	ulbw
 十里八乡	ulbx
@@ -212877,8 +212879,8 @@ wiki	wiki
 无耻之尤	wivy
 问长问短	wiwd
 维持原判	wiyp
-完	wj
 玩	wj
+完	wj
 晚	wja
 関	wjak
 鄤	wjal

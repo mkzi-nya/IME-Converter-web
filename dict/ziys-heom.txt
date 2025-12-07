@@ -45011,6 +45011,7 @@ msbt.seku.su	jmwv
 狼吞虎咽	lthy
 略称	ltig
 落汤鸡	ltji
+聊天记录	ltjl
 𧑀	ltld
 𧎾	ltlf
 愣头愣脑	ltln

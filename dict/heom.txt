@@ -40,7 +40,6 @@ _	;b
 簌簌	susu
 深厚	ufhz
 身后	ufhz
-升起	ugqi
 会响	hvxl
 样貌	yhmc
 通灵	tslk
@@ -27780,6 +27779,7 @@ IP地址	ipdv
 生平	ugpk
 生擒	ugqb
 生气	ugqi
+升起	ugqi
 盛情	ugqk
 省钱	ugqm
 省去	ugqu
@@ -52032,6 +52032,9 @@ wiki	wiki
 聊天记录	ltjl
 生理不适	ulbu
 坏掉	hkdn
+升旗	ugqi
+乐理	ytli
+基友	jiyz
 㕶	ngrm
 㕶	nnrm
 礼	limu

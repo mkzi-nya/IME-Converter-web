@@ -52035,6 +52035,7 @@ wiki	wiki
 升旗	ugqi
 乐理	ytli
 基友	jiyz
+嗷呜	aowu
 㕶	ngrm
 㕶	nnrm
 礼	limu

@@ -53313,9 +53313,9 @@ $	ofhb
 😍	oihi
 😋	oihi
 😓	oihj
+🟨	oihl
 🥱	oihq
 🟥	oihs
-🟨	oihs
 🐵	oiht
 🐡	oiht
 🐯	oiht

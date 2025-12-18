@@ -50440,7 +50440,7 @@ GDP	gdp
 ‌睩	luou
 🟥	oihs
 🟧	oiig
-🟨	oihl?
+🟨	oihl
 🟩	oilv
 🟦	oilj
 🟪	oizi

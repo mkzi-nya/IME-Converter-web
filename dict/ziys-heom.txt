@@ -1,3 +1,4 @@
+
 ：	;
 ！	;a
 _	;b
@@ -24541,6 +24542,7 @@ github	gith
 红轴	hsvz
 𱖀	hswa
 红外	hswd
+红温	hswf
 𡇳	hswl
 宏伟	hsww
 红心	hsxb
@@ -32550,6 +32552,7 @@ php -S 127.0.0.1:8000	iphp
 鸡胸	jixs
 积雪	jixt
 继续	jixu
+记叙	jixu
 记下	jixx
 集训	jixy
 迹	jiy
@@ -37209,6 +37212,7 @@ msbt.seku.su	jmwv
 加重	jxvs
 假戏真做	jxvz
 甲	jxw
+记叙文	jxw
 吉凶未卜	jxwb
 加温	jxwf
 𩲣	jxwi
@@ -53272,6 +53276,7 @@ $	ofhb
 🤫	oiaj
 😌	oiax
 🤗	oibb
+⬛	oibd
 ☹	oibm
 🙏	oibt
 🤭	oibu
@@ -53303,19 +53308,24 @@ $	ofhb
 ✅	oigz
 😀	oiha
 🦋	oihd
+🟫	oihe
 🙂	oihh
 😍	oihi
 😋	oihi
 😓	oihj
 🥱	oihq
+🟥	oihs
+🟨	oihs
 🐵	oiht
 🐡	oiht
 🐯	oiht
 🐬	oiht
 🐅	oihu
+⬜ 	oihw
 🌸	oihx
 🍵	oiia
 ❎	oiia
+🟧	oiig
 ✖️	oiig
 🐛	oiii
 😯	oiij
@@ -53343,6 +53353,7 @@ $	ofhb
 😪	oiky
 😓	oilh
 😰	oilh
+🟦	oilj
 💔	oilk
 😐	oilm
 🐲	oils
@@ -53350,6 +53361,7 @@ $	ofhb
 🐺	oilt
 🐫	oilt
 🐁	oilu
+🟩	oilv
 🐎	oima
 🐈	oimc
 🐝	oimf
@@ -53428,6 +53440,7 @@ $	ofhb
 😟	oiyu
 🐟	oiyu
 😵	oiyy
+🟪	oizi
 日	oka
 曰	oka
 昌	okaa
@@ -201149,6 +201162,7 @@ sh /storage/emulated/0/.ck/mkzi/heom/code/11.sh	tijn
 图章	tuvh
 图纸	tuvi
 途中	tuvs
+图中	tuvs
 土著	tuvu
 他山之石	tuvu
 圖	tuw
@@ -206237,6 +206251,7 @@ http://mhtlim.top/usage/usage.html	uomk
 膄	uzbe
 数罪并罚	uzbf
 手臂	uzbi
+手办	uzbj
 𥅪	uzbk
 手表	uzbn
 首播	uzbo
@@ -226286,6 +226301,7 @@ $cmd{**音游的重复练习到底改变了人体的什么？**\r\n  改变了�
 一鸣惊人	ymjr
 颜面尽失	ymju
 眼冒金星	ymjx
+意满离	yml
 愚昧落后	ymlh
 圆满落幕	ymlm
 一目了然	ymlr
@@ -227034,6 +227050,8 @@ $cmd{**音游的重复练习到底改变了人体的什么？**\r\n  改变了�
 以色列	yslp
 庸碌	yslu
 𧙇	yslu
+有什么	ysm
+有什么差别	ysmb
 硧	ysmb
 𥑿	ysmb
 勇猛	ysmg

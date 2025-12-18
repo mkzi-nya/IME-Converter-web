@@ -50438,6 +50438,15 @@ GDP	gdp
 㗎	gard
 〇	lkrr
 ‌睩	luou
+🟥	oihs
+🟧	oiig
+🟨	oihs
+🟩	oilv
+🟦	oilj
+🟪	oizi
+🟫	oihe
+⬛	oibd
+⬜ 	oihw
 😊	oi
 😊	oiwx
 🚶🐎👀🌸	oigh
@@ -52044,6 +52053,15 @@ wiki	wiki
 睡前故事	uqgu
 原神	yruf
 米哈游	mhyz
+红温	hswf
+手办	uzbj
+图中	tuvs
+记叙	jixu
+记叙文	jxw
+意满离	yml
+有什么	ysm
+有什么差别	ysmb
+
 㕶	ngrm
 㕶	nnrm
 礼	limu

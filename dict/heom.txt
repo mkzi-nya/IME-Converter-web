@@ -50440,13 +50440,13 @@ GDP	gdp
 ‌睩	luou
 🟥	oihs
 🟧	oiig
-🟨	oihl
+🟨	oihl?
 🟩	oilv
 🟦	oilj
 🟪	oizi
 🟫	oihe
-⬛	oibd
-⬜ 	oihw
+⬛	oihw
+⬜ 	oibd
 😊	oi
 😊	oiwx
 🚶🐎👀🌸	oigh

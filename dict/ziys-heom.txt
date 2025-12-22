@@ -32675,6 +32675,7 @@ php -S 127.0.0.1:8000	iphp
 简洁明了	jjml
 急急忙忙	jjmm
 近几年	jjnm
+酱酱酿酿	jjnn
 绞尽脑汁	jjnv
 经久耐用	jjny
 节节攀升	jjpu

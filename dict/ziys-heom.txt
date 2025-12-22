@@ -1,4 +1,3 @@
-
 ：	;
 ！	;a
 _	;b
@@ -192381,6 +192380,7 @@ python	pyth
 缺口	qtkz
 阙	qtl
 𮸧	qtlb
+瘸了	qtle
 确立	qtli
 阕	qtlk
 𧎯	qtlk
@@ -195362,6 +195362,7 @@ rime	rime
 𠽼	serm
 色弱	sero
 瑟瑟	sese
+涩涩	sese
 𦐅	sese
 歰	sesm
 瑟缩	seso
@@ -196105,6 +196106,7 @@ rime	rime
 撒拉族	slzu
 什么	sm
 四面八方	smbf
+什么东西	smdx
 死马当活马医	smdy
 四面楚歌	smig
 四目交投	smjt
@@ -210428,6 +210430,7 @@ http://mhtlim.top/usage/usage.html	uomk
 专修	vrxq
 转学	vrxt
 专研	vry
+𫁟	vrya
 諯	vryb
 砖窑	vryc
 譔	vryc
@@ -210435,6 +210438,7 @@ http://mhtlim.top/usage/usage.html	uomk
 𣕏	vryd
 专业	vrye
 转移	vryi
+专一	vryi
 竱	vryi
 𫁟	vryi
 转眼	vryj
@@ -212840,6 +212844,7 @@ http://mhtlim.top/usage/usage.html	uomk
 乌合之众	whvv
 網	whvv
 往外	whwd
+网文	whwf
 往往	whwh
 罒	whwl
 忘我	whwo

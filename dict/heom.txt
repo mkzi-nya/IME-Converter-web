@@ -41065,7 +41065,6 @@ IP地址	ipdv
 恒	hgp
 唤	hrr
 酣	hjm
-函	hjm
 函	hju
 惑	hoi
 轰	hsk
@@ -41124,7 +41123,7 @@ IP地址	ipdv
 桦	hxd
 谎	hli
 惶	hlpg
-憨	hjm
+憨	hjmp
 憨	hjn
 弧	hun
 皓	hch
@@ -52080,6 +52079,10 @@ wiki	wiki
 介词	jpci
 树桩	uuvl
 难绷	njbg
+撸猫	lumc
+哈气	haqi
+哈基米	hjm
+哈基米南北绿豆	hjm
 㕶	ngrm
 㕶	nnrm
 礼	limu
@@ -98762,7 +98765,7 @@ wiki	wiki
 𰩲	luhl
 𥀔	luib
 𥛞	lumb
-𩅄	lumc
+𩅄	lumd
 𤿴	lunb
 𫘧	lunf
 𮬠	lunh

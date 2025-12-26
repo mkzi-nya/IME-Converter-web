@@ -29007,6 +29007,7 @@ IP地址	ipdv
 水渠	uvqu
 生殖器官	uvqg
 舌战群儒	uvqr
+睡裙	uvqy
 水至清则无鱼	uvqy
 始终如一	uvry
 收之桑榆	uvsy
@@ -52142,6 +52143,18 @@ wiki	wiki
 渐变	jmbm
 渐变色	jbs
 开档	kddh
+假阳具	jyj
+脚铐	jnkc
+喷剂	pfji
+漆皮	qipi
+紧身	jbuf
+紧身衣	juyi
+医用	yiys
+指环	vihr
+耳屎	erui
+耳饰	erui
+扇子	ujzi
+贝雷帽	blm
 㕶	ngrm
 㕶	nnrm
 礼	limu
@@ -96544,8 +96557,8 @@ wiki	wiki
 𰕈	jnkb
 𰩸	jnla
 臫	jnud
-𤉧	jnkc
-𤶀	jnkf
+𤉧	jnkf
+𤶀	jnkg
 𩵰	jnnc
 𪚰	jnne
 𱍆	jnng

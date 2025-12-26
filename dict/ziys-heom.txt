@@ -3815,6 +3815,7 @@ _	;b
 不聊了	blle
 筚路蓝缕	blll
 不了了之	bllv
+贝雷帽	blm
 爆冷门	blmf
 菠萝蜜	blmi
 本来面目	blmm
@@ -13926,6 +13927,8 @@ vivo手机断触解决方式https://www.taptap.cn/moment/654325286527043497	driu
 荋	ertl
 儿童	erts
 二十	erui
+耳屎	erui
+耳饰	erui
 峏	erul
 耳熟	eruu
 二手	eruz
@@ -31175,6 +31178,7 @@ php -S 127.0.0.1:8000	iphp
 嶜	jbua
 𡺽	jbua
 谨慎	jbuf
+紧身	jbuf
 晋升	jbug
 仅剩	jbug
 脊背生寒	jbuh
@@ -34329,11 +34333,12 @@ msbt.seku.su	jmwv
 敎	jnk
 𪖄	jnka
 𰕈	jnkb
-𤉧	jnkc
+脚铐	jnkc
 𡥈	jnkd
 教科	jnke
 𤕝	jnke
-𤶀	jnkf
+𤉧	jnkf
+𤶀	jnkg
 𫐖	jnkh
 校勘	jnkj
 较快	jnkk
@@ -36789,6 +36794,7 @@ msbt.seku.su	jmwv
 詎	juyf
 江山易改	juyg
 建设银行	juyh
+紧身衣	juyi
 齟	juym
 劇	juyn
 豦	juyo
@@ -37386,6 +37392,7 @@ msbt.seku.su	jmwv
 集腋成裘	jyiq
 麏	jyir
 𥜮	jyir
+假阳具	jyj
 𮱠	jyjb
 𪍁	jyjd
 殾	jyje
@@ -186658,6 +186665,7 @@ $	otm
 贫富差距	pfij
 喷出	pfiu
 破釜沉舟	pfiv
+喷剂	pfji
 盆景	pfjk
 喷溅	pfjm
 翸	pfjm
@@ -189766,6 +189774,7 @@ python	pyth
 𢺵	qipe
 慽	qipf
 切	qiph
+漆皮	qipi
 期盼	qipj
 𢜱	qipj
 齐平	qipk
@@ -204718,6 +204727,7 @@ sh /storage/emulated/0/.ck/mkzi/heom/code/11.sh	tijn
 善于	ujyu
 訕	ujyu
 擅自	ujzi
+扇子	ujzi
 山贼	ujzw
 帅	uk
 甩	ukb
@@ -205971,6 +205981,7 @@ http://mhtlim.top/usage/usage.html	uomk
 水渠	uvqu
 挩	uvqu
 水群	uvqy
+睡裙	uvqy
 水至清则无鱼	uvqy
 𠻜	uvrj
 逝者如斯	uvrs
@@ -208734,6 +208745,7 @@ http://mhtlim.top/usage/usage.html	uomk
 䆈	vihq
 𤛱	vihq
 置换	vihr
+指环	vihr
 𥝑	vihs
 筫	viht
 知乎	vihu
@@ -224852,6 +224864,7 @@ $cmd{**音游的重复练习到底改变了人体的什么？**\r\n  改变了�
 齮	yiyr
 𠶷	yiyr
 易用	yiys
+医用	yiys
 䚷	yiys
 弈	yiyt
 詍	yiyt

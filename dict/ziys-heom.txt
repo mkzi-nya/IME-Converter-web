@@ -434,9 +434,11 @@ _	;b
 按理说	aluo
 暧昧	am
 阿猫阿狗	amag
+按摩棒	amb
 哀莫大于心死	amds
 鞍马劳顿	amld
 爱莫能助	amnv
+按摩器	amq
 爱美之心	amvx
 奥妙无穷	amwq
 安眠药	amyc
@@ -3711,6 +3713,7 @@ _	;b
 𩊖	bktt
 病退	bktv
 不可同日而语	bkty
+不愧是	bku
 𡹾	bkub
 冰上	bkuh
 病逝	bkui
@@ -7945,6 +7948,7 @@ Ciallo～(∠・ω< )⌒☆	cial
 忰	cvpj
 摧	cvq
 𢶓	cvqj
+催情	cvqk
 萃取	cvqu
 啐	cvr
 𨅎	cvre
@@ -10820,6 +10824,7 @@ deepseek	deep
 顛	dmjc
 𥦟	dmjc
 点击	dmji
+电击	dmji
 㝪	dmji
 电竞	dmjk
 㝪	dmjk
@@ -15096,6 +15101,7 @@ vivo手机断触解决方式https://www.taptap.cn/moment/654325286527043497	driu
 放债	fhvd
 放着	fhve
 方针	fhvf
+彷真	fhvf
 鶭	fhvf
 方正	fhvg
 方丈	fhvh
@@ -15221,6 +15227,7 @@ vivo手机断触解决方式https://www.taptap.cn/moment/654325286527043497	driu
 鄤	fjal
 翻案	fjan
 贩	fjb
+飞机杯	fjb
 販	fjbe
 𦜒	fjbe
 𩨩	fjbe
@@ -18254,6 +18261,7 @@ cd /storage/emulated/0/.ck/mkzi/heom/code/ && git pull origin main	ggxb
 隔行如隔山	ghru
 𠵹	ghru
 蛊惑人心	ghrx
+肛塞	ghsd
 钢丝	ghsi
 港台	ghtd
 岗亭	ghtk
@@ -21096,6 +21104,7 @@ github	gith
 𤖮	gzli
 够懒	gzlj
 狗粮	gzll
+狗链	gzlm
 蚼	gzlr
 袧	gzlr
 狗嘴里吐不出象牙	gzly
@@ -24085,6 +24094,7 @@ github	gith
 欢乐	hrle
 还礼	hrli
 环流	hrlq
+幻龙	hrls
 环路	hrlu
 𧚁	hrlu
 阛	hrlv
@@ -26521,6 +26531,7 @@ github	gith
 𦑚	hzsk
 后腿	hzt
 后台	hztd
+后庭	hztk
 葔	hztk
 后天	hztm
 茩	hztr
@@ -30571,6 +30582,7 @@ php -S 127.0.0.1:8000	iphp
 春夏	iyxx
 鹑	iyy
 𧇶	iyya
+𣮢	iyyb
 春药	iyyc
 㝇	iyyd
 鶉	iyyf
@@ -30578,6 +30590,7 @@ php -S 127.0.0.1:8000	iphp
 抽油烟机	iyyj
 𦎧	iyyj
 春雨	iyyu
+纯欲	iyyu
 㝄	iyyu
 𣮢	iyyu
 春运	iyyy
@@ -32818,6 +32831,7 @@ php -S 127.0.0.1:8000	iphp
 徑	jkhm
 秔	jkhn
 氏	jkhp
+颈环	jkhr
 𥯙	jkhs
 惊呼	jkhu
 𩳯	jkhu
@@ -34130,8 +34144,10 @@ msbt.seku.su	jmwv
 𣏑	jndb
 教导	jndc
 交代	jndd
+胶带	jndd
 樔	jndd
 𣝞	jndd
+𣝞	jnde
 㭂	jndf
 櫵	jndf
 较低	jndi
@@ -34328,6 +34344,7 @@ msbt.seku.su	jmwv
 鴵	jnlf
 𢄺	jnlf
 𨸋	jnlf
+郊狼	jnlh
 脚力	jnli
 蛟	jnlk
 䘨	jnlk
@@ -34585,6 +34602,7 @@ msbt.seku.su	jmwv
 𨖵	jnyf
 教养	jnyh
 交易	jnyi
+胶衣	jnyi
 校验	jnyj
 詨	jnyk
 䢒	jnyk
@@ -39631,6 +39649,7 @@ msbt.seku.su	jmwv
 亏钱	kvq
 撌	kvqc
 㨒	kvqg
+控制器	kvqi
 刻舟求剑	kvqj
 亏欠	kvqm
 規	kvqu
@@ -40052,7 +40071,7 @@ msbt.seku.su	jmwv
 口腔	kzql
 扣钱	kzqm
 𬸬	kzqm
-扣球	kzqq
+口球	kzqq
 摳	kzqr
 挎	kzqs
 叩	kzr
@@ -42935,8 +42954,9 @@ msbt.seku.su	jmwv
 紷	lkvl
 𤖦	lkvo
 领主	lkvu
-囹	lkw
+连裤袜	lkw
 另外	lkwd
+囹	lkwi
 𦊓	lkwi
 𱰮	lkwi
 𦊓	lkwl
@@ -46591,6 +46611,7 @@ msbt.seku.su	jmwv
 遤	mayf
 𧪨	mayf
 蚂蚁	mayi
+马眼	mayj
 麻油	mayz
 马仔	mazd
 码字	mazi
@@ -191898,6 +191919,7 @@ python	pyth
 訅	qqyn
 𨕦	qqyn
 𨒊	qqyo
+情趣用品	qqyp
 球员	qqyr
 秋雨	qqyu
 芊芊玉手	qqyu
@@ -193718,6 +193740,7 @@ reality	real
 让	rhi
 热火朝天	rhit
 让出	rhiu
+润滑剂	rhj
 热乎劲	rhjb
 𨏛	rhjv
 让开	rhkd
@@ -193757,6 +193780,7 @@ reality	real
 让我	rhwo
 让位	rhww
 让贤	rhxm
+润滑液	rhy
 讓	rhy
 𨟚	rhyl
 瓤	rhyo
@@ -206868,12 +206892,13 @@ http://mhtlim.top/usage/usage.html	uomk
 釗	vccn
 鉊	vccr
 鍣	vccr
-棹	vcd
+贞操带	vcd
 找到	vcdc
 招待	vcdd
 𣠜	vcdf
 櫂	vcdg
 着地	vcdi
+棹	vcdj
 着调	vcdn
 枛	vcdo
 柖	vcdr
@@ -207069,6 +207094,7 @@ http://mhtlim.top/usage/usage.html	uomk
 祭	vdb
 䐱	vdbb
 𧲻	vdbc
+震动棒	vdbh
 债多不愁	vdbi
 𨝋	vdbl
 膪	vdbr
@@ -223231,6 +223257,7 @@ $cmd{**音游的重复练习到底改变了人体的什么？**\r\n  改变了�
 𥥵	yhjq
 𨋽	yhjq
 有话就说	yhju
+阳具	yhju
 养家	yhjx
 痒	yhk
 𤢐	yhkg
@@ -228470,6 +228497,7 @@ $cmd{**音游的重复练习到底改变了人体的什么？**\r\n  改变了�
 𪃍	yuwf
 渔翁	yuwg
 欲望	yuwh
+渔网	yuwh
 𪓊	yuwh
 一事无成	yuwi
 罻	yuwi
@@ -230997,6 +231025,7 @@ $cmd{**音游的重复练习到底改变了人体的什么？**\r\n  改变了�
 𪑿	ziwi
 自我	ziwo
 滋味	ziww
+自慰	ziww
 资讯	zix
 自信	zixb
 再创新高	zixg

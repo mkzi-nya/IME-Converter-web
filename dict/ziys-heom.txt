@@ -6334,6 +6334,7 @@ Caonima～(∠・ω< )⌒☆	caon
 䣋	cdhl
 彩虹	cdhs
 才会	cdhv
+彩绘	cdhv
 才华	cdhx
 采茶	cdia
 裁撤	cdie
@@ -6978,6 +6979,7 @@ Ciallo～(∠・ω< )⌒☆	cial
 此文	ciwf
 瓷碗	ciwj
 刺猬	ciww
+磁吸	cixi
 慈禧	cixi
 雌性	cixk
 慈祥	cixl
@@ -9801,7 +9803,7 @@ deepseek	deep
 䗖	dil
 洞察力	dil
 𬱖	dil
-虳	dila
+滴蜡	dila
 螮	dilb
 𧍝	dilb
 地牢	dilc
@@ -9810,7 +9812,8 @@ deepseek	deep
 低了	dile
 隶	dile
 蝃	dile
-𧉛	dilf
+虳	dilf
+𧉛	dilg
 地理	dili
 底力	dili
 袛	dili
@@ -12449,6 +12452,7 @@ vivo手机断触解决方式https://www.taptap.cn/moment/654325286527043497	driu
 𢷺	duqc
 纛	duqf
 赌气	duqi
+肚脐	duqi
 𱂋	duqi
 赌钱	duqm
 赌球	duqq
@@ -15101,7 +15105,7 @@ vivo手机断触解决方式https://www.taptap.cn/moment/654325286527043497	driu
 放债	fhvd
 放着	fhve
 方针	fhvf
-彷真	fhvf
+仿真	fhvf
 鶭	fhvf
 方正	fhvg
 方丈	fhvh
@@ -17827,6 +17831,7 @@ GDP	gdp
 感恩图报	getb
 䪂	getb
 𩎎	getb
+哥特	gete
 个体	geti
 歌坛	getj
 歌厅	getk
@@ -19820,6 +19825,7 @@ github	gith
 顾头不顾尾	gtbw
 感天动地	gtdd
 共同点	gtdm
+哥特风	gtf
 刮台风	gtfg
 故态复萌	gtfm
 鬼头鬼脑	gtgn
@@ -20742,6 +20748,7 @@ github	gith
 䈑	gxhr
 筈	gxhr
 𠯑	gxhr
+挂画	gxhx
 𥝒	gxhy
 诖	gxig
 挂出	gxiu
@@ -28160,6 +28167,7 @@ https://milcalc.netlify.app/	ifqi
 冲昏头脑	ihtn
 𦰱	ihtr
 畅通	ihts
+长筒	ihts
 成何体统	ihtt
 长途	ihtu
 䩨	ihtv
@@ -29458,6 +29466,7 @@ php -S 127.0.0.1:8000	iphp
 川菜	ircd
 船舱	irch
 𨩴	irch
+穿刺	irci
 釧	ircl
 椽	ird
 传导	ird
@@ -29838,6 +29847,7 @@ php -S 127.0.0.1:8000	iphp
 出头之日	itvr
 传统文化	itwh
 畅通无阻	itwz
+长筒靴	itx
 差太远了	ityl
 串通一气	ityq
 差太远	ityr
@@ -31122,6 +31132,7 @@ php -S 127.0.0.1:8000	iphp
 今不如昔	jbrx
 𫩺	jbry
 尽	jbs
+渐变色	jbs
 𩤿	jbsa
 禁赛	jbsd
 金色	jbse
@@ -33043,6 +33054,7 @@ php -S 127.0.0.1:8000	iphp
 精神	jkuf
 经商	jkuh
 警示	jkui
+颈饰	jkui
 经书	jkuu
 净水	jkuv
 经受	jkuz
@@ -33383,7 +33395,8 @@ php -S 127.0.0.1:8000	iphp
 瞯	jmbb
 简报	jmbc
 䯡	jmbc
-𰱇	jmbd
+𥍀	jmbd
+𰱇	jmbe
 肩膀	jmbh
 賤	jmbi
 减半	jmbj
@@ -33391,6 +33404,7 @@ php -S 127.0.0.1:8000	iphp
 𦢣	jmbk
 简便	jmbm
 睑	jmbm
+渐变	jmbm
 𥍀	jmbm
 瞼	jmbo
 鉴别	jmbp
@@ -34353,6 +34367,7 @@ msbt.seku.su	jmwv
 𧎙	jnll
 𫊸	jnll
 教练	jnlm
+脚链	jnlm
 脚镣	jnln
 角落	jnlo
 交流	jnlq
@@ -36946,6 +36961,7 @@ msbt.seku.su	jmwv
 浹	jxeo
 泇	jxer
 加法	jxfa
+假发	jxfa
 加分	jxff
 夹缝	jxfg
 甲方	jxfh
@@ -37761,6 +37777,7 @@ msbt.seku.su	jmwv
 开刀	kddc
 开灯	kddg
 空荡荡	kddh
+开档	kddh
 开店	kddm
 开端	kddr
 开动	kdds
@@ -41282,6 +41299,7 @@ msbt.seku.su	jmwv
 狼群	lhqy
 啷	lhr
 𠻴	lhrb
+狼人	lhrf
 唥	lhri
 唥	lhrl
 踉	lhrv
@@ -43209,7 +43227,7 @@ msbt.seku.su	jmwv
 啰啰嗦嗦	llss
 两岁	llsv
 駺	llsv
-莨	llt
+洛丽塔	llt
 𬰥	llta
 𬜯	lltb
 䓣	lltb
@@ -43223,6 +43241,7 @@ msbt.seku.su	jmwv
 两条	lltn
 玲珑剔透	lltt
 两腿	lltv
+莨	lltv
 勠力同心	lltx
 两头	lltz
 晾晒	llud
@@ -45941,6 +45960,7 @@ msbt.seku.su	jmwv
 𱕰	lwrq
 𤃻	lwse
 类似	lwsi
+蕾丝	lwsi
 䮑	lwsi
 勒	lwt
 蕾	lwt
@@ -46322,6 +46342,7 @@ msbt.seku.su	jmwv
 瘘	lzk
 𤠋	lzka
 瘺	lzkb
+镂空	lzks
 㺏	lzkv
 瘻	lzkv
 𡰌	lzkv
@@ -46965,6 +46986,7 @@ msbt.seku.su	jmwv
 ₍˄·͈༝·͈˄*₎◞ ̑̑	mcmc
 <$ǿĀ> <$ǿĀ><$ǿĀ><$ǿĀ><$ǿĀ><$ǿĀ><$ǿĀ> <$ǿĀ><$ǿĀ><$ǿĀ><$ǿĀ><$ǿĀ><$ǿĀ><$ǿĀ> <$ǿĀ><$ǿĀ><$ǿĀ><$ǿĀ ><$ǿĀ!><$ǿĀ"><$ǿĀ#> <$ǿĀ$><$ǿĀ%><$ǿĀ&><$ǿĀ'><$ǿĀ(><$ǿĀ)><$ǿĀ*><$ǿĀ><$ǿĀ><$ǿĀ><$ǿĀ><$ǿĀ><$ǿĀ><$ǿĀ> <$ǿĀ><$ǿĀú><$ǿĀ><$ǿĀ><$ǿĀþ><$ǿĀ> <$ǿĀ><$ǿĀ><$ǿĀ><$ǿĀ><$ǿĀ><$ǿĀ> <$ǿĀ><$ǿĀ><$ǿĀ><$ǿĀ><$ǿĀ><$ǿĀ><$ǿĀ> <$ǿĀ><$ǿĀ><$ǿĀ><$ǿĀ ><$ǿĀ!><$ǿĀ"><$ǿĀ#> <$ǿĀ$><$ǿĀ%><$ǿĀ&><$ǿĀ'><$ǿĀ(><$ǿĀ)><$ǿĀ*><$ǿĀ><$ǿĀ><$ǿĀ><$ǿĀ><$ǿĀ><$ǿĀ><$ǿĀ> <$ǿĀ><$ǿĀú><$ǿĀ><$ǿĀ><$ǿĀþ><$ǿĀ> <$ǿĀ><$ǿĀ><$ǿĀ><$ǿĀ><$ǿĀ><$ǿĀ> <$ǿĀ><$ǿĀ><$ǿĀ><$ǿĀ><$ǿĀ><$ǿĀ><$ǿĀ> <$ǿĀ><$ǿĀ><$ǿĀ><$ǿĀ ><$ǿĀ!><$ǿĀ"><$ǿĀ#>  <$ǿĀ$><$ǿĀ%><$ǿĀ&><$ǿĀ'><$ǿĀ(><$ǿĀ)><$ǿĀ*>	mcmc
 茂密	mcmi
+猫咪	mcmi
 冒名	mcmk
 𣨇	mcms
 瑁	mcmu
@@ -47008,6 +47030,7 @@ msbt.seku.su	jmwv
 𢯾	mcqu
 贸然	mcrj
 貌若	mcro
+毛绒	mcrs
 髦	mcs
 髳	mcsh
 貌似	mcsi
@@ -186665,6 +186688,7 @@ $	otm
 颇费周折	pfvv
 平反昭雪	pfvx
 匹夫之勇	pfvy
+喷雾	pfwu
 匹夫无罪	pfwz
 喷香	pfxl
 喷血	pfxt
@@ -194513,6 +194537,7 @@ rime	rime
 如数家珍	rujv
 𡫽	rujv
 儒家	rujx
+乳夹	rujx
 入坑	rukg
 㾒	rukr
 入库	ruku
@@ -200474,6 +200499,7 @@ sh /storage/emulated/0/.ck/mkzi/heom/code/11.sh	tijn
 铁砧	tpvf
 铁证	tpvg
 铁掌	tpvh
+贴纸	tpvi
 铁腕	tpwj
 贴心	tpxb
 贴息	tpxi
@@ -201815,6 +201841,7 @@ sh /storage/emulated/0/.ck/mkzi/heom/code/11.sh	tijn
 偷生	tzug
 头上	tzuh
 透视	tzui
+头饰	tzui
 偷税	tzuv
 投手	tzuz
 投资者	tzv
@@ -201858,6 +201885,7 @@ sh /storage/emulated/0/.ck/mkzi/heom/code/11.sh	tijn
 諭	tzyv
 头晕	tzyy
 头油	tzyz
+骰子	tzzi
 偷嘴	tzzv
 偷走	tzzz
 是	u
@@ -204033,6 +204061,7 @@ sh /storage/emulated/0/.ck/mkzi/heom/code/11.sh	tijn
 恃	uip
 视频	uipb
 食品	uipb
+饰品	uipb
 貰	uipc
 𢺿	uipe
 𢻫	uipe
@@ -204898,6 +204927,7 @@ sh /storage/emulated/0/.ck/mkzi/heom/code/11.sh	tijn
 双腿	ultv
 水来土掩	ulty
 水龙头	ultz
+双头	ultz
 试了试	ulu
 水落石出	ului
 甩了甩	uluk
@@ -205258,6 +205288,7 @@ http://mhtlim.top/usage/usage.html	uomk
 生态环境	uthj
 伤天害理	uthl
 身体健康	utjk
+双头龙	utl
 伤透了	utle
 识途老马	utlm
 视同路人	utlr
@@ -225583,6 +225614,7 @@ $cmd{**音游的重复练习到底改变了人体的什么？**\r\n  改变了�
 𰎠	yjuh
 演示	yjui
 掩饰	yjui
+延时	yjui
 𩈯	yjuj
 眼疾手快	yjuk
 𪩘	yjuk
@@ -227758,6 +227790,7 @@ $cmd{**音游的重复练习到底改变了人体的什么？**\r\n  改变了�
 煜	yuft
 预付	yufu
 迂腐	yufu
+渔夫	yufu
 煨	yufv
 与否	yufz
 域	yug

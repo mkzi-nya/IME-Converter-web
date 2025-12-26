@@ -1007,6 +1007,7 @@ _	;b
 В	b
 把	ba
 八	ba
+叭	ba
 ば	ba
 バ	ba
 巴	baa
@@ -39765,6 +39766,7 @@ msbt.seku.su	jmwv
 可谓是	kwui
 矿物质	kwvi
 口无遮拦	kwvl
+可玩性	kwx
 开玩笑的	kwxd
 开玩笑	kwxn
 卡哇伊	kwy

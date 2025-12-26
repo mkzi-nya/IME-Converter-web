@@ -8,11 +8,9 @@ _	;b
 ·	;g
 =	;h
 -	;i
-+	;j
+~	;j
 (	;k
 )	;l
-」	;m
-「	;n
 [	;o
 ]	;p
 ：“	;q
@@ -11064,8 +11062,9 @@ deepseek	deep
 钓杆	dngj
 吊诡	dngv
 吊挂	dngx
-𥮐	dnha
-𦨣	dnhb
+鼦	dnha
+𥮐	dnhb
+𦨣	dnhc
 多瑙河	dnhe
 鳥	dnhf
 䉆	dnhf
@@ -11076,6 +11075,7 @@ deepseek	deep
 𥲟	dnhm
 𮵮	dnhm
 调换	dnhr
+吊环	dnhr
 稠	dnhr
 鼦	dnhr
 𥮐	dnhr
@@ -189992,6 +189992,7 @@ python	pyth
 紪	qivp
 綺	qivr
 其中	qivs
+期中	qivs
 浅尝辄止	qivv
 緀	qivv
 𰬢	qivv
@@ -190886,6 +190887,7 @@ python	pyth
 堑	qmk
 鬵	qmkb
 𰺉	qmkb
+期末考	qmkc
 椠	qmkd
 千克	qmke
 兛	qmke
@@ -192990,6 +192992,7 @@ python	pyth
 欠债还钱	qvhq
 轻装简从	qvjc
 起重机	qvji
+期中考	qvkc
 屈指可数	qvku
 弃之可惜	qvkx
 清正廉洁	qvlj
@@ -205801,6 +205804,7 @@ http://mhtlim.top/usage/usage.html	uomk
 蒁	uuya
 树荫	uuyb
 树荫下	uuyb
+束腰	uuyc
 䢤	uuyc
 生杀予夺	uuyd
 䢞	uuyd

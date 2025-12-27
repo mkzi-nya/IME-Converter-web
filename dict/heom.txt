@@ -41762,6 +41762,7 @@ IP地址	ipdv
 传统	it
 成本	ib
 承诺	in
+出去	iq
 重启	iq
 重码	im
 茝	idt
@@ -52167,6 +52168,8 @@ wiki	wiki
 买个	mdge
 小正太	xvtd
 正太	vgtd
+酷炫	kuxr
+歪头	wdtz
 㕶	ngrm
 㕶	nnrm
 礼	limu

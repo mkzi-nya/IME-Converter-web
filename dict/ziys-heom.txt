@@ -29425,6 +29425,7 @@ IP地址	ipdv
 php -S 127.0.0.1:8000	iphp
 长篇累牍	ipld
 长篇小说	ipxu
+出去	iq
 重启	iq
 乘其不备	iqbb
 春秋笔法	iqbf
@@ -39514,6 +39515,7 @@ msbt.seku.su	jmwv
 口是心非	kuxf
 酷刑	kuxk
 苦笑	kuxn
+酷炫	kuxr
 苦学	kuxt
 裤腰	kuyc
 困兽犹斗	kuyd
@@ -212346,6 +212348,7 @@ http://mhtlim.top/usage/usage.html	uomk
 𩔀	wdtc
 𩕕	wdtc
 外头	wdtz
+歪头	wdtz
 崴	wdu
 外甥	wdu
 无胆鼠辈	wdub

@@ -8801,6 +8801,7 @@ _	;b
 公仆	gspu
 供求	gsqq
 工期	gsqi
+共情	gsqk
 公顷	gsqk
 工钱	gsqm
 攻取	gsqu
@@ -52170,6 +52171,8 @@ wiki	wiki
 正太	vgtd
 酷炫	kuxr
 歪头	wdtz
+性取向	xqx
+取向	quxl
 㕶	ngrm
 㕶	nnrm
 礼	limu

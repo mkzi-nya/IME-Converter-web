@@ -19718,6 +19718,7 @@ github	gith
 拱	gsq
 𦓳	gsqc
 工期	gsqi
+共情	gsqk
 公顷	gsqk
 工钱	gsqm
 鼓瑟齐鸣	gsqm
@@ -192932,6 +192933,7 @@ python	pyth
 取信	quxb
 屈膝	quxi
 去向	quxl
+取向	quxl
 曲线	quxm
 取消	quxn
 驱邪	quxp
@@ -219157,6 +219159,7 @@ wiki	wiki
 相去无几	xqwj
 星期五	xqwu
 修为	xqww
+性取向	xqx
 相亲相爱	xqxa
 休戚相关	xqxg
 休息	xqxi

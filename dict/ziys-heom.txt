@@ -11628,6 +11628,7 @@ deepseek	deep
 殜	dpmd
 至	dpmg
 𣨂	dpmg
+叠满	dpmj
 𠅗	dpmk
 𥑇	dpmo
 大屏幕	dpmu
@@ -200550,6 +200551,7 @@ sh /storage/emulated/0/.ck/mkzi/heom/code/11.sh	tijn
 铜墙铁壁	tqtb
 谈情说爱	tqua
 同情心	tqxb
+天气预报	tqyb
 听其言	tqyj
 吐气扬眉	tqym
 听其言而观其行	tqyx

@@ -3403,6 +3403,7 @@ _	;b
 半桶	bjts
 半途	bjtu
 不见兔子不撒鹰	bjty
+不就是	bju
 北京市	bju
 岅	bjue
 半身	bjuf

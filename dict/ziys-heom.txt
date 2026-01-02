@@ -3194,6 +3194,7 @@ _	;b
 逼走	bizz
 办	bj
 背景	bj
+不就	bj
 昄	bjae
 办案	bjan
 闆	bjar
@@ -36219,6 +36220,7 @@ msbt.seku.su	jmwv
 家庭作业	jtzy
 据	ju
 即使	ju
+就是	ju
 じゅ	ju
 ジュ	ju
 𧷾	juaa

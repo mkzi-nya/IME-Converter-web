@@ -52183,6 +52183,8 @@ wiki	wiki
 柿子	uiz
 黏黏糊糊	nnhh
 抚平	fupk
+就是	ju
+不就	bj
 㕶	ngrm
 㕶	nnrm
 礼	limu

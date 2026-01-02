@@ -39935,6 +39935,7 @@ IP地址	ipdv
 钓	dno
 呆	ddr
 滴	dieb
+躲	doh
 朵	doh
 挡	dhq
 垫	dmq
@@ -39949,7 +39950,6 @@ IP地址	ipdv
 蝶	dpl
 迭	dpy
 钉	dko
-躲	doh
 颠	dmjo
 蹲	dyr
 抖	dzq
@@ -52175,6 +52175,9 @@ wiki	wiki
 取向	quxl
 天气预报	tqyb
 叠满	dpmj
+可可爱爱	kkaa
+屑屑的	xxd
+没人知道	mrvd
 㕶	ngrm
 㕶	nnrm
 礼	limu

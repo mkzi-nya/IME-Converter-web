@@ -11321,8 +11321,8 @@ deepseek	deep
 躲过	dogo
 夺冠	dogr
 多寡	dogx
-朵	doh
 躲	doh
+朵	doh
 舵	doh
 多哈	doha
 𤛛	dohb
@@ -38706,6 +38706,7 @@ msbt.seku.su	jmwv
 看作	kjzo
 苛捐杂税	kjzu
 快	kk
+可可爱爱	kkaa
 苦苦哀求	kkaq
 脍	kkb
 䯤	kkba
@@ -49427,6 +49428,7 @@ milthm	milt
 面如桃花	mrth
 面如土色	mrts
 貌若天仙	mrtx
+没人知道	mrvd
 漠然置之	mrvv
 茫然无措	mrwc
 没人性	mrxk
@@ -220523,6 +220525,7 @@ wiki	wiki
 鎼	xxcq
 鎋	xxcr
 小小的	xxd
+屑屑的	xxd
 下达	xxda
 吓到	xxdc
 许许多多	xxdd

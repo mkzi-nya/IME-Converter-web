@@ -16270,6 +16270,7 @@ vivo手机断触解决方式https://www.taptap.cn/moment/654325286527043497	driu
 𠣾	fupe
 㤔	fupi
 复盘	fupj
+抚平	fupk
 怫	fupn
 富婆	fupo
 𢗲	fupo
@@ -51633,6 +51634,7 @@ n-buna	nbna
 鳥	nnhf
 𪅝	nnhf
 𪈼	nnhf
+黏黏糊糊	nnhh
 𠒰	nnhs
 尿壶	nnhu
 䙚	nnhv
@@ -203713,6 +203715,7 @@ sh /storage/emulated/0/.ck/mkzi/heom/code/11.sh	tijn
 鉈	uicp
 鉐	uicr
 侍从	uics
+柿	uid
 柿	uidb
 世道	uidc
 时代	uidd
@@ -204335,6 +204338,7 @@ sh /storage/emulated/0/.ck/mkzi/heom/code/11.sh	tijn
 事出有因	uiyy
 室友	uiyz
 石油	uiyz
+柿子	uiz
 ⻝	uiza
 ⻟	uiza
 实在	uizd

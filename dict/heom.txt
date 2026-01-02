@@ -45506,6 +45506,7 @@ IP地址	ipdv
 烁	uof
 仕	uiog
 柿	uidb
+柿	uid
 朔	uot
 薯	uut
 奢	ueka
@@ -52178,6 +52179,9 @@ wiki	wiki
 可可爱爱	kkaa
 屑屑的	xxd
 没人知道	mrvd
+柿子	uiz
+黏黏糊糊	nnhh
+抚平	fupk
 㕶	ngrm
 㕶	nnrm
 礼	limu

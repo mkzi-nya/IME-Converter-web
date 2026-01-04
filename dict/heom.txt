@@ -15702,7 +15702,6 @@ IP地址	ipdv
 开来	kdld
 开了	kdle
 开朗	kdlh
-开立	kdli
 凯迪拉克	kdlk
 开罗	kdlo
 开溜	kdlq
@@ -52185,6 +52184,11 @@ wiki	wiki
 抚平	fupk
 就是	ju
 不就	bj
+补药	buyc
+社恐	ueks
+社牛	uenq
+口袋里	kdli
+拖课	toke
 㕶	ngrm
 㕶	nnrm
 礼	limu

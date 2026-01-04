@@ -5478,6 +5478,7 @@ _	;b
 誧	buyb
 𥪀	buyb
 不要	buyc
+补药	buyc
 你不要这个家了吗，不要孩子了吗。孩子一直哭着说想爸爸，你为什么这么绝情，非要跑出去找别的女人。别的女人真的比家好吗，我们家的孩子还那么小，下次出轨可不可以不要当着我的面。太绝情了。我知道你还留恋这个家，可不可以多回来看看孩子，孩子每天哭我都照顾不过来了，你还有心思打扮出去约女人，果然，结了婚你还是这样爱玩，我以为我的真心能打动你，可是你的心太冰冷了，如同铁块一样，坚不可摧又冰冷刺骨。我相信你会改的对吧，最后一次，下次我们就去民政局离婚吧。	buyc
 鳪	buyf
 不是一个	buyg
@@ -37871,7 +37872,7 @@ msbt.seku.su	jmwv
 开来	kdld
 开了	kdle
 开朗	kdlh
-开立	kdli
+口袋里	kdli
 凯迪拉克	kdlk
 开罗	kdlo
 开溜	kdlq
@@ -200226,6 +200227,7 @@ sh /storage/emulated/0/.ck/mkzi/heom/code/11.sh	tijn
 脱臼	tojq
 𤹢	tokb
 狏	tokd
+拖课	toke
 㾃	tokp
 𤝛	tokp
 𫟤	tokp
@@ -202608,6 +202610,7 @@ sh /storage/emulated/0/.ck/mkzi/heom/code/11.sh	tijn
 奓	uekn
 𪽴	ueko
 猞	uekr
+社恐	ueks
 蛇	uel
 阇	uel
 虵	ueld
@@ -202637,6 +202640,7 @@ sh /storage/emulated/0/.ck/mkzi/heom/code/11.sh	tijn
 𩂨	uemt
 䄕	uemw
 弽	uend
+社牛	uenq
 𱅚	uenr
 舍	ueo
 𠋞	ueod

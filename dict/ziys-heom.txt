@@ -44653,6 +44653,7 @@ msbt.seku.su	jmwv
 刘	lqy
 遛	lqy
 旒	lqy
+六爻	lqyc
 柳腰	lqyc
 斿	lqyd
 柳叶	lqye
@@ -186401,6 +186402,7 @@ $	otm
 𣶐	pcel
 炮	pcf
 泡饭	pcfj
+泡芙	pcfu
 抛光	pcgl
 垉	pcgu
 颮	pcha
@@ -197612,6 +197614,7 @@ rime	rime
 𣥂	talh
 闼	talk
 阘	talm
+塔罗	talo
 𧖆	talq
 𨸉	talr
 䂿	tama
@@ -199577,6 +199580,7 @@ sh /storage/emulated/0/.ck/mkzi/heom/code/11.sh	tijn
 桃李满天下	tlmx
 特立尼达和多巴哥	tlng
 天理难容	tlnr
+塔罗牌	tlp
 同龄人	tlrf
 天理人情	tlrq
 托拉斯	tlsi
@@ -205147,6 +205151,7 @@ http://mhtlim.top/usage/usage.html	uomk
 𠲿	uorl
 哾	uoru
 𠲾	uoru
+说什么	uosm
 朔	uot
 蒴	uot
 槊	uotd
@@ -222326,6 +222331,7 @@ $cmd{**音游的重复练习到底改变了人体的什么？**\r\n  改变了�
 𧠽	ycju
 𨍳	ycju
 要价	ycjx
+爻	yck
 𬌮	ycka
 肴	yckb
 殽	ycke

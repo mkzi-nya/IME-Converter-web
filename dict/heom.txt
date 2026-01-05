@@ -17950,6 +17950,7 @@ IP地址	ipdv
 留下	lqxx
 两情相悦	lqxy
 留言	lqyj
+六爻	lqyc
 柳腰	lqyc
 柳叶	lqye
 留洋	lqyh
@@ -47510,6 +47511,7 @@ IP地址	ipdv
 喑	ybra
 墉	ysg
 昀	yyam
+爻	yck
 爻	yckk
 蜴	yilh
 铟	ybok
@@ -52189,6 +52191,10 @@ wiki	wiki
 社牛	uenq
 口袋里	kdli
 拖课	toke
+说什么	uosm
+泡芙	pcfu
+塔罗	talo
+塔罗牌	tlp
 㕶	ngrm
 㕶	nnrm
 礼	limu

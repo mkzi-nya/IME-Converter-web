@@ -4268,6 +4268,7 @@ _	;b
 等车	dgie
 登场	dgih
 等级	dgji
+登记	dgji
 灯具	dgju
 等价	dgjx
 刀光剑影	dgjy
@@ -32540,6 +32541,7 @@ IP地址	ipdv
 围城	wwig
 未尝	wwih
 维持	wwii
+违禁	wwjb
 围巾	wwjb
 危机	wwji
 文文静静	wwjj
@@ -43381,7 +43383,6 @@ IP地址	ipdv
 萌	mgt
 谜	mii
 闷	mfl
-觅	mib
 缪	mqv
 瞒	mjb
 髦	mcs
@@ -43421,6 +43422,7 @@ IP地址	ipdv
 袤	mcy
 蓦	motm
 眯	mib
+觅	mib
 猕	mik
 馍	mon
 袂	mwl
@@ -46194,7 +46196,7 @@ IP地址	ipdv
 𬃊	vido
 𬸦	voym
 𬘯	vyvd
-这	vwy
+这	vwyk
 转	vrk
 追	vvy
 颤	vjyo
@@ -48242,7 +48244,6 @@ GDP	gdp
 代驾	ddj
 得志	dev
 得以	dey
-登记	dgj
 登陆	dgl
 当众	dhv
 地痞	dip
@@ -49436,7 +49437,7 @@ GDP	gdp
 饥肠辘辘	jill
 纪念	jinm
 鸡肉	jirz
-缉私	jisi
+祭司	jisi
 精诚所至	jisv
 精诚团结	jitj
 既成事实	jiuu
@@ -52195,6 +52196,16 @@ wiki	wiki
 泡芙	pcfu
 塔罗	talo
 塔罗牌	tlp
+天选	tmxr
+天选之子	txvz
+违禁词	wjc
+违禁字	wjz
+大概就	dgj
+这玩意	vwy
+不太	bt
+怎么还有	zmhy
+还有	hy
+不造	buzc
 㕶	ngrm
 㕶	nnrm
 礼	limu

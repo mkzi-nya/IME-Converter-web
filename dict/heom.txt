@@ -29668,7 +29668,7 @@ IP地址	ipdv
 债权	vdqr
 摘取	vdqu
 煮豆燃萁	vdrq
-这倒是	vdui
+这倒是	vdu
 债主	vdvu
 债务	vdwu
 窄小	vdxn
@@ -52206,6 +52206,9 @@ wiki	wiki
 怎么还有	zmhy
 还有	hy
 不造	buzc
+等你	dgni
+这么干	vmgj
+媚药	mwyc
 㕶	ngrm
 㕶	nnrm
 礼	limu

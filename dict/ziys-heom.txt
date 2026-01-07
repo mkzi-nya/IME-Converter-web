@@ -8530,6 +8530,7 @@ cytus	cytu
 大嘴	dazv
 代表	db
 独霸	db
+对叭	db
 打抱不平	dbbp
 断壁残垣	dbcy
 达不到	dbdc
@@ -14071,6 +14072,7 @@ vivo手机断触解决方式https://www.taptap.cn/moment/654325286527043497	driu
 栰	fadi
 罚单	fadj
 法定	fadk
+发癫	fadm
 发电	fadm
 发动	fads
 法度	fadu
@@ -18797,6 +18799,7 @@ github	gith
 𧻺	glgg
 逛逛	glgl
 咕噜咕噜	glgl
+旮旯给木	glgm
 改来改去	glgq
 光顾	glgu
 垙	glgu
@@ -194851,6 +194854,7 @@ rime	rime
 瑞雪兆丰年	rxvn
 乳臭未干	rxwg
 人心向背	rxxb
+人心险恶	rxxe
 日新月异	rxyy
 容易	ry
 りゃ	rya
@@ -202167,6 +202171,7 @@ sh /storage/emulated/0/.ck/mkzi/heom/code/11.sh	tijn
 鲨鱼	uayu
 傻子	uazi
 顺便	ub
+是吧	ub
 誓不罢休	ubbx
 十八般武艺	ubby
 恕不从命	ubcm
@@ -217451,6 +217456,7 @@ wiki	wiki
 澖	xmed
 𰛵	xmed
 限额	xmee
+险恶	xmee
 涎	xmem
 𤁦	xmen
 㳄	xmeo

@@ -6201,6 +6201,7 @@ _	;b
 发到	fadc
 罚单	fadj
 法定	fadk
+发癫	fadm
 发电	fadm
 发动	fads
 法度	fadu
@@ -52209,6 +52210,11 @@ wiki	wiki
 等你	dgni
 这么干	vmgj
 媚药	mwyc
+人心险恶	rxxe
+险恶	xmee
+是吧	ub
+对叭	db
+旮旯给木	glgm
 㕶	ngrm
 㕶	nnrm
 礼	limu

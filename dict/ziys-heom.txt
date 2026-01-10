@@ -49586,6 +49586,7 @@ milthm	milt
 妙手空空	mukk
 獏	mukk
 㾇	muku
+没事了	mul
 睦邻	mulb
 玛莎拉蒂	muld
 蚞	muld
@@ -51620,6 +51621,7 @@ n-buna	nbna
 年少	nmuc
 年审	nmuf
 农贸市场	nmui
+那没事了	nmul
 念书	nmuu
 浓墨重彩	nmvc
 年长	nmvh

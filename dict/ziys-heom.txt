@@ -1443,8 +1443,8 @@ _	;b
 豹	bcb
 𦡕	bcba
 𧵢	bcbb
-宝宝	bcbc
 抱抱	bcbc
+宝宝	bcbc
 脬	bcbd
 𤔣	bcbe
 𦢊	bcbe
@@ -17719,6 +17719,7 @@ GDP	gdp
 疙	gekn
 犵	gekn
 㤎	gekp
+隔空	geks
 獦	gekv
 𬨍	gekv
 𮝺	gekv
@@ -26374,6 +26375,7 @@ github	gith
 緄	hyvp
 𦃕	hyvp
 豪言壮语	hyvy
+还以为	hyw
 𪑕	hywa
 厚颜无耻	hywi
 话音未落	hywl
@@ -41013,6 +41015,7 @@ msbt.seku.su	jmwv
 来生	ldug
 落地生根	ldug
 来世	ldui
+来事	ldui
 来说	lduo
 崍	lduo
 𦆋	ldvc
@@ -49710,6 +49713,7 @@ milthm	milt
 畝	muy
 譕	muyf
 模样	muyh
+目移	muyi
 畆	muyi
 母婴	muyk
 畒	muyo
@@ -50902,6 +50906,7 @@ n-buna	nbna
 𦗳	nhsv
 𨳆	nhsv
 𧅺	nhtv
+那还是	nhu
 𱜀	nhus
 𡿝	nhuv
 囊肿	nhvs
@@ -196222,6 +196227,7 @@ rime	rime
 撒拉族	slzu
 什么	sm
 四面八方	smbf
+什么东东	smdd
 什么东西	smdx
 死马当活马医	smdy
 四面楚歌	smig
@@ -213029,6 +213035,7 @@ http://mhtlim.top/usage/usage.html	uomk
 妄	whyv
 誷	whyv
 𧧄	whyv
+我还以为	whyw
 往右	whyz
 网友	whyz
 ⺲	whzc

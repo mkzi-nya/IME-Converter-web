@@ -601,6 +601,7 @@ _	;b
 殡葬	bbzh
 不必在意	bbzy
 保安	bcan
+抱抱	bcbc
 宝宝	bcbc
 保本	bcbf
 包庇	bcbi
@@ -51871,7 +51872,6 @@ n-buna	nbna
 附点	fudm
 浮点	fudm
 浮点数	fdu
-抱抱	bcbc
 肖邦	xnbh
 李斯特	lste
 贝多芬	bdff
@@ -52231,6 +52231,13 @@ wiki	wiki
 上完	uhwj
 里面的	lmd
 上面的	umd
+隔空	geks
+目移	muyi
+还以为	hyw
+我还以为	whyw
+什么东东	smdd
+来事	ldui
+那还是	nhu
 㕶	ngrm
 㕶	nnrm
 礼	limu

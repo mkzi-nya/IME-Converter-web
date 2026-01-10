@@ -2142,6 +2142,7 @@ _	;b
 本类	bflw
 本轮	bfly
 本门	bfmf
+笨萌	bfmg
 本名	bfmk
 本能	bfng
 本年	bfnm
@@ -4420,6 +4421,7 @@ _	;b
 𧲯	bobk
 肑	bobm
 伯伯	bobo
+薄薄	bobo
 鉑	boca
 菠菜	bocd
 鋍	bocd
@@ -4934,6 +4936,7 @@ _	;b
 别闹	bpnc
 㢼	bpnf
 𩸁	bpnf
+憋尿	bpnn
 别扭	bpnq
 别弄	bpns
 𠍯	bpok
@@ -5329,6 +5332,7 @@ _	;b
 不忙	bumh
 㻉	bumh
 不满	bumj
+布满	bumj
 不胜枚举	bumj
 不明	bumk
 不甚明了	buml
@@ -5616,6 +5620,7 @@ _	;b
 不枉此行	bwcx
 杯	bwd
 把我的	bwd
+被打	bwda
 北大	bwda
 杮	bwdb
 韛	bwdb
@@ -13211,6 +13216,7 @@ vivo手机断触解决方式https://www.taptap.cn/moment/654325286527043497	driu
 𩔡	dzrc
 吺	dzre
 逗人	dzrf
+都让	dzrh
 𠾇	dzri
 陡然	dzrj
 唞	dzrj
@@ -16511,6 +16517,7 @@ vivo手机断触解决方式https://www.taptap.cn/moment/654325286527043497	driu
 䌿	fuvw
 𤱽	fuvx
 𡞪	fuvy
+符咒	fuvz
 福州	fuvz
 抚慰	fuw
 𦿁	fuwa
@@ -16941,8 +16948,8 @@ vivo手机断触解决方式https://www.taptap.cn/moment/654325286527043497	driu
 逢凶化吉	fxhj
 负薪救火	fxjh
 法学家	fxjx
+发现了	fxl
 焚香礼拜	fxlb
-发现了	fxle
 浮想联翩	fxlp
 焚香沐浴	fxmy
 方向盘	fxpj
@@ -16963,7 +16970,7 @@ vivo手机断触解决方式https://www.taptap.cn/moment/654325286527043497	driu
 分一杯羹	fybg
 风云变幻	fybh
 浮云蔽日	fybr
-反义词	fyci
+反义词	fyc
 浮一大白	fydb
 发源地	fydi
 奋勇当先	fydx
@@ -19735,6 +19742,7 @@ github	gith
 拱	gsq
 𦓳	gsqc
 工期	gsqi
+弓起	gsqi
 共情	gsqk
 公顷	gsqk
 工钱	gsqm
@@ -26097,6 +26105,7 @@ github	gith
 互相推诿	hxtw
 横行天下	hxtx
 滑头	hxtz
+好像是	hxu
 华沙	hxua
 崋	hxub
 花哨	hxuc
@@ -29222,6 +29231,7 @@ https://milcalc.netlify.app/	ifqi
 窗口	ilkz
 闯	ill
 幢	ill
+出来了	ill
 㡖	illg
 创立	illi
 窗棂	illk
@@ -32404,6 +32414,7 @@ php -S 127.0.0.1:8000	iphp
 䦇	jiss
 𩥉	jist
 激素	jisu
+急速	jisu
 𠨕	jisu
 几岁	jisv
 精诚所至	jisv
@@ -33173,6 +33184,7 @@ php -S 127.0.0.1:8000	iphp
 金口玉言	jkyy
 净增	jkzg
 镜子	jkzi
+精子	jkzi
 静坐	jkzo
 京族	jkzu
 竞走	jkzz
@@ -36274,7 +36286,7 @@ msbt.seku.su	jmwv
 雎	jubg
 瞿	jubg
 鶪	jubh
-且	jubi
+剧变	jubi
 举办	jubj
 䡞	jubj
 举兵	jubk
@@ -36286,14 +36298,15 @@ msbt.seku.su	jmwv
 巨变	jubm
 见势不妙	jubm
 䴗	jubm
+剧变	jubm
 且	jubm
 𱉐	jubm
 𱉘	jubm
 𠜹	jubn
 𦜛	jubn
-𱉐	jubo
+且	jubo
 愳	jubp
-𱉘	jubq
+𱉐	jubq
 今时不同往日	jubr
 腒	jubr
 䏱	jubr
@@ -36301,7 +36314,7 @@ msbt.seku.su	jmwv
 眗	jubr
 𧹕	jubr
 𥄷	jubs
-𥉁	jubt
+𱉘	jubt
 局部	jubu
 井水不犯河水	jubu
 䀠	jubu
@@ -36311,8 +36324,8 @@ msbt.seku.su	jmwv
 具备	jubw
 兼收并蓄	jubx
 𦛓	jubx
-䝻	juby
-眗	jubz
+𥉁	juby
+䝻	jubz
 䜯	jucd
 𨨠	jucd
 据此	juci
@@ -36646,7 +36659,7 @@ msbt.seku.su	jmwv
 㨿	juqu
 决胜千里之外	juqw
 距	jur
-𧹕	jura
+眗	jura
 踽	jurb
 蹫	jurb
 𧵞	jurc
@@ -36655,12 +36668,12 @@ msbt.seku.su	jmwv
 㖩	jure
 踙	jure
 巨人	jurf
-啹	jurg
+𧹕	jurg
 江山如画	jurh
-䵕	juri
+啹	juri
 居然	jurj
-艍	jurk
-𢩁	jurl
+䵕	jurk
+艍	jurl
 咀	jurm
 跙	jurm
 㘌	jurn
@@ -36669,7 +36682,8 @@ msbt.seku.su	jmwv
 蒟蒻	juro
 足	juro
 躆	juro
-𥷚	jurp
+𢩁	jurp
+𥷚	jurq
 踞	jurr
 跼	jurr
 跔	jurr
@@ -36808,6 +36822,7 @@ msbt.seku.su	jmwv
 据悉	juxi
 举行	juxk
 矩形	juxk
+巨型	juxk
 及时行乐	juxl
 计上心来	juxl
 局限	juxm
@@ -48004,6 +48019,7 @@ msbt.seku.su	jmwv
 𪋢	miiu
 𩞇	miiv
 靡	miiy
+蜜唇	miiy
 密	mij
 蜜	mij
 𧶡	mijc
@@ -48175,6 +48191,7 @@ milthm	milt
 迷雾	miwu
 迷信	mixb
 没出息	mixi
+蜜穴	mixt
 迷	miy
 䖑	miya
 𥹄	miyb
@@ -50542,6 +50559,7 @@ n-buna	nbna
 鐃	nccu
 脑袋	ncdd
 闹得	ncde
+脑洞	ncds
 桡	ncdu
 橈	ncdu
 淖	nce
@@ -50682,6 +50700,7 @@ n-buna	nbna
 榒	nddh
 𪌞	nddi
 女大当嫁	nddj
+脑动大开	nddk
 榒	nddm
 㲡	nddu
 㴎	ndef
@@ -51571,6 +51590,7 @@ n-buna	nbna
 年满	nmmj
 年末	nmmo
 䚓	nmmu
+你们那边	nmnb
 𩽴	nmnk
 年年	nmnm
 鲶	nmnp
@@ -187640,6 +187660,7 @@ phigros	phig
 枰	pkd
 平等	pkdg
 平地	pkdi
+平底	pkdi
 平淡	pkdj
 檘	pkdj
 评定	pkdk
@@ -193280,6 +193301,7 @@ python	pyth
 最终还是败给群友了，不知道谁动了群主的乳头，小学，前列腺，跳蛋，震动棒，按摩器，郊狼，贞操带，口球，绳子，项圈，皮带，锁，胶衣，K9，遥控器，紫色心情，情趣内衣，束缚带，手铐，脚铐，皮鞭，蜡烛，滴蜡套装，情趣面罩，眼罩，耳塞，羽毛棒，冰火棒，电击器，调情棒，硅胶娃娃，充气娃娃，仿真器，润滑液，延时喷剂，催情香水，情趣香薰，按摩油，精油，震动环，情趣骰子，角色扮演服，护士装，女仆装，学生装，空姐装，旗袍，汉服，洛丽塔裙，哥特风裙，皮革紧身衣，乳胶服，连体网袜，渔网袜，吊带袜，长筒靴，漆皮高跟鞋，镂空内裤，丁字裤，开档裤，蕾丝内衣，透视装，情趣睡裙，束腰 corset，塑身衣，情趣手套，皮质手套，蕾丝手套，猫耳头饰，兔尾巴，狐狸尾巴，恶魔角，天使翼，荧光棒，LED项圈，智能遥控器，蓝牙控制器，手机APP控制器，声控装置，温控按摩器，磁吸式充电器，USB充电线，防水套，自慰杯，飞机杯，名器仿真器，G点刺激器，C点按摩棒，A点震动器，双头龙，U型震动棒，三点刺激器，舌舔器，吸吮器，旋转棒，伸缩棒，脉冲电击器，情趣套环，阴蒂夹，乳夹，磁力夹，链条，牵引绳，束缚架，X型架，吊环，秋千，情趣床单，防水床单，丝绸床单，绒面床单，情趣靠枕，充气靠枕，情趣沙发，折叠椅，情趣地垫，瑜伽球，健身环，情趣哑铃，感官剥夺套装，SM套装，初学者套装，进阶套装，专业级套装，女王套装，奴隶套装，调教工具包，皮质马鞭，藤条，木板，拍板，毛刷，挠痒棒，针轮，Wartenberg轮，医用胶带，束缚胶带，PVC胶带，情趣贴纸，身体彩绘笔，荧光彩绘，临时纹身贴，情趣指环，震动指套，情趣手环，智能手环，情趣项链，锁骨链，情趣脚链，脚趾环，情趣腰链，肚脐环，身体穿刺饰品，情趣耳环，夹式耳饰，情趣发夹，蝴蝶结发饰，皮质面具，蕾丝面具，金属面具，羽毛面具，动物面具，狼人面具，猫咪面具，兔子面具，狐狸面具，恶魔面具，天使面具，吸血鬼獠牙，假发，长卷发，短彩发，渐变色假发，荧光假发，情趣指甲贴，亮片指甲，夜光指甲，情趣香水，费洛蒙香水，玫瑰香水，薰衣草香水，海洋香水，果香喷雾，身体乳，闪粉身体乳，情趣沐浴露，泡泡浴液，浴盐，浴球，情趣浴袍，丝绸浴袍，情趣毛巾，情趣拖鞋，水晶拖鞋，情趣披肩，羽毛披肩，蕾丝披肩，情趣围巾，丝绸围巾，情趣扇子，羽毛扇，折扇，情趣雨伞，透明雨伞，情趣阳伞，情趣帽子，贝雷帽，渔夫帽，情趣手提包，链条包，毛绒包，情趣背包，透明背包，情趣钱包，心形钱包，情趣钥匙扣，毛绒钥匙扣，情趣手机壳，闪粉手机壳，情趣耳机，粉色耳机，情趣充电宝，心形充电宝，情趣台灯，粉色台灯，情趣闹钟，心形闹钟，情趣抱枕，心形抱枕，毛绒抱枕，情趣地毯，毛绒地毯，情趣窗帘，蕾丝窗帘，情趣壁纸，粉色壁纸，情趣挂画，心形挂画，情趣摆件，水晶摆件，情趣蜡烛，香薰蜡烛，心形蜡烛。群友，你们赢了。	qyvu
 你们排挤我很正常，毕竟我动了群主的幻龙阳具、根马鞭阳具、肛门松弛剂、男性阳具、谜姬恶魔尾巴肛塞、液态硅胶蚰蛇异形怪兽名器飞机杯男用自慰器、前列腺按摩器后庭肛塞男性用品自慰肛门情趣震动棒后庭、根仿真狼狗阳具喷水女用自慰异形动物阴茎射玩具、超大超粗透明马吊男用假阳具肛塞肛门自慰扩肛器马鞭肛塞、JEUSN硅胶马眼棒男电动尿道扩张器、尿道刺击器男用虐阳插片防水按摩器自动多功能强震成人男人用玩具、定制情侣颈环猫咪项圈男孩子狗链、仿真阳具大吸盘可喷水震动棒、6种仿真阳具男用自慰器超软异形肛塞成人、GALAKU日本飞机杯全智能远程玩具自动手机操控男用情趣用品、假阴茎gay同性恋用品自慰器同志肛门后庭男用菊花阳具肛塞、性感男士纯欲男仆装角色扮演gay加大码胖mm激情诱惑蝴蝶结睡裙、500ml大剂量润滑剂，群主你赢了	qyvu
 $cmd{你是怎么加入此群的？\r\n□ 朋友推荐\r\n□ 从网上获知\r\n□ 群主邀请\r\n□考进来的\r\n✓在路上看到一个白丝小南梁眼角带泪拿着一张群二维码让我扫进去，说什么这是主人的任务一天必须拉够100人不然下面小玩具会一直开最高档，昨天因为没啦够人现在一直最大档动着，后面才知道他原来是群主,你是怎么加入此群的？}	qyvu
+听好了群主 ，你昏庸性无能!群内民不聊生!我等迫不得已,今天揭竿而起，我会指定新的税法，我看看哈： 群主不女装要被扣 群主不变成小南梁要被扣 群主不给群友们超要被扣 群主不给群友咬要被扣 群主不让玩sm play要被扣 群主每天不被三百六十度北朝要被扣 群主小学太松要被扣 群主不戴猫耳猫尾巴要被扣 群主小胖次不可爱要被扣 群主不给群p要被扣 群主不给握小手手要被扣 群主不穿嗨丝白丝肉丝渔网要被扣 群主不穿jk洛丽塔水手服要被扣 群主晚上不和群友一起睡要被扣 群主早上不给陪睡的群友早安亲吻要被扣 群主玩原神要被扣（无端） 群主中午不给群友下厨要被扣 群主中午做饭穿衣不真空要被扣 群主出门不搂着群友要被扣 群主不卖萌要被扣 群主被超时不娇喘要被扣 群主不让中厨要被扣 群主不让足交要被扣 群主打字要艾草 群主发表情包要艾草 群主发语音要艾草 群主潜水的要艾草 群主退群的要艾草 群主死了的要艾草 群主活着的要艾草 群主醒着的要艾草 群主睡觉的要艾草 群主没艾草的要艾草 群主正在艾草的也要艾草 同意以上的艾草要艾草 抗议以上的艾草也要艾草	qyvu
 前一阵子	qyvz
 囷	qyw
 企业文化	qywh
@@ -202879,7 +202901,8 @@ sh /storage/emulated/0/.ck/mkzi/heom/code/11.sh	tijn
 身后	ufhz
 神	ufi
 审查	ufia
-𰄁	ufib
+𢈇	ufib
+𰄁	ufic
 𠘆	ufid
 𢊖	ufid
 𢊲	ufid
@@ -202897,6 +202920,7 @@ sh /storage/emulated/0/.ck/mkzi/heom/code/11.sh	tijn
 谂	ufip
 身穿	ufir
 伸出	ufiu
+渗出	ufiu
 诜	ufiu
 𢈇	ufiu
 谌	ufiv
@@ -203034,6 +203058,7 @@ sh /storage/emulated/0/.ck/mkzi/heom/code/11.sh	tijn
 吲	ufrl
 㕥	ufro
 深入	ufru
+渗入	ufru
 世风日下	ufrx
 腎	ufsb
 頣	ufsc
@@ -206486,6 +206511,7 @@ http://mhtlim.top/usage/usage.html	uomk
 𥨝	uzje
 手机	uzji
 受惊	uzjk
+受精	uzjk
 收件	uzjm
 手脚	uzjn
 手交	uzjn
@@ -213543,6 +213569,7 @@ wiki	wiki
 文明社会	wmuh
 无名氏	wmui
 无名指	wmv
+我们这边	wmvb
 无名之辈	wmvb
 无米之炊	wmvi
 望梅止渴	wmvk
@@ -214026,6 +214053,7 @@ wiki	wiki
 𢄓	wulf
 物理	wuli
 无理	wuli
+无力	wuli
 物量	wull
 无量	wull
 𰏓	wulm
@@ -214267,6 +214295,7 @@ wiki	wiki
 误伤	wuuh
 岉	wuuh
 无视	wuui
+巫师	wuui
 误删	wuuj
 𡷤	wuuk
 无双	wuul
@@ -215749,6 +215778,7 @@ wiki	wiki
 鲜花插在牛粪上	xhiu
 新欢旧好	xhjh
 悬壶济世	xhju
+喜欢你	xhn
 心花怒放	xhnf
 心怀叵测	xhpc
 虚怀若谷	xhrg
@@ -217207,6 +217237,7 @@ wiki	wiki
 星罗棋布	xlqb
 想起	xlqi
 香气	xlqi
+响起	xlqi
 详情	xlqk
 向前	xlqm
 镶嵌	xlqm
@@ -218650,6 +218681,7 @@ wiki	wiki
 颉	xpgo
 垥	xpgr
 㐖	xpgu
+鞋柜	xpgv
 写给	xpgw
 血	xph
 𦪬	xpha
@@ -225774,6 +225806,7 @@ $cmd{**音游的重复练习到底改变了人体的什么？**\r\n  改变了�
 娮	yjvr
 𤖝	yjvr
 严重	yjvs
+眼中	yjvs
 一己之私	yjvs
 妍	yjvt
 眼珠	yjvu
@@ -228729,6 +228762,7 @@ $cmd{**音游的重复练习到底改变了人体的什么？**\r\n  改变了�
 𠧇	yuyt
 一生一世	yuyu
 阴盛阳衰	yuyu
+鱼鱼	yuyu
 有始有终	yuyv
 逾	yuyv
 䘱	yuyv
@@ -231301,6 +231335,7 @@ $cmd{**音游的重复练习到底改变了人体的什么？**\r\n  改变了�
 暂扣	zjkz
 总经理	zjl
 襸	zjlc
+攒了	zjle
 暂离	zjli
 𬡷	zjlo
 暂列	zjlp

@@ -43375,6 +43375,7 @@ msbt.seku.su	jmwv
 𤬓	lmco
 錬	lmcw
 楝	lmd
+里面的	lmd
 连打	lmda
 櫣	lmdb
 镰刀	lmdc
@@ -203647,6 +203648,7 @@ sh /storage/emulated/0/.ck/mkzi/heom/code/11.sh	tijn
 伤亡	uhwh
 䵰	uhwh
 𤳈	uhwh
+上完	uhwj
 水火无情	uhwq
 山呼万岁	uhws
 上午	uhwu
@@ -205039,6 +205041,7 @@ sh /storage/emulated/0/.ck/mkzi/heom/code/11.sh	tijn
 上面	um
 生命不息	umbx
 鼠目寸光	umcg
+上面的	umd
 声名大振	umdv
 善莫大焉	umdy
 神秘感	umgj
@@ -223210,8 +223213,8 @@ $cmd{**音游的重复练习到底改变了人体的什么？**\r\n  改变了�
 一个头两个大	ygtd
 雨过天晴	ygtq
 异国他乡	ygtx
+应该是	ygu
 眼高手低	ygud
-应该是	ygui
 一个世纪	yguj
 应该说	yguo
 一个手指头	ygut

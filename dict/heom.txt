@@ -35622,7 +35622,7 @@ IP地址	ipdv
 一个头两个大	ygtd
 雨过天晴	ygtq
 异国他乡	ygtx
-应该是	ygui
+应该是	ygu
 应该说	yguo
 应该说是	yguu
 眼高手低	ygud
@@ -52228,6 +52228,9 @@ wiki	wiki
 褒义	bcyi
 贬义	bmyi
 遗书	yiuu
+上完	uhwj
+里面的	lmd
+上面的	umd
 㕶	ngrm
 㕶	nnrm
 礼	limu

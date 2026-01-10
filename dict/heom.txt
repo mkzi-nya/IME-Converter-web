@@ -9463,7 +9463,7 @@ _	;b
 还本付息	hbfx
 还不够	hbgz
 互不干扰	hbgr
-会不会	hbhv
+会不会	hbh
 好不好	hbhc
 会不会是	hbhu
 毫不讳言	hbhy
@@ -39490,6 +39490,7 @@ IP地址	ipdv
 褊	bml
 菝	bate
 菝	batk
+巴赫	bahe
 魃	bahe
 魃	bahk
 癍	bjkg
@@ -52075,7 +52076,6 @@ wiki	wiki
 空明	ksmk
 交响	jnxl
 交响曲	jxq
-巴赫	bahe
 协奏	xpzz
 酱酱酿酿	jjnn
 酿酿酱酱	nnjj
@@ -52215,6 +52215,19 @@ wiki	wiki
 是吧	ub
 对叭	db
 旮旯给木	glgm
+那挺	natk
+神人	ufrf
+棍母	gymu
+不好玩	bhw
+尽兴	jbxk
+午安	wuan
+午安安	waa
+晚安安	waa
+但丁	djdk
+互通	huts
+褒义	bcyi
+贬义	bmyi
+遗书	yiuu
 㕶	ngrm
 㕶	nnrm
 礼	limu

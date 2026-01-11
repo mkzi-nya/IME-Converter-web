@@ -43598,6 +43598,7 @@ msbt.seku.su	jmwv
 廉颇	lmpo
 憐	lmpq
 脸谱	lmpu
+练琴	lmqb
 摙	lmqj
 𦔖	lmqj
 恋情	lmqk
@@ -201616,6 +201617,7 @@ sh /storage/emulated/0/.ck/mkzi/heom/code/11.sh	tijn
 天旋地转	txdv
 天下第一	txdy
 谈笑风生	txfu
+通项公式	txgu
 退休金	txjb
 啼笑皆非	txjf
 痛心疾首	txju
@@ -205223,6 +205225,7 @@ http://mhtlim.top/usage/usage.html	uomk
 芍	uoti
 芍	uotm
 愬	uotp
+说是	uou
 说啥	uoua
 说声	uoug
 硕士	uoui
@@ -212728,6 +212731,7 @@ http://mhtlim.top/usage/usage.html	uomk
 文物	wfwu
 温馨	wfxb
 温习	wfxi
+无缝衔接	wfxj
 枉费心机	wfxj
 蚊香	wfxl
 文献	wfxm
@@ -228492,6 +228496,7 @@ $cmd{**音游的重复练习到底改变了人体的什么？**\r\n  改变了�
 羽绒	yurs
 喅	yurt
 𠽵	yurt
+又双叒叕	yurv
 踰	yurv
 喩	yurv
 唹	yury

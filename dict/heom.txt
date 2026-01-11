@@ -2697,7 +2697,7 @@ _	;b
 不依不饶	bybr
 暴饮暴食	bybu
 褒义词	byci
-不一定	bydk
+不一定	byd
 比亚迪	bydi
 不要当真	bydv
 别有洞天	bydt
@@ -10621,7 +10621,7 @@ _	;b
 寒气逼人	hqbr
 何其多	hqdo
 何其毒也	hqdy
-很奇怪	hqgk
+很奇怪	hqg
 皇亲国戚	hqgq
 合情合理	hqhl
 好奇害死猫	hqhm
@@ -52282,6 +52282,9 @@ wiki	wiki
 又双叒叕	yurv
 练琴	lmqb
 说是	uou
+区别对待	qbdd
+真的是	vdu
+什么是	smu
 㕶	ngrm
 㕶	nnrm
 礼	limu

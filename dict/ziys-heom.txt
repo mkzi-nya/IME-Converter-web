@@ -5975,9 +5975,9 @@ _	;b
 百依百顺	bybu
 贬义词	byc
 褒义词	byci
+不一定	byd
 必要的话	bydh
 比亚迪	bydi
-不一定	bydk
 别有洞天	bydt
 不用多说	bydu
 不要当真	bydv
@@ -23934,7 +23934,7 @@ github	gith
 寒气逼人	hqbr
 何其多	hqdo
 何其毒也	hqdy
-很奇怪	hqgk
+很奇怪	hqg
 皇亲国戚	hqgq
 何去何从	hqhc
 合情合理	hqhl
@@ -188923,6 +188923,7 @@ python	pyth
 鉆	qbcr
 𧯃	qbcr
 檎	qbd
+区别对待	qbdd
 梫	qbde
 钦定	qbdk
 气不打一处来	qbdl
@@ -196265,6 +196266,7 @@ rime	rime
 驷马难追	smnv
 素昧平生	smpu
 什么情况	smqk
+什么是	smu
 什么时候	smuh
 三明治	smvi
 司马昭之心	smvx
@@ -207342,6 +207344,7 @@ http://mhtlim.top/usage/usage.html	uomk
 䔝	vdtf
 这道题	vdti
 这倒是	vdu
+真的是	vdu
 债主	vdvu
 𪑽	vdwd
 债务	vdwu

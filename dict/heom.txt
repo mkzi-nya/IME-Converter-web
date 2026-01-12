@@ -39864,7 +39864,6 @@ IP地址	ipdv
 低	dio
 担	djq
 店	dmi
-吨	dyr
 待	ddh
 底	dii
 独	duk
@@ -39964,6 +39963,7 @@ IP地址	ipdv
 钉	dko
 颠	dmjo
 蹲	dyr
+吨	dyr
 抖	dzq
 锭	dkoo
 氮	djo
@@ -45003,7 +45003,6 @@ IP地址	ipdv
 厅	tkm
 脱	tob
 童	tsy
-堂	thf
 途	tuy
 坦	tjg
 拓	taq
@@ -45022,6 +45021,7 @@ IP地址	ipdv
 腾	tgb
 炭	tju
 糖	thf
+堂	thf
 坛	tjgi
 徒	tuh
 涛	tce
@@ -52285,6 +52285,13 @@ wiki	wiki
 区别对待	qbdd
 真的是	vdu
 什么是	smu
+不然呢	brn
+是什么意思	usms
+又是什么	yusm
+穿了	irle
+低血糖	dxt
+体育课	tyk
+这么做	vmzo
 㕶	ngrm
 㕶	nnrm
 礼	limu

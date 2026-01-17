@@ -2399,6 +2399,7 @@ _	;b
 闭关自守	bgzu
 八竿子打不着	bgzv
 帮	bh
+不会	bh
 膀	bhb
 不会吧	bhba
 帮帮	bhbh
@@ -3189,6 +3190,7 @@ _	;b
 必用	biys
 比喻	biyu
 避孕	biyy
+编程语言	biyy
 必有	biyz
 鼻子	bizi
 比作	bizo
@@ -3683,6 +3685,7 @@ _	;b
 不堪入目	bkrm
 𨆱	bkrn
 𬦴	bkrn
+病弱	bkro
 病容	bkrs
 并入	bkru
 不可饶恕	bkru
@@ -3808,6 +3811,7 @@ _	;b
 半路出家	blij
 兵临城下	blix
 碧螺春	bliy
+不理解	blj
 兵来将挡	bljd
 濒临绝境	bljj
 不良记录	bljl
@@ -3954,9 +3958,9 @@ _	;b
 㲢	bmhu
 变回	bmhv
 变化	bmhx
-扁	bmi
 编程	bmi
 变差	bmia
+扁	bmib
 𣝜	bmib
 䪻	bmic
 便车	bmie
@@ -5614,6 +5618,7 @@ _	;b
 不闻不问	bwbw
 鋇	bwcc
 嗯。。。一开始挺疼的然后就是感觉肚子胀胀的很疼嗯，第二天醒来就是那种喉咙痛，身底下痛，就是那种肌肉萎缩了，然后呢，不想动的那种剧痛然后还有就是那种肚子里特别胀的感觉，像是被卡车碾了似的，但是呢，你又还活着，还能动缓了几天，要是有人揉的话，那应该一天或者半天应该就能好但是走路的话，腿会有点不适应然后，药是无味的不是固体是粉末偶尔会有些液体吃了之后首先是头晕其次是脸红到后来就没意识了有一种灼烧感  然后有点痛  加快的话就有点麻  就感觉有东西在撞你肚子一样，并且能感觉到肚子里有东西在往外顶，然后第2天肚子会胀胀的，酸酸的，很不想动，到后期还会瞳孔失交，看东西都有重影是正常的[憨笑]	bwcc
+背刺	bwci
 悲惨	bwcj
 䥯	bwcp
 鉳	bwcp
@@ -18921,6 +18926,7 @@ github	gith
 广义	glyi
 光影	glyk
 光源	glyr
+鼓浪屿	glyu
 光晕	glyy
 光泽	glze
 光子	glzi
@@ -31236,6 +31242,7 @@ php -S 127.0.0.1:8000	iphp
 𦈟	jbvf
 紧张	jbvh
 禁止	jbvi
+进制	jbvi
 进展	jbvj
 䌍	jbvm
 嫤	jbvm
@@ -35547,6 +35554,7 @@ msbt.seku.su	jmwv
 酒仙	jqxm
 九霄	jqxn
 就绪	jqxu
+腱鞘炎	jqy
 𨖏	jqya
 就要	jqyc
 就业	jqye
@@ -39447,7 +39455,7 @@ msbt.seku.su	jmwv
 𣗺	kuir
 瞌睡虫	kuis
 苦楚	kuiu
-窟	kuj
+看手机	kuj
 跨世纪	kuj
 𪌓	kuje
 枯寂	kuji
@@ -39456,6 +39464,7 @@ msbt.seku.su	jmwv
 枯竭	kujp
 苦酒	kujq
 𥧋	kujt
+窟	kuju
 窋	kuju
 𥈷	kuju
 刳	kuk
@@ -50520,7 +50529,7 @@ milthm	milt
 牛不喝水强按头	nbht
 难不成	nbig
 拿不出手	nbiu
-那不就	nbjq
+那不就	nbj
 那不就是	nbju
 怒不可遏	nbke
 鸟不拉屎	nblu
@@ -51320,6 +51329,7 @@ n-buna	nbna
 𦶈	njtm
 戁	njtp
 莮	njts
+那就是	nju
 男生	njug
 男士	njui
 南山	njuj
@@ -196577,6 +196587,7 @@ rime	rime
 算啥	srua
 算是	srui
 算式	srui
+酸爽	srul
 算数	sruu
 算账	srvh
 酸味	srww
@@ -204748,6 +204759,8 @@ sh /storage/emulated/0/.ck/mkzi/heom/code/11.sh	tijn
 𩦐	ujsr
 十几岁	ujsv
 善	ujt
+𦏂	ujta
+身娇体弱易推倒	ujtd
 芟	ujte
 㪨	ujte
 𦺭	ujte
@@ -204762,6 +204775,7 @@ sh /storage/emulated/0/.ck/mkzi/heom/code/11.sh	tijn
 删帖	ujtp
 羴	ujtq
 苫	ujtr
+身娇体弱	ujtr
 譱	ujtr
 𦏂	ujtr
 𦎞	ujtu
@@ -209254,6 +209268,7 @@ http://mhtlim.top/usage/usage.html	uomk
 扻	viqo
 扺	viqp
 𰑔	viqp
+直球	viqq
 只求	viqq
 挚	viqq
 𫐋	viqq
@@ -212927,6 +212942,7 @@ http://mhtlim.top/usage/usage.html	uomk
 往返	whfj
 王府	whfu
 王妃	whfw
+枉费	whfw
 网格	whge
 忘光	whgl
 王国	whgo
@@ -212974,6 +212990,7 @@ http://mhtlim.top/usage/usage.html	uomk
 无话可说	whku
 尢	whku
 辋	whkv
+玩坏了	whl
 往来	whld
 忘了	whle
 𢁶	whle
@@ -213242,6 +213259,7 @@ wiki	wiki
 𪂧	wjhh
 笂	wjhi
 𢓃	wjhi
+玩坏	wjhk
 笂	wjhk
 𢓃	wjhk
 𠝪	wjhn
@@ -214386,10 +214404,11 @@ wiki	wiki
 温室效应	wuxy
 迕	wuy
 乌鸦	wuya
-齬	wuyb
+逜	wuyb
 勿要	wuyc
 誤	wuyc
 䫓	wuyc
+齬	wuyd
 物业	wuye
 䖚	wuyf
 譕	wuyf
@@ -214411,6 +214430,7 @@ wiki	wiki
 𧆹	wuyp
 无缘	wuyr
 勿施于人	wuyr
+五缘	wuyr
 逜	wuyr
 齬	wuyr
 无用	wuys
@@ -222274,6 +222294,7 @@ $cmd{**音游的重复练习到底改变了人体的什么？**\r\n  改变了�
 𠕻	ycbu
 𥃺	ycbu
 䁏	ycbv
+要被	ycbw
 舀	ycbx
 鑰	yccb
 药草	yccc
@@ -230025,6 +230046,7 @@ $cmd{**音游的重复练习到底改变了人体的什么？**\r\n  改变了�
 匝道	zadc
 紮	zadf
 咋地	zadi
+砸断	zadr
 沞	zaeb
 濽	zaec
 𣸐	zaee
@@ -231496,6 +231518,7 @@ $cmd{**音游的重复练习到底改变了人体的什么？**\r\n  改变了�
 怎么说	zmuo
 走马上任	zmur
 贼眉鼠眼	zmuy
+怎么知道	zmvd
 怎么着	zmve
 怎么这么	zmvm
 怎么这样	zmvy

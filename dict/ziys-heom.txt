@@ -623,6 +623,7 @@ _	;b
 𠰑	anrj
 啽	anrt
 按揉	anrz
+暗色	anse
 䮗	ansj
 𨲊	ansj
 𩭢	ansj
@@ -206266,6 +206267,7 @@ http://mhtlim.top/usage/usage.html	uomk
 耍横	uxhg
 𤔙	uxho
 说瞎话	uxhx
+水仙花	uxhx
 𰵯	uxie
 甚嚣尘上	uxiu
 𱝃	uxiw
@@ -208590,6 +208592,7 @@ http://mhtlim.top/usage/usage.html	uomk
 𬺁	viav
 脂	vib
 炙	vib
+制霸	viba
 膱	viba
 䐭	vibb
 𢅁	vibb
@@ -213125,6 +213128,7 @@ wiki	wiki
 无处可去	wikq
 无重码	wima
 望尘莫及	wimj
+windows	wind
 未成年	winm
 未成年人	winr
 望穿秋水	wiqu
@@ -218432,6 +218436,7 @@ wiki	wiki
 枭	xnp
 小品	xnpb
 𢛘	xnpb
+小胖	xnph
 恔	xnpk
 㤊	xnpk
 小片	xnpm
